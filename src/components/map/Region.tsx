@@ -3,17 +3,15 @@ import {
   handleMouseOut,
   handleMouseMove,
 } from "../../helpers/handleTooltip";
-import "./Region.css";
 import styled from "styled-components";
 
 const RegionContainer = styled.path`
-  fill: rgb(132, 0, 255);
+  fill: ${(props) => props.theme.colors.secondary};
   stroke: cornsilk;
   stroke-width: 1px;
   &:hover {
     cursor: pointer;
-    fill: rgb(255, 145, 0);
-    fill-opacity: 0.5;
+    fill: ${(props) => props.theme.colors.primary};
   }
 `;
 
