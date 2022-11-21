@@ -3,11 +3,14 @@ import {
   handleMouseOut,
   handleMouseMove,
 } from "../../helpers/handleTooltip";
-import "./Countries.css";
+import "./Region.css";
 
-export default function Countries(props) {
-  const { path, tooltipData } = props;
+interface Props {
+  path: string;
+  tooltipData: string;
+}
 
+export default function Region({ path, tooltipData }: Props) {
   //each path defines the shape of a region in the map
   return (
     <path

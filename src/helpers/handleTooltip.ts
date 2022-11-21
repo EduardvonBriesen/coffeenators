@@ -1,7 +1,7 @@
 import * as d3 from "d3";
 
 // show tooltip when hovering over a region
-export const handleMouseOver = function (tooltipData) {
+export const handleMouseOver = function (tooltipData: string) {
   d3.select("#tooltip")
     .style("opacity", 1)
     .style("background-color", "burlywood")
@@ -14,7 +14,9 @@ export const handleMouseOut = function () {
 };
 
 // get mouse location so tooltip tracks cursor
-export const handleMouseMove = function (event) {
+export const handleMouseMove = function (
+  event: React.MouseEvent<SVGPathElement, MouseEvent>
+) {
   d3.select("#tooltip")
     .style("left", event.pageX + 10 + "px")
     .style("top", event.pageY + 10 + "px");
