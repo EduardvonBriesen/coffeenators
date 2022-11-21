@@ -6,7 +6,7 @@ export const setMapProjection = function(mapData) {
   // adjust projection to fit area of map canvas
   projection
     .precision(0)
-    .rotate([90, 0, 0])
+    .rotate([-10, 0, 0])
     .fitExtent(
       [
         [0, 0],

@@ -2,10 +2,10 @@ import {
   handleMouseOver,
   handleMouseOut,
   handleMouseMove,
-} from "../helpers/handleTooltip";
-import "./HealthRegion.css";
+} from "../../helpers/handleTooltip";
+import "./Countries.css";
 
-export default function HealthRegion(props) {
+export default function Countries(props) {
   const { path, tooltipData } = props;
 
   //each path defines the shape of a region in the map
