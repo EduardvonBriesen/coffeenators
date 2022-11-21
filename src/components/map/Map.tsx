@@ -2,7 +2,12 @@ import * as d3 from "d3";
 import { setMapProjection } from "../../helpers/setMapProjection";
 import { useMapTools } from "../../hooks/useMapTools";
 import Region from "./Region";
-import "./Map.css";
+import styled from "styled-components";
+
+const MapContainer = styled.svg`
+  height: 50rem;
+  width: 50rem;
+`;
 
 export default function Map() {
   // step 1: load geoJSON and create tooltip
@@ -27,9 +32,9 @@ export default function Map() {
 
     return (
       <>
-        <svg className="map-canvas">
-          <g className="map">{countries}</g>
-        </svg>
+        <MapContainer>
+          <g>{countries}</g>
+        </MapContainer>
       </>
     );
   } else {
