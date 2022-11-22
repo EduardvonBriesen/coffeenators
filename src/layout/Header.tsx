@@ -12,12 +12,6 @@ const HeaderContainer = styled.nav`
   width: 100%;
   padding: 2rem 0 2rem 0;
   background-color: ${(props) => props.theme.colors.background};
-
-  font-family: "Work Sans";
-  font-style: normal;
-  font-weight: 500;
-  font-size: 36px;
-  line-height: 42px;
 `;
 
 const Logo = styled.div`
