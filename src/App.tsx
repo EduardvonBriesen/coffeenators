@@ -1,22 +1,19 @@
 import styled from "styled-components";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Map from "./components/map/Map";
-
-const AppContainer = styled.div`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
-  width: 100vw;
-  background-color: ${(props) => props.theme.colors.background};
-`;
+import Home from "./pages/Home";
+import Layout from "./layout/Layout";
 
 function App() {
   return (
-    <AppContainer>
-      <h1>Map</h1>
-      <Map />
-    </AppContainer>
+      <BrowserRouter>
+        <Layout>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/map" element={<Map />} />
+          </Routes>
+        </Layout>
+      </BrowserRouter>
   );
 }
 
