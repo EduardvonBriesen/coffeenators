@@ -1,8 +1,9 @@
 import styled from "styled-components";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Map from "./components/map/Map";
 import Home from "./pages/Home";
 import Layout from "./layout/Layout";
+import About from "./pages/About";
+import MapPage from "./pages/MapPage";
 
 const AppContainer = styled.div`
   font-family: "Work Sans";
@@ -19,7 +20,8 @@ function App() {
         <Layout>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/map" element={<Map />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/map" element={<MapPage />} />
           </Routes>
         </Layout>
       </AppContainer>

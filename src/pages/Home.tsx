@@ -1,5 +1,15 @@
-import React from "react";
 import styled from "styled-components";
+
+const HomeContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  background-color: ${(props) => props.theme.colors.background.main};
+  width: 100vw;
+  height: 100vh;
+  padding: 10% ;
+  box-sizing: border-box;
+`;
 
 const Headline = styled.h1`
   font-weight: 800;
@@ -21,7 +31,7 @@ const SubHeadline = styled.h2`
 
 function Home() {
   return (
-    <>
+    <HomeContainer>
       <Headline>
         Visualizing <Accent>Coffee Data</Accent>
       </Headline>
@@ -29,7 +39,7 @@ function Home() {
         Mauris massa mollis volutpat ornare platea commodo blandit. Euismod
         interdum pretium neque tellus bibendum amet.
       </SubHeadline>
-    </>
+    </HomeContainer>
   );
 }
 
