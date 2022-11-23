@@ -25,13 +25,13 @@ export default function Region({ path, tooltipData }: Props) {
   return (
     <RegionContainer
       d={path}
-      onMouseOver={() => {
-        handleMouseOver(tooltipData);
-      }}
-      onMouseOut={handleMouseOut}
-      onMouseMove={(event) => {
-        handleMouseMove(event);
-      }}
+      // onMouseOver={() => {
+      //   handleMouseOver(tooltipData);
+      // }}
+      // onMouseOut={handleMouseOut}
+      // onMouseMove={(event) => {
+      //   handleMouseMove(event);
+      // }}
     />
   );
 }

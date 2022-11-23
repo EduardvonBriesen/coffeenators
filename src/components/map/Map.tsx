@@ -20,7 +20,8 @@ export default function Map() {
     const path = d3.geoPath().projection(setMapProjection(mapData.data));
     // for each geoJSON coordinate, compute and pass in the equivalent svg path
     const countries = mapData.data.features.map((data: any) => {
-      const region_name = data.properties["NAME_ENG"];
+      console.log(data);
+      const region_name = data.properties["NAME"];
       return (
         <Region
           key={data.properties.FID}
@@ -31,11 +32,9 @@ export default function Map() {
     });
 
     return (
-      <>
-        <MapContainer>
-          <g>{countries}</g>
-        </MapContainer>
-      </>
+      <MapContainer>
+        <g>{countries}</g>
+      </MapContainer>
     );
   } else {
     return <h1>Loading...</h1>;

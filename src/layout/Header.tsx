@@ -42,6 +42,7 @@ function Header() {
       </Logo>
       <div>
         <StyledLink to="/">Home</StyledLink>
+        <StyledLink to="/team">Team</StyledLink>
         <StyledLink to="/about">About</StyledLink>
         <StyledLink to="/map">Map</StyledLink>
       </div>
