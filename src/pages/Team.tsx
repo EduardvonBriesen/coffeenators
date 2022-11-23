@@ -43,7 +43,7 @@ function Team() {
         <TeamMember
           name="Yousri"
           text="Faucibus etiam rhoncus velit lectus. Urna tellus viverra metus est. Amet varius auctor libero purus."
-          image={"../assets/team1.png"}
+          image={"../assets/team2.png"}
         />
         <TeamMember
           name="Peiwen"
@@ -53,12 +53,12 @@ function Team() {
         <TeamMember
           name="Ronny"
           text="Faucibus etiam rhoncus velit lectus. Urna tellus viverra metus est. Amet varius auctor libero purus."
-          image={"../assets/team1.png"}
+          image={"../assets/team2.png"}
         />
         <TeamMember
           name="Eduard"
           text="Faucibus etiam rhoncus velit lectus. Urna tellus viverra metus est. Amet varius auctor libero purus."
-          image={"../assets/team1.png"}
+          image={"../assets/team2.png"}
         />
       </TeamMemberContainer>
     </TeamContainer>

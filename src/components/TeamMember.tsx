@@ -16,6 +16,7 @@ const TeamMemberContainer = styled.div`
 `;
 
 const Image = styled.img`
+  width: 90%;
   border-radius: 50%;
   background-color: ${(props) => props.theme.colors.background.main};
 `;
