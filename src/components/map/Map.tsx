@@ -5,6 +5,7 @@ import Region from "./Region";
 import styled from "styled-components";
 
 const MapContainer = styled.svg`
+  id: map;
   height: 50rem;
   width: 50rem;
 `;
@@ -32,7 +33,7 @@ export default function Map() {
     });
 
     return (
-      <MapContainer>
+      <MapContainer id="map">
         <g>{countries}</g>
       </MapContainer>
     );

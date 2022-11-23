@@ -29,7 +29,7 @@ const Text = styled.p`
 
 function About() {
   return (
-    <AboutContainer>
+    <AboutContainer id="about">
       <Headline>The Project </Headline>
       <Text>
         Orci semper nec ut neque donec urna. Iaculis facilisis purus ut

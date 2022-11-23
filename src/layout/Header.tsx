@@ -1,9 +1,10 @@
-import { NavLink } from "react-router-dom";
+import { Link } from "react-scroll";
 import styled from "styled-components";
 import CupIcon from "../assets/CupIcon";
 
 const HeaderContainer = styled.nav`
-  position: absolute;
+  position: fixed;
+  z-index: 1;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -24,7 +25,7 @@ const Icon = styled(CupIcon)`
   margin-right: 20px;
 `;
 
-const StyledLink = styled(NavLink)`
+const StyledLink = styled(Link)`
   margin: 0 10px;
   color: ${(props) => props.theme.colors.dark};
   text-decoration: none;
@@ -41,10 +42,18 @@ function Header() {
         Caffeinators
       </Logo>
       <div>
-        <StyledLink to="/">Home</StyledLink>
-        <StyledLink to="/team">Team</StyledLink>
-        <StyledLink to="/about">About</StyledLink>
-        <StyledLink to="/map">Map</StyledLink>
+        <StyledLink to="home" spy={true} smooth={true}>
+          Home
+        </StyledLink>
+        <StyledLink to="team" spy={true} smooth={true}>
+          Team
+        </StyledLink>
+        <StyledLink to="about" spy={true} smooth={true}>
+          About
+        </StyledLink>
+        <StyledLink to="map" spy={true} smooth={true}>
+          Map
+        </StyledLink>
       </div>
     </HeaderContainer>
   );

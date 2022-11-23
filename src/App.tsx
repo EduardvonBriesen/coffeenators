@@ -20,10 +20,17 @@ function App() {
       <AppContainer>
         <Layout>
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/team" element={<Team />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/map" element={<MapPage />} />
+            <Route
+              path="/"
+              element={
+                <>
+                  <Home />
+                  <Team />
+                  <About />
+                  <MapPage />
+                </>
+              }
+            />
           </Routes>
         </Layout>
       </AppContainer>

@@ -1,13 +1,14 @@
 import styled from "styled-components";
 
 const HomeContainer = styled.div`
+  id: home;
   display: flex;
   flex-direction: column;
   justify-content: end;
   background-color: ${(props) => props.theme.colors.background.main};
   width: 100vw;
   height: 100vh;
-  padding: 10% ;
+  padding: 10%;
   box-sizing: border-box;
 `;
 
@@ -31,7 +32,7 @@ const SubHeadline = styled.h2`
 
 function Home() {
   return (
-    <HomeContainer>
+    <HomeContainer id="home">
       <Headline>
         Visualizing <Accent>Coffee Data</Accent>
       </Headline>

@@ -24,7 +24,7 @@ const Accent = styled.span`
 
 function Team() {
   return (
-    <TeamContainer>
+    <TeamContainer id="team">
       <Headline>
         <Accent>We Are</Accent>
       </Headline>
