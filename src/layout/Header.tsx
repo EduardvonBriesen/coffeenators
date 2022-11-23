@@ -24,14 +24,38 @@ const Icon = styled(CupIcon)`
   margin-right: 20px;
 `;
 
+const LinkList = styled.ul`
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  list-style-type: none;
+`;
+
 const StyledLink = styled(Link)`
+  position: relative;
+  display: block;
   cursor: default;
-  margin: 0 10px;
   color: ${(props) => props.theme.colors.dark};
   text-decoration: none;
-  &.active,
-  &:hover {
-    color: ${(props) => props.theme.colors.primary};
+  margin: 0 10px;
+
+  &::after {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 3px;
+    top: 100%;
+    left: 0;
+    background: ${(props) => props.theme.colors.primary};
+    transition: transform 0.5s;
+    transform: scaleX(0);
+    transform-origin: right;
+  }
+
+  &.active::after,
+  &:hover::after {
+    transform: scaleX(1);
+    transform-origin: left;
   }
 `;
 
@@ -42,7 +66,7 @@ function Header() {
         <Icon />
         Caffeinators
       </Logo>
-      <div>
+      <LinkList>
         <StyledLink to="home" spy={true} smooth={true}>
           Home
         </StyledLink>
@@ -55,7 +79,7 @@ function Header() {
         <StyledLink to="map" spy={true} smooth={true}>
           Map
         </StyledLink>
-      </div>
+      </LinkList>
     </HeaderContainer>
   );
 }
