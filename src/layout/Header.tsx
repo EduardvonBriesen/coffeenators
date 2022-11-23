@@ -17,7 +17,6 @@ const HeaderContainer = styled.nav`
 const Logo = styled.div`
   display: flex;
   align-items: center;
-  color: ${(props) => props.theme.colors.dark};
 `;
 
 const Icon = styled(CupIcon)`
@@ -26,10 +25,12 @@ const Icon = styled(CupIcon)`
 `;
 
 const StyledLink = styled(Link)`
+  cursor: default;
   margin: 0 10px;
   color: ${(props) => props.theme.colors.dark};
   text-decoration: none;
-  &.active {
+  &.active,
+  &:hover {
     color: ${(props) => props.theme.colors.primary};
   }
 `;

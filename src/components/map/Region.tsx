@@ -7,7 +7,7 @@ import styled from "styled-components";
 
 const RegionContainer = styled.path`
   fill: ${(props) => props.theme.colors.secondary};
-  stroke: cornsilk;
+  stroke: ${(props) => props.theme.colors.background.main};
   stroke-width: 1px;
   &:hover {
     cursor: pointer;

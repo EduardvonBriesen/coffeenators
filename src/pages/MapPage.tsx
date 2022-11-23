@@ -15,7 +15,7 @@ const MapContainer = styled.div`
 
 function MapPage() {
   return (
-    <MapContainer>
+    <MapContainer id="map">
       <Map />
     </MapContainer>
   );
