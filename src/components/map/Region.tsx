@@ -1,8 +1,3 @@
-import {
-  handleMouseOver,
-  handleMouseOut,
-  handleMouseMove,
-} from "../../helpers/handleTooltip";
 import styled from "styled-components";
 
 const RegionContainer = styled.path`
