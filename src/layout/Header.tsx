@@ -12,6 +12,8 @@ const HeaderContainer = styled.nav`
   width: 80%;
   height: 100px;
   padding: 0 10%;
+  backdrop-filter: blur(15px);
+  /* box-shadow: 0 0 88px rgba(0,0,0,0.75) inset; */
 `;
 
 const Logo = styled.div`
