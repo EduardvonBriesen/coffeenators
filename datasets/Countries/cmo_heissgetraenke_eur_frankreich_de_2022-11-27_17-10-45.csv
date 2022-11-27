@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Frankreich;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;35,11;38,71;39,88;40,31;41,67;43,08;44,84;46,06;38,91;45,47;51,3;53,79;54,07;54,46
+Frankreich;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;37,09;41,06;42,27;42,72;44,26;45,88;48,02;49,36;41,59;48,73;55,05;57,82;58,2;58,71
+Frankreich;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;13,11;13,56;14,06;14,35;14,57;14,77;15;15,27;13,91;15,59;17,4;17,98;17,96;17,97
+Frankreich;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;39,52;41,02;42,43;43,98;46,17;48,7;51,43;53,27;47,14;54;60,82;63,18;63,59;64,09
+Frankreich;Heißgetränke;Umsatz pro Segment;Total;Milliarden EUR (€);Statista;11,46;12,92;13,4;13,28;13,25;13,11;12,68;12,88;10,39;12,24;12,18;13,53;13,46;13,41
+Frankreich;Heißgetränke;Umsatz pro Segment;Kaffee;Milliarden EUR (€);Statista;10,55;11,97;12,42;12,27;12,21;12,02;11,54;11,69;9,331;11,03;10,97;12,2;12,13;12,07
+Frankreich;Heißgetränke;Umsatz pro Segment;Kakao;Milliarden EUR (€);Statista;0,372;0,386;0,401;0,41;0,417;0,424;0,429;0,438;0,398;0,448;0,444;0,489;0,491;0,493
+Frankreich;Heißgetränke;Umsatz pro Segment;Tee;Milliarden EUR (€);Statista;0,544;0,566;0,586;0,604;0,631;0,663;0,715;0,749;0,659;0,758;0,757;0,837;0,844;0,852
+Frankreich;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;12,74;3,715;-0,896;-0,226;-1,057;-3,28;1,577;-19,332;17,806;-0,49;11,084;-0,517;-0,371
+Frankreich;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;13,46;3,759;-1,208;-0,489;-1,556;-3,993;1,3;-20,18;18,208;-0,544;11,212;-0,574;-0,495
+Frankreich;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;3,657;3,943;2,271;1,781;1,654;1,274;1,98;-9,089;12,409;-0,737;10,176;0,306;0,346
+Frankreich;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;4,047;3,571;3,039;4,539;5,135;7,748;4,827;-11,985;14,996;-0,224;10,599;0,801;0,936
+Frankreich;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;180,3;202,3;208,8;206;205;202,2;195,2;197,7;159,1;187;185,7;205,8;204,3;203
+Frankreich;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;165,9;187,4;193,4;190,3;188,8;185,4;177,5;179,5;142,9;168,6;167,3;185,6;184;182,7
+Frankreich;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;5,851;6,033;6,242;6,357;6,45;6,538;6,608;6,723;6,098;6,84;6,773;7,444;7,449;7,459
+Frankreich;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;8,553;8,853;9,126;9,365;9,758;10,23;11;11,5;10,1;11,59;11,54;12,73;12,8;12,89
+Frankreich;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,308;99,017;98,608;97,807;97,015;95,991;94,694;93,083;91,117
+Frankreich;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,692;0,983;1,392;2,193;2,985;4,009;5,306;6,917;8,883
+Frankreich;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;70,642;66,771;63,609;61,482;59,878;59,11;58,244;57,383;56,508
+Frankreich;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;29,358;33,229;36,391;38,518;40,122;40,89;41,756;42,617;43,492
+Frankreich;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;78,303;80,378;81,702;82,591;82,868;82,664;82,158;81,631;76,757;79,538;80,397;81,26;81,203;81,147
+Frankreich;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;21,697;19,622;18,298;17,409;17,132;17,336;17,842;18,369;23,243;20,462;19,603;18,74;18,797;18,853
+Frankreich;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;14,943;14,88;14,837;14,942;15,184;15,403;15,463;15,506;12,146;13,968;14,603;15,39;15,402;15,427
+Frankreich;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;85,057;85,12;85,163;85,058;84,816;84,597;84,537;84,494;87,854;86,032;85,397;84,61;84,598;84,573
+Frankreich;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;326,469;333,853;336,014;329,377;318,1;304,319;282,836;279,523;266,985;269,081;237,325;251,487;249,01;246,256
+Frankreich;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;284,35;291,634;293,711;287,09;275,801;261,999;240,315;236,789;224,371;226,331;199,361;211,013;208,403;205,547
+Frankreich;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;28,361;28,429;28,496;28,563;28,63;28,698;28,622;28,669;28,624;28,705;25,522;27,228;27,34;27,422
+Frankreich;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;13,758;13,79;13,807;13,724;13,669;13,623;13,899;14,065;13,99;14,045;12,442;13,245;13,267;13,288
+Frankreich;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;2,262;0,647;-1,975;-3,424;-4,332;-7,06;-1,171;-4,485;0,785;-11,801;5,967;-0,985;-1,106
+Frankreich;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;2,562;0,712;-2,254;-3,932;-5,004;-8,276;-1,467;-5,244;0,873;-11,916;5,845;-1,237;-1,371
+Frankreich;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;0,237;0,237;0,236;0,235;0,235;-0,265;0,164;-0,154;0,283;-11,09;6,686;0,411;0,299
+Frankreich;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;0,236;0,126;-0,606;-0,4;-0,338;2,029;1,193;-0,533;0,391;-11,412;6,455;0,163;0,158
+Frankreich;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;5,136;5,225;5,234;5,11;4,919;4,693;4,352;4,292;4,09;4,113;3,619;3,825;3,778;3,728
+Frankreich;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;4,473;4,564;4,575;4,454;4,265;4,041;3,698;3,636;3,437;3,459;3,04;3,21;3,162;3,112
+Frankreich;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,446;0,445;0,444;0,443;0,443;0,443;0,44;0,44;0,439;0,439;0,389;0,414;0,415;0,415
+Frankreich;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,216;0,216;0,215;0,213;0,211;0,21;0,214;0,216;0,214;0,215;0,19;0,201;0,201;0,201
+Frankreich;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;7,5;;;;
+Frankreich;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;18,641;;;;
+Frankreich;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;22,635;;;;
+Frankreich;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;27,26;;;;
+Frankreich;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;23,966;;;;
+Frankreich;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;48,493;;;;
+Frankreich;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;51,507;;;;
+Frankreich;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;33,114;;;;
+Frankreich;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;35,004;;;;
+Frankreich;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;31,882;;;;
+Frankreich;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;37,09;41,06;42,27;42,72;44,26;45,88;48,02;49,36;41,59;48,73;55,05;57,82;58,2;58,71
+Frankreich;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;79,82;81,34;83,27;84,37;85,85;87,47;88,92;90,37;74,06;88,17;100,1;105,5;106,1;106,9
+Frankreich;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;30,87;35,12;36,03;36,31;37,59;39,15;40,98;42,24;35,87;41,62;46,82;49,01;49,25;49,61
+Frankreich;Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;10,55;11,97;12,42;12,27;12,21;12,02;11,54;11,69;9,331;11,03;10,97;12,2;12,13;12,07
+Frankreich;Kaffee;Umsatz;Instant-Kaffee;Milliarden EUR (€);Statista;2,886;3,048;3,232;3,233;3,272;3,192;3,136;3,165;2,487;3,048;3,083;3,471;3,48;3,487
+Frankreich;Kaffee;Umsatz;Röstkaffee;Milliarden EUR (€);Statista;7,662;8,925;9,183;9,032;8,935;8,83;8,403;8,523;6,843;7,981;7,892;8,73;8,649;8,58
+Frankreich;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;13,46;3,759;-1,208;-0,489;-1,556;-3,993;1,3;-20,18;18,208;-0,544;11,212;-0,574;-0,495
+Frankreich;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;5,613;6,037;0,031;1,206;-2,445;-1,754;0,925;-21,422;22,557;1,148;12,585;0,259;0,201
+Frankreich;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;16,484;2,891;-1,644;-1,074;-1,175;-4,836;1,428;-19,711;16,63;-1,115;10,618;-0,928;-0,798
+Frankreich;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;165,9;187,4;193,4;190,3;188,8;185,4;177,5;179,5;142,9;168,6;167,3;185,6;184;182,7
+Frankreich;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;45,4;47,71;50,34;50,17;50,6;49,22;48,25;48,59;38,11;46,59;47,01;52,79;52,8;52,8
+Frankreich;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;120,5;139,7;143,1;140,1;138,2;136,2;129,3;130,9;104,8;122;120,3;132,8;131,2;129,9
+Frankreich;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,308;99,017;98,608;97,807;97,015;95,991;94,694;93,083;91,117
+Frankreich;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,692;0,983;1,392;2,193;2,985;4,009;5,306;6,917;8,883
+Frankreich;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;70,642;66,771;63,609;61,482;59,878;59,11;58,244;57,383;56,508
+Frankreich;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;29,358;33,229;36,391;38,518;40,122;40,89;41,756;42,617;43,492
+Frankreich;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;79,866;82,063;83,559;84,663;85,076;84,989;84,648;84,128;79,776;82,368;83,242;84,033;84,017;84,003
+Frankreich;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;20,134;17,937;16,441;15,337;14,924;15,011;15,352;15,872;20,224;17,632;16,758;15,967;15,983;15,997
+Frankreich;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;16,568;16,464;16,411;16,567;16,909;17,247;17,483;17,566;13,853;15,912;16,649;17,558;17,608;17,674
+Frankreich;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;83,432;83,536;83,589;83,433;83,091;82,753;82,517;82,434;86,147;84,088;83,351;82,442;82,392;82,326
+Frankreich;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;284,35;291,634;293,711;287,09;275,801;261,999;240,315;236,789;224,371;226,331;199,361;211,013;208,403;205,547
+Frankreich;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;36,148;37,476;38,813;38,326;38,11;36,486;35,268;35,02;33,59;34,569;30,794;32,885;32,788;32,612
+Frankreich;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;248,202;254,158;254,898;248,765;237,691;225,513;205,047;201,769;190,781;191,761;168,568;178,129;175,615;172,935
+Frankreich;Kaffee;Volumenveränderung;Total;Prozent;Statista;;2,562;0,712;-2,254;-3,932;-5,004;-8,276;-1,467;-5,244;0,873;-11,916;5,845;-1,237;-1,371
+Frankreich;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;3,674;3,567;-1,256;-0,564;-4,261;-3,338;-0,703;-4,084;2,917;-10,922;6,791;-0,293;-0,538
+Frankreich;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;2,4;0,291;-2,406;-4,451;-5,124;-9,075;-1,599;-5,446;0,514;-12,095;5,672;-1,411;-1,526
+Frankreich;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;4,473;4,564;4,575;4,454;4,265;4,041;3,698;3,636;3,437;3,459;3,04;3,21;3,162;3,112
+Frankreich;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,569;0,587;0,605;0,595;0,589;0,563;0,543;0,538;0,515;0,528;0,47;0,5;0,498;0,494
+Frankreich;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;3,905;3,978;3,971;3,86;3,676;3,478;3,155;3,098;2,923;2,931;2,57;2,709;2,665;2,618
+Frankreich;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;79,82;81,34;83,27;84,37;85,85;87,47;88,92;90,37;74,06;88,17;100,1;105,5;106,1;106,9
+Frankreich;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;434,3;443,9;456;462,4;470,3;478,2;488,4;496,1;504,1;526,6;572,7;573,9;574,8;576,5
+Frankreich;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;17,02;16,95;16,88;16,85;16,95;17,19;16,77;16,77;16,84;17,38;18,86;18,8;18,82;18,91
+Frankreich;Instant-Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;2,886;3,048;3,232;3,233;3,272;3,192;3,136;3,165;2,487;3,048;3,083;3,471;3,48;3,487
+Frankreich;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Milliarden EUR (€);Statista;2,363;2,509;2,676;2,686;2,724;2,66;2,635;2,668;1,988;2,531;2,587;2,949;2,96;2,968
+Frankreich;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Milliarden EUR (€);Statista;0,523;0,539;0,556;0,548;0,548;0,531;0,501;0,497;0,499;0,517;0,495;0,522;0,52;0,519
+Frankreich;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;5,613;6,037;0,031;1,206;-2,445;-1,754;0,925;-21,422;22,557;1,148;12,585;0,259;0,201
+Frankreich;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;6,179;6,656;0,374;1,415;-2,349;-0,94;1,252;-25,487;27,314;2,213;13,993;0,373;0,27
+Frankreich;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;3,156;3,134;-1,492;-0,037;-2,958;-5,738;-0,758;0,382;3,627;-4,196;5,288;-0,307;-0,135
+Frankreich;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;45,4;47,71;50,34;50,17;50,6;49,22;48,25;48,59;38,11;46,59;47,01;52,79;52,8;52,8
+Frankreich;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;37,17;39,27;41,68;41,67;42,13;41,02;40,55;40,96;30,46;38,68;39,45;44,86;44,91;44,93
+Frankreich;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;8,224;8,44;8,665;8,5;8,469;8,197;7,709;7,634;7,646;7,905;7,555;7,935;7,892;7,864
+Frankreich;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,308;99,017;98,608;97,755;96,959;95,934;94,642;93,049;91,117
+Frankreich;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,692;0,983;1,392;2,245;3,041;4,066;5,358;6,951;8,883
+Frankreich;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;70,642;66,771;63,609;61,482;59,878;59,11;58,244;57,383;56,508
+Frankreich;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;29,358;33,229;36,391;38,518;40,122;40,89;41,756;42,617;43,492
+Frankreich;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;36,148;37,476;38,813;38,326;38,11;36,486;35,268;35,02;33,59;34,569;30,794;32,885;32,788;32,612
+Frankreich;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;5,44;5,652;5,867;5,808;5,792;5,562;5,395;5,377;3,945;4,805;4,518;5,138;5,149;5,147
+Frankreich;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;30,708;31,825;32,946;32,517;32,318;30,923;29,873;29,643;29,645;29,764;26,275;27,746;27,639;27,464
+Frankreich;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;3,674;3,567;-1,256;-0,564;-4,261;-3,338;-0,703;-4,084;2,917;-10,922;6,791;-0,293;-0,538
+Frankreich;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;3,894;3,81;-1;-0,281;-3,963;-3,01;-0,337;-26,634;21,82;-5,978;13,726;0,204;-0,027
+Frankreich;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;3,635;3,524;-1,301;-0,614;-4,314;-3,397;-0,769;0,006;0,402;-11,721;5,598;-0,386;-0,633
+Frankreich;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,569;0,587;0,605;0,595;0,589;0,563;0,543;0,538;0,515;0,528;0,47;0,5;0,498;0,494
+Frankreich;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,086;0,088;0,091;0,09;0,09;0,086;0,083;0,083;0,06;0,073;0,069;0,078;0,078;0,078
+Frankreich;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,483;0,498;0,513;0,505;0,5;0,477;0,46;0,455;0,454;0,455;0,401;0,422;0,419;0,416
+Frankreich;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;30,87;35,12;36,03;36,31;37,59;39,15;40,98;42,24;35,87;41,62;46,82;49,01;49,25;49,61
+Frankreich;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;145,5;172,7;181,9;184,4;187,6;190,7;194,8;197,8;201;210;228,4;228,9;229,2;229,9
+Frankreich;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;7,751;7,594;6,986;6,44;6,472;6,849;7,543;8,202;8,482;8,891;9,606;9,755;9,845;9,953
+Frankreich;Röstkaffee;Umsatz;Total;Milliarden EUR (€);Statista;7,662;8,925;9,183;9,032;8,935;8,83;8,403;8,523;6,843;7,981;7,892;8,73;8,649;8,58
+Frankreich;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Milliarden EUR (€);Statista;6,061;7,317;7,699;7,699;7,661;7,557;7,132;7,165;5,455;6,554;6,548;7,304;7,231;7,169
+Frankreich;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Milliarden EUR (€);Statista;1,601;1,608;1,485;1,333;1,274;1,273;1,27;1,358;1,388;1,427;1,344;1,426;1,418;1,411
+Frankreich;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;16,484;2,891;-1,644;-1,074;-1,175;-4,836;1,428;-19,711;16,63;-1,115;10,618;-0,928;-0,798
+Frankreich;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;20,723;5,221;0;-0,494;-1,358;-5,624;0,463;-23,866;20,147;-0,092;11,546;-0,999;-0,857
+Frankreich;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;0,437;-7,649;-10,236;-4,426;-0,078;-0,236;6,929;2,209;2,81;-5,816;6,101;-0,561;-0,494
+Frankreich;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;120,5;139,7;143,1;140,1;138,2;136,2;129,3;130,9;104,8;122;120,3;132,8;131,2;129,9
+Frankreich;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;95,36;114,5;119,9;119,4;118,5;116,5;109,7;110;83,57;100,2;99,84;111,1;109,7;108,5
+Frankreich;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;25,19;25,17;23,13;20,69;19,7;19,63;19,55;20,85;21,26;21,82;20,49;21,7;21,52;21,36
+Frankreich;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,308;99,017;98,608;97,826;97,037;96,014;94,715;93,097;91,117
+Frankreich;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,692;0,983;1,392;2,174;2,963;3,986;5,285;6,903;8,883
+Frankreich;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;70,642;66,771;63,609;61,482;59,878;59,11;58,244;57,383;56,508
+Frankreich;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;29,358;33,229;36,391;38,518;40,122;40,89;41,756;42,617;43,492
+Frankreich;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;248,202;254,158;254,898;248,765;237,691;225,513;205,047;201,769;190,781;191,761;168,568;178,129;175,615;172,935
+Frankreich;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;41,672;42,363;42,332;41,755;40,843;39,625;36,618;36,217;27,138;31,207;28,674;31,912;31,546;31,18
+Frankreich;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;206,53;211,795;212,565;207,01;196,848;185,888;168,429;165,552;163,643;160,554;139,894;146,217;144,069;141,754
+Frankreich;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;2,4;0,291;-2,406;-4,451;-5,124;-9,075;-1,599;-5,446;0,514;-12,095;5,672;-1,411;-1,526
+Frankreich;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;1,658;-0,071;-1,365;-2,183;-2,982;-7,588;-1,095;-25,068;14,992;-8,117;11,291;-1,146;-1,159
+Frankreich;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;2,549;0,364;-2,613;-4,909;-5,568;-9,392;-1,708;-1,153;-1,888;-12,868;4,52;-1,469;-1,607
+Frankreich;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;3,905;3,978;3,971;3,86;3,676;3,478;3,155;3,098;2,923;2,931;2,57;2,709;2,665;2,618
+Frankreich;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,656;0,663;0,659;0,648;0,632;0,611;0,563;0,556;0,416;0,477;0,437;0,485;0,479;0,472
+Frankreich;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;3,249;3,315;3,311;3,212;3,044;2,867;2,592;2,542;2,507;2,454;2,133;2,224;2,186;2,146

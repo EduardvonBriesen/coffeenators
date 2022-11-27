@@ -1,0 +1,116 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Albanien;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;31,99;32,05;32,92;34,06;35,63;37,87;41,17;44,16;39,87;45,33;50,91;53,4;53,78;54,06
+Albanien;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;37,33;37,71;39,08;40,47;42,44;45,24;49,4;53,2;48,47;55,3;62,29;65,57;66,06;66,42
+Albanien;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;6,761;6,95;7,292;7,543;7,81;8,116;8,657;9,165;8,713;9,463;10,43;10,73;10,83;10,91
+Albanien;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;27,84;28,53;29,73;30,83;32,3;33,91;36,58;38,91;35,49;39,54;43,85;45,49;45,81;46,02
+Albanien;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;213,3;219,1;230,7;240,9;254,7;274,3;300,7;326,4;270,6;329,2;337,3;389,1;394,2;398,2
+Albanien;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;175,8;180,5;190;199,3;211,3;228,1;250,7;272,7;224;274,9;282,8;327,5;332,5;336,4
+Albanien;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;5,451;6,413;7,508;7,977;8,513;8,947;9,775;10,62;9,85;11,42;11,53;13,15;13,46;13,69
+Albanien;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;32,01;32,11;33,15;33,68;34,84;37,32;40,19;43,05;36,69;42,84;42,96;48,52;48,29;48,11
+Albanien;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;2,719;5,294;4,421;5,729;7,695;9,624;8,547;-17,096;21,656;2,461;15,357;1,311;1,015
+Albanien;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;2,673;5,263;4,895;6,021;7,951;9,908;8,775;-17,858;22,723;2,874;15,806;1,527;1,173
+Albanien;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;17,648;17,075;6,247;6,719;5,098;9,254;8,645;-7,25;15,939;0,963;14,05;2,357;1,709
+Albanien;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;0,312;3,239;1,599;3,444;7,118;7,69;7,116;-14,774;16,762;0,28;12,942;-0,474;-0,373
+Albanien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;73,18;75,44;79,65;83,35;88,23;95,11;104,3;113,3;94,02;114,6;117,7;136,1;138,3;140,2
+Albanien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;60,33;62,18;65,61;68,94;73,22;79,07;86,97;94,66;77,85;95,69;98,66;114,6;116,7;118,4
+Albanien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;1,87;2,209;2,592;2,76;2,949;3,102;3,391;3,686;3,423;3,975;4,023;4,601;4,722;4,821
+Albanien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;10,99;11,06;11,45;11,65;12,07;12,94;13,94;14,94;12,75;14,91;14,99;16,98;16,95;16,94
+Albanien;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,68;99,624;99,553;99,148;98,713;98,638;98,494;98,265;97,986
+Albanien;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,32;0,376;0,447;0,852;1,287;1,362;1,506;1,735;2,014
+Albanien;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Albanien;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Albanien;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;78,398;78,631;78,86;79,184;79,445;79,865;80,091;80,385;76,875;79,381;80,214;81,083;81,077;81,05
+Albanien;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;21,602;21,369;21,14;20,816;20,555;20,135;19,909;19,615;23,125;20,619;19,786;18,917;18,923;18,95
+Albanien;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;21,159;21,235;21,375;21,776;22,194;22,653;23,048;23,443;19,956;22,467;23,45;24,512;24,736;24,925
+Albanien;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;78,841;78,765;78,625;78,224;77,806;77,347;76,952;76,557;80,044;77,533;76,55;75,488;75,264;75,075
+Albanien;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;6,666;6,836;7,007;7,074;7,148;7,244;7,304;7,391;6,786;7,261;6,625;7,287;7,33;7,365
+Albanien;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;4,709;4,788;4,862;4,924;4,979;5,041;5,076;5,126;4,622;4,971;4,54;4,994;5,033;5,064
+Albanien;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;0,806;0,923;1,03;1,058;1,09;1,102;1,129;1,159;1,131;1,207;1,106;1,226;1,242;1,255
+Albanien;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;1,15;1,125;1,115;1,093;1,079;1,101;1,099;1,106;1,034;1,083;0,98;1,067;1,054;1,045
+Albanien;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;2,556;2,499;0,957;1,047;1,337;0,828;1,194;-8,181;7,001;-8,757;9,984;0,591;0,478
+Albanien;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;1,667;1,553;1,262;1,133;1,229;0,695;0,987;-9,832;7,558;-8,67;10,003;0,777;0,616
+Albanien;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;14,453;11,573;2,724;3,068;1,129;2,432;2,607;-2,418;6,737;-8,388;10,883;1,353;1,048
+Albanien;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;-2,142;-0,913;-2,003;-1,294;2,046;-0,171;0,698;-6,565;4,801;-9,571;8,878;-1,157;-0,849
+Albanien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;2,287;2,354;2,419;2,447;2,476;2,511;2,534;2,565;2,358;2,527;2,311;2,549;2,572;2,593
+Albanien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;1,616;1,649;1,679;1,703;1,725;1,748;1,761;1,779;1,606;1,73;1,584;1,747;1,766;1,783
+Albanien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,277;0,318;0,355;0,366;0,378;0,382;0,392;0,402;0,393;0,42;0,386;0,429;0,436;0,442
+Albanien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,395;0,388;0,385;0,378;0,374;0,382;0,381;0,384;0,359;0,377;0,342;0,373;0,37;0,368
+Albanien;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;37,5;37,89;39,38;40,99;43,17;46,34;50,89;55,08;50,67;57,84;65,27;68,76;69,16;69,38
+Albanien;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;110,2;110,3;113,2;116,1;119,9;126,5;136;144,6;147,5;154,6;169;172,3;172;171,5
+Albanien;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;8,68;8,581;8,688;8,792;9,127;9,506;10,38;11,07;11,31;11,89;13,02;13,27;13,43;13,57
+Albanien;Röstkaffee;Umsatz;Total;Millionen EUR (€);Statista;142,8;146,6;154,5;162,3;172,2;186,6;204,6;222,9;183,7;225,8;232,7;269,4;272,6;274,7
+Albanien;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Millionen EUR (€);Statista;119,1;123;130,4;137,9;147;160,4;176,3;192,9;154,5;194,3;201,8;235,6;238,2;240
+Albanien;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Millionen EUR (€);Statista;23,67;23,63;24,08;24,37;25,22;26,23;28,29;30,03;29,14;31,48;30,86;33,84;34,34;34,76
+Albanien;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;2,661;5,389;5,049;6,1;8,362;9,646;8,944;-17,586;22,918;3,056;15,771;1,188;0,77
+Albanien;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;3,275;6,016;5,752;6,599;9,116;9,913;9,416;-19,907;25,761;3,86;16,749;1,104;0,756
+Albanien;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;-0,169;1,904;1,204;3,488;4,005;7,854;6,151;-2,964;8,03;-1,97;9,657;1,478;1,223
+Albanien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;48,99;50,48;53,33;56,14;59,65;64,71;70,98;77,38;63,83;78,6;81,18;94,26;95,65;96,72
+Albanien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;40,87;42,35;45,02;47,71;50,91;55,62;61,17;66,96;53,7;67,64;70,41;82,41;83,61;84,48
+Albanien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;8,121;8,139;8,312;8,431;8,736;9,095;9,812;10,42;10,13;10,96;10,77;11,84;12,05;12,24
+Albanien;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,63;99,567;99,488;99,012;98,5;98,42;98,26;98,014;97,709
+Albanien;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,37;0,433;0,512;0,988;1,5;1,58;1,74;1,986;2,291
+Albanien;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Albanien;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Albanien;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;3,807;3,869;3,922;3,96;3,988;4,028;4,021;4,047;3,625;3,904;3,565;3,918;3,942;3,96
+Albanien;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;1,081;1,115;1,151;1,188;1,225;1,268;1,297;1,334;1,048;1,257;1,194;1,367;1,385;1,399
+Albanien;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;2,727;2,754;2,771;2,772;2,763;2,759;2,724;2,713;2,577;2,647;2,371;2,551;2,556;2,561
+Albanien;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;1,63;1,372;0,947;0,719;0,989;-0,157;0,643;-10,435;7,699;-8,681;9,906;0,602;0,466
+Albanien;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;3,166;3,267;3,158;3,151;3,514;2,267;2,876;-21,491;19,968;-4,985;14,484;1,323;0,996
+Albanien;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;1,021;0,605;0,029;-0,324;-0,131;-1,272;-0,421;-4,997;2,712;-10,437;7,6;0,215;0,178
+Albanien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,307;1,333;1,354;1,37;1,382;1,396;1,395;1,405;1,26;1,359;1,244;1,371;1,383;1,394
+Albanien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,371;0,384;0,398;0,411;0,424;0,44;0,45;0,463;0,364;0,437;0,417;0,478;0,486;0,492
+Albanien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;0,936;0,949;0,957;0,959;0,957;0,957;0,945;0,942;0,896;0,921;0,827;0,892;0,897;0,902
+Albanien;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;37,33;37,71;39,08;40,47;42,44;45,24;49,4;53,2;48,47;55,3;62,29;65,57;66,06;66,42
+Albanien;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;36,6;36,96;37,85;38,36;39,5;40,88;43,72;46,15;40,46;46;51,39;53,92;54,87;55,82
+Albanien;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;37,5;37,89;39,38;40,99;43,17;46,34;50,89;55,08;50,67;57,84;65,27;68,76;69,16;69,38
+Albanien;Kaffee;Umsatz;Total;Millionen EUR (€);Statista;175,8;180,5;190;199,3;211,3;228,1;250,7;272,7;224;274,9;282,8;327,5;332,5;336,4
+Albanien;Kaffee;Umsatz;Instant-Kaffee;Millionen EUR (€);Statista;33,02;33,95;35,57;36,98;39,16;41,42;46,11;49,78;40,35;49,1;50,12;58,04;59,89;61,64
+Albanien;Kaffee;Umsatz;Röstkaffee;Millionen EUR (€);Statista;142,8;146,6;154,5;162,3;172,2;186,6;204,6;222,9;183,7;225,8;232,7;269,4;272,6;274,7
+Albanien;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;2,673;5,263;4,895;6,021;7,951;9,908;8,775;-17,858;22,723;2,874;15,806;1,527;1,173
+Albanien;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;2,816;4,772;3,964;5,895;5,771;11,323;7,959;-18,943;21,685;2,077;15,802;3,187;2,922
+Albanien;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;2,661;5,389;5,049;6,1;8,362;9,646;8,944;-17,586;22,918;3,056;15,771;1,188;0,77
+Albanien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;60,33;62,18;65,61;68,94;73,22;79,07;86,97;94,66;77,85;95,69;98,66;114,6;116,7;118,4
+Albanien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;11,33;11,69;12,28;12,79;13,57;14,36;15,99;17,28;14,02;17,09;17,48;20,3;21,02;21,7
+Albanien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;48,99;50,48;53,33;56,14;59,65;64,71;70,98;77,38;63,83;78,6;81,18;94,26;95,65;96,72
+Albanien;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,63;99,566;99,486;99,009;98,512;98,434;98,275;98,031;97,729
+Albanien;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,37;0,434;0,514;0,991;1,488;1,566;1,725;1,969;2,271
+Albanien;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Albanien;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Albanien;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;82,225;82,643;83,085;83,516;83,772;84,202;84,317;84,576;81,696;83,843;84,589;85,374;85,361;85,336
+Albanien;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;17,775;17,357;16,915;16,484;16,228;15,798;15,683;15,424;18,304;16,157;15,411;14,626;14,639;14,664
+Albanien;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;26,662;27,008;27,431;27,928;28,48;29,084;29,627;30,185;26,136;29,269;30,518;31,885;32,167;32,41
+Albanien;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;73,338;72,992;72,569;72,072;71,52;70,916;70,373;69,815;73,864;70,731;69,482;68,115;67,833;67,59
+Albanien;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;4,709;4,788;4,862;4,924;4,979;5,041;5,076;5,126;4,622;4,971;4,54;4,994;5,033;5,064
+Albanien;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;0,902;0,919;0,94;0,964;0,991;1,013;1,055;1,079;0,997;1,067;0,975;1,076;1,092;1,104
+Albanien;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;3,807;3,869;3,922;3,96;3,988;4,028;4,021;4,047;3,625;3,904;3,565;3,918;3,942;3,96
+Albanien;Kaffee;Volumenveränderung;Total;Prozent;Statista;;1,667;1,553;1,262;1,133;1,229;0,695;0,987;-9,832;7,558;-8,67;10,003;0,777;0,616
+Albanien;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;1,824;2,314;2,576;2,834;2,196;4,084;2,297;-7,568;7,047;-8,627;10,358;1,415;1,157
+Albanien;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;1,63;1,372;0,947;0,719;0,989;-0,157;0,643;-10,435;7,699;-8,681;9,906;0,602;0,466
+Albanien;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,616;1,649;1,679;1,703;1,725;1,748;1,761;1,779;1,606;1,73;1,584;1,747;1,766;1,783
+Albanien;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,31;0,316;0,324;0,334;0,343;0,351;0,366;0,374;0,346;0,372;0,34;0,377;0,383;0,389
+Albanien;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;1,307;1,333;1,354;1,37;1,382;1,396;1,395;1,405;1,26;1,359;1,244;1,371;1,383;1,394
+Albanien;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;36,6;36,96;37,85;38,36;39,5;40,88;43,72;46,15;40,46;46;51,39;53,92;54,87;55,82
+Albanien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;145,5;147,3;150,8;152,2;155,9;159,9;169,6;177,3;177,6;182,4;195,3;195,1;194,8;194,2
+Albanien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;10,42;10,4;10,65;10,91;11,37;12,02;13,02;13,9;14,18;14,89;16,23;16,51;16,72;16,89
+Albanien;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;33,02;33,95;35,57;36,98;39,16;41,42;46,11;49,78;40,35;49,1;50,12;58,04;59,89;61,64
+Albanien;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;25,44;26,24;27,5;28,5;30,08;31,62;35,07;37,75;28,48;36,16;37,4;43,99;45,56;47,08
+Albanien;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;7,581;7,702;8,07;8,477;9,077;9,798;11,04;12,04;11,86;12,94;12,72;14,05;14,34;14,56
+Albanien;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;2,816;4,772;3,964;5,895;5,771;11,323;7,959;-18,943;21,685;2,077;15,802;3,187;2,922
+Albanien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;3,145;4,802;3,636;5,544;5,12;10,911;7,642;-24,556;26,966;3,429;17,62;3,569;3,336
+Albanien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;1,596;4,778;5,043;7,078;7,943;12,676;9,058;-1,495;9,106;-1,7;10,456;2,064;1,534
+Albanien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;11,33;11,69;12,28;12,79;13,57;14,36;15,99;17,28;14,02;17,09;17,48;20,3;21,02;21,7
+Albanien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;8,73;9,038;9,496;9,861;10,42;10,96;12,17;13,1;9,897;12,59;13,05;15,39;15,99;16,57
+Albanien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;2,602;2,652;2,786;2,933;3,145;3,397;3,828;4,178;4,122;4,503;4,438;4,915;5,031;5,126
+Albanien;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,63;99,564;99,476;98,991;98,565;98,501;98,346;98,11;97,817
+Albanien;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,37;0,436;0,524;1,009;1,435;1,499;1,654;1,89;2,183
+Albanien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Albanien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Albanien;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;0,902;0,919;0,94;0,964;0,991;1,013;1,055;1,079;0,997;1,067;0,975;1,076;1,092;1,104
+Albanien;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,175;0,178;0,182;0,187;0,193;0,198;0,207;0,213;0,16;0,198;0,191;0,225;0,234;0,242
+Albanien;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;0,727;0,74;0,757;0,777;0,798;0,815;0,848;0,866;0,837;0,869;0,784;0,851;0,858;0,862
+Albanien;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;1,824;2,314;2,576;2,834;2,196;4,084;2,297;-7,568;7,047;-8,627;10,358;1,415;1,157
+Albanien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;1,87;2,39;2,697;3,025;2,493;4,547;2,973;-24,674;23,621;-3,421;17,717;3,763;3,617
+Albanien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;1,813;2,296;2,547;2,787;2,124;3,972;2,133;-3,362;3,87;-9,815;8,56;0,793;0,486
+Albanien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,31;0,316;0,324;0,334;0,343;0,351;0,366;0,374;0,346;0,372;0,34;0,377;0,383;0,389
+Albanien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,06;0,061;0,063;0,065;0,067;0,069;0,072;0,074;0,056;0,069;0,067;0,079;0,082;0,085
+Albanien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,25;0,255;0,262;0,269;0,277;0,283;0,294;0,301;0,291;0,303;0,273;0,298;0,301;0,303

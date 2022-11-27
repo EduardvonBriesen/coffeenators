@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Polen;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;14,22;14,52;14,93;15,2;15,05;15,86;16,65;17,09;15,53;16,44;18,63;19,65;20,33;21,07
+Polen;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;17,63;18,16;18,7;18,99;18,94;20,01;21,25;21,94;19,5;21,07;24,15;25,76;26,86;28,07
+Polen;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;5,086;5,294;5,655;5,826;5,707;5,993;6,151;6,262;5,958;6,037;6,65;6,827;6,966;7,125
+Polen;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;15,44;16,04;16,91;17,58;17,45;18,56;19,3;19,85;18,56;19,29;21,55;22,44;22,95;23,51
+Polen;Heißgetränke;Umsatz pro Segment;Total;Milliarden EUR (€);Statista;1,306;1,219;1,175;1,157;1,12;1,143;1,172;1,161;0,964;1,038;1,043;1,178;1,213;1,249
+Polen;Heißgetränke;Umsatz pro Segment;Kaffee;Milliarden EUR (€);Statista;0,822;0,774;0,713;0,653;0,595;0,579;0,605;0,6;0,478;0,524;0,533;0,6;0,616;0,635
+Polen;Heißgetränke;Umsatz pro Segment;Kakao;Milliarden EUR (€);Statista;0,105;0,107;0,113;0,114;0,109;0,113;0,113;0,113;0,1;0,102;0,099;0,107;0,107;0,108
+Polen;Heißgetränke;Umsatz pro Segment;Tee;Milliarden EUR (€);Statista;0,378;0,337;0,349;0,389;0,415;0,451;0,454;0,448;0,386;0,411;0,411;0,471;0,49;0,506
+Polen;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;-6,662;-3,61;-1,532;-3,198;2,054;2,537;-0,939;-17,011;7,732;0,482;12,943;2,971;2,968
+Polen;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;-5,827;-7,88;-8,4;-8,91;-2,672;4,49;-0,81;-20,393;9,732;1,621;12,613;2,6;3,233
+Polen;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;2,284;4,837;1,065;-3,951;3,016;0,532;-0,265;-11,735;2,266;-3,294;8,475;0,187;0,466
+Polen;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;-10,941;3,591;11,544;6,703;8,52;0,643;-1,278;-13,839;6,58;0;14,609;3,902;3,348
+Polen;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;34,15;31,93;30,85;30,41;29,48;30,11;30,91;30,65;25,46;27,45;27,63;31,28;32,26;33,31
+Polen;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;21,5;20,29;18,72;17,17;15,66;15,26;15,96;15,84;12,63;13,87;14,12;15,93;16,37;16,94
+Polen;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;2,751;2,817;2,959;2,995;2,881;2,968;2,988;2,982;2,635;2,699;2,614;2,839;2,852;2,871
+Polen;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;9,899;8,832;9,166;10,24;10,94;11,88;11,97;11,83;10,2;10,88;10,9;12,51;13,03;13,5
+Polen;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,916;99,906;99,894;99,866;99,853;99,838;99,822;99,802;99,78
+Polen;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,084;0,094;0,106;0,134;0,147;0,162;0,178;0,198;0,22
+Polen;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;64,255;62,269;60,593;59,139;57,727;56,624;55,527;55,383;55,246
+Polen;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;35,745;37,731;39,407;40,861;42,273;43,376;44,473;44,617;44,754
+Polen;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;43,178;44,744;45,172;45,55;45,55;46,49;47,968;49,209;44,918;49,258;51,556;53,547;54,272;54,991
+Polen;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;56,822;55,256;54,828;54,45;54,45;53,51;52,032;50,791;55,082;50,742;48,444;46,453;45,728;45,009
+Polen;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;4,821;4,95;4,981;4,969;4,998;5,105;5,367;5,584;4,705;5,524;6,01;6,456;6,636;6,818
+Polen;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;95,179;95,05;95,019;95,031;95,002;94,895;94,633;94,416;95,295;94,476;93,99;93,544;93,364;93,182
+Polen;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;91,802;83,933;78,715;76,097;74,395;72,029;70,405;67,964;62,04;63,105;55,981;59,973;59,661;59,294
+Polen;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;46,628;42,621;38,133;34,397;31,408;28,938;28,47;27,35;24,502;24,883;22,058;23,296;22,922;22,639
+Polen;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;20,673;20,304;19,93;19,554;19,175;18,796;18,418;18,043;16,74;16,897;14,832;15,671;15,396;15,117
+Polen;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;24,501;21,009;20,652;22,146;23,812;24,295;23,517;22,571;20,799;21,326;19,091;21,007;21,344;21,537
+Polen;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;-8,572;-6,216;-3,326;-2,236;-3,181;-2,255;-3,467;-8,716;1,716;-11,29;7,131;-0,519;-0,617
+Polen;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;-8,595;-10,529;-9,797;-8,69;-7,865;-1,618;-3,932;-10,414;1,553;-11,353;5,613;-1,605;-1,235
+Polen;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;-1,785;-1,839;-1,889;-1,936;-1,977;-2,011;-2,038;-7,222;0,94;-12,22;5,651;-1,754;-1,807
+Polen;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;-14,254;-1,698;7,235;7,522;2,029;-3,202;-4,023;-7,853;2,534;-10,479;10,035;1,606;0,906
+Polen;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;2,402;2,2;2,067;2,001;1,958;1,898;1,857;1,794;1,639;1,67;1,483;1,592;1,587;1,581
+Polen;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;1,22;1,117;1,001;0,904;0,827;0,762;0,751;0,722;0,647;0,658;0,584;0,618;0,61;0,603
+Polen;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,541;0,532;0,523;0,514;0,505;0,495;0,486;0,476;0,442;0,447;0,393;0,416;0,409;0,403
+Polen;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,641;0,551;0,542;0,582;0,627;0,64;0,62;0,596;0,55;0,564;0,506;0,558;0,568;0,574
+Polen;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;17,5;17,68;18,04;18,1;17,51;18,34;19,05;19,64;17,88;18,94;21,38;22,66;23,66;24,86
+Polen;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;187;190,4;193,9;197,9;192,4;200,8;206,6;208,7;205,3;202,6;220,8;224,2;227,9;232,4
+Polen;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;10,75;10,74;10,94;10,82;10,45;10,96;11,28;11,44;11,2;11,06;12;12,11;12,28;12,5
+Polen;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;281;255,7;233,1;212,8;190,8;187,4;198,4;197,8;163,1;173,1;172,6;192,1;197;204,2
+Polen;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;115,1;106,3;97,26;90,51;81,43;79,82;85,66;87,38;64,45;76,14;80,05;94,52;100,1;107,3
+Polen;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;165,9;149,3;135,9;122,2;109,4;107,6;112,7;110,5;98,68;97,01;92,51;97,54;96,89;96,88
+Polen;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;-9,004;-8,838;-8,709;-10,338;-1,782;5,87;-0,302;-17,543;6,131;-0,289;11,298;2,551;3,655
+Polen;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-7,646;-8,504;-6,94;-10,032;-1,977;7,316;2,008;-26,242;18,138;5,135;18,076;5,904;7,193
+Polen;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-10,006;-8,975;-10,081;-10,475;-1,645;4,74;-1,952;-10,697;-1,692;-4,639;5,437;-0,666;-0,01
+Polen;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;7,351;6,7;6,12;5,594;5,024;4,938;5,232;5,221;4,31;4,581;4,572;5,098;5,239;5,443
+Polen;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;3,01;2,787;2,553;2,38;2,143;2,103;2,259;2,306;1,703;2,014;2,121;2,509;2,662;2,86
+Polen;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;4,341;3,913;3,567;3,214;2,88;2,835;2,973;2,915;2,607;2,567;2,451;2,589;2,577;2,582
+Polen;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,916;99,906;99,894;99,863;99,85;99,836;99,82;99,801;99,78
+Polen;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,084;0,094;0,106;0,137;0,15;0,164;0,18;0,199;0,22
+Polen;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;64,255;62,269;60,593;59,139;57,727;56,624;55,527;55,383;55,246
+Polen;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;35,745;37,731;39,407;40,861;42,273;43,376;44,473;44,617;44,754
+Polen;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;16,057;14,457;12,92;11,757;10,898;10,22;10,412;10,071;9,124;9,144;8,073;8,477;8,327;8,212
+Polen;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,615;0,558;0,501;0,457;0,423;0,398;0,415;0,419;0,314;0,376;0,363;0,422;0,439;0,462
+Polen;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;15,441;13,899;12,418;11,3;10,475;9,822;9,998;9,652;8,81;8,768;7,71;8,055;7,888;7,75
+Polen;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;-9,962;-10,634;-9;-7,303;-6,227;1,886;-3,277;-9,402;0,217;-11,717;5,005;-1,763;-1,386
+Polen;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-9,248;-10,212;-8,804;-7,433;-6,097;4,318;0,969;-25,027;19,74;-3,544;16,285;4,172;5,104
+Polen;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-9,991;-10,651;-9,008;-7,298;-6,233;1,787;-3,453;-8,724;-0,478;-12,067;4,474;-2,073;-1,748
+Polen;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,42;0,379;0,339;0,309;0,287;0,269;0,275;0,266;0,241;0,242;0,214;0,225;0,221;0,219
+Polen;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,016;0,015;0,013;0,012;0,011;0,01;0,011;0,011;0,008;0,01;0,01;0,011;0,012;0,012
+Polen;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,404;0,364;0,326;0,297;0,276;0,259;0,264;0,255;0,233;0,232;0,204;0,214;0,21;0,207
+Polen;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;9,23;;;;
+Polen;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;24,1;;;;
+Polen;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;28,946;;;;
+Polen;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;20,563;;;;
+Polen;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;17,158;;;;
+Polen;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;45,056;;;;
+Polen;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;54,944;;;;
+Polen;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;36,081;;;;
+Polen;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;34,567;;;;
+Polen;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;29,352;;;;
+Polen;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;17,63;18,16;18,7;18,99;18,94;20,01;21,25;21,94;19,5;21,07;24,15;25,76;26,86;28,07
+Polen;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;17,5;17,68;18,04;18,1;17,51;18,34;19,05;19,64;17,88;18,94;21,38;22,66;23,66;24,86
+Polen;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;17,7;18,41;19,04;19,45;19,71;20,93;22,52;23,29;20,46;22,31;25,76;27,53;28,69;29,89
+Polen;Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;0,822;0,774;0,713;0,653;0,595;0,579;0,605;0,6;0,478;0,524;0,533;0,6;0,616;0,635
+Polen;Kaffee;Umsatz;Instant-Kaffee;Milliarden EUR (€);Statista;0,281;0,256;0,233;0,213;0,191;0,187;0,198;0,198;0,163;0,173;0,173;0,192;0,197;0,204
+Polen;Kaffee;Umsatz;Röstkaffee;Milliarden EUR (€);Statista;0,541;0,518;0,48;0,44;0,404;0,392;0,407;0,402;0,315;0,351;0,36;0,408;0,419;0,431
+Polen;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;-5,827;-7,88;-8,4;-8,91;-2,672;4,49;-0,81;-20,393;9,732;1,621;12,613;2,6;3,233
+Polen;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;-9,004;-8,838;-8,709;-10,338;-1,782;5,87;-0,302;-17,543;6,131;-0,289;11,298;2,551;3,655
+Polen;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;-4,177;-7,407;-8,25;-8,22;-3,093;3,829;-1,057;-21,794;11,567;2,592;13,27;2,598;3,034
+Polen;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;21,5;20,29;18,72;17,17;15,66;15,26;15,96;15,84;12,63;13,87;14,12;15,93;16,37;16,94
+Polen;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;7,351;6,7;6,12;5,594;5,024;4,938;5,232;5,221;4,31;4,581;4,572;5,098;5,239;5,443
+Polen;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;14,15;13,59;12,6;11,58;10,64;10,32;10,72;10,62;8,315;9,29;9,544;10,83;11,13;11,5
+Polen;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,916;99,906;99,894;99,861;99,849;99,835;99,819;99,801;99,78
+Polen;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,084;0,094;0,106;0,139;0,151;0,165;0,181;0,199;0,22
+Polen;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;64,255;62,269;60,593;59,139;57,727;56,624;55,527;55,383;55,246
+Polen;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;35,745;37,731;39,407;40,861;42,273;43,376;44,473;44,617;44,754
+Polen;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;54,092;56,168;58,164;60,4;61,391;63,553;64,394;65,676;61,983;66,364;68,856;71,153;72,085;72,959
+Polen;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;45,908;43,832;41,836;39,6;38,609;36,447;35,606;34,324;38,017;33,636;31,144;28,847;27,915;27,041
+Polen;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;8,083;8,314;8,633;8,986;9,403;9,877;10,317;10,746;9,177;10,755;11,738;12,721;13,193;13,647
+Polen;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;91,917;91,686;91,367;91,014;90,597;90,123;89,683;89,254;90,823;89,245;88,262;87,279;86,807;86,353
+Polen;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;46,628;42,621;38,133;34,397;31,408;28,938;28,47;27,35;24,502;24,883;22,058;23,296;22,922;22,639
+Polen;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;16,057;14,457;12,92;11,757;10,898;10,22;10,412;10,071;9,124;9,144;8,073;8,477;8,327;8,212
+Polen;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;30,572;28,164;25,213;22,64;20,51;18,718;18,057;17,279;15,378;15,739;13,985;14,819;14,595;14,427
+Polen;Kaffee;Volumenveränderung;Total;Prozent;Statista;;-8,595;-10,529;-9,797;-8,69;-7,865;-1,618;-3,932;-10,414;1,553;-11,353;5,613;-1,605;-1,235
+Polen;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;-9,962;-10,634;-9;-7,303;-6,227;1,886;-3,277;-9,402;0,217;-11,717;5,005;-1,763;-1,386
+Polen;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;-7,876;-10,475;-10,206;-9,411;-8,735;-3,531;-4,309;-11,003;2,346;-11,143;5,964;-1,515;-1,148
+Polen;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,22;1,117;1,001;0,904;0,827;0,762;0,751;0,722;0,647;0,658;0,584;0,618;0,61;0,603
+Polen;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,42;0,379;0,339;0,309;0,287;0,269;0,275;0,266;0,241;0,242;0,214;0,225;0,221;0,219
+Polen;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;0,8;0,738;0,662;0,595;0,54;0,493;0,476;0,456;0,406;0,416;0,371;0,393;0,388;0,385
+Polen;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;17,7;18,41;19,04;19,45;19,71;20,93;22,52;23,29;20,46;22,31;25,76;27,53;28,69;29,89
+Polen;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;104,5;110;113,8;115,4;112,2;117,1;120,5;121,7;119,8;118,2;128,8;130,8;133;135,6
+Polen;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;7,711;7,545;7,246;6,819;6,692;6,365;6,612;6,475;6,172;5,904;6,244;6,154;6,242;6,353
+Polen;Röstkaffee;Umsatz;Total;Millionen EUR (€);Statista;541;518,4;480;440,4;404,2;391,7;406,7;402,4;314,7;351,1;360,2;408;418,6;431,3
+Polen;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Millionen EUR (€);Statista;329,6;328,4;317,5;304;283,9;288,2;304;306,8;231,7;271,8;286,8;332,4;343,7;356,3
+Polen;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Millionen EUR (€);Statista;211,4;190;162,5;136,4;120,3;103,5;102,7;95,56;82,98;79,34;73,42;75,55;74,97;74,96
+Polen;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;-4,177;-7,407;-8,25;-8,22;-3,093;3,829;-1,057;-21,794;11,567;2,592;13,27;2,598;3,034
+Polen;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;-0,364;-3,319;-4,252;-6,612;1,515;5,482;0,921;-24,478;17,307;5,519;15,9;3,4;3,666
+Polen;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;-10,123;-14,474;-16,062;-11,804;-13,965;-0,773;-6,952;-13,165;-4,387;-7,462;2,901;-0,768;-0,013
+Polen;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;14,15;13,59;12,6;11,58;10,64;10,32;10,72;10,62;8,315;9,29;9,544;10,83;11,13;11,5
+Polen;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;8,621;8,607;8,335;7,993;7,472;7,595;8,016;8,098;6,123;7,191;7,599;8,823;9,141;9,498
+Polen;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;5,531;4,979;4,265;3,587;3,167;2,726;2,708;2,522;2,192;2,099;1,945;2,005;1,994;1,998
+Polen;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,916;99,906;99,894;99,86;99,848;99,834;99,819;99,801;99,78
+Polen;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,084;0,094;0,106;0,14;0,152;0,166;0,181;0,199;0,22
+Polen;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;64,255;62,269;60,593;59,139;57,727;56,624;55,527;55,383;55,246
+Polen;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;35,745;37,731;39,407;40,861;42,273;43,376;44,473;44,617;44,754
+Polen;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;30,572;28,164;25,213;22,64;20,51;18,718;18,057;17,279;15,378;15,739;13,985;14,819;14,595;14,427
+Polen;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;3,154;2,985;2,791;2,634;2,53;2,461;2,523;2,52;1,935;2,3;2,227;2,542;2,585;2,628
+Polen;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;27,418;25,179;22,423;20,007;17,98;16,257;15,535;14,759;13,443;13,438;11,758;12,277;12,01;11,799
+Polen;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;-7,876;-10,475;-10,206;-9,411;-8,735;-3,531;-4,309;-11,003;2,346;-11,143;5,964;-1,515;-1,148
+Polen;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;-5,344;-6,513;-5,63;-3,938;-2,728;2,512;-0,088;-23,239;18,895;-3,202;14,158;1,697;1,662
+Polen;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;-8,168;-10,945;-10,776;-10,131;-9,58;-4,445;-4,995;-8,914;-0,036;-12,502;4,413;-2,179;-1,753
+Polen;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,8;0,738;0,662;0,595;0,54;0,493;0,476;0,456;0,406;0,416;0,371;0,393;0,388;0,385
+Polen;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,082;0,078;0,073;0,069;0,067;0,065;0,067;0,067;0,051;0,061;0,059;0,067;0,069;0,07
+Polen;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;0,717;0,66;0,589;0,526;0,473;0,428;0,41;0,39;0,355;0,356;0,312;0,326;0,319;0,315

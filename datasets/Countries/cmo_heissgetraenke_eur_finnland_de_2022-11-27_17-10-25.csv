@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Finnland;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;33,07;33,88;33,88;33,7;34,44;35,33;36,15;36,72;31,91;36,33;40,84;42,29;42,36;42,47
+Finnland;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;33,26;34,05;34,01;33,8;34,56;35,49;36,44;37,05;32,18;36,68;41,27;42,77;42,86;43
+Finnland;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;12,95;13,65;13,94;13,91;13,77;13,63;13,61;13,68;12,65;13,93;15,35;15,65;15,6;15,58
+Finnland;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;46,75;47,92;49,11;50,39;51,8;53,1;54,36;55,2;49,84;55,81;62,08;63,85;63,95;64,12
+Finnland;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;1.896;1.954;1.931;1.861;1.834;1.816;1.778;1.785;1.453;1.734;1.752;1.970;1.988;2.007
+Finnland;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;1.822;1.880;1.859;1.792;1.767;1.749;1.710;1.716;1.392;1.665;1.684;1.895;1.913;1.932
+Finnland;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;17,59;17,54;16,81;16;15,62;15,76;18,18;19,24;17,76;20,39;20,28;22,88;23,34;23,82
+Finnland;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;56,22;57;55,34;53,14;51,89;51,86;49,63;50,08;42,68;48,66;47,79;52,16;51,64;51,32
+Finnland;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;3,059;-1,177;-3,625;-1,451;-0,981;-2,093;0,394;-18,599;19,339;1,038;12,443;0,914;0,956
+Finnland;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;3,183;-1,117;-3,604;-1,395;-1,019;-2,23;0,351;-18,881;19,612;1,141;12,53;0,95;0,993
+Finnland;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;-0,284;-4,162;-4,819;-2,375;0,896;15,355;5,831;-7,692;14,809;-0,539;12,821;2,01;2,057
+Finnland;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;1,387;-2,912;-3,975;-2,352;-0,058;-4,3;0,907;-14,776;14,011;-1,788;9,144;-0,997;-0,62
+Finnland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;350,1;359,3;353,6;339,6;333,6;329,6;321,9;322,7;262,2;312,6;315,5;354,3;357,2;360,3
+Finnland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;336,5;345,6;340,4;327;321,3;317,3;309,6;310,2;251,3;300,2;303,2;340,8;343,7;346,8
+Finnland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;3,248;3,225;3,079;2,92;2,841;2,86;3,293;3,477;3,206;3,676;3,65;4,115;4,193;4,277
+Finnland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;10,38;10,48;10,13;9,696;9,438;9,41;8,987;9,052;7,703;8,77;8,604;9,381;9,279;9,215
+Finnland;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,355;99,076;98,682;97,904;97,13;96,124;94,842;93,243;91,283
+Finnland;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,645;0,924;1,318;2,096;2,87;3,876;5,158;6,757;8,717
+Finnland;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;68,786;67,056;65,632;64,557;63,694;63,104;62,609;62,175;61,74
+Finnland;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;31,214;32,944;34,368;35,443;36,306;36,896;37,391;37,825;38,26
+Finnland;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;73,975;75,234;77,212;78,789;78,93;79,207;79,231;78,771;74,439;77,002;77,645;78,384;78,257;78,113
+Finnland;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;26,025;24,766;22,788;21,211;21,07;20,793;20,769;21,229;25,561;22,998;22,355;21,616;21,743;21,887
+Finnland;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;12,879;12,775;12,658;12,627;12,664;12,753;12,722;12,612;10,206;11,495;11,961;12,446;12,406;12,357
+Finnland;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;87,121;87,225;87,342;87,373;87,336;87,247;87,278;87,388;89,794;88,505;88,039;87,554;87,594;87,643
+Finnland;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;57,331;57,671;56,996;55,227;53,26;51,407;49,176;48,625;45,523;47,737;42,903;46,587;46,932;47,25
+Finnland;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;54,771;55,196;54,662;53,022;51,124;49,274;46,927;46,312;43,262;45,401;40,813;44,308;44,628;44,921
+Finnland;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;1,358;1,285;1,206;1,15;1,134;1,156;1,336;1,406;1,405;1,464;1,321;1,463;1,496;1,529
+Finnland;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;1,203;1,19;1,127;1,055;1,002;0,977;0,913;0,907;0,856;0,872;0,77;0,817;0,808;0,8
+Finnland;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;0,592;-1,171;-3,103;-3,562;-3,479;-4,339;-1,121;-6,38;4,863;-10,126;8,588;0,739;0,679
+Finnland;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;0,777;-0,967;-3;-3,581;-3,619;-4,763;-1,31;-6,586;4,944;-10,107;8,565;0,722;0,656
+Finnland;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;-5,369;-6,122;-4,653;-1,374;1,947;15,565;5,191;-0,082;4,223;-9,787;10,739;2,304;2,208
+Finnland;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;-1,075;-5,278;-6,412;-5,02;-2,5;-6,52;-0,624;-5,614;1,822;-11,704;6,106;-1,136;-0,889
+Finnland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;10,588;10,603;10,436;10,076;9,688;9,327;8,905;8,79;8,216;8,604;7,723;8,378;8,433;8,484
+Finnland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;10,115;10,148;10,009;9,674;9,299;8,94;8,497;8,371;7,808;8,183;7,347;7,968;8,019;8,065
+Finnland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,251;0,236;0,221;0,21;0,206;0,21;0,242;0,254;0,254;0,264;0,238;0,263;0,269;0,275
+Finnland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,222;0,219;0,206;0,192;0,182;0,177;0,165;0,164;0,155;0,157;0,139;0,147;0,145;0,144
+Finnland;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;8,579;;;;
+Finnland;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;21,383;;;;
+Finnland;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;22,727;;;;
+Finnland;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;22,663;;;;
+Finnland;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;24,648;;;;
+Finnland;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;50,192;;;;
+Finnland;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;49,808;;;;
+Finnland;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;36,481;;;;
+Finnland;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;33,656;;;;
+Finnland;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;29,863;;;;
+Finnland;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;33,26;34,05;34,01;33,8;34,56;35,49;36,44;37,05;32,18;36,68;41,27;42,77;42,86;43
+Finnland;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;104;107,6;109,1;109,5;110;110,9;112,2;113,7;95,97;111,8;125,3;130,3;130,3;130,6
+Finnland;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;31,51;32,23;32,07;31,69;32,3;33,11;33,93;34,52;30,13;34,34;38,63;40;40,09;40,21
+Finnland;Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;1,822;1,88;1,859;1,792;1,767;1,749;1,71;1,716;1,392;1,665;1,684;1,895;1,913;1,932
+Finnland;Kaffee;Umsatz;Instant-Kaffee;Milliarden EUR (€);Statista;0,138;0,143;0,15;0,157;0,163;0,167;0,169;0,169;0,129;0,153;0,155;0,177;0,179;0,181
+Finnland;Kaffee;Umsatz;Röstkaffee;Milliarden EUR (€);Statista;1,684;1,736;1,709;1,635;1,604;1,582;1,541;1,547;1,263;1,512;1,529;1,718;1,734;1,75
+Finnland;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;3,183;-1,117;-3,604;-1,395;-1,019;-2,23;0,351;-18,881;19,612;1,141;12,53;0,95;0,993
+Finnland;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;3,991;4,815;4,527;3,822;2,393;1,019;-0,059;-23,205;18,47;1,37;14,093;1,015;1,173
+Finnland;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;3,088;-1,555;-4,33;-1,896;-1,372;-2,592;0,389;-18,358;19,715;1,124;12,361;0,931;0,923
+Finnland;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;336,5;345,6;340,4;327;321,3;317,3;309,6;310,2;251,3;300,2;303,2;340,8;343,7;346,8
+Finnland;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;25,46;26,35;27,5;28,65;29,66;30,28;30,53;30,46;23,36;27,63;27,98;31,88;32,18;32,53
+Finnland;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;311;319,2;312,9;298,3;291,7;287;279,1;279,7;227,9;272,5;275,2;309;311,5;314,3
+Finnland;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,355;99,076;98,682;97,902;97,129;96,122;94,841;93,242;91,283
+Finnland;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,645;0,924;1,318;2,098;2,871;3,878;5,159;6,758;8,717
+Finnland;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;68,786;67,056;65,632;64,557;63,694;63,104;62,609;62,175;61,74
+Finnland;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;31,214;32,944;34,368;35,443;36,306;36,896;37,391;37,825;38,26
+Finnland;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;74,733;76,004;78,047;79,702;79,855;80,159;80,226;79,765;75,562;78,043;78,643;79,342;79,2;79,04
+Finnland;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;25,267;23,996;21,953;20,298;20,145;19,841;19,774;20,235;24,438;21,957;21,357;20,658;20,8;20,96
+Finnland;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;13,297;13,171;13,031;12,991;13,034;13,142;13,157;13,063;10,59;11,92;12,402;12,906;12,867;12,819
+Finnland;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;86,703;86,829;86,969;87,009;86,966;86,858;86,843;86,937;89,41;88,08;87,598;87,094;87,133;87,181
+Finnland;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;54,771;55,196;54,662;53,022;51,124;49,274;46,927;46,312;43,262;45,401;40,813;44,308;44,628;44,921
+Finnland;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;1,325;1,332;1,376;1,434;1,482;1,504;1,503;1,482;1,349;1,371;1,24;1,36;1,375;1,387
+Finnland;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;53,446;53,865;53,286;51,588;49,642;47,769;45,424;44,83;41,914;44,03;39,572;42,948;43,253;43,534
+Finnland;Kaffee;Volumenveränderung;Total;Prozent;Statista;;0,777;-0,967;-3;-3,581;-3,619;-4,763;-1,31;-6,586;4,944;-10,107;8,565;0,722;0,656
+Finnland;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;0,482;3,333;4,223;3,305;1,529;-0,108;-1,353;-9,027;1,689;-9,564;9,679;1,054;0,909
+Finnland;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;0,784;-1,074;-3,187;-3,772;-3,772;-4,909;-1,309;-6,505;5,049;-10,123;8,53;0,711;0,648
+Finnland;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;10,115;10,148;10,009;9,674;9,299;8,94;8,497;8,371;7,808;8,183;7,347;7,968;8,019;8,065
+Finnland;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,245;0,245;0,252;0,262;0,27;0,273;0,272;0,268;0,243;0,247;0,223;0,245;0,247;0,249
+Finnland;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;9,87;9,903;9,757;9,412;9,03;8,667;8,225;8,103;7,565;7,936;7,124;7,724;7,772;7,816
+Finnland;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;31,51;32,23;32,07;31,69;32,3;33,11;33,93;34,52;30,13;34,34;38,63;40;40,09;40,21
+Finnland;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;177,3;186,4;192,8;195,5;198,8;202,7;207,5;211,2;215;225,1;245,2;246,2;247;248,1
+Finnland;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;9,33;9,043;8,198;7,479;7,604;7,716;7,921;8,257;8,431;8,778;9,669;9,755;9,845;9,953
+Finnland;Röstkaffee;Umsatz;Total;Milliarden EUR (€);Statista;1,684;1,736;1,709;1,635;1,604;1,582;1,541;1,547;1,263;1,512;1,529;1,718;1,734;1,75
+Finnland;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Milliarden EUR (€);Statista;1,251;1,313;1,328;1,299;1,275;1,261;1,228;1,225;0,947;1,171;1,193;1,353;1,362;1,372
+Finnland;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Milliarden EUR (€);Statista;0,433;0,423;0,38;0,336;0,329;0,321;0,313;0,322;0,316;0,341;0,336;0,365;0,371;0,378
+Finnland;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;3,088;-1,555;-4,33;-1,896;-1,372;-2,592;0,389;-18,358;19,715;1,124;12,361;0,931;0,923
+Finnland;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;4,956;1,142;-2,184;-1,848;-1,098;-2,617;-0,244;-22,727;23,706;1,879;13,412;0,665;0,734
+Finnland;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;-2,172;-10,156;-11,646;-2,202;-2,464;-2,402;3,004;-1,893;7,78;-1,526;8,88;1,669;1,803
+Finnland;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;311;319,2;312,9;298,3;291,7;287;279,1;279,7;227,9;272,5;275,2;309;311,5;314,3
+Finnland;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;231,1;241,4;243,2;237;231,9;228,8;222,4;221,5;170,8;211,1;214,8;243,3;244,8;246,4
+Finnland;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;79,93;77,84;69,64;61,33;59,79;58,17;56,66;58,25;57,08;61,42;60,41;65,71;66,76;67,91
+Finnland;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,355;99,076;98,682;97,913;97,141;96,135;94,853;93,25;91,283
+Finnland;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,645;0,924;1,318;2,087;2,859;3,865;5,147;6,75;8,717
+Finnland;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;68,786;67,056;65,632;64,557;63,694;63,104;62,609;62,175;61,74
+Finnland;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;31,214;32,944;34,368;35,443;36,306;36,896;37,391;37,825;38,26
+Finnland;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;53,446;53,865;53,286;51,588;49,642;47,769;45,424;44,83;41,914;44,03;39,572;42,948;43,253;43,534
+Finnland;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;7,059;7,045;6,891;6,646;6,413;6,222;5,922;5,801;4,402;5,203;4,866;5,494;5,516;5,531
+Finnland;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;46,387;46,819;46,396;44,942;43,229;41,548;39,503;39,029;37,511;38,826;34,707;37,454;37,737;38,003
+Finnland;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;0,784;-1,074;-3,187;-3,772;-3,772;-4,909;-1,309;-6,505;5,049;-10,123;8,53;0,711;0,648
+Finnland;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;-0,192;-2,193;-3,554;-3,499;-2,985;-4,824;-2,035;-24,116;18,2;-6,486;12,911;0,402;0,263
+Finnland;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;0,933;-0,905;-3,133;-3,813;-3,889;-4,922;-1,2;-3,887;3,505;-10,611;7,916;0,757;0,704
+Finnland;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;9,87;9,903;9,757;9,412;9,03;8,667;8,225;8,103;7,565;7,936;7,124;7,724;7,772;7,816
+Finnland;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;1,304;1,295;1,262;1,212;1,167;1,129;1,072;1,049;0,795;0,938;0,876;0,988;0,991;0,993
+Finnland;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;8,567;8,608;8,495;8,199;7,863;7,539;7,153;7,055;6,77;6,998;6,248;6,736;6,781;6,823
+Finnland;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;104;107,6;109,1;109,5;110;110,9;112,2;113,7;95,97;111,8;125,3;130,3;130,3;130,6
+Finnland;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;492,3;513,9;526,8;534,4;543,5;554,2;567,2;577,4;587,9;615,4;670,5;673,1;675,2;678,3
+Finnland;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;25,01;24,99;24,24;23,17;22,06;21,09;20,19;20,23;20,52;21,38;23,11;23,02;22,97;22,96
+Finnland;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;137,8;143,3;150,2;157;163;166,9;168,6;168,5;129,4;153,3;155,4;177,3;179,1;181,2
+Finnland;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;110,3;115,7;122,5;129,4;135,9;140,5;143,3;143,6;105,4;128,4;131,3;151,1;152,7;154,5
+Finnland;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;27,55;27,66;27,72;27,62;27,17;26,38;25,23;24,96;23,99;24,86;24,13;26,15;26,37;26,62
+Finnland;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;3,991;4,815;4,527;3,822;2,393;1,019;-0,059;-23,205;18,47;1,37;14,093;1,015;1,173
+Finnland;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;4,896;5,877;5,633;5,023;3,385;1,993;0,209;-26,602;21,822;2,259;15,08;1,059;1,179
+Finnland;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;0,399;0,217;-0,361;-1,629;-2,908;-4,359;-1,07;-3,886;3,627;-2,936;8,371;0,841;0,948
+Finnland;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;25,46;26,35;27,5;28,65;29,66;30,28;30,53;30,46;23,36;27,63;27,98;31,88;32,18;32,53
+Finnland;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;20,37;21,26;22,43;23,61;24,72;25,49;25,96;25,95;19,03;23,14;23,63;27,17;27,44;27,75
+Finnland;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;5,087;5,085;5,075;5,039;4,942;4,787;4,569;4,513;4,33;4,481;4,344;4,702;4,739;4,779
+Finnland;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,355;99,076;98,682;97,796;97,009;95,999;94,729;93,167;91,283
+Finnland;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,645;0,924;1,318;2,204;2,991;4,001;5,271;6,833;8,717
+Finnland;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;68,786;67,056;65,632;64,557;63,694;63,104;62,609;62,175;61,74
+Finnland;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;31,214;32,944;34,368;35,443;36,306;36,896;37,391;37,825;38,26
+Finnland;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;1,325;1,332;1,376;1,434;1,482;1,504;1,503;1,482;1,349;1,371;1,24;1,36;1,375;1,387
+Finnland;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,224;0,225;0,232;0,242;0,25;0,254;0,253;0,249;0,179;0,209;0,196;0,224;0,226;0,228
+Finnland;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;1,101;1,107;1,144;1,192;1,232;1,251;1,25;1,234;1,169;1,163;1,044;1,136;1,148;1,159
+Finnland;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;0,482;3,333;4,223;3,305;1,529;-0,108;-1,353;-9,027;1,689;-9,564;9,679;1,054;0,909
+Finnland;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;0,465;3,304;4,174;3,225;1,401;-0,303;-1,632;-27,87;16,357;-6,155;14,642;0,767;0,712
+Finnland;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;0,485;3,338;4,233;3,321;1,555;-0,069;-1,297;-5,229;-0,561;-10,175;8,749;1,111;0,948
+Finnland;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,245;0,245;0,252;0,262;0,27;0,273;0,272;0,268;0,243;0,247;0,223;0,245;0,247;0,249
+Finnland;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,041;0,041;0,043;0,044;0,045;0,046;0,046;0,045;0,032;0,038;0,035;0,04;0,041;0,041
+Finnland;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,203;0,203;0,209;0,217;0,224;0,227;0,226;0,223;0,211;0,21;0,188;0,204;0,206;0,208

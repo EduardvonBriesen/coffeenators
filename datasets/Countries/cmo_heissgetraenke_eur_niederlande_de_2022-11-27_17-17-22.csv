@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Niederlande;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;47,36;48,55;48,16;50,33;52,32;55,04;56,82;58,34;49,25;58,21;66,32;69,94;70,53;71,19
+Niederlande;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;53,13;54,06;53,08;55,1;56,92;59,58;61,72;63,56;53,82;63,81;72,7;76,93;77,88;78,95
+Niederlande;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;11,5;13,11;14,44;15,18;15,34;15,36;15,38;15,51;14,05;15,61;17,39;17,84;17,89;17,96
+Niederlande;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;29,45;30,81;32,15;33,65;35,34;37,46;39,3;40,84;36,11;41,69;47,15;49,37;49,53;49,77
+Niederlande;Heißgetränke;Umsatz pro Segment;Total;Milliarden EUR (€);Statista;7,253;7,439;7,63;8,483;9,481;10,66;10,62;10,6;8,492;9,953;10,08;11,05;10,92;10,76
+Niederlande;Heißgetränke;Umsatz pro Segment;Kaffee;Milliarden EUR (€);Statista;6,682;6,801;6,916;7,709;8,656;9,792;9,721;9,658;7,634;8,976;9,099;9,963;9,821;9,643
+Niederlande;Heißgetränke;Umsatz pro Segment;Kakao;Milliarden EUR (€);Statista;0,15;0,154;0,155;0,156;0,157;0,16;0,165;0,168;0,157;0,171;0,167;0,181;0,183;0,184
+Niederlande;Heißgetränke;Umsatz pro Segment;Tee;Milliarden EUR (€);Statista;0,42;0,485;0,559;0,617;0,668;0,707;0,734;0,773;0,701;0,805;0,81;0,905;0,918;0,93
+Niederlande;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;2,564;2,568;11,18;11,765;12,435;-0,375;-0,188;-19,887;17,204;1,276;9,623;-1,176;-1,465
+Niederlande;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;1,781;1,691;11,466;12,284;13,124;-0,725;-0,648;-20,957;17,579;1,37;9,496;-1,425;-1,812
+Niederlande;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;2,06;1,042;0,58;0,833;1,906;2,743;1,76;-6,261;9,033;-2,742;8,578;0,994;0,875
+Niederlande;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;15,271;15,394;10,39;8,246;5,792;3,89;5,324;-9,386;14,909;0,621;11,624;1,448;1,362
+Niederlande;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;431,9;441,6;451,7;500,8;558,3;626,2;622,5;620;495,6;579,6;585,4;640,5;631,8;621,1
+Niederlande;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;397,9;403,8;409,4;455,1;509,7;575,3;569,8;564,9;445,5;522,7;528,7;577,6;568,1;556,8
+Niederlande;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;8,965;9,117;9,187;9,218;9,269;9,423;9,659;9,811;9,176;9,983;9,688;10,49;10,57;10,65
+Niederlande;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;25,03;28,77;33,1;36,45;39,35;41,53;43,05;45,24;40,9;46,9;47,09;52,44;53,09;53,71
+Niederlande;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;98,913;98,524;98,006;96,917;96,018;94,92;93,604;92,064;90,292
+Niederlande;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;1,087;1,476;1,994;3,083;3,982;5,08;6,396;7,936;9,708
+Niederlande;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;67,95;66,347;64,53;63,142;61,864;61,322;60,992;60,665;60,338
+Niederlande;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;32,05;33,653;35,47;36,858;38,136;38,678;39,008;39,335;39,662
+Niederlande;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;78,078;77,823;77,926;79,491;80,69;81,657;81,782;81,921;76,873;80,379;81,68;82,851;82,963;83,007
+Niederlande;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;21,922;22,177;22,074;20,509;19,31;18,343;18,218;18,079;23,127;19,621;18,32;17,149;17,037;16,993
+Niederlande;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;18,455;18,655;18,985;19,446;20,011;20,479;20,523;20,615;15,972;18,781;19,891;21,103;21,16;21,187
+Niederlande;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;81,545;81,345;81,015;80,554;79,989;79,521;79,477;79,385;84,028;81,219;80,109;78,897;78,84;78,813
+Niederlande;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;153,124;153,233;158,424;168,538;181,223;193,657;186,9;181,701;172,433;170,971;151,943;157,972;154,838;151,106
+Niederlande;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;125,756;125,798;130,284;139,902;152,056;164,344;157,499;151,948;141,836;140,665;125,165;129,506;126,094;122,146
+Niederlande;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;13,095;11,711;10,75;10,287;10,258;10,444;10,714;10,813;11,189;10,986;9,589;10,143;10,217;10,27
+Niederlande;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;14,273;15,725;17,39;18,349;18,909;18,868;18,687;18,94;19,409;19,32;17,188;18,323;18,527;18,69
+Niederlande;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;0,071;3,388;6,384;7,526;6,861;-3,489;-2,782;-5,1;-0,848;-11,129;3,968;-1,984;-2,41
+Niederlande;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;0,033;3,567;7,382;8,688;8,081;-4,165;-3,524;-6,655;-0,825;-11,019;3,468;-2,635;-3,131
+Niederlande;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;-10,575;-8,205;-4,303;-0,287;1,821;2,583;0,922;3,477;-1,81;-12,714;5,768;0,731;0,525
+Niederlande;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;10,176;10,589;5,511;3,053;-0,215;-0,961;1,355;2,475;-0,458;-11,035;6,603;1,112;0,883
+Niederlande;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;9,119;9,097;9,378;9,95;10,672;11,377;10,956;10,628;10,063;9,956;8,828;9,158;8,958;8,725
+Niederlande;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;7,489;7,469;7,713;8,259;8,954;9,655;9,232;8,887;8,278;8,191;7,272;7,508;7,295;7,052
+Niederlande;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,78;0,695;0,636;0,607;0,604;0,614;0,628;0,632;0,653;0,64;0,557;0,588;0,591;0,593
+Niederlande;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,85;0,934;1,029;1,083;1,114;1,109;1,095;1,108;1,133;1,125;0,999;1,062;1,072;1,079
+Niederlande;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;8,9;;;;
+Niederlande;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;18,234;;;;
+Niederlande;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;18,665;;;;
+Niederlande;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;25,485;;;;
+Niederlande;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;28,715;;;;
+Niederlande;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;49,103;;;;
+Niederlande;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;50,897;;;;
+Niederlande;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;34,036;;;;
+Niederlande;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;38,639;;;;
+Niederlande;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;27,325;;;;
+Niederlande;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;53,13;54,06;53,08;55,1;56,92;59,58;61,72;63,56;53,82;63,81;72,7;76,93;77,88;78,95
+Niederlande;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;44,23;45;45,61;46,64;48,19;50,56;53,06;54,47;45,33;53,65;61,38;65,34;66,54;67,98
+Niederlande;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;54,25;55,1;53,95;56,22;58,25;61,13;63,61;65,63;55,8;66,07;75,1;79,42;80,33;81,35
+Niederlande;Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;6,682;6,801;6,916;7,709;8,656;9,792;9,721;9,658;7,634;8,976;9,099;9,963;9,821;9,643
+Niederlande;Kaffee;Umsatz;Instant-Kaffee;Milliarden EUR (€);Statista;0,622;0,583;0,615;0,758;0,964;1,215;1,497;1,534;1,213;1,372;1,346;1,494;1,489;1,493
+Niederlande;Kaffee;Umsatz;Röstkaffee;Milliarden EUR (€);Statista;6,06;6,217;6,301;6,951;7,692;8,577;8,224;8,125;6,421;7,604;7,753;8,469;8,331;8,15
+Niederlande;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;1,781;1,691;11,466;12,284;13,124;-0,725;-0,648;-20,957;17,579;1,37;9,496;-1,425;-1,812
+Niederlande;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;-6,13;5,365;23,345;27,077;26,103;23,21;2,472;-20,926;13,108;-1,895;10,996;-0,335;0,269
+Niederlande;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;2,591;1,351;10,316;10,66;11,505;-4,116;-1,204;-20,972;18,424;1,959;9,235;-1,629;-2,173
+Niederlande;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;397,9;403,8;409,4;455,1;509,7;575,3;569,8;564,9;445,5;522,7;528,7;577,6;568,1;556,8
+Niederlande;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;37,01;34,64;36,39;44,76;56,74;71,38;87,73;89,7;70,8;79,89;78,19;86,63;86,16;86,2
+Niederlande;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;360,9;369,1;373;410,4;453;503,9;482,1;475,2;374,7;442,8;450,5;491;482;470,6
+Niederlande;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;98,913;98,524;98,006;96,9;96,001;94,903;93,589;92,054;90,292
+Niederlande;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;1,087;1,476;1,994;3,1;3,999;5,097;6,411;7,946;9,708
+Niederlande;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;67,95;66,347;64,53;63,142;61,864;61,322;60,992;60,665;60,338
+Niederlande;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;32,05;33,653;35,47;36,858;38,136;38,678;39,008;39,335;39,662
+Niederlande;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;79,736;79,821;80,25;81,932;83,091;83,886;84,053;84,266;79,828;83,099;84,35;85,494;85,668;85,776
+Niederlande;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;20,264;20,179;19,75;18,068;16,909;16,114;15,947;15,734;20,172;16,901;15,65;14,506;14,332;14,224
+Niederlande;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;21,259;21,464;21,794;22,17;22,642;22,984;23,128;23,338;18,321;21,517;22,766;24,225;24,409;24,57
+Niederlande;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;78,741;78,536;78,206;77,83;77,358;77,016;76,872;76,662;81,679;78,483;77,234;75,775;75,591;75,43
+Niederlande;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;125,756;125,798;130,284;139,902;152,056;164,344;157,499;151,948;141,836;140,665;125,165;129,506;126,094;122,146
+Niederlande;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;14,051;12,965;13,476;16,258;19,995;24,033;28,205;28,155;26,764;25,57;21,926;22,869;22,384;21,959
+Niederlande;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;111,705;112,833;116,808;123,644;132,062;140,311;129,293;123,792;115,072;115,095;103,24;106,638;103,71;100,187
+Niederlande;Kaffee;Volumenveränderung;Total;Prozent;Statista;;0,033;3,567;7,382;8,688;8,081;-4,165;-3,524;-6,655;-0,825;-11,019;3,468;-2,635;-3,131
+Niederlande;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;-7,731;3,947;20,642;22,982;20,197;17,361;-0,177;-4,942;-4,459;-14,254;4,302;-2,119;-1,9
+Niederlande;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;1,01;3,523;5,852;6,808;6,247;-7,852;-4,255;-7,045;0,02;-10,3;3,291;-2,745;-3,397
+Niederlande;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;7,489;7,469;7,713;8,259;8,954;9,655;9,232;8,887;8,278;8,191;7,272;7,508;7,295;7,052
+Niederlande;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,837;0,77;0,798;0,96;1,177;1,412;1,653;1,647;1,562;1,489;1,274;1,326;1,295;1,268
+Niederlande;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;6,652;6,699;6,915;7,3;7,777;8,243;7,579;7,241;6,716;6,702;5,998;6,182;6;5,785
+Niederlande;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;44,23;45;45,61;46,64;48,19;50,56;53,06;54,47;45,33;53,65;61,38;65,34;66,54;67,98
+Niederlande;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;222,2;225,8;229,8;235;240,7;250,2;257,2;263;268,9;282,6;309,1;311,4;313,4;315,8
+Niederlande;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;12,09;12,34;12,31;12,56;13,31;14,32;15,91;16,34;16,37;16,75;18,2;18,09;17,99;17,92
+Niederlande;Instant-Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;0,622;0,583;0,615;0,758;0,964;1,215;1,497;1,534;1,213;1,372;1,346;1,494;1,489;1,493
+Niederlande;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Milliarden EUR (€);Statista;0,478;0,448;0,474;0,585;0,738;0,924;1,117;1,145;0,825;1,003;1,006;1,147;1,153;1,166
+Niederlande;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Milliarden EUR (€);Statista;0,144;0,136;0,141;0,173;0,225;0,291;0,38;0,389;0,388;0,369;0,34;0,347;0,337;0,327
+Niederlande;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;-6,13;5,365;23,345;27,077;26,103;23,21;2,472;-20,926;13,108;-1,895;10,996;-0,335;0,269
+Niederlande;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-6,219;5,872;23,45;26,102;25,142;20,914;2,507;-27,921;21,532;0,299;14,016;0,523;1,127
+Niederlande;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-5,772;3,69;23,06;30,307;29,25;30,323;2,477;-0,283;-4,899;-7,89;2,178;-3,054;-2,734
+Niederlande;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;37,01;34,64;36,39;44,76;56,74;71,38;87,73;89,7;70,8;79,89;78,19;86,63;86,16;86,2
+Niederlande;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;28,44;26,59;28,07;34,56;43,47;54,27;65,48;66,95;48,17;58,41;58,45;66,51;66,69;67,3
+Niederlande;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;8,566;8,043;8,318;10,21;13,27;17,11;22,25;22,75;22,63;21,47;19,74;20,12;19,47;18,9
+Niederlande;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;98,913;98,524;98,006;96,44;95,509;94,418;93,171;91,787;90,292
+Niederlande;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;1,087;1,476;1,994;3,56;4,491;5,582;6,829;8,213;9,708
+Niederlande;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;67,95;66,347;64,53;63,142;61,864;61,322;60,992;60,665;60,338
+Niederlande;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;32,05;33,653;35,47;36,858;38,136;38,678;39,008;39,335;39,662
+Niederlande;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;14,051;12,965;13,476;16,258;19,995;24,033;28,205;28,155;26,764;25,57;21,926;22,869;22,384;21,959
+Niederlande;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;2,149;1,984;2,063;2,491;3,066;3,692;4,344;4,352;3,069;3,549;3,255;3,684;3,678;3,69
+Niederlande;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;11,901;10,981;11,413;13,767;16,928;20,341;23,862;23,803;23,695;22,021;18,671;19,185;18,706;18,269
+Niederlande;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;-7,731;3,947;20,642;22,982;20,197;17,361;-0,177;-4,942;-4,459;-14,254;4,302;-2,119;-1,9
+Niederlande;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-7,703;3,996;20,728;23,115;20,395;17,654;0,197;-29,485;15,642;-8,288;13,186;-0,15;0,325
+Niederlande;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-7,736;3,938;20,627;22,958;20,161;17,308;-0,245;-0,455;-7,063;-15,215;2,753;-2,498;-2,337
+Niederlande;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,837;0,77;0,798;0,96;1,177;1,412;1,653;1,647;1,562;1,489;1,274;1,326;1,295;1,268
+Niederlande;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,128;0,118;0,122;0,147;0,181;0,217;0,255;0,255;0,179;0,207;0,189;0,214;0,213;0,213
+Niederlande;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,709;0,652;0,676;0,813;0,997;1,195;1,399;1,392;1,383;1,282;1,085;1,112;1,082;1,055
+Niederlande;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;54,25;55,1;53,95;56,22;58,25;61,13;63,61;65,63;55,8;66,07;75,1;79,42;80,33;81,35
+Niederlande;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;197,3;199,1;192,8;200,9;205,8;213,9;219,9;224,8;229,9;241,6;264,2;266,2;267,9;270
+Niederlande;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;13,89;14,08;13,54;12,83;12,3;12,11;12,04;12,2;12,5;12,99;13,9;13,91;13,98;14,14
+Niederlande;Röstkaffee;Umsatz;Total;Milliarden EUR (€);Statista;6,06;6,217;6,301;6,951;7,692;8,577;8,224;8,125;6,421;7,604;7,753;8,469;8,331;8,15
+Niederlande;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Milliarden EUR (€);Statista;4,85;4,98;5,076;5,731;6,454;7,29;7,054;6,994;5,268;6,456;6,669;7,371;7,26;7,106
+Niederlande;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Milliarden EUR (€);Statista;1,21;1,237;1,225;1,22;1,238;1,287;1,171;1,131;1,152;1,148;1,084;1,098;1,071;1,044
+Niederlande;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;2,591;1,351;10,316;10,66;11,505;-4,116;-1,204;-20,972;18,424;1,959;9,235;-1,629;-2,173
+Niederlande;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;2,68;1,928;12,904;12,616;12,953;-3,237;-0,851;-24,678;22,551;3,299;10,526;-1,506;-2,121
+Niederlande;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;2,231;-0,97;-0,408;1,475;3,958;-9,013;-3,416;1,857;-0,347;-5,575;1,292;-2,459;-2,521
+Niederlande;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;360,9;369,1;373;410,4;453;503,9;482,1;475,2;374,7;442,8;450,5;491;482;470,6
+Niederlande;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;288,8;295,7;300,5;338,3;380,1;428,3;413,5;409,1;307,5;375,9;387,5;427,3;420;410,3
+Niederlande;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;72,07;73,43;72,54;72,03;72,92;75,59;68,62;66,13;67,23;66,87;63;63,66;61,96;60,29
+Niederlande;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;98,913;98,524;98,006;96,986;96,089;94,988;93,663;92,102;90,292
+Niederlande;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;1,087;1,476;1,994;3,014;3,911;5,012;6,337;7,898;9,708
+Niederlande;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;67,95;66,347;64,53;63,142;61,864;61,322;60,992;60,665;60,338
+Niederlande;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;32,05;33,653;35,47;36,858;38,136;38,678;39,008;39,335;39,662
+Niederlande;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;111,705;112,833;116,808;123,644;132,062;140,311;129,293;123,792;115,072;115,095;103,24;106,638;103,71;100,187
+Niederlande;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;24,585;25,017;26,332;28,525;31,362;34,081;32,083;31,109;22,917;26,718;25,24;27,689;27,099;26,32
+Niederlande;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;87,12;87,816;90,476;95,118;100,699;106,23;97,21;92,683;92,154;88,377;77,999;78,949;76,61;73,866
+Niederlande;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;1,01;3,523;5,852;6,808;6,247;-7,852;-4,255;-7,045;0,02;-10,3;3,291;-2,745;-3,397
+Niederlande;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;1,755;5,255;8,332;9,944;8,671;-5,862;-3,036;-26,333;16,583;-5,53;9,701;-2,129;-2,875
+Niederlande;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;0,799;3,029;5,131;5,867;5,492;-8,491;-4,657;-0,57;-4,099;-11,742;1,217;-2,962;-3,582
+Niederlande;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;6,652;6,699;6,915;7,3;7,777;8,243;7,579;7,241;6,716;6,702;5,998;6,182;6;5,785
+Niederlande;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;1,464;1,485;1,559;1,684;1,847;2,002;1,881;1,82;1,337;1,556;1,466;1,605;1,568;1,52
+Niederlande;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;5,188;5,214;5,356;5,616;5,93;6,241;5,698;5,421;5,378;5,146;4,532;4,577;4,432;4,265

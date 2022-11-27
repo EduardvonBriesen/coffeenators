@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Litauen;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;17,19;18;18,67;19,68;20,81;22,34;23,33;24,44;23,75;26,86;30,66;32,08;32,92;33,73
+Litauen;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;16,54;17,35;18,05;19,14;20,34;21,94;22,94;24,07;23,28;26,47;30,31;31,79;32,68;33,53
+Litauen;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;7,715;8,165;8,233;7,967;7,648;7,448;7,288;7,321;7,244;7,752;8,538;8,608;8,674;8,751
+Litauen;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;23,39;24,03;24,25;24,7;25,49;26,71;28,48;29,58;29,64;31,97;35,43;36,27;36,73;37,2
+Litauen;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;198;208,5;220,6;242,1;269,6;305,1;321,4;334,6;282,5;334,5;346,5;394,9;401,5;407,2
+Litauen;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;170,8;179,3;189,8;209,9;235,8;269,7;289,1;301,2;251,9;298,5;309,5;352,6;357,8;362,1
+Litauen;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;0,337;0,389;0,382;0,383;0,4;0,403;0,421;0,449;0,423;0,508;0,529;0,608;0,644;0,681
+Litauen;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;26,9;28,77;30,44;31,83;33,39;35,06;31,85;33;30,21;35,47;36,46;41,63;43,04;44,41
+Litauen;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;5,303;5,803;9,746;11,359;13,168;5,343;4,107;-15,571;18,407;3,587;13,968;1,671;1,42
+Litauen;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;4,977;5,856;10,59;12,339;14,377;7,193;4,185;-16,368;18,499;3,685;13,926;1,475;1,202
+Litauen;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;15,661;-1,824;0,209;4,361;0,726;4,646;6,648;-5,766;19,915;4,196;14,918;5,89;5,842
+Litauen;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;6,952;5,805;4,566;4,901;5,001;-9,156;3,611;-8,455;17,411;2,791;14,18;3,387;3,183
+Litauen;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;65,02;69,28;74,25;82,57;93,31;107,2;114,7;121,3;103,8;124,3;130,2;149,7;153,6;157,2
+Litauen;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;56,07;59,59;63,87;71,58;81,61;94,77;103,2;109,1;92,53;111;116,3;133,7;136,9;139,8
+Litauen;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;0,111;0,129;0,129;0,131;0,138;0,141;0,15;0,163;0,155;0,189;0,199;0,231;0,246;0,263
+Litauen;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;8,834;9,561;10,24;10,86;11,56;12,32;11,37;11,96;11,1;13,19;13,7;15,79;16,47;17,14
+Litauen;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,887;99,873;99,858;99,815;99,799;99,781;99,761;99,739;99,713
+Litauen;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,113;0,127;0,142;0,185;0,201;0,219;0,239;0,261;0,287
+Litauen;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,186;62,496;60,274;58,868;57,646;56,856;56,345;55,861;55,381
+Litauen;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,814;37,504;39,726;41,132;42,354;43,144;43,655;44,139;44,619
+Litauen;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;35,823;37,253;39,584;43,011;45,986;49,2;52,693;54,871;52,547;56,955;59,351;61,491;62,61;63,535
+Litauen;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;64,177;62,747;60,416;56,989;54,014;50,8;47,307;45,129;47,453;43,045;40,649;38,509;37,39;36,465
+Litauen;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;7,403;7,797;8,178;8,635;9,296;9,96;10,619;11,142;9,974;11,463;12,302;13,081;13,429;13,711
+Litauen;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;92,597;92,203;91,822;91,365;90,704;90,04;89,381;88,858;90,026;88,537;87,698;86,919;86,571;86,289
+Litauen;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;11,516;11,582;11,818;12,303;12,954;13,657;13,778;13,693;11,896;12,451;11,302;12,31;12,196;12,072
+Litauen;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;10,323;10,337;10,516;10,966;11,592;12,29;12,602;12,516;10,818;11,276;10,211;11,091;10,949;10,801
+Litauen;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;0,044;0,048;0,046;0,048;0,052;0,054;0,058;0,061;0,058;0,065;0,062;0,071;0,074;0,078
+Litauen;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;1,15;1,197;1,255;1,289;1,31;1,313;1,118;1,116;1,019;1,11;1,029;1,148;1,172;1,194
+Litauen;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;0,566;2,038;4,104;5,294;5,426;0,886;-0,617;-13,124;4,669;-9,228;8,913;-0,924;-1,011
+Litauen;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;0,136;1,738;4,276;5,706;6,024;2,538;-0,684;-13,566;4,234;-9,446;8,62;-1,278;-1,358
+Litauen;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;9,263;-2,637;3,569;8,714;3,419;6,95;6,164;-4,77;12,054;-5,392;13,997;5,077;4,916
+Litauen;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;4,099;4,819;2,681;1,661;0,209;-14,835;-0,218;-8,634;8,854;-7,242;11,517;2,12;1,86
+Litauen;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;3,781;3,849;3,977;4,196;4,483;4,8;4,918;4,962;4,37;4,629;4,246;4,668;4,666;4,659
+Litauen;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;3,389;3,435;3,539;3,74;4,012;4,319;4,499;4,535;3,974;4,192;3,836;4,206;4,189;4,168
+Litauen;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,014;0,016;0,016;0,016;0,018;0,019;0,021;0,022;0,021;0,024;0,023;0,027;0,028;0,03
+Litauen;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,378;0,398;0,422;0,44;0,453;0,461;0,399;0,404;0,374;0,412;0,387;0,435;0,448;0,461
+Litauen;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;8,59;;;;
+Litauen;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;23,039;;;;
+Litauen;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;21,42;;;;
+Litauen;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;23,537;;;;
+Litauen;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;23,412;;;;
+Litauen;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;42,341;;;;
+Litauen;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;57,659;;;;
+Litauen;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;32,107;;;;
+Litauen;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;34,615;;;;
+Litauen;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;33,278;;;;
+Litauen;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;16,54;17,35;18,05;19,14;20,34;21,94;22,94;24,07;23,28;26,47;30,31;31,79;32,68;33,53
+Litauen;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;14,96;15,38;15,72;16,34;17,17;18,35;19,74;20,48;19,43;21,82;24,91;26,37;27,34;28,47
+Litauen;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;16,91;17,77;18,54;19,7;20,91;22,51;23,4;24,51;23,74;26,99;30,88;32,41;33,28;34,1
+Litauen;Kaffee;Umsatz;Total;Millionen EUR (€);Statista;170,8;179,3;189,8;209,9;235,8;269,7;289,1;301,2;251,9;298,5;309,5;352,6;357,8;362,1
+Litauen;Kaffee;Umsatz;Instant-Kaffee;Millionen EUR (€);Statista;28,93;28,42;28,9;29,77;30,3;30,66;30,87;28,42;22,05;24,85;24,43;29,78;30,13;31,22
+Litauen;Kaffee;Umsatz;Röstkaffee;Millionen EUR (€);Statista;141,8;150,9;160,9;180,1;205,5;239;258,3;272,8;229,8;273,6;285;322,8;327,7;330,9
+Litauen;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;4,977;5,856;10,59;12,339;14,377;7,193;4,185;-16,368;18,499;3,685;13,926;1,475;1,202
+Litauen;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;-1,763;1,689;3,01;1,78;1,188;0,685;-7,937;-22,414;12,698;-1,69;21,899;1,175;3,618
+Litauen;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;6,417;6,627;11,933;14,103;16,302;8,075;5,614;-15,762;19,06;4,167;13,263;1,518;0,977
+Litauen;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;56,07;59,59;63,87;71,58;81,61;94,77;103,2;109,1;92,53;111;116,3;133,7;136,9;139,8
+Litauen;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;9,501;9,446;9,726;10,15;10,49;10,78;11,02;10,3;8,1;9,24;9,179;11,29;11,53;12,05
+Litauen;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;46,57;50,14;54,15;61,42;71,13;84;92,2;98,84;84,43;101,7;107,1;122,4;125,4;127,7
+Litauen;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,887;99,873;99,858;99,812;99,796;99,779;99,76;99,738;99,713
+Litauen;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,113;0,127;0,142;0,188;0,204;0,221;0,24;0,262;0,287
+Litauen;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,186;62,496;60,274;58,868;57,646;56,856;56,345;55,861;55,381
+Litauen;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,814;37,504;39,726;41,132;42,354;43,144;43,655;44,139;44,619
+Litauen;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;39,352;40,942;43,439;46,937;49,854;52,94;56,145;58,408;56,345;60,899;63,356;65,573;66,81;67,85
+Litauen;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;60,648;59,058;56,561;53,063;50,146;47,06;43,855;41,592;43,655;39,101;36,644;34,427;33,19;32,15
+Litauen;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;8,032;8,485;8,915;9,398;10,091;10,767;11,343;11,906;10,699;12,334;13,264;14,132;14,548;14,894
+Litauen;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;91,968;91,515;91,085;90,602;89,909;89,233;88,657;88,094;89,301;87,666;86,736;85,868;85,452;85,106
+Litauen;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;10,323;10,337;10,516;10,966;11,592;12,29;12,602;12,516;10,818;11,276;10,211;11,091;10,949;10,801
+Litauen;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;1,934;1,848;1,838;1,822;1,764;1,671;1,564;1,388;1,135;1,139;0,981;1,129;1,102;1,097
+Litauen;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;8,388;8,489;8,678;9,144;9,827;10,619;11,038;11,128;9,683;10,137;9,23;9,962;9,848;9,704
+Litauen;Kaffee;Volumenveränderung;Total;Prozent;Statista;;0,136;1,738;4,276;5,706;6,024;2,538;-0,684;-13,566;4,234;-9,446;8,62;-1,278;-1,358
+Litauen;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;-4,455;-0,539;-0,855;-3,178;-5,279;-6,411;-11,282;-18,222;0,361;-13,898;15,16;-2,425;-0,461
+Litauen;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;1,195;2,233;5,363;7,476;8,054;3,947;0,818;-12,985;4,688;-8,945;7,925;-1,147;-1,459
+Litauen;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;3,389;3,435;3,539;3,74;4,012;4,319;4,499;4,535;3,974;4,192;3,836;4,206;4,189;4,168
+Litauen;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,635;0,614;0,619;0,622;0,611;0,587;0,558;0,503;0,417;0,423;0,368;0,428;0,422;0,423
+Litauen;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;2,754;2,821;2,92;3,119;3,401;3,732;3,94;4,032;3,557;3,769;3,468;3,778;3,768;3,745
+Litauen;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;16,91;17,77;18,54;19,7;20,91;22,51;23,4;24,51;23,74;26,99;30,88;32,41;33,28;34,1
+Litauen;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;80,91;83,63;88,2;96,36;101,2;108,6;114,2;118,6;123,2;131,3;145,4;148,2;150,8;153,5
+Litauen;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;11,19;11,48;11,48;11,42;11,5;11,67;11,29;11,3;11,35;11,77;12,77;12,7;12,65;12,63
+Litauen;Röstkaffee;Umsatz;Total;Millionen EUR (€);Statista;141,8;150,9;160,9;180,1;205,5;239;258,3;272,8;229,8;273,6;285;322,8;327,7;330,9
+Litauen;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Millionen EUR (€);Statista;55,66;61,9;70,48;85,82;104,4;129;148,3;162,6;132,2;169,5;183,3;214,7;221,7;227,1
+Litauen;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Millionen EUR (€);Statista;86,19;88,98;90,42;94,26;101,2;110;109,9;110,2;97,68;104,2;101,8;108,1;106;103,8
+Litauen;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;6,417;6,627;11,933;14,103;16,302;8,075;5,614;-15,762;19,06;4,167;13,263;1,518;0,977
+Litauen;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;11,211;13,861;21,765;21,65;23,563;14,961;9,643;-18,696;28,215;8,142;17,13;3,26;2,436
+Litauen;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;3,237;1,618;4,247;7,363;8,696;-0,091;0,273;-11,361;6,675;-2,303;6,189;-1,943;-2,075
+Litauen;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;46,57;50,14;54,15;61,42;71,13;84;92,2;98,84;84,43;101,7;107,1;122,4;125,4;127,7
+Litauen;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;18,27;20,57;23,72;29,27;36,12;45,33;52,96;58,9;48,55;63;68,86;81,44;84,84;87,64
+Litauen;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;28,3;29,57;30,43;32,15;35,01;38,67;39,24;39,94;35,88;38,72;38,23;40,99;40,54;40,07
+Litauen;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,887;99,873;99,858;99,812;99,796;99,779;99,76;99,738;99,713
+Litauen;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,113;0,127;0,142;0,188;0,204;0,221;0,24;0,262;0,287
+Litauen;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,186;62,496;60,274;58,868;57,646;56,856;56,345;55,861;55,381
+Litauen;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,814;37,504;39,726;41,132;42,354;43,144;43,655;44,139;44,619
+Litauen;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;8,388;8,489;8,678;9,144;9,827;10,619;11,038;11,128;9,683;10,137;9,23;9,962;9,848;9,704
+Litauen;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;0,688;0,74;0,799;0,891;1,031;1,188;1,299;1,37;1,073;1,291;1,261;1,449;1,471;1,48
+Litauen;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;7,701;7,748;7,879;8,253;8,796;9,431;9,739;9,758;8,61;8,846;7,969;8,513;8,377;8,224
+Litauen;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;1,195;2,233;5,363;7,476;8,054;3,947;0,818;-12,985;4,688;-8,945;7,925;-1,147;-1,459
+Litauen;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;7,603;7,958;11,459;15,755;15,253;9,325;5,481;-21,688;20,318;-2,34;14,929;1,489;0,604
+Litauen;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;0,622;1,686;4,745;6,583;7,21;3,269;0,196;-11,763;2,74;-9,909;6,817;-1,596;-1,821
+Litauen;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;2,754;2,821;2,92;3,119;3,401;3,732;3,94;4,032;3,557;3,769;3,468;3,778;3,768;3,745
+Litauen;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,226;0,246;0,269;0,304;0,357;0,418;0,464;0,497;0,394;0,48;0,474;0,55;0,563;0,571
+Litauen;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;2,528;2,575;2,652;2,815;3,044;3,314;3,477;3,536;3,163;3,289;2,994;3,228;3,205;3,174
+Litauen;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;14,96;15,38;15,72;16,34;17,17;18,35;19,74;20,48;19,43;21,82;24,91;26,37;27,34;28,47
+Litauen;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;81,74;84,07;86,45;90,55;95,14;102;107,3;111,5;115,7;123,3;136,6;139,3;141,7;144,2
+Litauen;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;9,697;9,885;9,961;10,16;10,52;10,99;11,77;11,87;11,69;12,07;13,14;13,16;13,07;13,02
+Litauen;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;28,93;28,42;28,9;29,77;30,3;30,66;30,87;28,42;22,05;24,85;24,43;29,78;30,13;31,22
+Litauen;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;11,55;11,51;11,97;12,68;13,2;13,77;14;13,37;9,771;12,31;12,78;16,47;17,33;18,63
+Litauen;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;17,39;16,91;16,93;17,09;17,1;16,89;16,88;15,05;12,28;12,55;11,65;13,31;12,8;12,6
+Litauen;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;-1,763;1,689;3,01;1,78;1,188;0,685;-7,937;-22,414;12,698;-1,69;21,899;1,175;3,618
+Litauen;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-0,346;3,997;5,931;4,101;4,318;1,67;-4,5;-26,918;25,985;3,818;28,873;5,222;7,501
+Litauen;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-2,76;0,118;0,945;0,059;-1,228;-0,059;-10,841;-18,405;2,199;-7,171;14,249;-3,832;-1,563
+Litauen;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;9,501;9,446;9,726;10,15;10,49;10,78;11,02;10,3;8,1;9,24;9,179;11,29;11,53;12,05
+Litauen;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;3,792;3,825;4,028;4,324;4,568;4,841;4,996;4,846;3,589;4,576;4,801;6,248;6,629;7,189
+Litauen;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;5,708;5,621;5,698;5,831;5,917;5,934;6,024;5,454;4,511;4,665;4,378;5,047;4,899;4,861
+Litauen;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,887;99,873;99,858;99,813;99,797;99,78;99,76;99,738;99,713
+Litauen;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,113;0,127;0,142;0,187;0,203;0,22;0,24;0,262;0,287
+Litauen;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,186;62,496;60,274;58,868;57,646;56,856;56,345;55,861;55,381
+Litauen;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,814;37,504;39,726;41,132;42,354;43,144;43,655;44,139;44,619
+Litauen;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;1,934;1,848;1,838;1,822;1,764;1,671;1,564;1,388;1,135;1,139;0,981;1,129;1,102;1,097
+Litauen;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,141;0,137;0,138;0,14;0,139;0,135;0,13;0,12;0,084;0,1;0,094;0,118;0,122;0,129
+Litauen;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;1,793;1,711;1,7;1,682;1,626;1,536;1,434;1,268;1,05;1,039;0,887;1,011;0,98;0,968
+Litauen;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;-4,455;-0,539;-0,855;-3,178;-5,279;-6,411;-11,282;-18,222;0,361;-13,898;15,16;-2,425;-0,461
+Litauen;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-3,101;1,136;1,121;-0,905;-2,676;-3,421;-8,02;-29,617;18,187;-6,25;26,458;3,368;5,62
+Litauen;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-4,561;-0,673;-1,016;-3,368;-5,502;-6,673;-11,578;-17,144;-1,072;-14,632;13,968;-3,103;-1,221
+Litauen;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,635;0,614;0,619;0,622;0,611;0,587;0,558;0,503;0,417;0,423;0,368;0,428;0,422;0,423
+Litauen;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,046;0,045;0,047;0,048;0,048;0,047;0,047;0,043;0,031;0,037;0,035;0,045;0,047;0,05
+Litauen;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,589;0,569;0,572;0,574;0,563;0,54;0,512;0,459;0,386;0,386;0,333;0,383;0,375;0,373

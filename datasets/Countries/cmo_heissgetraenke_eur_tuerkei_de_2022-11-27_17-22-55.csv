@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Türkei;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;26,28;27,24;26,8;29,7;30,2;27,64;22,73;22,68;18,17;18,82;21,17;22,26;23,1;23,94
+Türkei;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;44,63;45,06;44,04;48,16;48,71;44,52;37,68;38,29;30,04;32,45;37,21;39,81;41,46;43,02
+Türkei;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;8,929;9,313;9,148;9,933;9,914;8,848;7,106;6,981;5,678;5,689;6,258;6,436;6,656;6,877
+Türkei;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;27,18;28,09;27,48;30,29;30,85;28,07;23,08;23,01;18,54;19,12;21,43;22,47;23,33;24,18
+Türkei;Heißgetränke;Umsatz pro Segment;Total;Milliarden EUR (€);Statista;6,798;7,07;6,986;7,84;8,209;7,694;6,541;6,656;4,964;5,537;6,058;7,059;7,493;7,93
+Türkei;Heißgetränke;Umsatz pro Segment;Kaffee;Milliarden EUR (€);Statista;0,392;0,498;0,622;0,804;0,924;0,913;0,804;0,831;0,592;0,69;0,778;0,94;1,002;1,068
+Türkei;Heißgetränke;Umsatz pro Segment;Kakao;Milliarden EUR (€);Statista;0,189;0,203;0,205;0,222;0,244;0,211;0,183;0,186;0,144;0,158;0,167;0,191;0,204;0,217
+Türkei;Heißgetränke;Umsatz pro Segment;Tee;Milliarden EUR (€);Statista;6,217;6,369;6,16;6,814;7,041;6,571;5,554;5,639;4,228;4,689;5,114;5,929;6,288;6,645
+Türkei;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;4,001;-1,188;12,224;4,707;-6,274;-14,986;1,758;-25,421;11,543;9,409;16,524;6,148;5,832
+Türkei;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;27,104;24,754;29,329;14,895;-1,234;-11,91;3,346;-28,74;16,467;12,761;20,82;6,652;6,587
+Türkei;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;7,476;1,085;8,443;9,901;-13,759;-12,915;1,363;-22,431;9,431;5,64;14,637;6,803;6,418
+Türkei;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;2,445;-3,282;10,617;3,331;-6,675;-15,477;1,53;-25,022;10,904;9,064;15,937;6,055;5,677
+Türkei;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;91,06;93,12;90,46;99,84;102,8;94,85;79,44;79,78;58,86;65,11;70,81;82,13;86,81;91,46
+Türkei;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;5,254;6,566;8,053;10,24;11,58;11,25;9,764;9,959;7,021;8,108;9,088;10,93;11,61;12,31
+Türkei;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;2,527;2,67;2,654;2,829;3,059;2,596;2,227;2,228;1,71;1,856;1,949;2,223;2,364;2,505
+Türkei;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;83,28;83,88;79,76;86,77;88,2;81;67,45;67,59;50,13;55,14;59,77;68,98;72,84;76,64
+Türkei;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,941;99,933;99,924;99,899;99,888;99,876;99,861;99,844;99,824
+Türkei;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,059;0,067;0,076;0,101;0,112;0,124;0,139;0,156;0,176
+Türkei;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;72,33;67,256;61,93;57,16;53,795;52,041;50,278;49,854;49,437
+Türkei;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;27,67;32,744;38,07;42,84;46,205;47,959;49,722;50,146;50,563
+Türkei;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;49,556;49,078;50,79;51,782;51,962;52,426;54,216;55,333;51,848;55,782;57,797;59,776;59,885;59,968
+Türkei;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;50,444;50,922;49,21;48,218;48,038;47,574;45,784;44,667;48,152;44,218;42,203;40,224;40,115;40,032
+Türkei;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;4,746;4,893;5,068;5,241;5,39;5,552;5,688;5,808;4,942;5,597;5,876;6,186;6,244;6,292
+Türkei;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;95,254;95,107;94,932;94,759;94,61;94,448;94,312;94,192;95,058;94,403;94,124;93,814;93,756;93,708
+Türkei;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;258,662;259,516;260,709;264,005;271,841;278,407;287,766;293,421;273,165;294,271;286,205;317,19;324,332;331,178
+Türkei;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;8,789;11,064;14,121;16,703;18,971;20,5;21,337;21,699;19,711;21,253;20,896;23,598;24,166;24,812
+Türkei;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;21,128;21,765;22,403;22,365;24,629;23,798;25,807;26,625;25,396;27,745;26,643;29,689;30,66;31,58
+Türkei;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;228,745;226,686;224,186;224,937;228,241;234,109;240,623;245,096;228,058;245,273;238,666;263,902;269,506;274,786
+Türkei;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;0,33;0,46;1,264;2,968;2,415;3,362;1,965;-6,903;7,726;-2,741;10,826;2,252;2,111
+Türkei;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;25,884;27,625;18,286;13,578;8,06;4,083;1,698;-9,16;7,82;-1,68;12,934;2,406;2,672
+Türkei;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;3,017;2,929;-0,168;10,125;-3,376;8,441;3,172;-4,617;9,251;-3,97;11,431;3,27;3
+Türkei;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;-0,9;-1,103;0,335;1,469;2,571;2,782;1,859;-6,952;7,548;-2,694;10,574;2,123;1,959
+Türkei;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;3,465;3,418;3,376;3,362;3,405;3,432;3,495;3,517;3,239;3,46;3,345;3,69;3,757;3,82
+Türkei;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;0,118;0,146;0,183;0,213;0,238;0,253;0,259;0,26;0,234;0,25;0,244;0,275;0,28;0,286
+Türkei;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,283;0,287;0,29;0,285;0,309;0,293;0,313;0,319;0,301;0,326;0,311;0,345;0,355;0,364
+Türkei;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;3,064;2,986;2,903;2,864;2,859;2,886;2,922;2,938;2,704;2,884;2,789;3,07;3,122;3,169
+Türkei;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;19,359;;;;
+Türkei;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;28,147;;;;
+Türkei;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;26,96;;;;
+Türkei;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;17,577;;;;
+Türkei;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;7,96;;;;
+Türkei;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;51,544;;;;
+Türkei;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;48,456;;;;
+Türkei;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;36,278;;;;
+Türkei;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;32,129;;;;
+Türkei;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;31,593;;;;
+Türkei;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;44,63;45,06;44,04;48,16;48,71;44,52;37,68;38,29;30,04;32,45;37,21;39,81;41,46;43,02
+Türkei;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;43,48;43,76;42,54;46,32;46,75;42,69;35,96;36,68;28,78;31,34;36,14;38,82;40,54;42,16
+Türkei;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;51,68;52,81;52,56;57,76;58,12;52,58;43,82;43,79;34,28;36,12;40,77;43,02;44,4;45,78
+Türkei;Kaffee;Umsatz;Total;Millionen EUR (€);Statista;392,2;498,5;621,9;804,3;924,1;912,7;804;830,9;592,1;689,6;777,6;939,5;1.002;1.068
+Türkei;Kaffee;Umsatz;Instant-Kaffee;Millionen EUR (€);Statista;328,9;414,6;510,6;649,7;733,4;713,5;599,4;615,7;437,3;512,2;579,6;700,5;747,3;796
+Türkei;Kaffee;Umsatz;Röstkaffee;Millionen EUR (€);Statista;63,3;83,95;111,3;154,7;190,7;199,2;204,6;215,2;154,8;177,4;198;239,1;254,6;271,5
+Türkei;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;27,104;24,754;29,329;14,895;-1,234;-11,91;3,346;-28,74;16,467;12,761;20,82;6,652;6,587
+Türkei;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;26,057;23,155;27,242;12,883;-2,713;-15,992;2,719;-28,975;17,128;13,159;20,859;6,681;6,517
+Türkei;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;32,622;32,579;38,994;23,271;4,457;2,711;5,181;-28,067;14,599;11,612;20,758;6,483;6,638
+Türkei;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;5,254;6,566;8,053;10,24;11,58;11,25;9,764;9,959;7,021;8,108;9,088;10,93;11,61;12,31
+Türkei;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;4,406;5,46;6,611;8,273;9,188;8,796;7,28;7,38;5,186;6,023;6,774;8,149;8,657;9,181
+Türkei;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;0,848;1,106;1,442;1,97;2,388;2,456;2,485;2,579;1,835;2,086;2,314;2,781;2,949;3,131
+Türkei;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,941;99,933;99,924;99,892;99,882;99,871;99,858;99,842;99,824
+Türkei;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,059;0,067;0,076;0,108;0,118;0,129;0,142;0,158;0,176
+Türkei;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;72,33;67,256;61,93;57,16;53,795;52,041;50,278;49,854;49,437
+Türkei;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;27,67;32,744;38,07;42,84;46,205;47,959;49,722;50,146;50,563
+Türkei;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;69,801;69,656;71,001;72,087;72,359;72,697;74,369;75,354;72,506;76,017;77,749;79,374;79,521;79,609
+Türkei;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;30,199;30,344;28,999;27,913;27,641;27,303;25,631;24,646;27,494;23,983;22,251;20,626;20,479;20,391
+Türkei;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;11,7;11,843;12,014;12,245;12,544;12,906;13,539;13,983;11,98;13,76;14,53;15,353;15,541;15,675
+Türkei;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;88,3;88,157;87,986;87,755;87,456;87,094;86,461;86,017;88,02;86,24;85,47;84,647;84,459;84,325
+Türkei;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;8,789;11,064;14,121;16,703;18,971;20,5;21,337;21,699;19,711;21,253;20,896;23,598;24,166;24,812
+Türkei;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;7,564;9,474;12,002;14,025;15,69;16,711;16,667;16,784;15,196;16,342;16,04;18,042;18,432;18,882
+Türkei;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;1,225;1,59;2,118;2,678;3,28;3,789;4,669;4,915;4,515;4,911;4,856;5,557;5,734;5,93
+Türkei;Kaffee;Volumenveränderung;Total;Prozent;Statista;;25,884;27,625;18,286;13,578;8,06;4,083;1,698;-9,16;7,82;-1,68;12,934;2,406;2,672
+Türkei;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;25,25;26,682;16,852;11,873;6,506;-0,261;0,703;-9,463;7,54;-1,851;12,483;2,161;2,444
+Türkei;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;29,798;33,243;26,41;22,508;15,494;23,247;5,25;-8,127;8,762;-1,113;14,424;3,201;3,405
+Türkei;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,118;0,146;0,183;0,213;0,238;0,253;0,259;0,26;0,234;0,25;0,244;0,275;0,28;0,286
+Türkei;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,101;0,125;0,155;0,179;0,197;0,206;0,202;0,201;0,18;0,192;0,187;0,21;0,214;0,218
+Türkei;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;0,016;0,021;0,027;0,034;0,041;0,047;0,057;0,059;0,054;0,058;0,057;0,065;0,066;0,068
+Türkei;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;43,48;43,76;42,54;46,32;46,75;42,69;35,96;36,68;28,78;31,34;36,14;38,82;40,54;42,16
+Türkei;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;278,1;277,5;273,3;298,8;297,2;266,1;221,5;220,9;194,9;191,7;212,7;219,7;226,3;233,1
+Türkei;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;15,46;15,78;14,8;15,71;15,87;14,44;11,63;11,44;9,799;9,428;10,13;10,15;10,53;10,9
+Türkei;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;328,9;414,6;510,6;649,7;733,4;713,5;599,4;615,7;437,3;512,2;579,6;700,5;747,3;796
+Türkei;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;224,4;281;352;453,2;511,7;499,3;428,1;446,8;303,7;376,6;438;542,3;580,3;619,2
+Türkei;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;104,5;133,6;158,6;196,5;221,7;214,2;171,3;168,9;133,6;135,6;141,6;158,1;167;176,8
+Türkei;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;26,057;23,155;27,242;12,883;-2,713;-15,992;2,719;-28,975;17,128;13,159;20,859;6,681;6,517
+Türkei;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;25,223;25,267;28,75;12,908;-2,423;-14,26;4,368;-32,028;24,004;16,304;23,813;7,007;6,703
+Türkei;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;27,847;18,713;23,897;12,824;-3,383;-20,028;-1,401;-20,9;1,497;4,425;11,653;5,629;5,868
+Türkei;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;4,406;5,46;6,611;8,273;9,188;8,796;7,28;7,38;5,186;6,023;6,774;8,149;8,657;9,181
+Türkei;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;3,006;3,701;4,558;5,771;6,41;6,155;5,199;5,355;3,601;4,429;5,119;6,309;6,722;7,142
+Türkei;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;1,4;1,759;2,053;2,502;2,778;2,641;2,081;2,025;1,585;1,594;1,655;1,839;1,935;2,039
+Türkei;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,941;99,933;99,924;99,897;99,886;99,874;99,86;99,844;99,824
+Türkei;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,059;0,067;0,076;0,103;0,114;0,126;0,14;0,156;0,176
+Türkei;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;72,33;67,256;61,93;57,16;53,795;52,041;50,278;49,854;49,437
+Türkei;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;27,67;32,744;38,07;42,84;46,205;47,959;49,722;50,146;50,563
+Türkei;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;7,564;9,474;12,002;14,025;15,69;16,711;16,667;16,784;15,196;16,342;16,04;18,042;18,432;18,882
+Türkei;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,807;1,013;1,288;1,517;1,721;1,876;1,933;2,022;1,558;1,965;2,06;2,469;2,564;2,656
+Türkei;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;6,757;8,462;10,714;12,508;13,969;14,835;14,735;14,762;13,638;14,377;13,98;15,573;15,868;16,226
+Türkei;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;25,25;26,682;16,852;11,873;6,506;-0,261;0,703;-9,463;7,54;-1,851;12,483;2,161;2,444
+Türkei;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;25,471;27,172;17,771;13,49;8,999;3,001;4,642;-22,964;26,122;4,82;19,878;3,833;3,609
+Türkei;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;25,224;26,623;16,741;11,677;6,199;-0,674;0,187;-7,613;5,417;-2,763;11,394;1,896;2,256
+Türkei;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,101;0,125;0,155;0,179;0,197;0,206;0,202;0,201;0,18;0,192;0,187;0,21;0,214;0,218
+Türkei;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,011;0,013;0,017;0,019;0,022;0,023;0,023;0,024;0,018;0,023;0,024;0,029;0,03;0,031
+Türkei;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,091;0,111;0,139;0,159;0,175;0,183;0,179;0,177;0,162;0,169;0,163;0,181;0,184;0,187
+Türkei;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;51,68;52,81;52,56;57,76;58,12;52,58;43,82;43,79;34,28;36,12;40,77;43,02;44,4;45,78
+Türkei;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;223,1;222,6;219,3;239,7;238,5;213,5;177,7;177,2;156,4;153,8;170,6;176,2;181,6;187
+Türkei;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;13,91;13,71;12,74;13,04;12,85;11,58;9,353;9,192;7,855;7,549;8,096;8,103;8,4;8,697
+Türkei;Röstkaffee;Umsatz;Total;Millionen EUR (€);Statista;63,3;83,95;111,3;154,7;190,7;199,2;204,6;215,2;154,8;177,4;198;239,1;254,6;271,5
+Türkei;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Millionen EUR (€);Statista;49,34;66,24;89,56;126,6;157;164,2;169,9;179,3;125,6;147,5;166,6;203,4;216,4;230,6
+Türkei;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Millionen EUR (€);Statista;13,96;17,71;21,78;28,04;33,68;34,98;34,73;35,87;29,15;29,83;31,41;35,67;38,16;40,85
+Türkei;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;32,622;32,579;38,994;23,271;4,457;2,711;5,181;-28,067;14,599;11,612;20,758;6,483;6,638
+Türkei;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;34,252;35,205;41,358;24,013;4,586;3,471;5,533;-29,95;17,436;12,949;22,089;6,391;6,562
+Türkei;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;26,862;22,981;28,742;20,114;3,86;-0,715;3,282;-18,734;2,333;5,297;13,563;6,981;7,049
+Türkei;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;0,848;1,106;1,442;1,97;2,388;2,456;2,485;2,579;1,835;2,086;2,314;2,781;2,949;3,131
+Türkei;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;0,661;0,872;1,16;1,613;1,966;2,025;2,063;2,149;1,49;1,735;1,947;2,366;2,507;2,66
+Türkei;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;0,187;0,233;0,282;0,357;0,422;0,431;0,422;0,43;0,346;0,351;0,367;0,415;0,442;0,471
+Türkei;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,941;99,933;99,924;99,881;99,872;99,862;99,851;99,838;99,824
+Türkei;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,059;0,067;0,076;0,119;0,128;0,138;0,149;0,162;0,176
+Türkei;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;72,33;67,256;61,93;57,16;53,795;52,041;50,278;49,854;49,437
+Türkei;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;27,67;32,744;38,07;42,84;46,205;47,959;49,722;50,146;50,563
+Türkei;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;1,225;1,59;2,118;2,678;3,28;3,789;4,669;4,915;4,515;4,911;4,856;5,557;5,734;5,93
+Türkei;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;0,221;0,298;0,408;0,528;0,658;0,769;0,956;1,012;0,803;0,959;0,976;1,154;1,192;1,233
+Türkei;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;1,004;1,292;1,71;2,149;2,622;3,019;3,713;3,903;3,712;3,951;3,88;4,402;4,543;4,697
+Türkei;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;29,798;33,243;26,41;22,508;15,494;23,247;5,25;-8,127;8,762;-1,113;14,424;3,201;3,405
+Türkei;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;34,526;37,27;29,352;24,59;16,876;24,26;5,835;-20,592;19,423;1,768;18,195;3,273;3,453
+Türkei;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;28,756;32,316;25,707;21,996;15,147;22,989;5,1;-4,896;6,455;-1,813;13,475;3,182;3,393
+Türkei;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,016;0,021;0,027;0,034;0,041;0,047;0,057;0,059;0,054;0,058;0,057;0,065;0,066;0,068
+Türkei;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,003;0,004;0,005;0,007;0,008;0,009;0,012;0,012;0,01;0,011;0,011;0,013;0,014;0,014
+Türkei;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;0,013;0,017;0,022;0,027;0,033;0,037;0,045;0,047;0,044;0,046;0,045;0,051;0,053;0,054

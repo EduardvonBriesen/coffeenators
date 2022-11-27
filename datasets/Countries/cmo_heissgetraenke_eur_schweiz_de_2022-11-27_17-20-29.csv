@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Schweiz;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;60,75;60,16;61,23;70,52;69,31;68,39;65,94;68,49;57,85;67,25;76,11;80,19;81,31;82,47
+Schweiz;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;65,39;64,27;65,19;74,83;73,67;72,89;70,64;73,57;62,01;72,18;81,85;86,28;87,52;88,83
+Schweiz;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;19,45;19,27;19,82;22,65;22,09;21,55;20,63;21,44;19,57;21,7;24,27;25,17;25,53;25,88
+Schweiz;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;73,58;73,11;74,68;86,15;85,44;85,03;82,86;86,92;75,83;86,9;98,29;103,4;104,8;106,2
+Schweiz;Heißgetränke;Umsatz pro Segment;Total;Milliarden EUR (€);Statista;3,572;3,559;3,632;4,083;3,899;3,709;3,364;3,416;2,851;3,299;3,244;3,61;3,638;3,67
+Schweiz;Heißgetränke;Umsatz pro Segment;Kaffee;Milliarden EUR (€);Statista;3,293;3,29;3,361;3,781;3,599;3,413;3,076;3,114;2,576;2,993;2,94;3,273;3,296;3,323
+Schweiz;Heißgetränke;Umsatz pro Segment;Kakao;Milliarden EUR (€);Statista;0,123;0,112;0,111;0,119;0,116;0,113;0,11;0,116;0,108;0,118;0,116;0,127;0,129;0,131
+Schweiz;Heißgetränke;Umsatz pro Segment;Tee;Milliarden EUR (€);Statista;0,155;0,157;0,16;0,184;0,183;0,183;0,178;0,187;0,166;0,189;0,188;0,21;0,213;0,216
+Schweiz;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;-0,364;2,051;12,417;-4,506;-4,873;-9,302;1,546;-16,54;15,714;-1,667;11,282;0,776;0,88
+Schweiz;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;-0,091;2,158;12,496;-4,814;-5,168;-9,874;1,235;-17,277;16,188;-1,771;11,327;0,703;0,819
+Schweiz;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;-8,699;-0,89;6,739;-2,441;-2,243;-3,089;5,647;-6,552;8,672;-1,273;9,458;1,414;1,317
+Schweiz;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;0,838;2,236;14,75;-0,163;-0,164;-2,459;4,594;-11,034;13,546;-0,212;11,371;1,67;1,502
+Schweiz;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;446;438,9;442,6;492,2;465,2;438,7;394,6;397,7;329,4;378,6;369,8;408,8;409,5;410,6
+Schweiz;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;411,3;405,7;409,6;455,7;429,5;403,6;360,8;362,4;297,6;343,4;335,1;370,7;371;371,8
+Schweiz;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;15,35;13,85;13,56;14,32;13,83;13,4;12,87;13,5;12,53;13,51;13,25;14,41;14,53;14,63
+Schweiz;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;19,38;19,3;19,49;22,13;21,87;21,64;20,94;21,74;19,19;21,64;21,45;23,74;23,99;24,21
+Schweiz;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;98,676;98,238;97,665;96,605;95,657;94,508;93,141;91,544;89,709
+Schweiz;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;1,324;1,762;2,335;3,395;4,343;5,492;6,859;8,456;10,291
+Schweiz;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;69,183;67,132;66,642;66,062;65,595;65,136;64,684;64,238;63,792
+Schweiz;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;30,817;32,868;33,358;33,938;34,405;34,864;35,316;35,762;36,208
+Schweiz;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;84,167;84,133;84,019;83,954;83,739;83,572;83,315;83,051;77,894;80,679;81,329;82,2;82,165;82,154
+Schweiz;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;15,833;15,867;15,981;16,046;16,261;16,428;16,685;16,949;22,106;19,321;18,671;17,8;17,835;17,846
+Schweiz;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;15,817;15,915;16,1;16,314;16,387;16,394;16,293;16,193;12,331;14,412;15,068;15,961;15,961;15,984
+Schweiz;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;84,183;84,085;83,9;83,686;83,613;83,606;83,707;83,807;87,669;85,588;84,932;84,039;84,039;84,016
+Schweiz;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;58,796;59,153;59,318;57,905;56,248;54,236;51,016;49,882;49,275;49,061;42,623;45,018;44,747;44,496
+Schweiz;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;50,367;51,183;51,56;50,528;48,856;46,823;43,541;42,326;41,545;41,464;35,919;37,934;37,658;37,406
+Schweiz;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;6,32;5,828;5,616;5,246;5,247;5,26;5,321;5,408;5,539;5,426;4,79;5,056;5,056;5,053
+Schweiz;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;2,109;2,141;2,142;2,131;2,145;2,152;2,154;2,148;2,19;2,17;1,915;2,028;2,033;2,037
+Schweiz;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;0,606;0,28;-2,382;-2,861;-3,578;-5,936;-2,222;-1,219;-0,434;-13,121;5,617;-0,6;-0,562
+Schweiz;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;1,62;0,737;-2,003;-3,308;-4,16;-7,011;-2,791;-1,843;-0,196;-13,374;5,613;-0,73;-0,668
+Schweiz;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;-7,779;-3,648;-6,584;0,022;0,242;1,162;1,645;2,42;-2,038;-11,736;5,553;0,017;-0,061
+Schweiz;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;1,523;0,03;-0,501;0,655;0,329;0,101;-0,279;1,931;-0,888;-11,761;5,87;0,284;0,162
+Schweiz;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;7,342;7,295;7,229;6,979;6,712;6,414;5,984;5,806;5,693;5,629;4,858;5,099;5,037;4,979
+Schweiz;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;6,29;6,312;6,283;6,09;5,83;5,537;5,107;4,927;4,8;4,757;4,094;4,296;4,239;4,186
+Schweiz;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,789;0,719;0,684;0,632;0,626;0,622;0,624;0,63;0,64;0,623;0,546;0,573;0,569;0,565
+Schweiz;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,263;0,264;0,261;0,257;0,256;0,255;0,253;0,25;0,253;0,249;0,218;0,23;0,229;0,228
+Schweiz;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;7,82;;;;
+Schweiz;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;19,121;;;;
+Schweiz;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;23,587;;;;
+Schweiz;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;25,68;;;;
+Schweiz;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;23,796;;;;
+Schweiz;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;49,337;;;;
+Schweiz;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;50,663;;;;
+Schweiz;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;38,462;;;;
+Schweiz;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;28,778;;;;
+Schweiz;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;32,76;;;;
+Schweiz;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;65,39;64,27;65,19;74,83;73,67;72,89;70,64;73,57;62,01;72,18;81,85;86,28;87,52;88,83
+Schweiz;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;116,6;114,8;116,6;132,6;129,9;128,2;124,2;129,6;107,3;126,7;144,2;152,6;154,8;156,8
+Schweiz;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;62,17;61,35;62,36;71,76;70,74;70,03;67,88;70,69;59,66;69,38;78,65;82,89;84,09;85,35
+Schweiz;Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;3,293;3,29;3,361;3,781;3,599;3,413;3,076;3,114;2,576;2,993;2,94;3,273;3,296;3,323
+Schweiz;Kaffee;Umsatz;Instant-Kaffee;Milliarden EUR (€);Statista;0,347;0,321;0,313;0,338;0,315;0,295;0,265;0,268;0,22;0,257;0,253;0,282;0,283;0,285
+Schweiz;Kaffee;Umsatz;Röstkaffee;Milliarden EUR (€);Statista;2,947;2,969;3,048;3,443;3,285;3,118;2,811;2,846;2,356;2,736;2,687;2,991;3,013;3,037
+Schweiz;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;-0,091;2,158;12,496;-4,814;-5,168;-9,874;1,235;-17,277;16,188;-1,771;11,327;0,703;0,819
+Schweiz;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;-7,408;-2,615;7,992;-6,838;-6,26;-10,339;1,172;-17,9;16,978;-1,673;11,436;0,639;0,635
+Schweiz;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;0,747;2,661;12,959;-4,589;-5,084;-9,846;1,245;-17,217;16,129;-1,791;11,314;0,736;0,797
+Schweiz;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;411,3;405,7;409,6;455,7;429,5;403,6;360,8;362,4;297,6;343,4;335,1;370,7;371;371,8
+Schweiz;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;43,32;39,61;38,12;40,72;37,56;34,88;31,02;31,14;25,38;29,49;28,8;31,89;31,9;31,91
+Schweiz;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;367,9;366,1;371,5;415;392;368,7;329,7;331,3;272,3;313,9;306,3;338,8;339,1;339,9
+Schweiz;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;98,676;98,238;97,665;96,604;95,657;94,507;93,141;91,544;89,709
+Schweiz;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;1,324;1,762;2,335;3,396;4,343;5,493;6,859;8,456;10,291
+Schweiz;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;69,183;67,132;66,642;66,062;65,595;65,136;64,684;64,238;63,792
+Schweiz;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;30,817;32,868;33,358;33,938;34,405;34,864;35,316;35,762;36,208
+Schweiz;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;85,913;85,839;85,744;85,701;85,582;85,49;85,362;85,17;80,489;83,016;83,637;84,426;84,412;84,418
+Schweiz;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;14,087;14,161;14,256;14,299;14,418;14,51;14,638;14,83;19,511;16,984;16,363;15,574;15,588;15,582
+Schweiz;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;17,687;17,664;17,819;18,01;18,158;18,25;18,292;18,258;13,986;16,302;17,074;18,08;18,097;18,139
+Schweiz;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;82,313;82,336;82,181;81,99;81,842;81,75;81,708;81,742;86,014;83,698;82,926;81,92;81,903;81,861
+Schweiz;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;50,367;51,183;51,56;50,528;48,856;46,823;43,541;42,326;41,545;41,464;35,919;37,934;37,658;37,406
+Schweiz;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;2,976;2,798;2,682;2,547;2,422;2,301;2,129;2,064;2,047;2,028;1,752;1,845;1,831;1,819
+Schweiz;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;47,391;48,385;48,878;47,981;46,434;44,522;41,411;40,262;39,499;39,436;34,167;36,09;35,826;35,587
+Schweiz;Kaffee;Volumenveränderung;Total;Prozent;Statista;;1,62;0,737;-2,003;-3,308;-4,16;-7,011;-2,791;-1,843;-0,196;-13,374;5,613;-0,73;-0,668
+Schweiz;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;-5,986;-4,124;-5,054;-4,894;-5,001;-7,459;-3,077;-0,837;-0,908;-13,611;5,299;-0,742;-0,674
+Schweiz;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;2,097;1,018;-1,835;-3,224;-4,116;-6,988;-2,776;-1,895;-0,159;-13,362;5,629;-0,729;-0,668
+Schweiz;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;6,29;6,312;6,283;6,09;5,83;5,537;5,107;4,927;4,8;4,757;4,094;4,296;4,239;4,186
+Schweiz;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,372;0,345;0,327;0,307;0,289;0,272;0,25;0,24;0,236;0,233;0,2;0,209;0,206;0,204
+Schweiz;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;5,918;5,967;5,956;5,783;5,541;5,265;4,857;4,686;4,564;4,525;3,894;4,087;4,033;3,982
+Schweiz;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;62,17;61,35;62,36;71,76;70,74;70,03;67,88;70,69;59,66;69,38;78,65;82,89;84,09;85,35
+Schweiz;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;299,1;295,5;297,4;338,3;330,3;325;313,9;326,8;340,4;350,2;381,8;383,5;388,6;393,6
+Schweiz;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;10,16;10,13;10,43;12,09;12,04;12,01;11,75;12,4;13,08;13,63;15,05;15,3;15,54;15,77
+Schweiz;Röstkaffee;Umsatz;Total;Milliarden EUR (€);Statista;2,947;2,969;3,048;3,443;3,285;3,118;2,811;2,846;2,356;2,736;2,687;2,991;3,013;3,037
+Schweiz;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Milliarden EUR (€);Statista;2,552;2,566;2,631;2,969;2,829;2,682;2,415;2,44;1,913;2,288;2,262;2,54;2,558;2,58
+Schweiz;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Milliarden EUR (€);Statista;0,395;0,402;0,417;0,474;0,456;0,436;0,396;0,406;0,443;0,448;0,425;0,451;0,454;0,458
+Schweiz;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;0,747;2,661;12,959;-4,589;-5,084;-9,846;1,245;-17,217;16,129;-1,791;11,314;0,736;0,797
+Schweiz;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;0,549;2,533;12,847;-4,715;-5,196;-9,955;1,035;-21,598;19,603;-1,136;12,29;0,709;0,86
+Schweiz;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;1,823;3,805;13,56;-3,797;-4,474;-9,068;2,626;9,004;1,196;-5,241;6,096;0,799;0,77
+Schweiz;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;367,9;366,1;371,5;415;392;368,7;329,7;331,3;272,3;313,9;306,3;338,8;339,1;339,9
+Schweiz;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;318,6;316,5;320,6;357,9;337,5;317,2;283,3;284;221,1;262,5;257,8;287,7;288;288,6
+Schweiz;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;49,31;49,59;50,86;57,13;54,42;51,52;46,46;47,32;51,2;51,45;48,43;51,06;51,15;51,23
+Schweiz;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;98,676;98,238;97,665;96,605;95,657;94,508;93,141;91,544;89,709
+Schweiz;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;1,324;1,762;2,335;3,395;4,343;5,492;6,859;8,456;10,291
+Schweiz;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;69,183;67,132;66,642;66,062;65,595;65,136;64,684;64,238;63,792
+Schweiz;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;30,817;32,868;33,358;33,938;34,405;34,864;35,316;35,762;36,208
+Schweiz;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;47,391;48,385;48,878;47,981;46,434;44,522;41,411;40,262;39,499;39,436;34,167;36,09;35,826;35,587
+Schweiz;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;8,53;8,685;8,847;8,777;8,564;8,253;7,694;7,465;5,621;6,532;5,925;6,624;6,582;6,554
+Schweiz;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;38,861;39,7;40,031;39,204;37,87;36,269;33,717;32,796;33,878;32,903;28,241;29,465;29,244;29,033
+Schweiz;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;2,097;1,018;-1,835;-3,224;-4,116;-6,988;-2,776;-1,895;-0,159;-13,362;5,629;-0,729;-0,668
+Schweiz;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;1,818;1,86;-0,796;-2,426;-3,627;-6,776;-2,97;-24,713;16,225;-9,298;11,8;-0,633;-0,431
+Schweiz;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;2,159;0,834;-2,065;-3,403;-4,227;-7,036;-2,732;3,299;-2,878;-14,169;4,334;-0,751;-0,721
+Schweiz;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;5,918;5,967;5,956;5,783;5,541;5,265;4,857;4,686;4,564;4,525;3,894;4,087;4,033;3,982
+Schweiz;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;1,065;1,071;1,078;1,058;1,022;0,976;0,902;0,869;0,649;0,75;0,675;0,75;0,741;0,733
+Schweiz;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;4,853;4,896;4,878;4,725;4,519;4,289;3,955;3,817;3,914;3,775;3,219;3,337;3,292;3,249
+Schweiz;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;116,6;114,8;116,6;132,6;129,9;128,2;124,2;129,6;107,3;126,7;144,2;152,6;154,8;156,8
+Schweiz;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;735,1;724,5;736,8;838,2;818,4;805,3;777,7;809,7;843,4;867,7;946;950,3;963;975,2
+Schweiz;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;26,58;26,08;26,38;29,97;29,76;29,66;29,09;30,67;32,03;33,27;36,34;36,57;37,14;37,7
+Schweiz;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;346,9;321,2;312,8;337,8;314,7;295;264,5;267,6;219,7;257;252,7;281,6;283,4;285,2
+Schweiz;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;277,9;257,5;251,1;271,2;251,8;235,4;210,4;212,3;160,2;197,1;196,6;222,7;224;225,3
+Schweiz;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;69,04;63,71;61,76;66,63;62,92;59,58;54,08;55,26;59,48;59,91;56,12;58,9;59,38;59,86
+Schweiz;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;-7,408;-2,615;7,992;-6,838;-6,26;-10,339;1,172;-17,9;16,978;-1,673;11,436;0,639;0,635
+Schweiz;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-7,341;-2,485;8,005;-7,153;-6,513;-10,62;0,903;-24,541;23,034;-0,254;13,276;0,584;0,58
+Schweiz;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-7,72;-3,061;7,885;-5,568;-5,308;-9,231;2,182;7,637;0,723;-6,326;4,954;0,815;0,808
+Schweiz;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;43,32;39,61;38,12;40,72;37,56;34,88;31,02;31,14;25,38;29,49;28,8;31,89;31,9;31,91
+Schweiz;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;34,7;31,76;30,6;32,68;30,05;27,84;24,68;24,71;18,51;22,61;22,41;25,22;25,21;25,21
+Schweiz;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;8,622;7,857;7,526;8,031;7,508;7,046;6,343;6,432;6,872;6,874;6,396;6,671;6,684;6,698
+Schweiz;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;98,676;98,238;97,665;96,602;95,654;94,505;93,138;91,543;89,709
+Schweiz;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;1,324;1,762;2,335;3,398;4,346;5,495;6,862;8,457;10,291
+Schweiz;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;69,183;67,132;66,642;66,062;65,595;65,136;64,684;64,238;63,792
+Schweiz;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;30,817;32,868;33,358;33,938;34,405;34,864;35,316;35,762;36,208
+Schweiz;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;2,976;2,798;2,682;2,547;2,422;2,301;2,129;2,064;2,047;2,028;1,752;1,845;1,831;1,819
+Schweiz;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,378;0,355;0,341;0,324;0,308;0,292;0,271;0,262;0,19;0,227;0,208;0,234;0,233;0,231
+Schweiz;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;2,598;2,442;2,342;2,223;2,114;2,009;1,859;1,802;1,857;1,801;1,544;1,61;1,599;1,588
+Schweiz;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;-5,986;-4,124;-5,054;-4,894;-5,001;-7,459;-3,077;-0,837;-0,908;-13,611;5,299;-0,742;-0,674
+Schweiz;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-5,986;-4,124;-5,054;-4,894;-5,001;-7,459;-3,077;-27,549;19,586;-8,509;12,764;-0,742;-0,674
+Schweiz;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-5,986;-4,124;-5,054;-4,894;-5,001;-7,459;-3,077;3,05;-3,004;-14,255;4,294;-0,742;-0,674
+Schweiz;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,372;0,345;0,327;0,307;0,289;0,272;0,25;0,24;0,236;0,233;0,2;0,209;0,206;0,204
+Schweiz;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,047;0,044;0,042;0,039;0,037;0,035;0,032;0,031;0,022;0,026;0,024;0,027;0,026;0,026
+Schweiz;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,324;0,301;0,285;0,268;0,252;0,238;0,218;0,21;0,215;0,207;0,176;0,182;0,18;0,178

@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Schweden;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;66,55;69,74;68,12;69,44;71,42;73,31;71,21;71,34;61,45;75,88;86,62;92,74;95,37;98,31
+Schweden;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;68,45;71,94;70,36;71,96;74,27;76,39;74,22;74,45;64,26;79,55;90,98;97,6;100,5;103,7
+Schweden;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;18,8;19,78;19,4;19,31;19,12;18,84;17,77;17,51;15,97;18,48;20,5;21,23;21,65;22,14
+Schweden;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;44,96;46,5;45,28;45,85;47,22;48,76;47,95;48,06;42,82;51,15;57,43;60,48;61,34;62,36
+Schweden;Heißgetränke;Umsatz pro Segment;Total;Milliarden EUR (€);Statista;6,66;6,74;6,199;6,018;6,019;6,15;6,056;6,153;5,084;6,397;6,569;7,582;7,823;8,08
+Schweden;Heißgetränke;Umsatz pro Segment;Kaffee;Milliarden EUR (€);Statista;6,496;6,565;6,028;5,842;5,833;5,957;5,874;5,971;4,92;6,199;6,368;7,354;7,588;7,839
+Schweden;Heißgetränke;Umsatz pro Segment;Kakao;Milliarden EUR (€);Statista;0,05;0,056;0,053;0,055;0,058;0,06;0,06;0,062;0,06;0,073;0,075;0,086;0,09;0,094
+Schweden;Heißgetränke;Umsatz pro Segment;Tee;Milliarden EUR (€);Statista;0,114;0,119;0,118;0,122;0,128;0,133;0,122;0,12;0,105;0,126;0,126;0,142;0,144;0,147
+Schweden;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;1,201;-8,027;-2,92;0,017;2,176;-1,528;1,602;-17,374;25,826;2,689;15,421;3,179;3,285
+Schweden;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;1,062;-8,18;-3,086;-0,154;2,126;-1,393;1,651;-17,602;25,996;2,726;15,484;3,182;3,308
+Schweden;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;13,072;-5,914;3,54;5,723;3,234;-0,151;4,497;-4,287;21,876;3,152;15,185;4,333;4,253
+Schweden;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;4,119;-0,673;3,475;4,75;4,3;-8,771;-1,561;-12,688;20,076;0,159;12,719;1,904;1,799
+Schweden;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;697,9;700,7;639,6;616,3;611,9;620,9;607,3;613,1;503,4;629,7;642,8;737,9;757,2;778
+Schweden;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;680,8;682,5;622;598,2;593;601,4;589,1;595;487,1;610,1;623,2;715,7;734,5;754,8
+Schweden;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;5,203;5,837;5,449;5,601;5,878;6,026;5,977;6,205;5,902;7,15;7,333;8,401;8,717;9,041
+Schweden;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;11,96;12,35;12,17;12,5;13,01;13,47;12,21;11,94;10,35;12,36;12,31;13,8;13,99;14,17
+Schweden;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,628;99,499;99,327;98,943;98,626;98,214;97,671;96,939;95,925
+Schweden;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,372;0,501;0,673;1,057;1,374;1,786;2,329;3,061;4,075
+Schweden;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,186;63,258;61,336;59,417;57,723;57,108;56,664;56,43;56,196
+Schweden;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,814;36,742;38,664;40,583;42,277;42,892;43,336;43,57;43,804
+Schweden;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;86,189;86,202;86,187;86,526;86,808;87,143;88,087;88,467;85,795;87,943;88,754;89,585;89,828;90,057
+Schweden;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;13,811;13,798;13,813;13,474;13,192;12,857;11,913;11,533;14,205;12,057;11,246;10,415;10,172;9,943
+Schweden;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;17,154;17,528;17,842;18,294;18,712;19,012;19,323;19,584;15,859;18,318;19,3;20,449;20,683;20,91
+Schweden;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;82,846;82,472;82,158;81,706;81,288;80,988;80,677;80,416;84,141;81,682;80,7;79,551;79,317;79,09
+Schweden;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;100,084;96,639;91,011;86,674;84,266;83,886;85,035;86,254;82,727;84,309;75,838;81,762;82,031;82,189
+Schweden;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;94,904;91,246;85,683;81,18;78,533;77,983;79,143;80,204;76,551;77,923;69,992;75,351;75,517;75,589
+Schweden;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;2,641;2,838;2,723;2,833;3,024;3,167;3,354;3,557;3,733;3,931;3,656;4,066;4,159;4,241
+Schweden;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;2,539;2,555;2,605;2,662;2,709;2,736;2,539;2,492;2,442;2,455;2,19;2,345;2,356;2,359
+Schweden;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;-3,443;-5,824;-4,765;-2,778;-0,451;1,369;1,433;-4,089;1,912;-10,047;7,811;0,329;0,193
+Schweden;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;-3,855;-6,096;-5,256;-3,26;-0,701;1,487;1,342;-4,555;1,792;-10,178;7,657;0,219;0,096
+Schweden;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;7,457;-4,061;4,036;6,746;4,756;5,875;6,06;4,965;5,285;-6,982;11,201;2,296;1,965
+Schweden;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;0,638;1,954;2,191;1,773;0,99;-7,212;-1,826;-2,022;0,525;-10,8;7,09;0,452;0,156
+Schweden;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;10,488;10,048;9,39;8,876;8,567;8,469;8,528;8,594;8,191;8,298;7,421;7,957;7,94;7,914
+Schweden;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;9,945;9,487;8,84;8,313;7,984;7,873;7,937;7,991;7,58;7,669;6,849;7,333;7,31;7,279
+Schweden;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,277;0,295;0,281;0,29;0,307;0,32;0,336;0,354;0,37;0,387;0,358;0,396;0,403;0,408
+Schweden;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,266;0,266;0,269;0,273;0,275;0,276;0,255;0,248;0,242;0,242;0,214;0,228;0,228;0,227
+Schweden;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;67,81;71,34;69,85;71,56;73,97;76,14;74,03;74,26;64,12;79,33;90,68;97,23;100,1;103,2
+Schweden;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;327,9;336;322,2;321,8;325,1;330,2;319,6;317,2;327,3;358,2;391,4;399;406,6;415,4
+Schweden;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;10,31;10,88;10,73;10,79;10,98;11,1;10,03;9,768;9,907;10,69;11,52;11,59;11,66;11,77
+Schweden;Röstkaffee;Umsatz;Total;Milliarden EUR (€);Statista;6,255;6,31;5,798;5,636;5,653;5,798;5,739;5,831;4,801;6,035;6,192;7,142;7,359;7,592
+Schweden;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Milliarden EUR (€);Statista;5,476;5,526;5,076;4,953;4,982;5,125;5,122;5,224;4,186;5,382;5,57;6,479;6,694;6,923
+Schweden;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Milliarden EUR (€);Statista;0,779;0,784;0,722;0,683;0,671;0,673;0,617;0,606;0,615;0,653;0,623;0,663;0,665;0,669
+Schweden;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;0,879;-8,114;-2,794;0,302;2,565;-1,018;1,603;-17,664;25,703;2,601;15,342;3,038;3,166
+Schweden;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;0,913;-8,143;-2,423;0,586;2,87;-0,059;1,991;-19,87;28,571;3,493;16,32;3,318;3,421
+Schweden;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;0,616;-7,912;-5,294;-1,8;0,253;-8,279;-1,783;1,485;6,097;-4,597;6,489;0,362;0,586
+Schweden;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;655,4;656;598,2;577,2;574,7;585,4;575,5;580,9;475,4;594;606;695;712,3;731,1
+Schweden;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;573,8;574,6;523,7;507,2;506,5;517,4;513,7;520,5;414,5;529,7;545,1;630,5;647,9;666,7
+Schweden;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;81,61;81,47;74,46;69,98;68,23;67,93;61,89;60,39;60,9;64,23;60,92;64,52;64,41;64,45
+Schweden;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,628;99,499;99,327;98,937;98,62;98,208;97,665;96,935;95,925
+Schweden;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,372;0,501;0,673;1,063;1,38;1,792;2,335;3,065;4,075
+Schweden;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,186;63,258;61,336;59,417;57,723;57,108;56,664;56,43;56,196
+Schweden;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,814;36,742;38,664;40,583;42,277;42,892;43,336;43,57;43,804
+Schweden;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;92,235;88,446;82,995;78,757;76,425;76,149;77,524;78,518;74,87;76,075;68,286;73,45;73,54;73,545
+Schweden;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;16,7;16,447;15,756;15,392;15,323;15,522;16,026;16,469;12,789;15,026;14,229;16,236;16,464;16,665
+Schweden;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;75,535;71,999;67,239;63,365;61,101;60,627;61,498;62,049;62,081;61,049;54,057;57,214;57,077;56,88
+Schweden;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;-4,108;-6,163;-5,107;-2,961;-0,361;1,806;1,282;-4,646;1,61;-10,239;7,562;0,123;0,006
+Schweden;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;-1,51;-4,204;-2,31;-0,445;1,295;3,247;2,762;-22,343;17,492;-5,304;14,105;1,4;1,226
+Schweden;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;-4,682;-6,61;-5,762;-3,572;-0,776;1,437;0,896;0,051;-1,662;-11,453;5,839;-0,239;-0,345
+Schweden;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;9,665;9,196;8,563;8,065;7,77;7,688;7,774;7,823;7,413;7,488;6,682;7,148;7,118;7,082
+Schweden;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;1,75;1,71;1,626;1,576;1,558;1,567;1,607;1,641;1,266;1,479;1,392;1,58;1,594;1,605
+Schweden;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;7,915;7,486;6,938;6,489;6,212;6,121;6,167;6,182;6,147;6,009;5,29;5,568;5,525;5,477
+Schweden;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;7,92;;;;
+Schweden;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;21,859;;;;
+Schweden;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;20,334;;;;
+Schweden;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;25,127;;;;
+Schweden;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;24,764;;;;
+Schweden;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;49,165;;;;
+Schweden;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;50,835;;;;
+Schweden;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;38,743;;;;
+Schweden;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;31,675;;;;
+Schweden;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;29,581;;;;
+Schweden;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;68,45;71,94;70,36;71,96;74,27;76,39;74,22;74,45;64,26;79,55;90,98;97,6;100,5;103,7
+Schweden;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;90,57;91;85,91;84,79;85,36;86,67;83,43;83,5;70,49;88,92;102,9;111,9;116,1;120,6
+Schweden;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;67,81;71,34;69,85;71,56;73,97;76,14;74,03;74,26;64,12;79,33;90,68;97,23;100,1;103,2
+Schweden;Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;6,496;6,565;6,028;5,842;5,833;5,957;5,874;5,971;4,92;6,199;6,368;7,354;7,588;7,839
+Schweden;Kaffee;Umsatz;Instant-Kaffee;Milliarden EUR (€);Statista;0,242;0,255;0,231;0,205;0,18;0,159;0,135;0,141;0,118;0,164;0,175;0,213;0,229;0,246
+Schweden;Kaffee;Umsatz;Röstkaffee;Milliarden EUR (€);Statista;6,255;6,31;5,798;5,636;5,653;5,798;5,739;5,831;4,801;6,035;6,192;7,142;7,359;7,592
+Schweden;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;1,062;-8,18;-3,086;-0,154;2,126;-1,393;1,651;-17,602;25,996;2,726;15,484;3,182;3,308
+Schweden;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;5,376;-9,38;-11,044;-12,366;-11,722;-15,041;4,296;-15,838;38,65;6,817;21,254;7,801;7,411
+Schweden;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;0,879;-8,114;-2,794;0,302;2,565;-1,018;1,603;-17,664;25,703;2,601;15,342;3,038;3,166
+Schweden;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;680,8;682,5;622;598,2;593;601,4;589,1;595;487,1;610,1;623,2;715,7;734,5;754,8
+Schweden;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;25,34;26,49;23,82;21,04;18,3;16,05;13,54;14,03;11,74;16,17;17,18;20,71;22,2;23,73
+Schweden;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;655,4;656;598,2;577,2;574,7;585,4;575,5;580,9;475,4;594;606;695;712,3;731,1
+Schweden;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,628;99,499;99,327;98,94;98,623;98,211;97,669;96,937;95,925
+Schweden;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,372;0,501;0,673;1,06;1,377;1,789;2,331;3,063;4,075
+Schweden;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,186;63,258;61,336;59,417;57,723;57,108;56,664;56,43;56,196
+Schweden;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,814;36,742;38,664;40,583;42,277;42,892;43,336;43,57;43,804
+Schweden;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;86,992;87,061;87,095;87,488;87,807;88,132;89,034;89,393;86,918;88,937;89,705;90,485;90,721;90,944
+Schweden;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;13,008;12,939;12,905;12,512;12,193;11,868;10,966;10,607;13,082;11,063;10,295;9,515;9,279;9,056
+Schweden;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;17,895;18,352;18,724;19,281;19,803;20,161;20,476;20,77;16,897;19,532;20,605;21,858;22,131;22,395
+Schweden;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;82,105;81,648;81,276;80,719;80,197;79,839;79,524;79,23;83,103;80,468;79,395;78,142;77,869;77,605
+Schweden;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;94,904;91,246;85,683;81,18;78,533;77,983;79,143;80,204;76,551;77,923;69,992;75,351;75,517;75,589
+Schweden;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;2,669;2,8;2,688;2,423;2,109;1,834;1,618;1,686;1,682;1,848;1,706;1,901;1,976;2,044
+Schweden;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;92,235;88,446;82,995;78,757;76,425;76,149;77,524;78,518;74,87;76,075;68,286;73,45;73,54;73,545
+Schweden;Kaffee;Volumenveränderung;Total;Prozent;Statista;;-3,855;-6,096;-5,256;-3,26;-0,701;1,487;1,342;-4,555;1,792;-10,178;7,657;0,219;0,096
+Schweden;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;4,883;-3,995;-9,872;-12,963;-13,022;-11,755;4,205;-0,292;9,897;-7,685;11,459;3,941;3,438
+Schweden;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;-4,108;-6,163;-5,107;-2,961;-0,361;1,806;1,282;-4,646;1,61;-10,239;7,562;0,123;0,006
+Schweden;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;9,945;9,487;8,84;8,313;7,984;7,873;7,937;7,991;7,58;7,669;6,849;7,333;7,31;7,279
+Schweden;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,28;0,291;0,277;0,248;0,214;0,185;0,162;0,168;0,166;0,182;0,167;0,185;0,191;0,197
+Schweden;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;9,665;9,196;8,563;8,065;7,77;7,688;7,774;7,823;7,413;7,488;6,682;7,148;7,118;7,082
+Schweden;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;90,57;91;85,91;84,79;85,36;86,67;83,43;83,5;70,49;88,92;102,9;111,9;116,1;120,6
+Schweden;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;618,3;633,6;607,5;606,8;613;622,6;602,7;598,2;617,2;675,4;738,1;752,4;766,6;783,3
+Schweden;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;27,78;26,3;23,48;21,97;21,35;20,93;18,8;18,23;18,58;20,1;21,85;22,08;22,37;22,75
+Schweden;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;241,8;254,8;230,9;205,4;180;158,9;135;140,8;118,5;164,3;175,5;212,8;229,4;246,4
+Schweden;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;175,5;189;174,6;157,9;139,9;124,8;108;113,5;90;131,1;142,5;176;190,7;205,9
+Schweden;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;66,27;65,78;56,35;47,5;40,14;34,18;27,05;27,29;28,53;33,25;33,06;36,82;38,65;40,53
+Schweden;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;5,376;-9,38;-11,044;-12,366;-11,722;-15,041;4,296;-15,838;38,65;6,817;21,254;7,801;7,411
+Schweden;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;7,692;-7,619;-9,565;-11,4;-10,793;-13,462;5,093;-20,705;45,667;8,696;23,509;8,352;7,971
+Schweden;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-0,739;-14,336;-15,705;-15,495;-14,848;-20,86;0,887;4,544;16,544;-0,571;11,373;4,97;4,864
+Schweden;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;25,34;26,49;23,82;21,04;18,3;16,05;13,54;14,03;11,74;16,17;17,18;20,71;22,2;23,73
+Schweden;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;18,39;19,65;18,01;16,17;14,22;12,6;10,83;11,31;8,911;12,9;13,94;17,13;18,46;19,83
+Schweden;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;6,945;6,839;5,814;4,865;4,081;3,451;2,713;2,719;2,825;3,272;3,235;3,583;3,741;3,903
+Schweden;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,628;99,499;99,327;99,051;98,741;98,33;97,775;97,009;95,925
+Schweden;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,372;0,501;0,673;0,949;1,259;1,67;2,225;2,991;4,075
+Schweden;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,186;63,258;61,336;59,417;57,723;57,108;56,664;56,43;56,196
+Schweden;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,814;36,742;38,664;40,583;42,277;42,892;43,336;43,57;43,804
+Schweden;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;2,669;2,8;2,688;2,423;2,109;1,834;1,618;1,686;1,682;1,848;1,706;1,901;1,976;2,044
+Schweden;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,284;0,298;0,287;0,26;0,228;0,2;0,179;0,19;0,146;0,194;0,193;0,234;0,249;0,263
+Schweden;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;2,386;2,501;2,401;2,162;1,88;1,634;1,439;1,497;1,536;1,654;1,513;1,667;1,728;1,781
+Schweden;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;4,883;-3,995;-9,872;-12,963;-13,022;-11,755;4,205;-0,292;9,897;-7,685;11,459;3,941;3,438
+Schweden;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;5,104;-3,682;-9,43;-12,345;-12,161;-10,593;5,936;-23,17;33,086;-0,525;21,185;6,353;5,651
+Schweden;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;4,857;-4,032;-9,924;-13,038;-13,127;-11,897;3,989;2,609;7,696;-8,525;10,218;3,603;3,119
+Schweden;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,28;0,291;0,277;0,248;0,214;0,185;0,162;0,168;0,166;0,182;0,167;0,185;0,191;0,197
+Schweden;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,03;0,031;0,03;0,027;0,023;0,02;0,018;0,019;0,014;0,019;0,019;0,023;0,024;0,025
+Schweden;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,25;0,26;0,248;0,221;0,191;0,165;0,144;0,149;0,152;0,163;0,148;0,162;0,167;0,172

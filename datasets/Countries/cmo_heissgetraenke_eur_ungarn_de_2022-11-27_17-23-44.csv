@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Ungarn;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;16,3;16,49;16,57;17,04;17,52;18,27;18,58;18,94;16,74;18,71;20,99;21,78;21,91;22,05
+Ungarn;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;19,11;19,31;19,02;19,45;20,17;20,99;21,76;22,35;19,78;22,36;25,23;26,37;26,83;27,32
+Ungarn;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;7,273;7,418;7,674;7,87;7,928;8,157;8,144;8,268;7,547;8,258;9,211;9,493;9,555;9,625
+Ungarn;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;24,28;24,92;25,36;26,56;27,65;29,34;30,12;30,99;27,54;31,08;35,12;36,69;37,07;37,44
+Ungarn;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;167;169,1;169,8;175,7;181,6;190,8;196,3;202,3;172,2;200,3;203,3;229,8;234,5;239,2
+Ungarn;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;64,84;63,01;60,11;59,94;60,9;62,36;63,77;64,99;53,89;62,92;63,78;71,94;73,38;74,91
+Ungarn;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;27,5;28,85;30,41;32,11;33,14;34,98;36,12;37,66;33,96;39,04;39,76;45,07;46,61;48,17
+Ungarn;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;74,64;77,2;79,33;83,63;87,6;93,44;96,4;99,62;84,31;98,3;99,81;112,8;114,6;116,2
+Ungarn;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;1,257;0,414;3,475;3,358;5,066;2,883;3,057;-14,879;16,318;1,498;13,035;2,045;2,004
+Ungarn;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;-2,822;-4,602;-0,283;1,602;2,397;2,261;1,913;-17,08;16,756;1,367;12,794;2,002;2,085
+Ungarn;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;4,909;5,407;5,59;3,208;5,552;3,259;4,264;-9,825;14,959;1,844;13,355;3,417;3,347
+Ungarn;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;3,43;2,759;5,42;4,747;6,667;3,168;3,34;-15,368;16,594;1,536;13,015;1,596;1,396
+Ungarn;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;16,93;17,19;17,32;17,97;18,62;19,61;20,22;20,89;17,82;20,79;21,17;24;24,57;25,14
+Ungarn;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;6,574;6,407;6,13;6,131;6,244;6,409;6,569;6,711;5,579;6,53;6,639;7,512;7,686;7,874
+Ungarn;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;2,788;2,933;3,101;3,284;3,398;3,595;3,721;3,888;3,515;4,052;4,139;4,707;4,883;5,063
+Ungarn;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;7,567;7,85;8,091;8,553;8,981;9,604;9,93;10,29;8,727;10,2;10,39;11,78;12;12,21
+Ungarn;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,926;99,914;99,901;99,874;99,858;99,839;99,818;99,792;99,76
+Ungarn;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,074;0,086;0,099;0,126;0,142;0,161;0,182;0,208;0,24
+Ungarn;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;72,518;68,233;64,034;60,406;58,07;56,703;55,596;55,173;54,763
+Ungarn;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;27,482;31,767;35,966;39,594;41,93;43,297;44,404;44,827;45,237
+Ungarn;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;37,623;38,84;39,713;41,157;42,38;43,875;45,155;46,072;40,975;45,205;46,855;48,577;49,26;49,861
+Ungarn;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;62,377;61,16;60,287;58,843;57,62;56,125;54,845;53,928;59,025;54,795;53,145;51,423;50,74;50,139
+Ungarn;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;6,037;6,309;6,58;6,839;7,074;7,32;7,543;7,79;6,445;7,571;8,069;8,64;8,794;8,929
+Ungarn;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;93,963;93,691;93,42;93,161;92,926;92,68;92,457;92,21;93,555;92,429;91,931;91,36;91,206;91,071
+Ungarn;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;10,248;10,25;10,25;10,311;10,367;10,445;10,566;10,677;10,286;10,703;9,685;10,55;10,703;10,849
+Ungarn;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;3,392;3,263;3,16;3,082;3,019;2,971;2,93;2,908;2,725;2,813;2,527;2,728;2,735;2,742
+Ungarn;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;3,781;3,889;3,962;4,08;4,18;4,288;4,435;4,555;4,499;4,727;4,316;4,748;4,878;5,005
+Ungarn;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;3,074;3,098;3,127;3,149;3,168;3,185;3,201;3,215;3,061;3,163;2,842;3,074;3,09;3,102
+Ungarn;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;0,026;-0,005;0,597;0,548;0,747;1,164;1,047;-3,666;4,062;-9,511;8,926;1,449;1,366
+Ungarn;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;-3,807;-3,17;-2,474;-2,032;-1,584;-1,384;-0,77;-6,285;3,243;-10,159;7,926;0,258;0,274
+Ungarn;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;2,852;1,9;2,978;2,448;2,583;3,43;2,686;-1,211;5,059;-8,685;10;2,733;2,598
+Ungarn;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;0,781;0,938;0,682;0,61;0,546;0,489;0,438;-4,775;3,325;-10,168;8,182;0,521;0,387
+Ungarn;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,039;1,042;1,045;1,055;1,063;1,073;1,088;1,102;1,065;1,111;1,008;1,102;1,121;1,14
+Ungarn;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;0,344;0,332;0,322;0,315;0,31;0,305;0,302;0,3;0,282;0,292;0,263;0,285;0,286;0,288
+Ungarn;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,383;0,395;0,404;0,417;0,429;0,441;0,457;0,47;0,466;0,491;0,449;0,496;0,511;0,526
+Ungarn;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,312;0,315;0,319;0,322;0,325;0,327;0,33;0,332;0,317;0,328;0,296;0,321;0,324;0,326
+Ungarn;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;11,069;;;;
+Ungarn;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;21,006;;;;
+Ungarn;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;27,673;;;;
+Ungarn;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;23,899;;;;
+Ungarn;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;16,352;;;;
+Ungarn;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;46,667;;;;
+Ungarn;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;53,333;;;;
+Ungarn;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;35,382;;;;
+Ungarn;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;34,053;;;;
+Ungarn;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;30,565;;;;
+Ungarn;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;19,11;19,31;19,02;19,45;20,17;20,99;21,76;22,35;19,78;22,36;25,23;26,37;26,83;27,32
+Ungarn;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;16,24;16,27;16,23;16,5;16,8;17,6;17,91;18,35;16,99;18,62;20,81;21,52;21,73;21,98
+Ungarn;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;22,37;22,52;21,87;22,39;23,48;24,3;25,56;26,27;22,58;25,97;29,4;30,84;31,46;32,11
+Ungarn;Kaffee;Umsatz;Total;Millionen EUR (€);Statista;64,84;63,01;60,11;59,94;60,9;62,36;63,77;64,99;53,89;62,92;63,78;71,94;73,38;74,91
+Ungarn;Kaffee;Umsatz;Instant-Kaffee;Millionen EUR (€);Statista;29,27;27,32;25,89;25,33;25,14;25,86;26,05;26,37;23,19;25,69;25,53;28,13;28,29;28,51
+Ungarn;Kaffee;Umsatz;Röstkaffee;Millionen EUR (€);Statista;35,57;35,69;34,22;34,61;35,76;36,5;37,72;38,62;30,7;37,23;38,25;43,81;45,09;46,4
+Ungarn;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;-2,822;-4,602;-0,283;1,602;2,397;2,261;1,913;-17,08;16,756;1,367;12,794;2,002;2,085
+Ungarn;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;-6,662;-5,234;-2,163;-0,75;2,864;0,735;1,228;-12,059;10,781;-0,623;10,184;0,569;0,778
+Ungarn;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;0,337;-4,119;1,14;3,323;2,069;3,342;2,386;-20,508;21,27;2,74;14,536;2,922;2,905
+Ungarn;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;6,574;6,407;6,13;6,131;6,244;6,409;6,569;6,711;5,579;6,53;6,639;7,512;7,686;7,874
+Ungarn;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;2,968;2,779;2,64;2,591;2,578;2,658;2,683;2,723;2,401;2,666;2,658;2,937;2,963;2,997
+Ungarn;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;3,606;3,629;3,49;3,54;3,666;3,752;3,886;3,988;3,178;3,864;3,981;4,574;4,723;4,877
+Ungarn;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,926;99,914;99,901;99,873;99,857;99,838;99,817;99,791;99,76
+Ungarn;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,074;0,086;0,099;0,127;0,143;0,162;0,183;0,209;0,24
+Ungarn;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;72,518;68,233;64,034;60,406;58,07;56,703;55,596;55,173;54,763
+Ungarn;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;27,482;31,767;35,966;39,594;41,93;43,297;44,404;44,827;45,237
+Ungarn;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;39,066;41,536;44,024;46,523;47,664;49,659;50,436;51,492;46,607;51,358;53,379;55,61;56,655;57,642
+Ungarn;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;60,934;58,464;55,976;53,477;52,336;50,341;49,564;48,508;53,393;48,642;46,621;44,39;43,345;42,358
+Ungarn;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;8,787;9,477;10,097;10,676;11,122;11,59;12,03;12,529;10,577;12,519;13,422;14,506;14,946;15,373
+Ungarn;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;91,213;90,523;89,903;89,324;88,878;88,41;87,97;87,471;89,423;87,481;86,578;85,494;85,054;84,627
+Ungarn;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;3,392;3,263;3,16;3,082;3,019;2,971;2,93;2,908;2,725;2,813;2,527;2,728;2,735;2,742
+Ungarn;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;1,802;1,679;1,595;1,536;1,496;1,469;1,454;1,437;1,365;1,379;1,227;1,307;1,302;1,297
+Ungarn;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;1,59;1,584;1,565;1,546;1,523;1,502;1,476;1,47;1,36;1,434;1,301;1,421;1,433;1,445
+Ungarn;Kaffee;Volumenveränderung;Total;Prozent;Statista;;-3,807;-3,17;-2,474;-2,032;-1,584;-1,384;-0,77;-6,285;3,243;-10,159;7,926;0,258;0,274
+Ungarn;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;-6,836;-4,984;-3,741;-2,56;-1,816;-0,997;-1,179;-5,021;1,046;-11,08;6,561;-0,416;-0,361
+Ungarn;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;-0,374;-1,249;-1,182;-1,507;-1,356;-1,763;-0,367;-7,521;5,449;-9,273;9,214;0,879;0,851
+Ungarn;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,344;0,332;0,322;0,315;0,31;0,305;0,302;0,3;0,282;0,292;0,263;0,285;0,286;0,288
+Ungarn;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,183;0,171;0,163;0,157;0,153;0,151;0,15;0,148;0,141;0,143;0,128;0,136;0,136;0,136
+Ungarn;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;0,161;0,161;0,16;0,158;0,156;0,154;0,152;0,152;0,141;0,149;0,135;0,148;0,15;0,152
+Ungarn;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;22,37;22,52;21,87;22,39;23,48;24,3;25,56;26,27;22,58;25,97;29,4;30,84;31,46;32,11
+Ungarn;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;78,09;78,34;77,17;79,14;80,86;84,22;85,49;86,15;81,99;86,25;94,28;94,92;95,44;96,05
+Ungarn;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;11,53;10,94;9,638;9,049;9,339;8,745;9,161;9,057;8,453;8,733;9,387;9,305;9,301;9,309
+Ungarn;Röstkaffee;Umsatz;Total;Millionen EUR (€);Statista;35,57;35,69;34,22;34,61;35,76;36,5;37,72;38,62;30,7;37,23;38,25;43,81;45,09;46,4
+Ungarn;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Millionen EUR (€);Statista;20,22;21,34;21,87;23,28;24,35;26,07;27,11;28,28;21,41;27,49;28,91;33,91;35,19;36,48
+Ungarn;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Millionen EUR (€);Statista;15,35;14,35;12,35;11,33;11,41;10,43;10,61;10,34;9,285;9,737;9,332;9,895;9,899;9,919
+Ungarn;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;0,337;-4,119;1,14;3,323;2,069;3,342;2,386;-20,508;21,27;2,74;14,536;2,922;2,905
+Ungarn;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;5,539;2,484;6,447;4,596;7,064;3,989;4,316;-24,293;28,398;5,166;17,295;3,775;3,666
+Ungarn;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;-6,515;-13,937;-8,259;0,706;-8,589;1,726;-2,545;-10,203;4,868;-4,159;6,033;0,04;0,202
+Ungarn;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;3,606;3,629;3,49;3,54;3,666;3,752;3,886;3,988;3,178;3,864;3,981;4,574;4,723;4,877
+Ungarn;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;2,05;2,17;2,231;2,381;2,497;2,68;2,793;2,92;2,217;2,854;3,01;3,541;3,686;3,835
+Ungarn;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;1,556;1,459;1,259;1,159;1,17;1,072;1,093;1,068;0,961;1,011;0,971;1,033;1,037;1,042
+Ungarn;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,926;99,914;99,901;99,869;99,853;99,835;99,814;99,79;99,76
+Ungarn;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,074;0,086;0,099;0,131;0,147;0,165;0,186;0,21;0,24
+Ungarn;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;72,518;68,233;64,034;60,406;58,07;56,703;55,596;55,173;54,763
+Ungarn;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;27,482;31,767;35,966;39,594;41,93;43,297;44,404;44,827;45,237
+Ungarn;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;1,59;1,584;1,565;1,546;1,523;1,502;1,476;1,47;1,36;1,434;1,301;1,421;1,433;1,445
+Ungarn;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;0,259;0,272;0,283;0,294;0,301;0,31;0,317;0,328;0,261;0,319;0,307;0,357;0,369;0,38
+Ungarn;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;1,331;1,312;1,281;1,252;1,222;1,193;1,159;1,142;1,098;1,115;0,994;1,063;1,064;1,065
+Ungarn;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;-0,374;-1,249;-1,182;-1,507;-1,356;-1,763;-0,367;-7,521;5,449;-9,273;9,214;0,879;0,851
+Ungarn;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;5,191;4,08;3,781;2,37;2,799;2,432;3,505;-20,432;22,049;-3,788;16,501;3,201;3,011
+Ungarn;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;-1,457;-2,355;-2,28;-2,418;-2,381;-2,852;-1,427;-3,811;1,502;-10,841;6,966;0,098;0,103
+Ungarn;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,161;0,161;0,16;0,158;0,156;0,154;0,152;0,152;0,141;0,149;0,135;0,148;0,15;0,152
+Ungarn;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,026;0,028;0,029;0,03;0,031;0,032;0,033;0,034;0,027;0,033;0,032;0,037;0,039;0,04
+Ungarn;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;0,135;0,133;0,131;0,128;0,125;0,123;0,119;0,118;0,114;0,116;0,103;0,111;0,111;0,112
+Ungarn;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;16,24;16,27;16,23;16,5;16,8;17,6;17,91;18,35;16,99;18,62;20,81;21,52;21,73;21,98
+Ungarn;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;130,5;131;129;132,3;135,2;140,8;142,9;144;137,1;144,2;157,6;158,7;159,5;160,6
+Ungarn;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;13,71;13,7;13,66;13,81;14;14,62;14,79;15,12;14,57;15,5;17,09;17,37;17,36;17,38
+Ungarn;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;29,27;27,32;25,89;25,33;25,14;25,86;26,05;26,37;23,19;25,69;25,53;28,13;28,29;28,51
+Ungarn;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;5,112;4,834;4,588;4,606;4,676;4,895;5,053;5,189;3,704;4,818;5,129;6,09;6,381;6,699
+Ungarn;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;24,16;22,49;21,3;20,73;20,46;20,97;20,99;21,18;19,49;20,87;20,4;22,04;21,9;21,81
+Ungarn;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;-6,662;-5,234;-2,163;-0,75;2,864;0,735;1,228;-12,059;10,781;-0,623;10,184;0,569;0,778
+Ungarn;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-5,438;-5,089;0,392;1,52;4,683;3,228;2,691;-28,618;30,076;6,455;18,737;4,778;4,984
+Ungarn;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-6,912;-5,291;-2,676;-1,302;2,493;0,095;0,905;-7,979;7,081;-2,252;8,039;-0,635;-0,411
+Ungarn;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;2,968;2,779;2,64;2,591;2,578;2,658;2,683;2,723;2,401;2,666;2,658;2,937;2,963;2,997
+Ungarn;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;0,518;0,492;0,468;0,471;0,479;0,503;0,52;0,536;0,383;0,5;0,534;0,636;0,668;0,704
+Ungarn;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;2,449;2,287;2,172;2,12;2,098;2,155;2,163;2,187;2,018;2,166;2,124;2,301;2,295;2,293
+Ungarn;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,926;99,914;99,901;99,879;99,862;99,843;99,82;99,793;99,76
+Ungarn;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,074;0,086;0,099;0,121;0,138;0,157;0,18;0,207;0,24
+Ungarn;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;72,518;68,233;64,034;60,406;58,07;56,703;55,596;55,173;54,763
+Ungarn;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;27,482;31,767;35,966;39,594;41,93;43,297;44,404;44,827;45,237
+Ungarn;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;1,802;1,679;1,595;1,536;1,496;1,469;1,454;1,437;1,365;1,379;1,227;1,307;1,302;1,297
+Ungarn;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,039;0,037;0,036;0,035;0,035;0,035;0,035;0,036;0,027;0,033;0,033;0,038;0,04;0,042
+Ungarn;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;1,763;1,642;1,56;1,501;1,462;1,434;1,419;1,401;1,338;1,346;1,194;1,269;1,262;1,255
+Ungarn;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;-6,836;-4,984;-3,741;-2,56;-1,816;-0,997;-1,179;-5,021;1,046;-11,08;6,561;-0,416;-0,361
+Ungarn;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-5,746;-3,646;-2,12;-0,615;0,488;1,7;1,906;-25,001;23,659;-2,624;17,955;4,207;4,302
+Ungarn;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-6,861;-5,014;-3,778;-2,606;-1,87;-1,062;-1,256;-4,507;0,589;-11,29;6,25;-0,556;-0,509
+Ungarn;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,183;0,171;0,163;0,157;0,153;0,151;0,15;0,148;0,141;0,143;0,128;0,136;0,136;0,136
+Ungarn;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,004;0,004;0,004;0,004;0,004;0,004;0,004;0,004;0,003;0,003;0,003;0,004;0,004;0,004
+Ungarn;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,179;0,167;0,159;0,153;0,15;0,147;0,146;0,145;0,139;0,14;0,124;0,132;0,132;0,132

@@ -1,0 +1,116 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Bulgarien;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;15,32;16,1;16,34;16,57;17,09;17,62;19,15;19,95;20,03;21,88;24,44;25,18;25,58;25,99
+Bulgarien;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;16,84;17,44;17,54;17,77;18,31;18,87;20,56;21,43;21,53;23,54;26,3;27,11;27,54;27,98
+Bulgarien;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;5,842;6,084;6,464;6,59;6,677;6,785;6,929;7,012;6,979;7,329;7,945;7,935;7,971;8,017
+Bulgarien;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;17,66;18,3;19,15;19,55;19,83;20,18;20,76;21,14;21,11;22,45;24,62;24,89;25,11;25,35
+Bulgarien;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;376,1;413,4;444,7;474;503,8;531,2;586,4;618,2;514,9;638,7;663,2;769,2;791,3;813,2
+Bulgarien;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;343,4;381,7;411,5;439,2;468,4;495,2;549,2;580,4;483,4;601,4;625,7;727,2;748,8;770,3
+Bulgarien;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;20,11;18,74;19,73;21,01;21,34;21,54;21,99;22,25;18,39;21,52;21,42;23,76;23,97;24,18
+Bulgarien;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;12,6;12,96;13,44;13,76;14,03;14,47;15,18;15,62;13,09;15,73;16,04;18,24;18,52;18,78
+Bulgarien;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;9,918;7,571;6,589;6,287;5,439;10,392;5,423;-16,71;24,044;3,836;15,983;2,873;2,768
+Bulgarien;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;11,153;7,807;6,731;6,648;5,722;10,905;5,681;-16,713;24,41;4,041;16,222;2,97;2,871
+Bulgarien;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;-6,813;5,283;6,488;1,571;0,937;2,089;1,182;-17,348;17,02;-0,465;10,924;0,884;0,876
+Bulgarien;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;2,857;3,704;2,381;1,962;3,136;4,907;2,899;-16,197;20,168;1,971;13,716;1,535;1,404
+Bulgarien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;51,28;56,7;61,38;65,83;70,44;74,79;83,16;88,32;74,1;92,61;96,89;113,2;117,4;121,6
+Bulgarien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;46,82;52,35;56,8;61;65,49;69,72;77,89;82,91;69,57;87,21;91,41;107,1;111,1;115,2
+Bulgarien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;2,742;2,571;2,723;2,918;2,984;3,033;3,118;3,179;2,647;3,12;3,13;3,498;3,557;3,616
+Bulgarien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;1,719;1,778;1,855;1,911;1,961;2,038;2,153;2,232;1,884;2,28;2,344;2,686;2,747;2,808
+Bulgarien;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,711;99,665;99,589;99,223;99,087;98,948;98,741;98,458;98,1
+Bulgarien;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,289;0,335;0,411;0,777;0,913;1,052;1,259;1,542;1,9
+Bulgarien;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Bulgarien;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Bulgarien;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;51,718;54,454;55,588;56,327;56,252;57,382;57,82;58,72;57,444;59,459;60,473;61,536;62,28;62,944
+Bulgarien;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;48,282;45,546;44,412;43,673;43,748;42,618;42,18;41,28;42,556;40,541;39,527;38,464;37,72;37,056
+Bulgarien;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;14,688;15,827;16,215;16,246;16,619;17,141;17,65;18,286;17,541;18,787;19,443;20,163;20,533;20,862
+Bulgarien;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;85,312;84,173;83,785;83,754;83,381;82,859;82,35;81,714;82,459;81,213;80,557;79,837;79,467;79,138
+Bulgarien;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;24,546;25,673;27,214;28,603;29,486;30,139;30,623;30,996;25,705;29,188;27,137;30,549;30,937;31,286
+Bulgarien;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;20,389;21,884;23,46;24,71;25,582;26,248;26,718;27,085;22,45;25,552;23,79;26,821;27,192;27,529
+Bulgarien;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;3,443;3,081;3,053;3,188;3,197;3,175;3,173;3,173;2,635;2,936;2,696;2,995;3,007;3,016
+Bulgarien;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;0,714;0,708;0,702;0,704;0,707;0,717;0,731;0,739;0,62;0,7;0,652;0,733;0,737;0,741
+Bulgarien;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;4,592;6,004;5,103;3,089;2,216;1,603;1,221;-17,071;13,551;-7,028;12,572;1,27;1,128
+Bulgarien;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;7,333;7,2;5,332;3,528;2,602;1,793;1,371;-17,112;13,819;-6,899;12,744;1,382;1,24
+Bulgarien;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;-10,522;-0,909;4,442;0,267;-0,69;-0,045;-0,002;-16,947;11,4;-8,165;11,071;0,427;0,278
+Bulgarien;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;-0,785;-0,899;0,31;0,455;1,395;1,952;1,06;-16,089;12,971;-6,978;12,501;0,608;0,464
+Bulgarien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;3,347;3,522;3,756;3,973;4,123;4,244;4,343;4,428;3,699;4,232;3,965;4,498;4,59;4,679
+Bulgarien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;2,78;3,002;3,238;3,432;3,577;3,696;3,789;3,869;3,231;3,705;3,476;3,949;4,035;4,117
+Bulgarien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,469;0,423;0,421;0,443;0,447;0,447;0,45;0,453;0,379;0,426;0,394;0,441;0,446;0,451
+Bulgarien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,097;0,097;0,097;0,098;0,099;0,101;0,104;0,106;0,089;0,102;0,095;0,108;0,109;0,111
+Bulgarien;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;16,84;17,44;17,54;17,77;18,31;18,87;20,56;21,43;21,53;23,54;26,3;27,11;27,54;27,98
+Bulgarien;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;17,48;17,63;17,87;17,68;17,72;18,04;18,76;19,12;18,67;20,16;22,22;22,62;23,01;23,44
+Bulgarien;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;16,41;17,32;17,36;17,82;18,59;19,22;21,25;22,29;22,6;24,76;27,75;28,67;29,09;29,51
+Bulgarien;Kaffee;Umsatz;Total;Millionen EUR (€);Statista;343,4;381,7;411,5;439,2;468,4;495,2;549,2;580,4;483,4;601,4;625,7;727,2;748,8;770,3
+Bulgarien;Kaffee;Umsatz;Instant-Kaffee;Millionen EUR (€);Statista;143,7;146,3;150,5;147,7;144,2;141,9;139,5;140,8;113,8;137,2;138,7;156,7;159,4;162,4
+Bulgarien;Kaffee;Umsatz;Röstkaffee;Millionen EUR (€);Statista;199,6;235,4;261,1;291,5;324,3;353,3;409,7;439,5;369,6;464,2;487;570,5;589,4;607,9
+Bulgarien;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;11,153;7,807;6,731;6,648;5,722;10,905;5,681;-16,713;24,41;4,041;16,222;2,97;2,871
+Bulgarien;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;1,809;2,871;-1,86;-2,37;-1,595;-1,691;0,932;-19,176;20,562;1,093;12,978;1,723;1,882
+Bulgarien;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;17,936;10,918;11,643;11,252;8,942;15,964;7,274;-15,904;25,595;4,912;17,146;3,313;3,139
+Bulgarien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;46,82;52,35;56,8;61;65,49;69,72;77,89;82,91;69,57;87,21;91,41;107,1;111,1;115,2
+Bulgarien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;19,6;20,06;20,77;20,52;20,16;19,98;19,78;20,12;16,38;19,9;20,26;23,07;23,65;24,29
+Bulgarien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;27,22;32,29;36,03;40,48;45,34;49,74;58,11;62,79;53,19;67,31;71,15;83,99;87,46;90,91
+Bulgarien;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,703;99,656;99,579;99,198;99,072;98,94;98,739;98,458;98,1
+Bulgarien;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,297;0,344;0,421;0,802;0,928;1,06;1,261;1,542;1,9
+Bulgarien;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Bulgarien;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Bulgarien;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;54,687;57,226;58,405;59,133;58,889;59,951;60,136;60,962;59,645;61,57;62,512;63,503;64,229;64,874
+Bulgarien;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;45,313;42,774;41,595;40,867;41,111;40,049;39,864;39,038;40,355;38,43;37,488;36,497;35,771;35,126
+Bulgarien;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;17,034;18,001;18,276;18,272;18,628;19,159;19,701;20,394;19,582;20,932;21,64;22,416;22,81;23,158
+Bulgarien;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;82,966;81,999;81,724;81,728;81,372;80,841;80,299;79,606;80,418;79,068;78,36;77,584;77,19;76,842
+Bulgarien;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;20,389;21,884;23,46;24,71;25,582;26,248;26,718;27,085;22,45;25,552;23,79;26,821;27,192;27,529
+Bulgarien;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;8,221;8,295;8,423;8,358;8,136;7,863;7,434;7,366;6,094;6,807;6,243;6,927;6,929;6,929
+Bulgarien;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;12,168;13,589;15,036;16,352;17,446;18,385;19,285;19,718;16,355;18,746;17,546;19,895;20,263;20,601
+Bulgarien;Kaffee;Volumenveränderung;Total;Prozent;Statista;;7,333;7,2;5,332;3,528;2,602;1,793;1,371;-17,112;13,819;-6,899;12,744;1,382;1,24
+Bulgarien;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;0,902;1,549;-0,773;-2,661;-3,353;-5,46;-0,91;-17,264;11,683;-8,278;10,95;0,035;-0,004
+Bulgarien;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;11,677;10,65;8,752;6,691;5,379;4,895;2,25;-17,055;14,615;-6,398;13,383;1,852;1,666
+Bulgarien;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;2,78;3,002;3,238;3,432;3,577;3,696;3,789;3,869;3,231;3,705;3,476;3,949;4,035;4,117
+Bulgarien;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;1,121;1,138;1,163;1,161;1,138;1,107;1,054;1,052;0,877;0,987;0,912;1,02;1,028;1,036
+Bulgarien;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;1,659;1,864;2,075;2,271;2,439;2,588;2,735;2,817;2,354;2,718;2,564;2,929;3,007;3,081
+Bulgarien;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;17,48;17,63;17,87;17,68;17,72;18,04;18,76;19,12;18,67;20,16;22,22;22,62;23,01;23,44
+Bulgarien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;72,72;75,05;75,87;76,93;77,79;79,72;85,16;87,13;89,49;94,43;103,7;104,8;105,8;106,9
+Bulgarien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;12,09;12,01;12,16;11,81;11,73;11,83;11,99;12,07;12,09;12,52;13,42;13,25;13,26;13,29
+Bulgarien;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;143,7;146,3;150,5;147,7;144,2;141,9;139,5;140,8;113,8;137,2;138,7;156,7;159,4;162,4
+Bulgarien;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;53,16;55,53;57,24;57,9;57,39;57,35;58,58;60,23;46,38;59,97;63,1;74,34;77,21;80,3
+Bulgarien;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;90,56;90,73;93,24;89,83;86,76;84,53;80,91;80,6;67,42;77,27;75,6;82,37;82,2;82,12
+Bulgarien;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;1,809;2,871;-1,86;-2,37;-1,595;-1,691;0,932;-19,176;20,562;1,093;12,978;1,723;1,882
+Bulgarien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;4,458;3,079;1,153;-0,881;-0,07;2,145;2,817;-22,995;29,301;5,219;17,813;3,861;4,002
+Bulgarien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;0,188;2,766;-3,657;-3,418;-2,57;-4,283;-0,383;-16,352;14,61;-2,161;8,955;-0,206;-0,097
+Bulgarien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;19,6;20,06;20,77;20,52;20,16;19,98;19,78;20,12;16,38;19,9;20,26;23,07;23,65;24,29
+Bulgarien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;7,249;7,617;7,901;8,042;8,024;8,075;8,307;8,605;6,675;8,695;9,219;10,94;11,46;12,01
+Bulgarien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;12,35;12,45;12,87;12,48;12,13;11,9;11,47;11,51;9,702;11,2;11,04;12,13;12,2;12,28
+Bulgarien;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,703;99,655;99,575;99,202;99,078;98,95;98,758;98,485;98,136
+Bulgarien;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,297;0,345;0,425;0,798;0,922;1,05;1,242;1,515;1,864
+Bulgarien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Bulgarien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Bulgarien;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;8,221;8,295;8,423;8,358;8,136;7,863;7,434;7,366;6,094;6,807;6,243;6,927;6,929;6,929
+Bulgarien;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,731;0,74;0,754;0,753;0,738;0,719;0,688;0,691;0,518;0,635;0,609;0,709;0,73;0,751
+Bulgarien;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;7,49;7,555;7,669;7,606;7,398;7,144;6,746;6,675;5,576;6,172;5,634;6,217;6,199;6,178
+Bulgarien;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;0,902;1,549;-0,773;-2,661;-3,353;-5,46;-0,91;-17,264;11,683;-8,278;10,95;0,035;-0,004
+Bulgarien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;1,217;1,965;-0,24;-1,983;-2,488;-4,386;0,496;-25,02;22,512;-4,13;16,531;2,868;2,883
+Bulgarien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;0,871;1,508;-0,825;-2,728;-3,439;-5,568;-1,053;-16,461;10,677;-8,705;10,347;-0,288;-0,343
+Bulgarien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,121;1,138;1,163;1,161;1,138;1,107;1,054;1,052;0,877;0,987;0,912;1,02;1,028;1,036
+Bulgarien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,1;0,102;0,104;0,105;0,103;0,101;0,098;0,099;0,075;0,092;0,089;0,104;0,108;0,112
+Bulgarien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;1,021;1,036;1,058;1,056;1,034;1,006;0,957;0,954;0,803;0,895;0,823;0,915;0,92;0,924
+Bulgarien;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;16,41;17,32;17,36;17,82;18,59;19,22;21,25;22,29;22,6;24,76;27,75;28,67;29,09;29,51
+Bulgarien;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;49,09;50,91;51,83;53,64;54,24;55,58;59,38;60,75;62,39;65,84;72,27;73,06;73,77;74,57
+Bulgarien;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;6,898;6,98;6,775;7,121;7,885;8,084;9,385;9,806;10,23;10,97;12,22;12,54;12,55;12,58
+Bulgarien;Röstkaffee;Umsatz;Total;Millionen EUR (€);Statista;199,6;235,4;261,1;291,5;324,3;353,3;409,7;439,5;369,6;464,2;487;570,5;589,4;607,9
+Bulgarien;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Millionen EUR (€);Statista;134,6;162,9;183,1;201,8;218,4;239,5;271,7;293,6;241,9;310,3;328;387,4;403,7;419,4
+Bulgarien;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Millionen EUR (€);Statista;65,02;72,52;77,94;89,65;105,8;113,8;138;146;127,7;153,9;159;183;185,7;188,5
+Bulgarien;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;17,936;10,918;11,643;11,252;8,942;15,964;7,274;-15,904;25,595;4,912;17,146;3,313;3,139
+Bulgarien;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;21,025;12,4;10,213;8,226;9,661;13,445;8,06;-17,609;28,276;5,704;18,11;4,208;3,889
+Bulgarien;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;11,535;7,474;15,024;18,015;7,561;21,265;5,797;-12,534;20,517;3,314;15,094;1,475;1,508
+Bulgarien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;27,22;32,29;36,03;40,48;45,34;49,74;58,11;62,79;53,19;67,31;71,15;83,99;87,46;90,91
+Bulgarien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;18,35;22,34;25,27;28,03;30,54;33,72;38,53;41,94;34,82;45;47,93;57,04;59,91;62,73
+Bulgarien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;8,866;9,947;10,76;12,45;14,79;16,02;19,58;20,85;18,37;22,31;23,22;26,95;27,55;28,18
+Bulgarien;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,703;99,657;99,58;99,197;99,07;98,937;98,734;98,451;98,091
+Bulgarien;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,297;0,343;0,42;0,803;0,93;1,063;1,266;1,549;1,909
+Bulgarien;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Bulgarien;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Bulgarien;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;12,168;13,589;15,036;16,352;17,446;18,385;19,285;19,718;16,355;18,746;17,546;19,895;20,263;20,601
+Bulgarien;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;2,742;3,199;3,533;3,762;4,028;4,309;4,576;4,832;3,878;4,714;4,539;5,303;5,473;5,625
+Bulgarien;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;9,426;10,39;11,503;12,59;13,419;14,075;14,709;14,886;12,478;14,032;13,007;14,592;14,79;14,976
+Bulgarien;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;11,677;10,65;8,752;6,691;5,379;4,895;2,25;-17,055;14,615;-6,398;13,383;1,852;1,666
+Bulgarien;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;16,678;10,431;6,49;7,051;6,994;6,187;5,604;-19,754;21,555;-3,7;16,821;3,208;2,772
+Bulgarien;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;10,222;10,717;9,446;6,583;4,894;4,499;1,206;-16,179;12,459;-7,304;12,183;1,359;1,256
+Bulgarien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,659;1,864;2,075;2,271;2,439;2,588;2,735;2,817;2,354;2,718;2,564;2,929;3,007;3,081
+Bulgarien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,374;0,439;0,488;0,523;0,563;0,607;0,649;0,69;0,558;0,683;0,663;0,781;0,812;0,841
+Bulgarien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;1,285;1,425;1,588;1,749;1,876;1,982;2,086;2,127;1,796;2,035;1,9;2,148;2,195;2,24

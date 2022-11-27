@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Tschechien;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;14,51;15;15,39;16,39;17,18;18,2;18,8;19,11;17,25;19,19;21,01;21,4;21,46;21,52
+Tschechien;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;16,34;17,54;19,05;21,1;22,35;23,39;23,88;24,16;21,67;24,2;26,56;27,12;27,15;27,27
+Tschechien;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;6,467;6,536;6,285;6,36;6,354;6,545;6,767;6,811;6,416;6,987;7,628;7,674;7,697;7,731
+Tschechien;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;21,2;21,61;21,47;22,92;24,48;26,79;26,26;26,38;23,86;26,68;29,73;30,25;30,34;30,47
+Tschechien;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;393,8;368,3;339,7;341,4;358,9;396,9;434;452,5;412,8;455,8;435,8;471,2;475,9;475,4
+Tschechien;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;308,7;280,6;254,4;254;269,5;302,1;333,5;349,5;316,7;349,7;331,8;359,3;363,3;361,7
+Tschechien;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;39,4;42,2;42,2;43,82;44,52;46,34;48,24;48,75;46,4;50,37;48,76;52,14;52,45;52,76
+Tschechien;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;45,7;45,47;43,13;43,59;44,83;48,38;52,27;54,19;49,7;55,81;55,15;59,76;60,23;60,93
+Tschechien;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;-6,475;-7,765;0,5;5,126;10,588;9,347;4,263;-8,773;10,417;-4,388;8,123;0,997;-0,105
+Tschechien;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;-9,103;-9,337;-0,157;6,102;12,096;10,394;4,798;-9,385;10,42;-5,119;8,288;1,113;-0,44
+Tschechien;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;7,107;0;3,839;1,597;4,088;4,1;1,057;-4,821;8,556;-3,196;6,932;0,595;0,591
+Tschechien;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;-0,503;-5,146;1,067;2,845;7,919;8,041;3,673;-8,286;12,294;-1,183;8,359;0,786;1,162
+Tschechien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;37,22;34,79;32,07;32,2;33,8;37,3;40,69;42,33;38,55;42,5;40,59;43,85;44,26;44,2
+Tschechien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;29,18;26,51;24,02;23,96;25,38;28,39;31,27;32,7;29,57;32,6;30,91;33,44;33,78;33,63
+Tschechien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;3,723;3,986;3,984;4,133;4,192;4,355;4,523;4,561;4,333;4,696;4,541;4,852;4,878;4,905
+Tschechien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;4,319;4,295;4,073;4,111;4,221;4,547;4,901;5,07;4,641;5,204;5,136;5,561;5,602;5,665
+Tschechien;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,842;99,822;99,8;99,754;99,728;99,699;99,666;99,628;99,582
+Tschechien;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,158;0,178;0,2;0,246;0,272;0,301;0,334;0,372;0,418
+Tschechien;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;71,077;67,059;62,475;58,543;55,967;54,49;53,265;52,815;52,374
+Tschechien;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;28,923;32,941;37,525;41,457;44,033;45,51;46,735;47,185;47,626
+Tschechien;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;48,29;43,825;38,976;36,033;35,45;37,258;39,603;40,067;33,765;37,611;38,706;40,55;41,025;41,551
+Tschechien;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;51,71;56,175;61,024;63,967;64,55;62,742;60,397;59,933;66,235;62,389;61,294;59,45;58,975;58,449
+Tschechien;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;8,998;8,557;8,122;7,897;7,953;8,167;8,37;8,391;6,426;7,411;7,64;8,088;8,137;8,193
+Tschechien;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;91,002;91,443;91,878;92,103;92,047;91,833;91,63;91,609;93,574;92,589;92,36;91,912;91,863;91,807
+Tschechien;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;27,147;24,555;22,074;20,826;20,895;21,802;23,086;23,677;23,93;23,751;20,739;22,02;22,18;22,09
+Tschechien;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;18,899;15,995;13,352;12,035;12,058;12,915;13,967;14,465;14,615;14,45;12,492;13,25;13,381;13,265
+Tschechien;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;6,093;6,455;6,714;6,89;7,006;7,08;7,128;7,158;7,232;7,208;6,392;6,794;6,814;6,825
+Tschechien;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;2,155;2,104;2,009;1,902;1,831;1,806;1,991;2,054;2,083;2,092;1,855;1,976;1,985;2
+Tschechien;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;-9,546;-10,103;-5,655;0,33;4,34;5,889;2,559;1,071;-0,749;-12,679;6,175;0,728;-0,409
+Tschechien;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;-15,362;-16,529;-9,863;0,196;7,108;8,144;3,559;1,039;-1,126;-13,55;6,067;0,988;-0,87
+Tschechien;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;5,952;4,005;2,62;1,681;1,065;0,669;0,418;1,044;-0,33;-11,326;6,296;0,287;0,162
+Tschechien;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;-2,353;-4,541;-5,337;-3,714;-1,359;10,218;3,204;1,383;0,444;-11,33;6,493;0,499;0,733
+Tschechien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;2,566;2,319;2,084;1,964;1,968;2,049;2,164;2,215;2,235;2,215;1,932;2,049;2,063;2,054
+Tschechien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;1,786;1,511;1,261;1,135;1,136;1,214;1,31;1,353;1,365;1,347;1,163;1,233;1,244;1,233
+Tschechien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,576;0,61;0,634;0,65;0,66;0,665;0,668;0,67;0,675;0,672;0,595;0,632;0,634;0,634
+Tschechien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,204;0,199;0,19;0,179;0,172;0,17;0,187;0,192;0,194;0,195;0,173;0,184;0,185;0,186
+Tschechien;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;7,74;;;;
+Tschechien;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;19,554;;;;
+Tschechien;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;26,509;;;;
+Tschechien;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;26,247;;;;
+Tschechien;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;19,948;;;;
+Tschechien;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;47,638;;;;
+Tschechien;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;52,362;;;;
+Tschechien;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;32,072;;;;
+Tschechien;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;34,539;;;;
+Tschechien;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;33,388;;;;
+Tschechien;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;16,34;17,54;19,05;21,1;22,35;23,39;23,88;24,16;21,67;24,2;26,56;27,12;27,15;27,27
+Tschechien;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;14,33;15,04;14,68;14,84;14,94;15,5;16,26;16,58;15,99;17,37;19,01;19,19;19,19;19,22
+Tschechien;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;16,61;17,94;19,86;22,36;23,87;24,99;25,4;25,73;22,93;25,83;28,55;29,22;29,2;29,24
+Tschechien;Kaffee;Umsatz;Total;Millionen EUR (€);Statista;308,7;280,6;254,4;254;269,5;302,1;333,5;349,5;316,7;349,7;331,8;359,3;363,3;361,7
+Tschechien;Kaffee;Umsatz;Instant-Kaffee;Millionen EUR (€);Statista;32,82;32,95;30,44;29,89;30,63;33,6;37,72;41,01;42,46;48,45;49,34;53,19;52,67;50,22
+Tschechien;Kaffee;Umsatz;Röstkaffee;Millionen EUR (€);Statista;275,9;247,7;223,9;224,1;238,9;268,5;295,8;308,5;274,2;301,2;282,5;306,2;310,6;311,5
+Tschechien;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;-9,103;-9,337;-0,157;6,102;12,096;10,394;4,798;-9,385;10,42;-5,119;8,288;1,113;-0,44
+Tschechien;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;0,396;-7,618;-1,807;2,476;9,696;12,262;8,722;3,536;14,107;1,837;7,803;-0,978;-4,652
+Tschechien;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;-10,221;-9,608;0,089;6,604;12,39;10,168;4,293;-11,118;9,847;-6,208;8,389;1,437;0,29
+Tschechien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;29,18;26,51;24,02;23,96;25,38;28,39;31,27;32,7;29,57;32,6;30,91;33,44;33,78;33,63
+Tschechien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;3,102;3,112;2,874;2,82;2,885;3,157;3,537;3,837;3,965;4,518;4,596;4,95;4,899;4,669
+Tschechien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;26,07;23,4;21,14;21,14;22,5;25,24;27,73;28,86;25,61;28,09;26,31;28,49;28,89;28,96
+Tschechien;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,842;99,822;99,8;99,751;99,726;99,697;99,664;99,627;99,582
+Tschechien;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,158;0,178;0,2;0,249;0,274;0,303;0,336;0,373;0,418
+Tschechien;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;71,077;67,059;62,475;58,543;55,967;54,49;53,265;52,815;52,374
+Tschechien;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;28,923;32,941;37,525;41,457;44,033;45,51;46,735;47,185;47,626
+Tschechien;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;54,219;49,549;43,821;40,23;39,37;41,35;43,632;43,909;37,255;41,307;42,524;44,438;45,003;45,701
+Tschechien;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;45,781;50,451;56,179;59,77;60,63;58,65;56,368;56,091;62,745;58,693;57,476;55,562;54,997;54,299
+Tschechien;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;10,959;10,763;10,579;10,522;10,647;10,842;10,989;10,939;8,388;9,65;9,957;10,534;10,6;10,719
+Tschechien;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;89,041;89,237;89,421;89,478;89,353;89,158;89,011;89,061;91,612;90,35;90,043;89,466;89,4;89,281
+Tschechien;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;18,899;15,995;13,352;12,035;12,058;12,915;13,967;14,465;14,615;14,45;12,492;13,25;13,381;13,265
+Tschechien;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;2,291;2,191;2,074;2,014;2,05;2,168;2,321;2,473;2,655;2,789;2,596;2,771;2,745;2,613
+Tschechien;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;16,608;13,805;11,277;10,021;10,008;10,748;11,647;11,991;11,959;11,661;9,897;10,479;10,636;10,652
+Tschechien;Kaffee;Volumenveränderung;Total;Prozent;Statista;;-15,362;-16,529;-9,863;0,196;7,108;8,144;3,559;1,039;-1,126;-13,55;6,067;0,988;-0,87
+Tschechien;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;-4,387;-5,316;-2,906;1,812;5,712;7,061;6,586;7,357;5,041;-6,939;6,761;-0,946;-4,823
+Tschechien;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;-16,876;-18,308;-11,143;-0,129;7,395;8,363;2,956;-0,264;-2,496;-15,131;5,885;1,499;0,151
+Tschechien;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,786;1,511;1,261;1,135;1,136;1,214;1,31;1,353;1,365;1,347;1,163;1,233;1,244;1,233
+Tschechien;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,217;0,207;0,196;0,19;0,193;0,204;0,218;0,231;0,248;0,26;0,242;0,258;0,255;0,243
+Tschechien;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;1,57;1,304;1,065;0,945;0,942;1,01;1,092;1,122;1,117;1,087;0,922;0,975;0,989;0,99
+Tschechien;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;16,61;17,94;19,86;22,36;23,87;24,99;25,4;25,73;22,93;25,83;28,55;29,22;29,2;29,24
+Tschechien;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;80,92;80,92;79,12;80,92;82,89;89,47;95,07;97,27;96,52;103,9;113,9;114,8;115,7;116,7
+Tschechien;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;7,66;9,206;11,63;14,17;15,48;15,64;15,16;15,22;14,8;15,63;16,8;16,64;16,47;16,33
+Tschechien;Röstkaffee;Umsatz;Total;Millionen EUR (€);Statista;275,9;247,7;223,9;224,1;238,9;268,5;295,8;308,5;274,2;301,2;282,5;306,2;310,6;311,5
+Tschechien;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Millionen EUR (€);Statista;164,2;136,1;108,8;99,48;103,3;121,7;141,8;149,4;114,8;140;136,3;154,1;157,9;159,9
+Tschechien;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Millionen EUR (€);Statista;111,7;111,6;115,2;124,6;135,6;146,9;154;159,1;159,4;161,2;146,2;152;152,7;151,6
+Tschechien;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;-10,221;-9,608;0,089;6,604;12,39;10,168;4,293;-11,118;9,847;-6,208;8,389;1,437;0,29
+Tschechien;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;-17,113;-20,059;-8,566;3,84;17,812;16,516;5,36;-23,159;21,951;-2,643;13,059;2,466;1,267
+Tschechien;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;-0,09;3,226;8,16;8,828;8,333;4,833;3,312;0,189;1,129;-9,305;3,967;0,461;-0,72
+Tschechien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;26,07;23,4;21,14;21,14;22,5;25,24;27,73;28,86;25,61;28,09;26,31;28,49;28,89;28,96
+Tschechien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;15,52;12,85;10,27;9,383;9,727;11,44;13,3;13,98;10,72;13,06;12,7;14,34;14,68;14,87
+Tschechien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;10,55;10,54;10,87;11,75;12,77;13,8;14,44;14,89;14,89;15,03;13,61;14,15;14,2;14,09
+Tschechien;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,842;99,822;99,8;99,748;99,723;99,694;99,662;99,626;99,582
+Tschechien;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,158;0,178;0,2;0,252;0,277;0,306;0,338;0,374;0,418
+Tschechien;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;71,077;67,059;62,475;58,543;55,967;54,49;53,265;52,815;52,374
+Tschechien;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;28,923;32,941;37,525;41,457;44,033;45,51;46,735;47,185;47,626
+Tschechien;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;16,608;13,805;11,277;10,021;10,008;10,748;11,647;11,991;11,959;11,661;9,897;10,479;10,636;10,652
+Tschechien;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;2,03;1,682;1,375;1,229;1,246;1,36;1,492;1,536;1,189;1,348;1,197;1,342;1,365;1,37
+Tschechien;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;14,578;12,123;9,903;8,791;8,762;9,388;10,155;10,455;10,77;10,313;8,699;9,137;9,271;9,282
+Tschechien;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;-16,876;-18,308;-11,143;-0,129;7,395;8,363;2,956;-0,264;-2,496;-15,131;5,885;1,499;0,151
+Tschechien;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;-17,142;-18,261;-10,567;1,357;9,155;9,663;2,965;-22,56;13,311;-11,162;12,092;1,694;0,421
+Tschechien;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;-16,839;-18,315;-11,223;-0,337;7,144;8,175;2,955;3,011;-4,241;-15,65;5,03;1,47;0,111
+Tschechien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,57;1,304;1,065;0,945;0,942;1,01;1,092;1,122;1,117;1,087;0,922;0,975;0,989;0,99
+Tschechien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,192;0,159;0,13;0,116;0,117;0,128;0,14;0,144;0,111;0,126;0,112;0,125;0,127;0,127
+Tschechien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;1,378;1,145;0,935;0,829;0,825;0,882;0,952;0,978;1,006;0,962;0,81;0,85;0,862;0,863
+Tschechien;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;14,33;15,04;14,68;14,84;14,94;15,5;16,26;16,58;15,99;17,37;19,01;19,19;19,19;19,22
+Tschechien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;75,93;74,67;71,54;73,08;74,87;80,81;85,87;87,86;87,18;93,86;102,8;103,7;104,5;105,4
+Tschechien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;13,19;13,94;13,62;13,75;13,81;14,27;14,93;15,22;15;16,07;17,48;17,52;17,49;17,5
+Tschechien;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;32,82;32,95;30,44;29,89;30,63;33,6;37,72;41,01;42,46;48,45;49,34;53,19;52,67;50,22
+Tschechien;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;3,149;2,971;2,707;2,697;2,829;3,248;3,72;4,087;3,182;4,395;4,79;5,574;5,601;5,411
+Tschechien;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;29,68;29,98;27,74;27,19;27,8;30,35;34;36,93;39,28;44,06;44,55;47,62;47,07;44,81
+Tschechien;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;0,396;-7,618;-1,807;2,476;9,696;12,262;8,722;3,536;14,107;1,837;7,803;-0,978;-4,652
+Tschechien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-5,653;-8,886;-0,369;4,894;14,811;14,532;9,866;-22,143;38,121;8,987;16,367;0,484;-3,392
+Tschechien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;1,011;-7,472;-1,983;2,243;9,173;12,026;8,618;6,363;12,169;1,112;6,891;-1,155;-4,801
+Tschechien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;3,102;3,112;2,874;2,82;2,885;3,157;3,537;3,837;3,965;4,518;4,596;4,95;4,899;4,669
+Tschechien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;0,298;0,281;0,256;0,254;0,266;0,305;0,349;0,382;0,297;0,41;0,446;0,519;0,521;0,503
+Tschechien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;2,805;2,832;2,619;2,565;2,618;2,852;3,188;3,455;3,668;4,108;4,15;4,431;4,378;4,166
+Tschechien;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,842;99,822;99,8;99,77;99,743;99,711;99,675;99,633;99,582
+Tschechien;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,158;0,178;0,2;0,23;0,257;0,289;0,325;0,367;0,418
+Tschechien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;71,077;67,059;62,475;58,543;55,967;54,49;53,265;52,815;52,374
+Tschechien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;28,923;32,941;37,525;41,457;44,033;45,51;46,735;47,185;47,626
+Tschechien;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;2,291;2,191;2,074;2,014;2,05;2,168;2,321;2,473;2,655;2,789;2,596;2,771;2,745;2,613
+Tschechien;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,041;0,04;0,038;0,037;0,038;0,04;0,043;0,047;0,036;0,047;0,047;0,054;0,054;0,051
+Tschechien;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;2,25;2,151;2,036;1,977;2,013;2,127;2,277;2,427;2,619;2,742;2,549;2,717;2,691;2,561
+Tschechien;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;-4,387;-5,316;-2,906;1,812;5,712;7,061;6,586;7,357;5,041;-6,939;6,761;-0,946;-4,823
+Tschechien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-4,05;-4,923;-2,439;2,372;6,367;7,793;7,37;-21,539;28,296;-0,521;15,38;-0,257;-4,224
+Tschechien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-4,393;-5,323;-2,915;1,801;5,7;7,047;6,571;7,911;4,717;-7,048;6,604;-0,959;-4,835
+Tschechien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,217;0,207;0,196;0,19;0,193;0,204;0,218;0,231;0,248;0,26;0,242;0,258;0,255;0,243
+Tschechien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,004;0,004;0,004;0,003;0,004;0,004;0,004;0,004;0,003;0,004;0,004;0,005;0,005;0,005
+Tschechien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,213;0,203;0,192;0,186;0,19;0,2;0,214;0,227;0,245;0,256;0,237;0,253;0,25;0,238

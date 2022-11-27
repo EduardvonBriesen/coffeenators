@@ -1,0 +1,116 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Moldawien;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;14,11;14,4;14,11;14,16;14,95;17,45;19,82;21,71;21,72;22,59;24,97;25,61;25,48;25,31
+Moldawien;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;16,82;17,01;16,65;16,62;17,65;20,72;23,89;26,4;26,44;27,92;31,13;32,27;32,33;32,35
+Moldawien;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;4,395;4,535;4,495;4,487;4,641;5,243;5,771;6,15;6,339;6,27;6,747;6,741;6,648;6,558
+Moldawien;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;12,78;13,08;12,86;12,96;13,68;15,71;17,58;18,96;19,37;19,5;21,17;21,37;21,11;20,85
+Moldawien;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;93,6;99,26;101,3;103,4;112,5;134,7;157,2;176;157,7;180,9;181,9;212;214,8;216,7
+Moldawien;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;68,16;73,54;74,8;77,21;84,26;101,3;118,6;133,3;118;136,8;138,3;161,9;164,2;166
+Moldawien;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;3,941;4,166;4,323;4,354;4,836;5,57;6,626;7,349;7,051;7,841;7,765;8,993;9,27;9,543
+Moldawien;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;21,5;21,55;22,19;21,87;23,41;27,81;31,94;35,34;32,67;36,18;35,84;41,18;41,28;41,24
+Moldawien;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;6,047;2,055;2,073;8,801;19,733;16,704;11,959;-10,398;14,711;0,553;16,548;1,321;0,885
+Moldawien;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;7,893;1,713;3,222;9,131;20,223;17,078;12,395;-11,478;15,932;1,096;17,064;1,421;1,096
+Moldawien;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;5,709;3,769;0,717;11,07;15,178;18,959;10,912;-4,055;11,204;-0,969;15,815;3,08;2,945
+Moldawien;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;0,233;2,97;-1,442;7,042;18,795;14,851;10,645;-7,555;10,744;-0,94;14,9;0,243;-0,097
+Moldawien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;22,97;24,36;24,87;25,41;27,67;33,18;38,8;43,53;39,1;44,95;45,32;52,99;53,85;54,54
+Moldawien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;16,72;18,05;18,36;18,97;20,72;24,96;29,28;32,97;29,25;34,01;34,45;40,45;41,18;41,76
+Moldawien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;0,967;1,022;1,061;1,07;1,189;1,372;1,635;1,817;1,748;1,948;1,935;2,247;2,324;2,401
+Moldawien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;5,275;5,29;5,448;5,372;5,757;6,85;7,883;8,741;8,098;8,991;8,931;10,29;10,35;10,38
+Moldawien;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,615;99,534;99,433;99,018;98,636;98,461;98,203;97,84;97,389
+Moldawien;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,385;0,466;0,567;0,982;1,364;1,539;1,797;2,16;2,611
+Moldawien;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Moldawien;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Moldawien;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;43,954;45,597;47,141;49,245;51,03;52,969;54,463;56,109;53,818;57,394;59,177;60,85;61,609;62,236
+Moldawien;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;56,046;54,403;52,859;50,755;48,97;47,031;45,537;43,891;46,182;42,606;40,823;39,15;38,391;37,764
+Moldawien;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;5,297;5,696;6,045;6,547;7,015;7,548;8,021;8,549;7,875;9,018;9,677;10,325;10,651;10,926
+Moldawien;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;94,703;94,304;93,955;93,453;92,985;92,452;91,979;91,451;92,125;90,982;90,323;89,675;89,349;89,074
+Moldawien;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;6,632;6,891;7,178;7,303;7,526;7,721;7,931;8,109;7,263;8,006;7,285;8,278;8,429;8,564
+Moldawien;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;4,053;4,324;4,491;4,645;4,773;4,889;4,966;5,05;4,463;4,9;4,441;5,016;5,079;5,13
+Moldawien;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;0,897;0,919;0,962;0,97;1,042;1,062;1,148;1,195;1,112;1,251;1,151;1,334;1,394;1,455
+Moldawien;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;1,683;1,648;1,726;1,687;1,711;1,77;1,817;1,864;1,687;1,855;1,693;1,927;1,955;1,979
+Moldawien;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;3,896;4,173;1,736;3,059;2,587;2,721;2,243;-10,439;10,236;-9,01;13,631;1,827;1,604
+Moldawien;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;6,698;3,852;3,44;2,756;2,422;1,578;1,683;-11,612;9,792;-9,376;12,957;1,252;1,005
+Moldawien;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;2,44;4,716;0,884;7,381;1,957;8,077;4,057;-6,906;12,426;-7,973;15,922;4,525;4,352
+Moldawien;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;-2,075;4,714;-2,224;1,407;3,43;2,66;2,626;-9,527;9,967;-8,741;13,842;1,455;1,201
+Moldawien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,627;1,691;1,762;1,794;1,851;1,902;1,957;2,006;1,8;1,99;1,815;2,069;2,113;2,155
+Moldawien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;0,994;1,061;1,102;1,141;1,174;1,204;1,226;1,249;1,106;1,218;1,107;1,254;1,274;1,291
+Moldawien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,22;0,225;0,236;0,238;0,256;0,262;0,283;0,296;0,276;0,311;0,287;0,333;0,35;0,366
+Moldawien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,413;0,404;0,424;0,414;0,421;0,436;0,448;0,461;0,418;0,461;0,422;0,482;0,49;0,498
+Moldawien;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;16,82;17,01;16,65;16,62;17,65;20,72;23,89;26,4;26,44;27,92;31,13;32,27;32,33;32,35
+Moldawien;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;16,47;16,25;15,51;15,1;15,65;17,72;19,78;21,34;21,1;21,91;24,24;25,14;25,6;26,14
+Moldawien;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;16,9;17,19;16,93;16,99;18,15;21,48;24,96;27,75;27,89;29,56;33,02;34,22;34,2;34,08
+Moldawien;Kaffee;Umsatz;Total;Millionen EUR (€);Statista;68,16;73,54;74,8;77,21;84,26;101,3;118,6;133,3;118;136,8;138,3;161,9;164,2;166
+Moldawien;Kaffee;Umsatz;Instant-Kaffee;Millionen EUR (€);Statista;12,79;13,48;13,47;13,74;14,87;17,42;20,41;22,68;20,14;22,97;23,08;27,18;28,19;29,24
+Moldawien;Kaffee;Umsatz;Röstkaffee;Millionen EUR (€);Statista;55,38;60,06;61,33;63,48;69,38;83,9;98,22;110,6;97,86;113,9;115,2;134,7;136;136,7
+Moldawien;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;7,893;1,713;3,222;9,131;20,223;17,078;12,395;-11,478;15,932;1,096;17,064;1,421;1,096
+Moldawien;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;5,395;-0,074;2,004;8,224;17,149;17,164;11,122;-11,199;14,052;0,479;17,764;3,716;3,725
+Moldawien;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;8,451;2,115;3,506;9,294;20,928;17,068;12,604;-11,519;16,391;1,141;16,927;0,965;0,515
+Moldawien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;16,72;18,05;18,36;18,97;20,72;24,96;29,28;32,97;29,25;34,01;34,45;40,45;41,18;41,76
+Moldawien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;3,137;3,309;3,306;3,375;3,657;4,29;5,038;5,609;4,992;5,708;5,75;6,792;7,069;7,357
+Moldawien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;13,59;14,74;15,06;15,59;17,06;20,67;24,24;27,36;24,26;28,3;28,7;33,66;34,11;34,4
+Moldawien;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,515;99,414;99,29;98,75;98,278;98,071;97,757;97,313;96,763
+Moldawien;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,485;0,586;0,71;1,25;1,722;1,929;2,243;2,687;3,237
+Moldawien;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Moldawien;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Moldawien;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;52,453;54,127;56,184;58,379;60,199;62,254;63,644;65,226;63,249;66,71;68,508;70,22;71,015;71,691
+Moldawien;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;47,547;45,873;43,816;41,621;39,801;37,746;36,356;34,774;36,751;33,29;31,492;29,78;28,985;28,309
+Moldawien;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;7,745;8,174;8,692;9,299;9,985;10,744;11,507;12,307;11,46;13,159;14,165;15,188;15,755;16,258
+Moldawien;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;92,255;91,826;91,308;90,701;90,015;89,256;88,493;87,693;88,54;86,841;85,835;84,812;84,245;83,742
+Moldawien;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;4,053;4,324;4,491;4,645;4,773;4,889;4,966;5,05;4,463;4,9;4,441;5,016;5,079;5,13
+Moldawien;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;0,776;0,83;0,868;0,91;0,95;0,983;1,032;1,063;0,954;1,048;0,952;1,081;1,102;1,119
+Moldawien;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;3,276;3,495;3,623;3,736;3,823;3,906;3,934;3,987;3,509;3,852;3,489;3,935;3,978;4,012
+Moldawien;Kaffee;Volumenveränderung;Total;Prozent;Statista;;6,698;3,852;3,44;2,756;2,422;1,578;1,683;-11,612;9,792;-9,376;12,957;1,252;1,005
+Moldawien;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;6,863;4,631;4,783;4,484;3,4;4,997;3,003;-10,189;9,833;-9,183;13,549;1,893;1,548
+Moldawien;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;6,659;3,667;3,119;2,335;2,179;0,718;1,337;-11,991;9,78;-9,429;12,795;1,076;0,854
+Moldawien;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,994;1,061;1,102;1,141;1,174;1,204;1,226;1,249;1,106;1,218;1,107;1,254;1,274;1,291
+Moldawien;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,19;0,204;0,213;0,223;0,234;0,242;0,255;0,263;0,237;0,261;0,237;0,27;0,276;0,281
+Moldawien;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;0,804;0,858;0,889;0,918;0,94;0,962;0,971;0,986;0,87;0,957;0,869;0,984;0,997;1,009
+Moldawien;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;16,9;17,19;16,93;16,99;18,15;21,48;24,96;27,75;27,89;29,56;33,02;34,22;34,2;34,08
+Moldawien;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;109,3;108,6;104,3;101,3;103,3;117,1;129;136,8;143;138,8;147,8;146,5;143;139,8
+Moldawien;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;8,433;8,233;7,693;7,296;7,446;8,314;9,31;9,915;10,39;10,13;10,81;10,72;10,52;10,34
+Moldawien;Röstkaffee;Umsatz;Total;Millionen EUR (€);Statista;55,38;60,06;61,33;63,48;69,38;83,9;98,22;110,6;97,86;113,9;115,2;134,7;136;136,7
+Moldawien;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Millionen EUR (€);Statista;30,07;33,85;36,12;39,03;44,1;55,35;66,38;76,66;66,22;80,76;83,59;99,8;101,7;102,8
+Moldawien;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Millionen EUR (€);Statista;25,31;26,21;25,21;24,45;25,29;28,55;31,84;33,98;31,64;33,11;31,6;34,88;34,37;33,88
+Moldawien;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;8,451;2,115;3,506;9,294;20,928;17,068;12,604;-11,519;16,391;1,141;16,927;0,965;0,515
+Moldawien;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;12,571;6,706;8,056;12,99;25,51;19,928;15,487;-13,619;21,957;3,504;19,392;1,904;1,082
+Moldawien;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;3,556;-3,815;-3,015;3,436;12,89;11,524;6,721;-6,886;4,646;-4,561;10,38;-1,462;-1,426
+Moldawien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;13,59;14,74;15,06;15,59;17,06;20,67;24,24;27,36;24,26;28,3;28,7;33,66;34,11;34,4
+Moldawien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;7,377;8,308;8,867;9,588;10,85;13,64;16,38;18,96;16,42;20,07;20,83;24,94;25,49;25,88
+Moldawien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;6,21;6,432;6,188;6,006;6,219;7,032;7,858;8,403;7,843;8,229;7,875;8,717;8,618;8,524
+Moldawien;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,515;99,413;99,289;98,743;98,257;98,046;97,728;97,283;96,735
+Moldawien;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,485;0,587;0,711;1,257;1,743;1,954;2,272;2,717;3,265
+Moldawien;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Moldawien;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Moldawien;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;3,276;3,495;3,623;3,736;3,823;3,906;3,934;3,987;3,509;3,852;3,489;3,935;3,978;4,012
+Moldawien;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;0,275;0,312;0,346;0,385;0,427;0,473;0,515;0,56;0,463;0,582;0,566;0,681;0,711;0,735
+Moldawien;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;3,001;3,183;3,277;3,351;3,396;3,434;3,42;3,427;3,046;3,27;2,923;3,254;3,267;3,276
+Moldawien;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;6,659;3,667;3,119;2,335;2,179;0,718;1,337;-11,991;9,78;-9,429;12,795;1,076;0,854
+Moldawien;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;13,318;11,095;11,248;10,828;10,72;8,842;8,916;-17,334;25,608;-2,79;20,417;4,364;3,467
+Moldawien;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;6,049;2,94;2,26;1,359;1,105;-0,4;0,197;-11,117;7,373;-10,61;11,321;0,388;0,286
+Moldawien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,804;0,858;0,889;0,918;0,94;0,962;0,971;0,986;0,87;0,957;0,869;0,984;0,997;1,009
+Moldawien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,067;0,076;0,085;0,095;0,105;0,116;0,127;0,139;0,115;0,145;0,141;0,17;0,178;0,185
+Moldawien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;0,736;0,781;0,804;0,823;0,835;0,846;0,844;0,848;0,755;0,813;0,728;0,813;0,819;0,824
+Moldawien;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;16,47;16,25;15,51;15,1;15,65;17,72;19,78;21,34;21,1;21,91;24,24;25,14;25,6;26,14
+Moldawien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;146,4;142,6;134;129,4;133,4;146,9;160,2;168,6;174,3;167,2;175,5;171,5;167,4;163,7
+Moldawien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;9,626;9,556;9,18;8,913;9,156;10,43;11,58;12,36;12,94;12,63;13,44;13,32;13,07;12,85
+Moldawien;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;12,79;13,48;13,47;13,74;14,87;17,42;20,41;22,68;20,14;22,97;23,08;27,18;28,19;29,24
+Moldawien;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;5,686;5,953;5,903;6,047;6,625;7,719;9,123;10,3;8,41;10,53;11,13;13,86;14,96;16,13
+Moldawien;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;7,099;7,529;7,564;7,691;8,246;9,698;11,29;12,38;11,73;12,44;11,94;13,32;13,23;13,1
+Moldawien;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;5,395;-0,074;2,004;8,224;17,149;17,164;11,122;-11,199;14,052;0,479;17,764;3,716;3,725
+Moldawien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;4,696;-0,84;2,439;9,558;16,513;18,189;12,901;-18,35;25,208;5,698;24,528;7,937;7,821
+Moldawien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;6,057;0,465;1,679;7,216;17,609;16,416;9,655;-5,25;6,053;-4,019;11,558;-0,676;-0,983
+Moldawien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;3,137;3,309;3,306;3,375;3,657;4,29;5,038;5,609;4,992;5,708;5,75;6,792;7,069;7,357
+Moldawien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;1,395;1,461;1,449;1,486;1,629;1,901;2,251;2,546;2,085;2,616;2,775;3,463;3,752;4,06
+Moldawien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;1,742;1,848;1,857;1,889;2,028;2,389;2,786;3,063;2,907;3,092;2,976;3,329;3,317;3,297
+Moldawien;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,515;99,421;99,297;98,785;98,382;98,197;97,9;97,46;96,894
+Moldawien;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,485;0,579;0,703;1,215;1,618;1,803;2,1;2,54;3,106
+Moldawien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Moldawien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Moldawien;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;0,776;0,83;0,868;0,91;0,95;0,983;1,032;1,063;0,954;1,048;0,952;1,081;1,102;1,119
+Moldawien;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,039;0,042;0,044;0,047;0,05;0,053;0,057;0,061;0,048;0,063;0,063;0,081;0,089;0,099
+Moldawien;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;0,738;0,788;0,824;0,863;0,901;0,93;0,975;1,002;0,906;0,985;0,889;1;1,012;1,02
+Moldawien;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;6,863;4,631;4,783;4,484;3,4;4,997;3,003;-10,189;9,833;-9,183;13,549;1,893;1,548
+Moldawien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;7,497;5,524;6,057;6,268;5,833;8,325;7,277;-21,005;30,5;0,741;27,379;10,643;10,276
+Moldawien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;6,829;4,583;4,714;4,388;3,266;4,809;2,754;-9,529;8,733;-9,817;12,562;1,186;0,778
+Moldawien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,19;0,204;0,213;0,223;0,234;0,242;0,255;0,263;0,237;0,261;0,237;0,27;0,276;0,281
+Moldawien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,01;0,01;0,011;0,011;0,012;0,013;0,014;0,015;0,012;0,016;0,016;0,02;0,022;0,025
+Moldawien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,181;0,193;0,202;0,212;0,222;0,229;0,241;0,248;0,225;0,245;0,221;0,25;0,254;0,257

@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Rumänien;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;21,9;24,08;26,24;29,88;30,91;30,5;29,04;27,94;24,67;26,74;29,23;29,89;29,69;29,36
+Rumänien;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;22,71;25,03;27,36;31,35;32,56;32,2;30,61;29,53;26,08;28,35;31,03;31,78;31,6;31,28
+Rumänien;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;6,042;6,41;6,573;6,782;6,896;6,961;7,024;7,012;6,842;7,092;7,629;7,603;7,584;7,579
+Rumänien;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;18,5;19,65;19,95;19,91;19,23;18,24;18,79;17,93;16,88;17,68;19,41;19,89;19,83;19,89
+Rumänien;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;860,5;983,3;1.145;1.392;1.530;1.617;1.637;1.612;1.296;1.499;1.487;1.669;1.667;1.654
+Rumänien;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;817,2;935,1;1.092;1.335;1.469;1.552;1.568;1.541;1.230;1.425;1.414;1.588;1.585;1.572
+Rumänien;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;8,716;9,732;10,61;11,76;13;14,17;16,48;17,63;16,92;19,15;19,35;21,93;22,9;23,89
+Rumänien;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;34,62;38,47;41,54;45;48,19;50,97;52,74;54;49,17;54,52;53,71;59,15;58,75;58,87
+Rumänien;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;14,271;16,445;21,572;9,914;5,686;1,237;-1,527;-19,603;15,664;-0,801;12,239;-0,12;-0,78
+Rumänien;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;14,427;16,779;22,253;10,037;5,65;1,031;-1,722;-20,182;15,854;-0,772;12,306;-0,189;-0,82
+Rumänien;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;11,657;9,022;10,839;10,544;9;16,302;6,978;-4,027;13,18;1,044;13,333;4,423;4,323
+Rumänien;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;11,121;7,98;8,329;7,089;5,769;3,473;2,389;-8,944;10,881;-1,486;10,128;-0,676;0,204
+Rumänien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;42,54;48,84;57,13;69,86;77,3;82,26;83,94;83,26;67,39;78,35;78,15;88,09;88,37;88,13
+Rumänien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;40,4;46,45;54,53;67,01;74,21;78,94;80,39;79,56;63,96;74,5;74,31;83,81;84,04;83,72
+Rumänien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;0,431;0,483;0,529;0,59;0,657;0,721;0,845;0,91;0,879;1,001;1,017;1,158;1,214;1,272
+Rumänien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;1,711;1,911;2,073;2,259;2,434;2,593;2,704;2,789;2,556;2,85;2,822;3,122;3,115;3,136
+Rumänien;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,948;99,941;99,932;99,91;99,9;99,889;99,875;99,86;99,841
+Rumänien;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,052;0,059;0,068;0,09;0,1;0,111;0,125;0,14;0,159
+Rumänien;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,881;63,11;60,881;59,47;58,251;57,445;56,927;56,433;55,94
+Rumänien;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,119;36,89;39,119;40,53;41,749;42,555;43,073;43,567;44,06
+Rumänien;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;58,763;61,414;64,595;69,191;70,43;70,504;68,349;67,099;61,718;64,356;64,978;66,334;66,392;66,138
+Rumänien;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;41,237;38,586;35,405;30,809;29,57;29,496;31,651;32,901;38,282;35,644;35,022;33,666;33,608;33,862
+Rumänien;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;14,906;15,958;16,772;20,117;21,25;21,098;19,2;18,154;14,772;16,033;16,242;16,894;16,741;16,411
+Rumänien;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;85,094;84,042;83,228;79,883;78,75;78,902;80,8;81,846;85,228;83,967;83,758;83,106;83,259;83,589
+Rumänien;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;39,289;40,838;43,628;46,579;49,512;53,01;56,387;57,703;52,56;56,049;50,881;55,826;56,129;56,354
+Rumänien;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;35,976;37,362;39,932;42,585;45,12;48,18;51,234;52,176;47,173;50,264;45,577;49,967;50,148;50,242
+Rumänien;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;1,443;1,518;1,614;1,735;1,885;2,035;2,347;2,515;2,473;2,7;2,537;2,884;3,019;3,151
+Rumänien;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;1,871;1,958;2,082;2,26;2,507;2,795;2,806;3,013;2,913;3,085;2,767;2,974;2,963;2,96
+Rumänien;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;3,942;6,832;6,764;6,296;7,065;6,371;2,334;-8,914;6,639;-9,221;9,718;0,544;0,4
+Rumänien;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;3,852;6,88;6,642;5,954;6,781;6,339;1,839;-9,587;6,552;-9,324;9,631;0,361;0,189
+Rumänien;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;5,251;6,277;7,5;8,663;7,987;15,292;7,154;-1,661;9,207;-6,064;13,701;4,668;4,391
+Rumänien;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;4,659;6,35;8,528;10,931;11,492;0,419;7,35;-3,301;5,879;-10,304;7,508;-0,393;-0,084
+Rumänien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,942;2,028;2,177;2,338;2,501;2,697;2,891;2,98;2,732;2,93;2,674;2,947;2,976;3,002
+Rumänien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;1,779;1,856;1,993;2,137;2,279;2,451;2,627;2,694;2,452;2,628;2,395;2,638;2,659;2,676
+Rumänien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,071;0,075;0,081;0,087;0,095;0,104;0,12;0,13;0,129;0,141;0,133;0,152;0,16;0,168
+Rumänien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,092;0,097;0,104;0,113;0,127;0,142;0,144;0,156;0,151;0,161;0,145;0,157;0,157;0,158
+Rumänien;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;10,076;;;;
+Rumänien;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;21,285;;;;
+Rumänien;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;25,693;;;;
+Rumänien;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;27,078;;;;
+Rumänien;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;15,869;;;;
+Rumänien;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;46,977;;;;
+Rumänien;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;53,023;;;;
+Rumänien;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;34,459;;;;
+Rumänien;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;34,459;;;;
+Rumänien;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;31,081;;;;
+Rumänien;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;22,71;25,03;27,36;31,35;32,56;32,2;30,61;29,53;26,08;28,35;31,03;31,78;31,6;31,28
+Rumänien;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;41,63;48;50,15;47,57;48,65;52,74;36,4;31,08;25,93;29,2;32,96;38,06;39,24;38,42
+Rumänien;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;21,97;23,96;26,11;30,28;31,26;30,31;29,99;29,36;26,1;28,25;30,81;31,07;30,75;30,49
+Rumänien;Kaffee;Umsatz;Total;Millionen EUR (€);Statista;817,2;935,1;1.092;1.335;1.469;1.552;1.568;1.541;1.230;1.425;1.414;1.588;1.585;1.572
+Rumänien;Kaffee;Umsatz;Instant-Kaffee;Millionen EUR (€);Statista;57,02;79,96;103,6;125,7;164;214,3;178,2;161,2;124;149,7;150,2;192,1;198;193,4
+Rumänien;Kaffee;Umsatz;Röstkaffee;Millionen EUR (€);Statista;760,1;855,1;988,9;1.209;1.305;1.337;1.390;1.379;1.106;1.275;1.264;1.396;1.387;1.378
+Rumänien;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;14,427;16,779;22,253;10,037;5,65;1,031;-1,722;-20,182;15,854;-0,772;12,306;-0,189;-0,82
+Rumänien;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;40,231;29,565;21,332;30,469;30,671;-16,846;-9,54;-23,077;20,726;0,334;27,896;3,071;-2,323
+Rumänien;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;12,498;15,647;22,257;7,94;2,452;3,964;-0,791;-19,797;15,28;-0,863;10,443;-0,645;-0,649
+Rumänien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;40,4;46,45;54,53;67,01;74,21;78,94;80,39;79,56;63,96;74,5;74,31;83,81;84,04;83,72
+Rumänien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;2,819;3,972;5,17;6,308;8,284;10,91;9,135;8,326;6,444;7,824;7,891;10,14;10,5;10,3
+Rumänien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;37,58;42,47;49,36;60,7;65,92;68,04;71,25;71,24;57,51;66,67;66,42;73,67;73,54;73,42
+Rumänien;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,948;99,941;99,932;99,91;99,9;99,888;99,875;99,86;99,841
+Rumänien;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,052;0,059;0,068;0,09;0,1;0,112;0,125;0,14;0,159
+Rumänien;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,881;63,11;60,881;59,47;58,251;57,445;56,927;56,433;55,94
+Rumänien;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,119;36,89;39,119;40,53;41,749;42,555;43,073;43,567;44,06
+Rumänien;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;60,997;63,737;66,894;71,43;72,663;72,735;70,622;69,412;64,23;66,826;67,459;68,841;68,928;68,724
+Rumänien;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;39,003;36,263;33,106;28,57;27,337;27,265;29,378;30,588;35,77;33,174;32,541;31,159;31,072;31,276
+Rumänien;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;16,105;17,268;18,152;21,83;23,138;23,028;20,951;19,889;16,292;17,692;17,94;18,677;18,54;18,208
+Rumänien;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;83,895;82,732;81,848;78,17;76,862;76,972;79,049;80,111;83,708;82,308;82,06;81,323;81,46;81,792
+Rumänien;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;35,976;37,362;39,932;42,585;45,12;48,18;51,234;52,176;47,173;50,264;45,577;49,967;50,148;50,242
+Rumänien;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;1,37;1,666;2,065;2,642;3,371;4,064;4,896;5,187;4,781;5,124;4,556;5,046;5,047;5,033
+Rumänien;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;34,606;35,696;37,867;39,943;41,749;44,116;46,338;46,988;42,393;45,14;41,021;44,921;45,101;45,209
+Rumänien;Kaffee;Volumenveränderung;Total;Prozent;Statista;;3,852;6,88;6,642;5,954;6,781;6,339;1,839;-9,587;6,552;-9,324;9,631;0,361;0,189
+Rumänien;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;21,6;23,99;27,925;27,584;20,561;20,471;5,961;-7,844;7,192;-11,088;10,76;0,002;-0,268
+Rumänien;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;3,15;6,081;5,481;4,523;5,668;5,037;1,403;-9,78;6,48;-9,124;9,506;0,402;0,24
+Rumänien;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,779;1,856;1,993;2,137;2,279;2,451;2,627;2,694;2,452;2,628;2,395;2,638;2,659;2,676
+Rumänien;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,068;0,083;0,103;0,133;0,17;0,207;0,251;0,268;0,248;0,268;0,239;0,266;0,268;0,268
+Rumänien;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;1,711;1,773;1,89;2,005;2,109;2,245;2,376;2,427;2,204;2,36;2,155;2,371;2,391;2,408
+Rumänien;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;41,63;48;50,15;47,57;48,65;52,74;36,4;31,08;25,93;29,2;32,96;38,06;39,24;38,42
+Rumänien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;92,88;97,31;99,9;101,4;101;100,6;101,9;101,8;101,6;105,8;115,3;115,7;116,1;116,7
+Rumänien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;17,14;16,67;15,3;14,84;14,46;14,14;13,91;13,69;13,51;13,76;14,81;14,67;14,55;14,47
+Rumänien;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;57,02;79,96;103,6;125,7;164;214,3;178,2;161,2;124;149,7;150,2;192,1;198;193,4
+Rumänien;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;41,13;62,98;85;101,3;134,5;182,5;127,5;104,2;68,5;90,95;94,91;135,2;142,4;137,6
+Rumänien;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;15,89;16,98;18,59;24,38;29,48;31,81;50,7;57;55,46;58,7;55,27;56,91;55,58;55,75
+Rumänien;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;40,231;29,565;21,332;30,469;30,671;-16,846;-9,54;-23,077;20,726;0,334;27,896;3,071;-2,323
+Rumänien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;53,124;34,963;19,176;32,774;35,688;-30,137;-18,275;-34,261;32,774;4,354;42,451;5,325;-3,371
+Rumänien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;6,86;9,482;31,146;20,919;7,904;59,384;12,426;-2,702;5,842;-5,843;2,967;-2,337;0,306
+Rumänien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;2,819;3,972;5,17;6,308;8,284;10,91;9,135;8,326;6,444;7,824;7,891;10,14;10,5;10,3
+Rumänien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;2,033;3,128;4,242;5,084;6,795;9,287;6,536;5,382;3,561;4,755;4,987;7,134;7,552;7,331
+Rumänien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;0,786;0,843;0,928;1,224;1,489;1,619;2,599;2,944;2,883;3,069;2,904;3,004;2,947;2,97
+Rumänien;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,948;99,941;99,932;99,919;99,908;99,896;99,881;99,863;99,841
+Rumänien;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,052;0,059;0,068;0,081;0,092;0,104;0,119;0,137;0,159
+Rumänien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,881;63,11;60,881;59,47;58,251;57,445;56,927;56,433;55,94
+Rumänien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,119;36,89;39,119;40,53;41,749;42,555;43,073;43,567;44,06
+Rumänien;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;1,37;1,666;2,065;2,642;3,371;4,064;4,896;5,187;4,781;5,124;4,556;5,046;5,047;5,033
+Rumänien;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,443;0,647;0,851;0,999;1,331;1,815;1,25;1,024;0,674;0,86;0,823;1,168;1,226;1,179
+Rumänien;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;0,927;1,018;1,214;1,643;2,04;2,249;3,645;4,164;4,106;4,265;3,733;3,879;3,82;3,854
+Rumänien;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;21,6;23,99;27,925;27,584;20,561;20,471;5,961;-7,844;7,192;-11,088;10,76;0,002;-0,268
+Rumänien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;46,161;31,462;17,466;33,186;36,334;-31,094;-18,135;-34,119;27,49;-4,235;41,808;5,037;-3,846
+Rumänien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;9,867;19,241;35,253;24,175;10,267;62,081;14,227;-1,384;3,858;-12,469;3,911;-1,514;0,88
+Rumänien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,068;0,083;0,103;0,133;0,17;0,207;0,251;0,268;0,248;0,268;0,239;0,266;0,268;0,268
+Rumänien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,022;0,032;0,042;0,05;0,067;0,092;0,064;0,053;0,035;0,045;0,043;0,062;0,065;0,063
+Rumänien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,046;0,051;0,061;0,082;0,103;0,114;0,187;0,215;0,213;0,223;0,196;0,205;0,203;0,205
+Rumänien;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;21,97;23,96;26,11;30,28;31,26;30,31;29,99;29,36;26,1;28,25;30,81;31,07;30,75;30,49
+Rumänien;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;85,46;91,83;100,9;102,7;102,4;101,9;103,3;103,2;102,9;107,2;116,8;117,3;117,7;118,3
+Rumänien;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;10,35;10,78;10,9;11,28;11,4;11,23;11,12;11,01;10,87;11,16;12,03;11,91;11,8;11,7
+Rumänien;Röstkaffee;Umsatz;Total;Milliarden EUR (€);Statista;0,76;0,855;0,989;1,209;1,305;1,337;1,39;1,379;1,106;1,275;1,264;1,396;1,387;1,378
+Rumänien;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Milliarden EUR (€);Statista;0,457;0,533;0,646;0,852;0,933;0,946;0,98;0,965;0,722;0,861;0,859;0,958;0,95;0,943
+Rumänien;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Milliarden EUR (€);Statista;0,303;0,322;0,343;0,357;0,372;0,391;0,41;0,414;0,385;0,414;0,405;0,438;0,437;0,436
+Rumänien;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;12,498;15,647;22,257;7,94;2,452;3,964;-0,791;-19,797;15,28;-0,863;10,443;-0,645;-0,649
+Rumänien;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;16,554;21,163;31,991;9,444;1,404;3,584;-1,5;-25,218;19,327;-0,255;11,5;-0,825;-0,789
+Rumänien;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;6,374;6,52;4,08;4,201;5,133;4,806;1,049;-7,169;7,644;-2,198;8,125;-0,206;-0,252
+Rumänien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;37,58;42,47;49,36;60,7;65,92;68,04;71,25;71,24;57,51;66,67;66,42;73,67;73,54;73,42
+Rumänien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;22,61;26,47;32,23;42,78;47,13;48,13;50,24;49,84;37,52;45,03;45,14;50,56;50,37;50,21
+Rumänien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;14,97;16;17,12;17,92;18,8;19,91;21,02;21,39;19,99;21,64;21,28;23,11;23,16;23,22
+Rumänien;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,948;99,941;99,932;99,909;99,899;99,887;99,875;99,859;99,841
+Rumänien;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,052;0,059;0,068;0,091;0,101;0,113;0,125;0,141;0,159
+Rumänien;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,881;63,11;60,881;59,47;58,251;57,445;56,927;56,433;55,94
+Rumänien;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,119;36,89;39,119;40,53;41,749;42,555;43,073;43,567;44,06
+Rumänien;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;34,606;35,696;37,867;39,943;41,749;44,116;46,338;46,988;42,393;45,14;41,021;44,921;45,101;45,209
+Rumänien;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;5,351;5,805;6,398;8,297;9,109;9,28;9,483;9,354;7,011;8,033;7,353;8,165;8,071;7,969
+Rumänien;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;29,255;29,892;31,469;31,646;32,641;34,836;36,854;37,635;35,382;37,107;33,668;36,756;37,03;37,24
+Rumänien;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;3,15;6,081;5,481;4,523;5,668;5,037;1,403;-9,78;6,48;-9,124;9,506;0,402;0,24
+Rumänien;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;8,474;10,22;29,685;9,786;1,877;2,194;-1,371;-25,043;14,577;-8,462;11,035;-1,152;-1,263
+Rumänien;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;2,176;5,278;0,561;3,143;6,726;5,794;2,117;-5,986;4,875;-9,267;9,171;0,747;0,567
+Rumänien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,711;1,773;1,89;2,005;2,109;2,245;2,376;2,427;2,204;2,36;2,155;2,371;2,391;2,408
+Rumänien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,265;0,288;0,319;0,416;0,46;0,472;0,486;0,483;0,364;0,42;0,386;0,431;0,428;0,424
+Rumänien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;1,446;1,485;1,571;1,588;1,649;1,772;1,889;1,943;1,839;1,94;1,769;1,94;1,963;1,984

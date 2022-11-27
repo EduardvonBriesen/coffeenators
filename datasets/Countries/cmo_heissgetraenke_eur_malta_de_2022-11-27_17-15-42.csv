@@ -1,0 +1,116 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Malta;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;69,41;72,35;76,86;82,17;85,88;89,87;92,65;95,75;80,09;96,17;110,3;117,4;118,7;120
+Malta;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;80,82;83,97;89,1;95,39;99,66;104,6;108,2;111,9;94,99;113,3;129,6;137,4;138,8;140,3
+Malta;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;13,56;14,2;15,01;15,85;16,33;16,67;16,84;17,2;15,16;17,3;19,47;20,36;20,5;20,67
+Malta;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;59,77;62,3;65,62;69,68;72,97;75,52;77,06;79,37;66,18;78,75;89,82;95,27;95,88;96,54
+Malta;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;125,9;136,2;149,1;161,7;171,4;182,1;190,1;199;167,8;204,3;210,5;241,6;247,3;252,8
+Malta;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;93,72;102,5;113,7;124,1;131,8;140,6;146,9;154;127,8;157,8;163,7;189,2;194,2;199,2
+Malta;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;2,029;2,225;2,415;2,613;2,75;2,821;2,873;2,959;2,855;3,132;3,089;3,375;3,423;3,469
+Malta;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;30,14;31,49;33,03;34,99;36,86;38,73;40,28;42,09;37,17;43,4;43,76;49,08;49,6;50,05
+Malta;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;8,181;9,471;8,451;5,999;6,243;4,393;4,682;-15,678;21,752;3,035;14,774;2,359;2,224
+Malta;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;9,368;10,927;9,147;6,205;6,677;4,481;4,833;-17,013;23,474;3,739;15,577;2,643;2,575
+Malta;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;9,66;8,539;8,199;5,243;2,582;1,843;2,993;-3,515;9,702;-1,373;9,259;1,422;1,344
+Malta;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;4,479;4,89;5,934;5,344;5,073;4,002;4,494;-11,689;16,761;0,829;12,157;1,059;0,907
+Malta;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;298,5;319,6;346,7;373;393,1;415,9;432,7;452;380;461,5;474,1;542,7;554;565,2
+Malta;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;222,2;240,5;264,3;286,3;302,3;321;334,4;349,7;289,4;356,4;368,6;424,9;435,2;445,5
+Malta;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;4,81;5,221;5,615;6,027;6,306;6,442;6,542;6,72;6,465;7,072;6,957;7,581;7,67;7,757
+Malta;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;71,46;73,89;76,77;80,69;84,52;88,45;91,7;95,59;84,19;98,02;98,54;110,2;111,1;111,9
+Malta;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,587;99,499;99,26;98,722;98,106;97,902;97,599;97,179;96,646
+Malta;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,413;0,501;0,74;1,278;1,894;2,098;2,401;2,821;3,354
+Malta;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Malta;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Malta;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;84,277;84,546;84,932;85,281;85,675;86,105;86,288;86,591;81,965;85,264;86,358;87,531;87,672;87,795
+Malta;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;15,723;15,454;15,068;14,719;14,325;13,895;13,712;13,409;18,035;14,736;13,642;12,469;12,328;12,205
+Malta;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;27,122;27,885;28,754;29,534;30,271;30,985;31,528;32,07;24,902;29,64;31,515;33,766;34,075;34,347
+Malta;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;72,878;72,115;71,246;70,466;69,729;69,015;68,472;67,93;75,098;70,36;68,485;66,234;65,925;65,653
+Malta;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;1,814;1,882;1,94;1,968;1,996;2,027;2,051;2,079;2,095;2,125;1,909;2,058;2,083;2,106
+Malta;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;1,16;1,22;1,276;1,301;1,323;1,344;1,358;1,376;1,345;1,392;1,263;1,376;1,399;1,42
+Malta;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;0,15;0,157;0,161;0,165;0,168;0,169;0,171;0,172;0,188;0,181;0,159;0,166;0,167;0,168
+Malta;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;0,504;0,505;0,503;0,502;0,505;0,513;0,523;0,53;0,562;0,551;0,487;0,515;0,517;0,518
+Malta;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;3,789;3,078;1,429;1,443;1,513;1,223;1,335;0,792;1,4;-10,143;7,774;1,256;1,092
+Malta;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;5,223;4,566;1,971;1,675;1,625;1,017;1,346;-2,267;3,513;-9,28;8,964;1,637;1,487
+Malta;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;4,699;2,737;2,398;2,168;0,519;0,784;0,861;9,467;-3,908;-12,333;4,495;0,704;0,515
+Malta;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;0,222;-0,41;-0,256;0,601;1,549;1,907;1,462;5,915;-1,881;-11,603;5,759;0,416;0,208
+Malta;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;4,3;4,417;4,51;4,539;4,578;4,628;4,67;4,721;4,745;4,798;4,299;4,621;4,668;4,71
+Malta;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;2,749;2,864;2,966;3,001;3,034;3,07;3,092;3,126;3,047;3,145;2,845;3,092;3,135;3,175
+Malta;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,355;0,368;0,374;0,38;0,386;0,387;0,388;0,391;0,427;0,409;0,357;0,372;0,374;0,375
+Malta;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;1,196;1,186;1,17;1,158;1,158;1,171;1,19;1,204;1,272;1,245;1,097;1,157;1,159;1,159
+Malta;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;83,73;85,51;88,11;91,49;94,3;96,39;97,77;100,7;82,17;100,8;117;126,5;129,6;132,8
+Malta;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;271,3;276,4;283,6;292,7;300;303,6;303,8;308,9;314,3;328,9;358,2;359,5;360,5;362
+Malta;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;17,42;17,87;18,67;19,66;20,34;21,07;21,74;22,28;22,67;23,79;25,89;26,02;26,13;26,28
+Malta;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;18,6;20,02;21,73;23,31;24,84;26,05;27,59;29,18;24,41;30,43;31,92;37,53;39,33;41,1
+Malta;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;15,74;16,93;18,34;19,62;20,9;21,87;23,11;24,49;19,05;25,06;26,8;32,14;33,85;35,55
+Malta;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;2,859;3,09;3,397;3,691;3,94;4,175;4,481;4,686;5,362;5,373;5,127;5,392;5,473;5,554
+Malta;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;7,634;8,541;7,271;6,564;4,871;5,912;5,763;-16,347;24,662;4,896;17,575;4,796;4,5
+Malta;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;7,56;8,328;6,979;6,524;4,641;5,67;5,971;-22,213;31,549;6,943;19,925;5,32;5,022
+Malta;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;8,08;9,935;8,655;6,746;5,964;7,329;4,575;14,426;0,205;-4,578;5,169;1,502;1,48
+Malta;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;44,1;46,98;50,52;53,76;56,96;59,48;62,81;66,25;55,29;68,73;71,9;84,3;88,12;91,91
+Malta;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;37,32;39,73;42,62;45,25;47,92;49,95;52,61;55,61;43,15;56,59;60,35;72,19;75,85;79,49
+Malta;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;6,777;7,25;7,897;8,512;9,035;9,534;10,2;10,64;12,14;12,14;11,55;12,11;12,26;12,42
+Malta;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,476;99,369;99,246;98,612;97,995;97,806;97,475;96,965;96,302
+Malta;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,524;0,631;0,754;1,388;2,005;2,194;2,525;3,035;3,698
+Malta;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Malta;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Malta;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;0,222;0,234;0,247;0,255;0,263;0,27;0,282;0,29;0,297;0,302;0,273;0,297;0,303;0,31
+Malta;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,058;0,061;0,065;0,067;0,07;0,072;0,076;0,079;0,061;0,076;0,075;0,089;0,094;0,098
+Malta;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;0,164;0,173;0,182;0,188;0,194;0,198;0,206;0,21;0,237;0,226;0,198;0,207;0,209;0,211
+Malta;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;5,385;5,35;3,294;3,385;2,596;4,416;2,661;2,572;1,653;-9,659;8,714;2,28;2,034
+Malta;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;5,533;5,585;3,655;3,937;3,408;5,595;4,236;-23,553;25,688;-1,797;19,509;5,04;4,554
+Malta;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;5,333;5,267;3,166;3,188;2,304;3,988;2,08;12,417;-4,506;-12,311;4,636;1,09;0,904
+Malta;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,527;0,549;0,573;0,588;0,604;0,617;0,642;0,658;0,673;0,682;0,615;0,666;0,68;0,692
+Malta;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,138;0,144;0,15;0,155;0,16;0,164;0,173;0,18;0,137;0,172;0,168;0,201;0,21;0,22
+Malta;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,389;0,406;0,423;0,433;0,444;0,453;0,469;0,478;0,536;0,51;0,446;0,465;0,469;0,473
+Malta;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;80,82;83,97;89,1;95,39;99,66;104,6;108,2;111,9;94,99;113,3;129,6;137,4;138,8;140,3
+Malta;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;83,73;85,51;88,11;91,49;94,3;96,39;97,77;100,7;82,17;100,8;117;126,5;129,6;132,8
+Malta;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;80,13;83,61;89,33;96,33;101;106,6;110,9;114,9;98,62;116,8;133;140,4;141,4;142,4
+Malta;Kaffee;Umsatz;Total;Millionen EUR (€);Statista;93,72;102,5;113,7;124,1;131,8;140,6;146,9;154;127,8;157,8;163,7;189,2;194,2;199,2
+Malta;Kaffee;Umsatz;Instant-Kaffee;Millionen EUR (€);Statista;18,6;20,02;21,73;23,31;24,84;26,05;27,59;29,18;24,41;30,43;31,92;37,53;39,33;41,1
+Malta;Kaffee;Umsatz;Röstkaffee;Millionen EUR (€);Statista;75,12;82,46;91,96;100,8;107;114,5;119,3;124,8;103,4;127,4;131,7;151,6;154,9;158,1
+Malta;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;9,368;10,927;9,147;6,205;6,677;4,481;4,833;-17,013;23,474;3,739;15,577;2,643;2,575
+Malta;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;7,634;8,541;7,271;6,564;4,871;5,912;5,763;-16,347;24,662;4,896;17,575;4,796;4,5
+Malta;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;9,771;11,521;9,613;6,151;7,009;4,192;4,61;-17,147;23,211;3,375;15,11;2,177;2,066
+Malta;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;222,2;240,5;264,3;286,3;302,3;321;334,4;349,7;289,4;356,4;368,6;424,9;435,2;445,5
+Malta;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;44,1;46,98;50,52;53,76;56,96;59,48;62,81;66,25;55,29;68,73;71,9;84,3;88,12;91,91
+Malta;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;178,1;193,5;213,8;232,5;245,4;261,5;271,6;283,4;234,1;287,6;296,7;340,6;347,1;353,6
+Malta;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,475;99,366;99,254;98,624;97,902;97,697;97,362;96,857;96,215
+Malta;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,525;0,634;0,746;1,376;2,098;2,303;2,638;3,143;3,785
+Malta;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Malta;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Malta;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;88,318;88,595;88,971;89,369;89,721;90,116;90,241;90,461;86,965;89,464;90,291;91,18;91,282;91,368
+Malta;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;11,682;11,405;11,029;10,631;10,279;9,884;9,759;9,539;13,035;10,536;9,709;8,82;8,718;8,632
+Malta;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;35,25;36,021;36,886;37,793;38,688;39,553;40,253;40,922;32,752;38,256;40,368;42,86;43,183;43,455
+Malta;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;64,75;63,979;63,114;62,207;61,312;60,447;59,747;59,078;67,248;61,744;59,632;57,14;56,817;56,545
+Malta;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;1,16;1,22;1,276;1,301;1,323;1,344;1,358;1,376;1,345;1,392;1,263;1,376;1,399;1,42
+Malta;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;0,222;0,234;0,247;0,255;0,263;0,27;0,282;0,29;0,297;0,302;0,273;0,297;0,303;0,31
+Malta;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;0,938;0,986;1,029;1,046;1,06;1,074;1,076;1,087;1,048;1,09;0,99;1,08;1,096;1,11
+Malta;Kaffee;Volumenveränderung;Total;Prozent;Statista;;5,223;4,566;1,971;1,675;1,625;1,017;1,346;-2,267;3,513;-9,28;8,964;1,637;1,487
+Malta;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;5,385;5,35;3,294;3,385;2,596;4,416;2,661;2,572;1,653;-9,659;8,714;2,28;2,034
+Malta;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;5,185;4,38;1,654;1,259;1,384;0,161;1,001;-3,556;4,04;-9,176;9,032;1,461;1,336
+Malta;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;2,749;2,864;2,966;3,001;3,034;3,07;3,092;3,126;3,047;3,145;2,845;3,092;3,135;3,175
+Malta;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,527;0,549;0,573;0,588;0,604;0,617;0,642;0,658;0,673;0,682;0,615;0,666;0,68;0,692
+Malta;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;2,223;2,314;2,393;2,414;2,43;2,453;2,45;2,468;2,374;2,463;2,23;2,425;2,455;2,483
+Malta;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;80,13;83,61;89,33;96,33;101;106,6;110,9;114,9;98,62;116,8;133;140,4;141,4;142,4
+Malta;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;191,1;195,2;204;215;220,3;228;232,6;237,2;242,3;254,3;278;280,4;281,2;282,4
+Malta;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;13,79;14,14;14,67;15,29;15,57;15,82;16,28;16,59;16,9;17,75;19,38;19,49;19,58;19,69
+Malta;Röstkaffee;Umsatz;Total;Millionen EUR (€);Statista;75,12;82,46;91,96;100,8;107;114,5;119,3;124,8;103,4;127,4;131,7;151,6;154,9;158,1
+Malta;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Millionen EUR (€);Statista;67,03;73,86;82,81;91,3;97,39;104,8;109,5;114,8;92,07;116,1;121;140,3;143,5;146,5
+Malta;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Millionen EUR (€);Statista;8,09;8,597;9,142;9,504;9,612;9,718;9,857;10;11,29;11,25;10,76;11,29;11,46;11,64
+Malta;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;9,771;11,521;9,613;6,151;7,009;4,192;4,61;-17,147;23,211;3,375;15,11;2,177;2,066
+Malta;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;10,189;12,118;10,252;6,67;7,609;4,485;4,84;-19,8;26,1;4,22;15,95;2,281;2,091
+Malta;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;6,267;6,339;3,96;1,136;1,103;1,43;1,451;12,9;-0,354;-4,356;4,926;1,506;1,571
+Malta;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;178,1;193,5;213,8;232,5;245,4;261,5;271,6;283,4;234,1;287,6;296,7;340,6;347,1;353,6
+Malta;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;158,9;173,3;192,5;210,6;223,3;239,3;249,2;260,7;208,5;262,2;272,4;315,2;321,4;327,6
+Malta;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;19,18;20,17;21,25;21,92;22,04;22,19;22,44;22,71;25,58;25,41;24,24;25,36;25,68;26,04
+Malta;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,475;99,365;99,256;98,626;97,88;97,671;97,334;96,83;96,193
+Malta;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,525;0,635;0,744;1,374;2,12;2,329;2,666;3,17;3,807
+Malta;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Malta;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Malta;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;0,938;0,986;1,029;1,046;1,06;1,074;1,076;1,087;1,048;1,09;0,99;1,08;1,096;1,11
+Malta;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;0,351;0,378;0,406;0,425;0,442;0,46;0,471;0,484;0,38;0,457;0,435;0,501;0,51;0,519
+Malta;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;0,587;0,608;0,623;0,622;0,617;0,614;0,605;0,603;0,668;0,634;0,555;0,579;0,585;0,591
+Malta;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;5,185;4,38;1,654;1,259;1,384;0,161;1,001;-3,556;4,04;-9,176;9,032;1,461;1,336
+Malta;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;7,856;7,317;4,61;4,105;3,976;2,368;2,833;-21,489;20,147;-4,685;15,034;1,931;1,68
+Malta;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;3,588;2,552;-0,272;-0,686;-0,472;-1,49;-0,424;10,842;-5,12;-12,41;4,329;1,054;1,037
+Malta;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;2,223;2,314;2,393;2,414;2,43;2,453;2,45;2,468;2,374;2,463;2,23;2,425;2,455;2,483
+Malta;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,832;0,888;0,944;0,98;1,014;1,05;1,071;1,099;0,861;1,031;0,98;1,124;1,143;1,16
+Malta;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;1,391;1,426;1,449;1,434;1,416;1,403;1,378;1,369;1,513;1,432;1,25;1,301;1,312;1,323

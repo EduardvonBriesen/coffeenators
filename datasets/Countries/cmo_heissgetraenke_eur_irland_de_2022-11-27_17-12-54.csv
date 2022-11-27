@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Irland;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;63,48;65,74;67,67;69,31;70,85;72;71,95;73,38;62,02;72,18;81,69;86,47;86,44;86,56
+Irland;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;85,6;87,44;89,26;90,66;92,88;95,78;98,35;100,8;85,86;100;112,3;117,2;117,5;118,1
+Irland;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;15,21;16,47;17,43;17,69;17,61;17,4;17,28;17,32;15,72;17,56;19,68;20,29;20,02;19,8
+Irland;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;51,59;52,36;52,57;53,62;54,4;55,22;55,85;56,68;47,76;54,23;61,77;66,74;66,32;66,04
+Irland;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;1.033;1.038;1.052;1.059;1.045;1.039;986,6;982,8;786;925,8;921,8;1.033;1.029;1.027
+Irland;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;578,4;620,2;663,7;684,1;686,5;674,7;631,1;635,5;509,3;619,5;623,4;702,6;705,9;709,7
+Irland;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;15,24;17,19;18,83;19,63;19,96;20,03;23,27;23,97;22,22;25,6;26,03;29,21;29,47;29,72
+Irland;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;439,1;400,7;369,8;354,9;338,9;344,2;332,2;323,4;254,5;280,7;272,4;300,7;293,4;287,4
+Irland;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;0,484;1,349;0,665;-1,322;-0,574;-5,043;-0,385;-20,024;17,786;-0,432;12,063;-0,387;-0,194
+Irland;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;7,227;7,014;3,074;0,351;-1,719;-6,462;0,697;-19,858;21,638;0,63;12,705;0,47;0,538
+Irland;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;12,795;9,54;4,249;1,681;0,351;16,176;3,008;-7,301;15,212;1,68;12,217;0,89;0,848
+Irland;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;-8,745;-7,712;-4,029;-4,508;1,564;-3,486;-2,649;-21,305;10,295;-2,957;10,389;-2,428;-2,045
+Irland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;224,1;224,9;227,5;227,5;222,6;218,6;204,7;201,3;159,2;185,8;183,6;204,4;202,5;201
+Irland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;125,5;134,4;143,4;147;146,2;141,9;131;130,1;103,1;124,3;124,2;139,1;138,9;138,9
+Irland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;3,307;3,725;4,069;4,219;4,251;4,213;4,828;4,908;4,5;5,137;5,186;5,781;5,8;5,816
+Irland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;95,28;86,82;79,93;76,29;72,16;72,42;68,94;66,23;51,54;56,34;54,27;59,52;57,75;56,25
+Irland;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;98,977;98,602;98,096;97,131;96,237;95,125;93,768;92,143;90,229
+Irland;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;1,023;1,398;1,904;2,869;3,763;4,875;6,232;7,857;9,771
+Irland;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;64,734;60,239;57,424;54,625;52,614;50,272;47,899;45,664;43,328
+Irland;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;35,266;39,761;42,576;45,375;47,386;49,728;52,101;54,336;56,672
+Irland;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;78,348;79,137;80,269;80,5;80,821;80,976;81,057;80,803;76,646;80,019;80,541;80,686;80,927;81,149
+Irland;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;21,652;20,863;19,731;19,5;19,179;19,024;18,943;19,197;23,354;19,981;19,459;19,314;19,073;18,851
+Irland;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;19,36;19,836;20,225;20,421;20,534;20,426;20,055;20,07;15,842;18,405;19,276;20,389;20,411;20,432
+Irland;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;80,64;80,164;79,775;79,579;79,466;79,574;79,945;79,93;84,158;81,595;80,724;79,611;79,589;79,568
+Irland;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;16,27;15,79;15,551;15,275;14,753;14,43;13,712;13,393;12,674;12,827;11,285;11,94;11,902;11,862
+Irland;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;6,757;7,093;7,436;7,545;7,391;7,044;6,417;6,304;5,932;6,193;5,551;5,996;6,006;6,009
+Irland;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;1,002;1,044;1,08;1,11;1,133;1,151;1,347;1,384;1,413;1,458;1,323;1,44;1,472;1,501
+Irland;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;8,51;7,653;7,035;6,62;6,229;6,234;5,948;5,706;5,329;5,177;4,411;4,505;4,424;4,352
+Irland;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;-2,951;-1,511;-1,778;-3,413;-2,192;-4,976;-2,322;-5,374;1,209;-12,018;5,806;-0,325;-0,334
+Irland;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;4,961;4,839;1,473;-2,044;-4,691;-8,902;-1,768;-5,9;4,395;-10,356;8,003;0,167;0,057
+Irland;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;4,179;3,45;2,748;2,121;1,597;16,951;2,766;2,112;3,159;-9,222;8,798;2,24;1,97
+Irland;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;-10,073;-8,072;-5,91;-5,902;0,082;-4,59;-4,072;-6,608;-2,856;-14,793;2,142;-1,8;-1,632
+Irland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;3,531;3,421;3,361;3,283;3,142;3,036;2,846;2,743;2,567;2,574;2,248;2,364;2,343;2,322
+Irland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;1,466;1,537;1,607;1,622;1,574;1,482;1,332;1,291;1,201;1,243;1,106;1,187;1,182;1,176
+Irland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,217;0,226;0,233;0,239;0,241;0,242;0,279;0,283;0,286;0,293;0,264;0,285;0,29;0,294
+Irland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;1,847;1,658;1,521;1,423;1,326;1,312;1,234;1,169;1,079;1,039;0,879;0,892;0,871;0,852
+Irland;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;80,86;81,92;82,74;82,92;82,87;83,21;83,62;85,44;73,16;84,55;94,92;98,76;99,11;99,68
+Irland;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;258,4;263,3;269,1;273,4;278,9;285,5;291,5;296,1;300,8;314,3;341,8;342,6;343,1;344,2
+Irland;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;21,08;20,26;19,32;18,53;18,11;18,04;16,94;17,64;17,88;18,97;20,98;21,28;21,64;22,04
+Irland;Röstkaffee;Umsatz;Total;Millionen EUR (€);Statista;311,1;316,9;321,7;318,7;309,8;299,2;266,1;262,9;212,8;248,4;248,7;274,6;273,4;272,7
+Irland;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Millionen EUR (€);Statista;250,4;258,4;265,6;265,5;258,9;250,1;225,3;221,8;170,9;205,1;206,4;229,7;228,1;226,9
+Irland;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Millionen EUR (€);Statista;60,68;58,48;56,05;53,22;50,88;49,06;40,82;41,07;41,84;43,35;42,31;44,9;45,31;45,75
+Irland;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;1,864;1,515;-0,933;-2,793;-3,422;-11,063;-1,203;-19,057;16,729;0,121;10,414;-0,437;-0,256
+Irland;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;3,195;2,786;-0,038;-2,486;-3,399;-9,916;-1,553;-22,949;20,012;0,634;11,289;-0,697;-0,526
+Irland;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;-3,626;-4,155;-5,049;-4,397;-3,577;-16,796;0,612;1,875;3,609;-2,399;6,121;0,913;0,971
+Irland;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;67,5;68,65;69,52;68,51;65,97;62,94;55,23;53,84;43,09;49,86;49,55;54,35;53,81;53,37
+Irland;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;54,34;55,98;57,41;57,07;55,13;52,61;46,76;45,43;34,62;41,16;41,12;45,46;44,89;44,42
+Irland;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;13,17;12,67;12,11;11,44;10,84;10,32;8,471;8,412;8,474;8,7;8,428;8,888;8,918;8,955
+Irland;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;98,977;98,602;98,096;97,27;96,387;95,273;93,897;92,226;90,229
+Irland;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;1,023;1,398;1,904;2,73;3,613;4,727;6,103;7,774;9,771
+Irland;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;64,734;60,239;57,424;54,625;52,614;50,272;47,899;45,664;43,328
+Irland;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;35,266;39,761;42,576;45,375;47,386;49,728;52,101;54,336;56,672
+Irland;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;3,847;3,868;3,888;3,844;3,738;3,595;3,182;3,077;2,908;2,938;2,62;2,78;2,758;2,736
+Irland;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;0,969;0,981;0,987;0,971;0,928;0,876;0,773;0,749;0,568;0,652;0,604;0,67;0,665;0,659
+Irland;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;2,878;2,887;2,901;2,873;2,81;2,719;2,409;2,328;2,34;2,286;2,017;2,11;2,094;2,076
+Irland;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;0,546;0,504;-1,132;-2,745;-3,825;-11,483;-3,315;-5,475;1,021;-10,811;6,087;-0,777;-0,827
+Irland;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;1,27;0,578;-1,618;-4,406;-5,649;-11,752;-3,076;-24,158;14,827;-7,438;11,003;-0,84;-0,811
+Irland;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;0,302;0,479;-0,967;-2,183;-3,222;-11,396;-3,391;0,539;-2,33;-11,774;4,615;-0,757;-0,832
+Irland;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,835;0,838;0,84;0,826;0,796;0,756;0,66;0,63;0,589;0,59;0,522;0,55;0,543;0,535
+Irland;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,21;0,213;0,213;0,209;0,198;0,184;0,16;0,153;0,115;0,131;0,12;0,133;0,131;0,129
+Irland;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;0,625;0,625;0,627;0,617;0,598;0,572;0,5;0,477;0,474;0,459;0,402;0,418;0,412;0,406
+Irland;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;8,97;;;;
+Irland;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;18,59;;;;
+Irland;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;29,647;;;;
+Irland;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;25,16;;;;
+Irland;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;17,628;;;;
+Irland;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;47,596;;;;
+Irland;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;52,404;;;;
+Irland;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;33,333;;;;
+Irland;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;36,127;;;;
+Irland;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;30,54;;;;
+Irland;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;85,6;87,44;89,26;90,66;92,88;95,78;98,35;100,8;85,86;100;112,3;117,2;117,5;118,1
+Irland;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;91,87;94,06;96,4;98,7;103,1;108,9;112,8;115,5;98,08;114;127,8;133,1;133,2;133,5
+Irland;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;80,86;81,92;82,74;82,92;82,87;83,21;83,62;85,44;73,16;84,55;94,92;98,76;99,11;99,68
+Irland;Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;0,578;0,62;0,664;0,684;0,686;0,675;0,631;0,635;0,509;0,62;0,623;0,703;0,706;0,71
+Irland;Kaffee;Umsatz;Instant-Kaffee;Milliarden EUR (€);Statista;0,267;0,303;0,342;0,365;0,377;0,376;0,365;0,373;0,297;0,371;0,375;0,428;0,432;0,437
+Irland;Kaffee;Umsatz;Röstkaffee;Milliarden EUR (€);Statista;0,311;0,317;0,322;0,319;0,31;0,299;0,266;0,263;0,213;0,248;0,249;0,275;0,273;0,273
+Irland;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;7,227;7,014;3,074;0,351;-1,719;-6,462;0,697;-19,858;21,638;0,63;12,705;0,47;0,538
+Irland;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;13,426;12,76;6,813;3,121;-0,292;-2,822;2,082;-20,397;25,118;0,943;14,282;1,028;1,04
+Irland;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;1,864;1,515;-0,933;-2,793;-3,422;-11,063;-1,203;-19,057;16,729;0,121;10,414;-0,437;-0,256
+Irland;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;125,5;134,4;143,4;147;146,2;141,9;131;130,1;103,1;124,3;124,2;139,1;138,9;138,9
+Irland;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;58,02;65,71;73,92;78,53;80,22;79,01;75,75;76,31;60,06;74,47;74,63;84,74;85,13;85,52
+Irland;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;67,5;68,65;69,52;68,51;65,97;62,94;55,23;53,84;43,09;49,86;49,55;54,35;53,81;53,37
+Irland;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;98,977;98,602;98,096;97,163;96,268;95,155;93,793;92,159;90,229
+Irland;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;1,023;1,398;1,904;2,837;3,732;4,845;6,207;7,841;9,771
+Irland;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;64,734;60,239;57,424;54,625;52,614;50,272;47,899;45,664;43,328
+Irland;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;35,266;39,761;42,576;45,375;47,386;49,728;52,101;54,336;56,672
+Irland;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;84,016;84,569;85,173;85,588;85,905;86,209;86,58;86,195;82,21;84,703;85,414;86,182;86,164;86,148
+Irland;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;15,984;15,431;14,827;14,412;14,095;13,791;13,42;13,805;17,79;15,297;14,586;13,818;13,836;13,852
+Irland;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;27,271;27,489;27,626;27,732;27,939;28,229;28,495;28,616;22,883;26,272;27,342;28,715;28,745;28,782
+Irland;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;72,729;72,511;72,374;72,268;72,061;71,771;71,505;71,384;77,117;73,728;72,658;71,285;71,255;71,218
+Irland;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;6,757;7,093;7,436;7,545;7,391;7,044;6,417;6,304;5,932;6,193;5,551;5,996;6,006;6,009
+Irland;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;2,91;3,224;3,548;3,702;3,653;3,449;3,235;3,227;3,024;3,255;2,931;3,216;3,247;3,273
+Irland;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;3,847;3,868;3,888;3,844;3,738;3,595;3,182;3,077;2,908;2,938;2,62;2,78;2,758;2,736
+Irland;Kaffee;Volumenveränderung;Total;Prozent;Statista;;4,961;4,839;1,473;-2,044;-4,691;-8,902;-1,768;-5,9;4,395;-10,356;8,003;0,167;0,057
+Irland;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;10,798;10,038;4,328;-1,316;-5,577;-6,211;-0,246;-6,305;7,641;-9,946;9,716;0,983;0,808
+Irland;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;0,546;0,504;-1,132;-2,745;-3,825;-11,483;-3,315;-5,475;1,021;-10,811;6,087;-0,777;-0,827
+Irland;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,466;1,537;1,607;1,622;1,574;1,482;1,332;1,291;1,201;1,243;1,106;1,187;1,182;1,176
+Irland;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,632;0,699;0,767;0,796;0,778;0,726;0,671;0,661;0,612;0,653;0,584;0,637;0,639;0,641
+Irland;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;0,835;0,838;0,84;0,826;0,796;0,756;0,66;0,63;0,589;0,59;0,522;0,55;0,543;0,535
+Irland;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;91,87;94,06;96,4;98,7;103,1;108,9;112,8;115,5;98,08;114;127,8;133,1;133,2;133,5
+Irland;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;269,6;274,8;280,8;285,3;291;298;304,2;309;314;328;356,7;357,5;358,1;359,2
+Irland;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;15,6;16,5;17,07;17,58;18,23;18,83;20,13;21,48;21,83;22,55;24,1;24,11;23,96;23,85
+Irland;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;267,4;303,3;342;365,3;376,7;375,6;365;372,6;296,6;371,1;374,6;428,1;432,5;437
+Irland;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;235,6;266,1;299,7;320;330,8;331,6;321,1;325,9;247,8;319,7;326;375,9;380,2;384,4
+Irland;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;31,78;37,22;42,36;45,37;45,87;43,99;43,88;46,66;48,77;51,42;48,61;52,19;52,37;52,55
+Irland;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;13,426;12,76;6,813;3,121;-0,292;-2,822;2,082;-20,397;25,118;0,943;14,282;1,028;1,04
+Irland;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;12,946;12,627;6,773;3,375;0,242;-3,166;1,495;-23,964;29,015;1,971;15,307;1,144;1,105
+Irland;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;17,118;13,81;7,106;1,102;-4,099;-0,25;6,335;4,522;5,434;-5,465;7,365;0,345;0,344
+Irland;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;58,02;65,71;73,92;78,53;80,22;79,01;75,75;76,31;60,06;74,47;74,63;84,74;85,13;85,52
+Irland;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;51,12;57,65;64,77;68,78;70,45;69,76;66,64;66,75;50,18;64,16;64,94;74,41;74,83;75,24
+Irland;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;6,896;8,065;9,155;9,752;9,768;9,255;9,106;9,556;9,877;10,32;9,683;10,33;10,31;10,29
+Irland;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;98,977;98,602;98,096;97,085;96,189;95,077;93,726;92,116;90,229
+Irland;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;1,023;1,398;1,904;2,915;3,811;4,923;6,274;7,884;9,771
+Irland;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;64,734;60,239;57,424;54,625;52,614;50,272;47,899;45,664;43,328
+Irland;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;35,266;39,761;42,576;45,375;47,386;49,728;52,101;54,336;56,672
+Irland;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;2,91;3,224;3,548;3,702;3,653;3,449;3,235;3,227;3,024;3,255;2,931;3,216;3,247;3,273
+Irland;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,874;0,968;1,067;1,121;1,137;1,113;1,056;1,055;0,789;0,975;0,914;1,051;1,062;1,07
+Irland;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;2,036;2,256;2,481;2,58;2,516;2,336;2,179;2,172;2,234;2,28;2,017;2,164;2,186;2,203
+Irland;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;10,798;10,038;4,328;-1,316;-5,577;-6,211;-0,246;-6,305;7,641;-9,946;9,716;0,983;0,808
+Irland;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;10,831;10,202;5,087;1,364;-2,107;-5,129;-0,082;-25,175;23,476;-6,218;15,03;0,983;0,808
+Irland;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;10,784;9,968;4,002;-2,481;-7,144;-6,727;-0,325;2,858;2,047;-11,54;7,308;0,982;0,808
+Irland;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,632;0,699;0,767;0,796;0,778;0,726;0,671;0,661;0,612;0,653;0,584;0,637;0,639;0,641
+Irland;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,19;0,21;0,231;0,241;0,242;0,234;0,219;0,216;0,16;0,196;0,182;0,208;0,209;0,209
+Irland;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,442;0,489;0,536;0,555;0,536;0,492;0,452;0,445;0,452;0,458;0,402;0,428;0,43;0,431

@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Griechenland;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;10,594;;;;
+Griechenland;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;18,51;;;;
+Griechenland;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;28,172;;;;
+Griechenland;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;25,495;;;;
+Griechenland;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;17,229;;;;
+Griechenland;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;50,873;;;;
+Griechenland;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;49,127;;;;
+Griechenland;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;38,313;;;;
+Griechenland;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;30,982;;;;
+Griechenland;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;30,705;;;;
+Griechenland;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;77,41;78,17;78,11;79,38;80,12;84,73;87,12;89,27;79,11;90,84;103,1;107,5;107,9;108,2
+Griechenland;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;96,15;94,49;93,29;94,53;96,49;104,3;108,3;112;100,4;119,4;139,3;147,9;149,8;150,8
+Griechenland;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;60,99;63,77;65,37;67,86;69,16;73,31;76,35;78,19;69,39;78,07;87,38;90,35;90,65;91,18
+Griechenland;Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;3,148;3,252;3,312;3,353;3,291;3,349;3,215;3,292;2,711;3,321;3,427;3,91;3,972;4,026
+Griechenland;Kaffee;Umsatz;Instant-Kaffee;Milliarden EUR (€);Statista;1,826;1,843;1,805;1,725;1,589;1,52;1,349;1,353;1,077;1,347;1,403;1,6;1,605;1,599
+Griechenland;Kaffee;Umsatz;Röstkaffee;Milliarden EUR (€);Statista;1,322;1,41;1,507;1,629;1,702;1,829;1,866;1,939;1,634;1,974;2,024;2,31;2,367;2,428
+Griechenland;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;3,304;1,845;1,238;-1,849;1,762;-4,001;2,395;-17,649;22,501;3,192;14,094;1,586;1,36
+Griechenland;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;0,931;-2,062;-4,432;-7,884;-4,342;-11,25;0,297;-20,399;25,07;4,157;14,041;0,312;-0,374
+Griechenland;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;6,657;6,879;8,096;4,481;7,462;2,023;3,912;-15,73;20,808;2,533;14,13;2,468;2,577
+Griechenland;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;292;302,8;309,5;314,6;310,1;316,8;305,6;314,3;260,1;320,2;332,2;381;389,2;396,5
+Griechenland;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;169,3;171,6;168,6;161,8;149,7;143,8;128,2;129,2;103,3;129,9;136;155,9;157,2;157,4
+Griechenland;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;122,7;131,2;140,8;152,8;160,3;173,1;177,4;185,2;156,8;190,3;196,2;225,1;231,9;239,1
+Griechenland;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,909;99,898;99,886;99,858;99,843;99,827;99,809;99,787;99,762
+Griechenland;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,091;0,102;0,114;0,142;0,157;0,173;0,191;0,213;0,238
+Griechenland;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;68,308;65,764;63,57;61,749;60,544;59,695;59,111;58,613;58,112
+Griechenland;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;31,692;34,236;36,43;38,251;39,456;40,305;40,889;41,387;41,888
+Griechenland;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;84,963;84,803;84,636;84,803;84,737;80,892;79,806;79,395;75,333;79,118;80,272;81,459;81,635;81,735
+Griechenland;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;15,037;15,197;15,364;15,197;15,263;19,108;20,194;20,605;24,667;20,882;19,728;18,541;18,365;18,265
+Griechenland;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;23,114;23,85;24,239;24,454;24,301;24,096;24,101;24,296;20,196;23,338;24,759;26,188;26,382;26,491
+Griechenland;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;76,886;76,15;75,761;75,546;75,699;75,904;75,899;75,704;79,804;76,662;75,241;73,812;73,618;73,509
+Griechenland;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;40,668;41,606;42,396;42,245;41,082;39,522;36,906;36,879;34,269;36,556;33,237;36,383;36,827;37,223
+Griechenland;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;18,986;19,501;19,343;18,245;16,471;14,572;12,458;12,074;10,725;11,277;10,071;10,816;10,712;10,601
+Griechenland;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;21,682;22,105;23,053;24,001;24,611;24,95;24,448;24,805;23,544;25,279;23,166;25,567;26,116;26,623
+Griechenland;Kaffee;Volumenveränderung;Total;Prozent;Statista;;2,306;1,898;-0,355;-2,754;-3,797;-6,619;-0,072;-7,078;6,674;-9,081;9,468;1,22;1,075
+Griechenland;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;2,712;-0,81;-5,679;-9,722;-11,53;-14,506;-3,078;-11,175;5,144;-10,697;7,405;-0,967;-1,037
+Griechenland;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;1,95;4,287;4,112;2,543;1,379;-2,012;1,46;-5,084;7,37;-8,359;10,365;2,146;1,942
+Griechenland;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;3,772;3,874;3,962;3,963;3,87;3,739;3,507;3,521;3,288;3,525;3,222;3,546;3,608;3,666
+Griechenland;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;1,761;1,816;1,808;1,712;1,552;1,379;1,184;1,153;1,029;1,087;0,976;1,054;1,049;1,044
+Griechenland;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;2,011;2,058;2,154;2,252;2,318;2,361;2,323;2,368;2,259;2,438;2,246;2,492;2,559;2,622
+Griechenland;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;69,35;70,27;70,51;71,6;71,92;75,55;76,77;78,54;69,09;79,34;89,88;93,53;93,83;94,05
+Griechenland;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;77,41;78,17;78,11;79,38;80,12;84,73;87,12;89,27;79,11;90,84;103,1;107,5;107,9;108,2
+Griechenland;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;11,08;11,38;11,44;11,42;11,35;11,29;11,29;11,33;10,39;11,46;12,65;12,91;12,84;12,8
+Griechenland;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;8,178;8,206;8,326;8,546;8,704;8,775;8,758;8,693;7,448;8,351;9,21;9,428;9,403;9,395
+Griechenland;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;3.196;3.300;3.359;3.402;3.342;3.400;3.268;3.345;2.756;3.373;3.480;3.970;4.033;4.088
+Griechenland;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;3.148;3.252;3.312;3.353;3.291;3.349;3.215;3.292;2.711;3.321;3.427;3.910;3.972;4.026
+Griechenland;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;15,18;14,38;14,27;14,47;14,32;13,88;12,43;11,27;9,95;11,28;10,92;11,69;11,55;11,42
+Griechenland;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;33,14;33,61;33,3;34,21;35,88;37,31;39,93;40,94;34,71;41,56;42,57;48,62;49,46;50,27
+Griechenland;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;3,254;1,788;1,28;-1,764;1,735;-3,882;2,356;-17,608;22,388;3,172;14,08;1,587;1,364
+Griechenland;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;3,304;1,845;1,238;-1,849;1,762;-4,001;2,395;-17,649;22,501;3,192;14,094;1,586;1,36
+Griechenland;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;-5,27;-0,765;1,402;-1,037;-3,073;-10,447;-9,332;-11,713;13,367;-3,191;7,051;-1,198;-1,126
+Griechenland;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;1,418;-0,922;2,733;4,882;3,986;7,022;2,529;-15,217;19,735;2,43;14,212;1,728;1,638
+Griechenland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;296,5;307,3;313,9;319,1;314,8;321,7;310,5;319,3;264,4;325,3;337,4;386,9;395,1;402,6
+Griechenland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;292;302,8;309,5;314,6;310,1;316,8;305,6;314,3;260,1;320,2;332,2;381;389,2;396,5
+Griechenland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;1,408;1,339;1,333;1,358;1,349;1,313;1,181;1,076;0,955;1,088;1,059;1,139;1,131;1,125
+Griechenland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;3,074;3,129;3,112;3,209;3,38;3,53;3,795;3,909;3,331;4,007;4,126;4,738;4,845;4,951
+Griechenland;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,909;99,898;99,886;99,858;99,843;99,827;99,809;99,787;99,762
+Griechenland;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,091;0,102;0,114;0,142;0,157;0,173;0,191;0,213;0,238
+Griechenland;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;68,308;65,764;63,57;61,749;60,544;59,695;59,111;58,613;58,112
+Griechenland;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;31,692;34,236;36,43;38,251;39,456;40,305;40,889;41,387;41,888
+Griechenland;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;84,526;84,4;84,256;84,437;84,379;80,619;79,572;79,202;75,13;78,931;80,099;81,302;81,48;81,583
+Griechenland;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;15,474;15,6;15,744;15,563;15,621;19,381;20,428;20,798;24,87;21,069;19,901;18,698;18,52;18,417
+Griechenland;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;21,42;22,181;22,626;22,837;22,657;22,414;22,3;22,479;18,569;21,455;22,72;24,01;24,173;24,265
+Griechenland;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;78,58;77,819;77,374;77,163;77,343;77,586;77,7;77,521;81,431;78,545;77,28;75,99;75,827;75,735
+Griechenland;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;46,09;46,965;47,643;47,515;46,465;45,002;42,566;42,584;39,887;42,517;38,722;42,446;42,986;43,467
+Griechenland;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;40,668;41,606;42,396;42,245;41,082;39,522;36,906;36,879;34,269;36,556;33,237;36,383;36,827;37,223
+Griechenland;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;1,369;1,264;1,247;1,268;1,262;1,229;1,101;0,995;0,957;0,985;0,864;0,905;0,899;0,892
+Griechenland;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;4,053;4,095;4;4,003;4,122;4,251;4,559;4,71;4,661;4,976;4,622;5,157;5,26;5,351
+Griechenland;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;1,897;1,443;-0,268;-2,211;-3,148;-5,413;0,042;-6,333;6,594;-8,926;9,617;1,273;1,117
+Griechenland;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;2,306;1,898;-0,355;-2,754;-3,797;-6,619;-0,072;-7,078;6,674;-9,081;9,468;1,22;1,075
+Griechenland;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;-7,731;-1,285;1,626;-0,477;-2,554;-10,433;-9,653;-3,772;2,883;-12,311;4,844;-0,669;-0,773
+Griechenland;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;1,054;-2,335;0,068;2,976;3,142;7,247;3,304;-1,041;6,767;-7,121;11,581;1,987;1,734
+Griechenland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;4,275;4,373;4,452;4,457;4,377;4,258;4,045;4,066;3,827;4,1;3,753;4,136;4,211;4,28
+Griechenland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;3,772;3,874;3,962;3,963;3,87;3,739;3,507;3,521;3,288;3,525;3,222;3,546;3,608;3,666
+Griechenland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,127;0,118;0,117;0,119;0,119;0,116;0,105;0,095;0,092;0,095;0,084;0,088;0,088;0,088
+Griechenland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,376;0,381;0,374;0,375;0,388;0,402;0,433;0,45;0,447;0,48;0,448;0,503;0,515;0,527
+Griechenland;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;96,15;94,49;93,29;94,53;96,49;104,3;108,3;112;100,4;119,4;139,3;147,9;149,8;150,8
+Griechenland;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;301,5;295,1;290,5;294,5;300,2;307;312,8;316,6;320,7;334,2;362,4;362,3;362;362,3
+Griechenland;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;16,83;16,99;17,1;17,24;17,65;25,51;27,9;29,31;29,48;29,79;32,5;32,41;32,14;31,91
+Griechenland;Instant-Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;1,826;1,843;1,805;1,725;1,589;1,52;1,349;1,353;1,077;1,347;1,403;1,6;1,605;1,599
+Griechenland;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Milliarden EUR (€);Statista;1,595;1,604;1,566;1,498;1,38;1,252;1,099;1,101;0,838;1,11;1,181;1,372;1,384;1,382
+Griechenland;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Milliarden EUR (€);Statista;0,231;0,239;0,239;0,227;0,21;0,268;0,249;0,252;0,239;0,237;0,221;0,228;0,221;0,216
+Griechenland;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;0,931;-2,062;-4,432;-7,884;-4,342;-11,25;0,297;-20,399;25,07;4,157;14,041;0,312;-0,374
+Griechenland;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;0,564;-2,369;-4,342;-7,877;-9,275;-12,22;0,182;-23,887;32,458;6,396;16,173;0,875;-0,145
+Griechenland;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;3,643;-0,167;-4,904;-7,625;27,719;-6,799;1,002;-5,079;-0,92;-6,624;2,937;-2,809;-2,213
+Griechenland;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;169,3;171,6;168,6;161,8;149,7;143,8;128,2;129,2;103,3;129,9;136;155,9;157,2;157,4
+Griechenland;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;147,9;149,3;146,3;140,5;130;118,4;104,5;105,1;80,4;107;114,5;133,7;135,5;136,1
+Griechenland;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;21,39;22,25;22,3;21,28;19,75;25,33;23,71;24,06;22,95;22,85;21,45;22,2;21,69;21,32
+Griechenland;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,909;99,898;99,886;99,863;99,848;99,831;99,812;99,789;99,762
+Griechenland;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,091;0,102;0,114;0,137;0,152;0,169;0,188;0,211;0,238
+Griechenland;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;68,308;65,764;63,57;61,749;60,544;59,695;59,111;58,613;58,112
+Griechenland;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;31,692;34,236;36,43;38,251;39,456;40,305;40,889;41,387;41,888
+Griechenland;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;18,986;19,501;19,343;18,245;16,471;14,572;12,458;12,074;10,725;11,277;10,071;10,816;10,712;10,601
+Griechenland;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;5,291;5,434;5,391;5,086;4,596;4,078;3,514;3,477;2,613;3,322;3,26;3,786;3,822;3,815
+Griechenland;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;13,696;14,067;13,952;13,158;11,875;10,494;8,944;8,597;8,112;7,955;6,811;7,03;6,89;6,785
+Griechenland;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;2,712;-0,81;-5,679;-9,722;-11,53;-14,506;-3,078;-11,175;5,144;-10,697;7,405;-0,967;-1,037
+Griechenland;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;2,716;-0,801;-5,65;-9,637;-11,279;-13,812;-1,064;-24,855;27,135;-1,865;16,152;0,943;-0,172
+Griechenland;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;2,711;-0,814;-5,69;-9,755;-11,627;-14,775;-3,869;-5,642;-1,939;-14,385;3,218;-1,996;-1,517
+Griechenland;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,761;1,816;1,808;1,712;1,552;1,379;1,184;1,153;1,029;1,087;0,976;1,054;1,049;1,044
+Griechenland;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,491;0,506;0,504;0,477;0,433;0,386;0,334;0,332;0,251;0,32;0,316;0,369;0,374;0,376
+Griechenland;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;1,27;1,31;1,304;1,234;1,119;0,993;0,85;0,821;0,778;0,767;0,66;0,685;0,675;0,668
+Griechenland;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;60,99;63,77;65,37;67,86;69,16;73,31;76,35;78,19;69,39;78,07;87,38;90,35;90,65;91,18
+Griechenland;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;262,7;257,2;253,2;256,6;261,6;267,6;272,6;275,9;279,5;291,2;315,8;315,7;315,5;315,7
+Griechenland;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;13,82;14,49;14,87;15,07;15,23;19,08;20,97;22,07;22,33;22,74;24,99;25,07;25,13;25,22
+Griechenland;Röstkaffee;Umsatz;Total;Milliarden EUR (€);Statista;1,322;1,41;1,507;1,629;1,702;1,829;1,866;1,939;1,634;1,974;2,024;2,31;2,367;2,428
+Griechenland;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Milliarden EUR (€);Statista;1,08;1,154;1,237;1,346;1,409;1,457;1,467;1,513;1,204;1,517;1,569;1,813;1,859;1,909
+Griechenland;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Milliarden EUR (€);Statista;0,243;0,255;0,27;0,283;0,293;0,372;0,4;0,426;0,43;0,456;0,455;0,497;0,508;0,519
+Griechenland;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;6,657;6,879;8,096;4,481;7,462;2,023;3,912;-15,73;20,808;2,533;14,13;2,468;2,577
+Griechenland;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;6,852;7,192;8,812;4,681;3,407;0,686;3,136;-20,423;25,997;3,428;15,551;2,537;2,69
+Griechenland;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;5,107;5,878;4,626;3,537;27,161;7,415;6,653;0,75;6,238;-0,372;9,325;2,213;2,126
+Griechenland;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;122,7;131,2;140,8;152,8;160,3;173,1;177,4;185,2;156,8;190,3;196,2;225,1;231,9;239,1
+Griechenland;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;100,1;107,5;115,6;126,3;132,8;137,9;139,4;144,5;115,5;146,3;152,1;176,7;182,2;188
+Griechenland;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;22,52;23,76;25,25;26,52;27,58;35,21;38;40,72;41,21;44,01;44,08;48,44;49,78;51,1
+Griechenland;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,909;99,898;99,886;99,854;99,84;99,824;99,807;99,786;99,762
+Griechenland;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,091;0,102;0,114;0,146;0,16;0,176;0,193;0,214;0,238
+Griechenland;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;68,308;65,764;63,57;61,749;60,544;59,695;59,111;58,613;58,112
+Griechenland;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;31,692;34,236;36,43;38,251;39,456;40,305;40,889;41,387;41,888
+Griechenland;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;21,682;22,105;23,053;24,001;24,611;24,95;24,448;24,805;23,544;25,279;23,166;25,567;26,116;26,623
+Griechenland;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;4,109;4,489;4,886;5,244;5,387;5,446;5,38;5,483;4,308;5,21;4,969;5,742;5,894;6,045
+Griechenland;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;17,573;17,616;18,167;18,756;19,224;19,504;19,068;19,322;19,236;20,069;18,197;19,825;20,222;20,577
+Griechenland;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;1,95;4,287;4,112;2,543;1,379;-2,012;1,46;-5,084;7,37;-8,359;10,365;2,146;1,942
+Griechenland;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;9,236;8,84;7,341;2,723;1,088;-1,201;1,914;-21,428;20,926;-4,62;15,55;2,646;2,572
+Griechenland;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;0,246;3,127;3,244;2,493;1,46;-2,239;1,331;-0,445;4,334;-9,33;8,949;2,001;1,758
+Griechenland;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;2,011;2,058;2,154;2,252;2,318;2,361;2,323;2,368;2,259;2,438;2,246;2,492;2,559;2,622
+Griechenland;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,381;0,418;0,457;0,492;0,507;0,515;0,511;0,524;0,413;0,502;0,482;0,56;0,577;0,595
+Griechenland;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;1,63;1,64;1,698;1,76;1,811;1,845;1,812;1,845;1,845;1,935;1,764;1,932;1,981;2,026

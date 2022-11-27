@@ -1,0 +1,116 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Slowenien;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;26,7;27,07;27,33;26,47;26,94;26,99;27,5;28,18;25,65;29,21;32,9;34,35;35,15;35,98
+Slowenien;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;30,03;30,41;30,54;29,35;29,8;29,73;30,25;30,98;28,12;32,09;36,15;37,77;38,66;39,6
+Slowenien;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;9,019;9,533;10,22;10,63;10,82;10,9;10,98;11,12;10,73;11,53;12,68;12,89;12,97;13,06
+Slowenien;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;20,69;21,99;23,3;24,41;25,67;26,81;28,05;29,05;27,72;30,74;34,3;35,31;35,5;35,71
+Slowenien;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;253,8;253,9;255,1;250,4;260,6;270,8;285,5;295,5;247,3;298,9;306,7;351,5;363,7;376,1
+Slowenien;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;235;234,3;234,9;229,5;239;248,6;262,5;272,1;226,2;275,1;283,1;325,4;337,5;349,6
+Slowenien;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;12,32;13,2;14,1;14,79;15,19;15,46;15,94;16,18;14,62;16,33;16,16;17,78;17,98;18,18
+Slowenien;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;6,46;6,483;6,151;6,135;6,333;6,721;7,042;7,244;6,417;7,397;7,412;8,252;8,261;8,28
+Slowenien;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;0,039;0,473;-1,842;4,073;3,914;5,428;3,503;-16,311;20,865;2,61;14,607;3,471;3,409
+Slowenien;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;-0,298;0,256;-2,299;4,139;4,017;5,591;3,657;-16,869;21,618;2,908;14,942;3,719;3,585
+Slowenien;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;7,143;6,818;4,894;2,705;1,777;3,105;1,506;-9,642;11,696;-1,041;10,025;1,125;1,112
+Slowenien;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;0,356;-5,121;-0,26;3,227;6,127;4,776;2,869;-11,416;15,272;0,203;11,333;0,109;0,23
+Slowenien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;123,3;123,1;123,4;120,9;125,6;130,4;137,4;142,1;118,9;143,8;147,6;169,2;175,3;181,4
+Slowenien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;114,2;113,5;113,6;110,8;115,2;119,7;126,3;130,9;108,8;132,4;136,2;156,7;162,6;168,7
+Slowenien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;5,988;6,398;6,819;7,139;7,326;7,446;7,674;7,782;7,031;7,857;7,776;8,56;8,664;8,768
+Slowenien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;3,139;3,143;2,975;2,962;3,053;3,237;3,389;3,485;3,086;3,558;3,567;3,973;3,981;3,994
+Slowenien;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,634;99,591;99,518;99,234;99,138;98,997;98,802;98,534;98,188
+Slowenien;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,366;0,409;0,482;0,766;0,862;1,003;1,198;1,466;1,812
+Slowenien;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Slowenien;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Slowenien;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;65,993;66,395;66,861;66,535;66,855;67,945;68,474;69,382;65,536;69,503;71,399;73,354;74,142;74,869
+Slowenien;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;34,007;33,605;33,139;33,465;33,145;32,055;31,526;30,618;34,464;30,497;28,601;26,646;25,858;25,131
+Slowenien;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;12,112;12,195;12,413;12,631;13,023;13,443;13,851;14,23;12,078;13,945;14,875;15,917;16,413;16,893
+Slowenien;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;87,888;87,805;87,587;87,369;86,977;86,557;86,149;85,77;87,922;86,055;85,125;84,083;83,587;83,107
+Slowenien;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;9,504;9,382;9,335;9,461;9,671;10,033;10,382;10,486;9,638;10,23;9,322;10,23;10,347;10,453
+Slowenien;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;7,826;7,703;7,692;7,818;8,021;8,363;8,678;8,781;8,044;8,573;7,832;8,617;8,728;8,83
+Slowenien;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;1,366;1,385;1,379;1,392;1,404;1,419;1,453;1,455;1,363;1,417;1,274;1,379;1,386;1,391
+Slowenien;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;0,312;0,295;0,264;0,251;0,247;0,251;0,251;0,249;0,231;0,241;0,216;0,234;0,233;0,232
+Slowenien;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;-1,278;-0,507;1,347;2,224;3,738;3,479;1,001;-8,083;6,148;-8,882;9,746;1,144;1,023
+Slowenien;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;-1,567;-0,143;1,637;2,594;4,269;3,765;1,191;-8,399;6,585;-8,65;10,029;1,29;1,164
+Slowenien;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;1,349;-0,409;0,911;0,876;1,077;2,386;0,151;-6,333;3,942;-10,063;8,281;0,499;0,367
+Slowenien;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;-5,536;-10,458;-4,82;-1,82;1,601;0,139;-0,658;-7,18;3,958;-10,183;8,141;-0,442;-0,349
+Slowenien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;4,618;4,548;4,515;4,568;4,663;4,832;4,996;5,044;4,636;4,922;4,486;4,926;4,986;5,042
+Slowenien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;3,803;3,734;3,72;3,775;3,867;4,028;4,176;4,224;3,869;4,124;3,769;4,149;4,206;4,259
+Slowenien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,664;0,671;0,667;0,672;0,677;0,683;0,699;0,7;0,656;0,681;0,613;0,664;0,668;0,671
+Slowenien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,152;0,143;0,128;0,121;0,119;0,121;0,121;0,12;0,111;0,116;0,104;0,113;0,112;0,112
+Slowenien;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;30,03;30,41;30,54;29,35;29,8;29,73;30,25;30,98;28,12;32,09;36,15;37,77;38,66;39,6
+Slowenien;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;44,26;45,75;46,87;47,24;48,66;49,92;51,89;53,62;48,32;55,74;63,03;66,37;68,58;70,83
+Slowenien;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;21,1;21,52;21,86;20,82;21,92;22,25;23,45;24,05;21,9;24,85;28,04;29,21;29,81;30,44
+Slowenien;Kaffee;Umsatz;Total;Millionen EUR (€);Statista;235;234,3;234,9;229,5;239;248,6;262,5;272,1;226,2;275,1;283,1;325,4;337,5;349,6
+Slowenien;Kaffee;Umsatz;Instant-Kaffee;Millionen EUR (€);Statista;133,6;129,4;125,1;119,2;115;112,8;107,6;110,4;91,58;112;114,4;131,7;136,7;141,8
+Slowenien;Kaffee;Umsatz;Röstkaffee;Millionen EUR (€);Statista;101,4;104,9;109,8;110,2;124;135,8;154,9;161,6;134,6;163,1;168,7;193,8;200,7;207,8
+Slowenien;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;-0,298;0,256;-2,299;4,139;4,017;5,591;3,657;-16,869;21,618;2,908;14,942;3,719;3,585
+Slowenien;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;-3,144;-3,323;-4,716;-3,523;-1,913;-4,61;2,602;-17,047;22,297;2,143;15,122;3,797;3,731
+Slowenien;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;3,452;4,671;0,364;12,523;9,516;14,065;4,325;-16,708;21,174;3,433;14,878;3,56;3,538
+Slowenien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;114,2;113,5;113,6;110,8;115,2;119,7;126,3;130,9;108,8;132,4;136,2;156,7;162,6;168,7
+Slowenien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;64,93;62,7;60,5;57,56;55,45;54,33;51,77;53,12;44,05;53,89;55,04;63,4;65,89;68,41
+Slowenien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;49,27;50,85;53,1;53,23;59,79;65,41;74,55;77,76;64,76;78,47;81,2;93,29;96,73;100,2
+Slowenien;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,625;99,579;99,525;99,233;99,142;99,002;98,805;98,529;98,175
+Slowenien;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,375;0,421;0,475;0,767;0,858;0,998;1,195;1,471;1,825
+Slowenien;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Slowenien;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Slowenien;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;68,642;69,234;69,922;69,779;70,024;71,099;71,498;72,354;68,745;72,52;74,351;76,224;76,97;77,658
+Slowenien;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;31,358;30,766;30,078;30,221;29,976;28,901;28,502;27,646;31,255;27,48;25,649;23,776;23,03;22,342
+Slowenien;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;14,08;14,206;14,421;14,64;15,053;15,477;15,912;16,322;13,897;15,993;17,031;18,192;18,75;19,29
+Slowenien;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;85,92;85,794;85,579;85,36;84,947;84,523;84,088;83,678;86,103;84,007;82,969;81,808;81,25;80,71
+Slowenien;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;7,826;7,703;7,692;7,818;8,021;8,363;8,678;8,781;8,044;8,573;7,832;8,617;8,728;8,83
+Slowenien;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;3,019;2,828;2,669;2,524;2,364;2,26;2,073;2,059;1,895;2,01;1,815;1,984;1,994;2,002
+Slowenien;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;4,806;4,875;5,023;5,294;5,657;6,103;6,605;6,722;6,148;6,563;6,017;6,633;6,735;6,828
+Slowenien;Kaffee;Volumenveränderung;Total;Prozent;Statista;;-1,567;-0,143;1,637;2,594;4,269;3,765;1,191;-8,399;6,585;-8,65;10,029;1,29;1,164
+Slowenien;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;-6,348;-5,62;-5,435;-6,339;-4,381;-8,268;-0,681;-7,96;6,054;-9,722;9,329;0,506;0,423
+Slowenien;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;1,436;3,033;5,394;6,852;7,884;8,221;1,778;-8,534;6,749;-8,322;10,24;1,525;1,384
+Slowenien;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;3,803;3,734;3,72;3,775;3,867;4,028;4,176;4,224;3,869;4,124;3,769;4,149;4,206;4,259
+Slowenien;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;1,467;1,371;1,291;1,218;1,14;1,088;0,998;0,991;0,912;0,967;0,873;0,955;0,961;0,966
+Slowenien;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;2,336;2,363;2,43;2,556;2,727;2,939;3,179;3,234;2,958;3,157;2,896;3,194;3,245;3,294
+Slowenien;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;21,1;21,52;21,86;20,82;21,92;22,25;23,45;24,05;21,9;24,85;28,04;29,21;29,81;30,44
+Slowenien;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;104,5;106,4;108,2;100;102,2;103,4;106,3;107,9;109,7;114,6;124,7;125;125,2;125,6
+Slowenien;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;8,798;8,702;8,469;8,103;8,344;7,842;8,063;7,959;7,859;7,984;8,446;8,239;8,25;8,274
+Slowenien;Röstkaffee;Umsatz;Total;Millionen EUR (€);Statista;101,4;104,9;109,8;110,2;124;135,8;154,9;161,6;134,6;163,1;168,7;193,8;200,7;207,8
+Slowenien;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Millionen EUR (€);Statista;64,54;68,04;72,96;73,29;83,64;95,18;110;116,7;92,98;119;126,5;148,9;155,4;162
+Slowenien;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Millionen EUR (€);Statista;36,85;36,86;36,83;36,96;40,37;40,64;44,91;44,89;41,66;44,11;42,25;44,83;45,32;45,82
+Slowenien;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;3,452;4,671;0,364;12,523;9,516;14,065;4,325;-16,708;21,174;3,433;14,878;3,56;3,538
+Slowenien;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;5,423;7,231;0,452;14,122;13,797;15,57;6,091;-20,326;27,985;6,303;17,708;4,365;4,247
+Slowenien;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;0,027;-0,081;0,353;9,226;0,669;10,507;-0,045;-7,195;5,881;-4,217;6,107;1,093;1,103
+Slowenien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;49,27;50,85;53,1;53,23;59,79;65,41;74,55;77,76;64,76;78,47;81,2;93,29;96,73;100,2
+Slowenien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;31,36;32,98;35,29;35,38;40,32;45,84;52,94;56,16;44,72;57,25;60,86;71,71;74,89;78,14
+Slowenien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;17,91;17,87;17,81;17,84;19,46;19,57;21,61;21,6;20,04;21,22;20,33;21,59;21,84;22,1
+Slowenien;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,625;99,577;99,522;99,218;99,119;98,973;98,762;98,484;98,13
+Slowenien;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,375;0,423;0,478;0,782;0,881;1,027;1,238;1,516;1,87
+Slowenien;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Slowenien;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Slowenien;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;4,806;4,875;5,023;5,294;5,657;6,103;6,605;6,722;6,148;6,563;6,017;6,633;6,735;6,828
+Slowenien;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;0,617;0,64;0,674;0,733;0,819;0,92;1,035;1,082;0,848;1,038;1,014;1,192;1,241;1,29
+Slowenien;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;4,189;4,236;4,349;4,561;4,838;5,183;5,57;5,641;5,301;5,525;5,003;5,442;5,493;5,538
+Slowenien;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;1,436;3,033;5,394;6,852;7,884;8,221;1,778;-8,534;6,749;-8,322;10,24;1,525;1,384
+Slowenien;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;3,638;5,397;8,685;11,718;12,404;12,413;4,545;-21,633;22,486;-2,288;17,47;4,179;3,903
+Slowenien;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;1,112;2,676;4,883;6,07;7,119;7,477;1,265;-6,022;4,232;-9,455;8,774;0,944;0,815
+Slowenien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;2,336;2,363;2,43;2,556;2,727;2,939;3,179;3,234;2,958;3,157;2,896;3,194;3,245;3,294
+Slowenien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,3;0,31;0,326;0,354;0,395;0,443;0,498;0,52;0,408;0,499;0,488;0,574;0,598;0,622
+Slowenien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;2,036;2,053;2,103;2,202;2,333;2,496;2,681;2,714;2,55;2,658;2,407;2,62;2,647;2,671
+Slowenien;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;44,26;45,75;46,87;47,24;48,66;49,92;51,89;53,62;48,32;55,74;63,03;66,37;68,58;70,83
+Slowenien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;199,7;207,1;209,8;210,9;215,5;218,2;224,3;227,7;231,4;241,8;263;263,6;264,1;264,9
+Slowenien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;14,53;14,84;15,14;15,34;15,84;16,55;17,32;17,76;17,87;18,78;20,3;20,24;20,27;20,33
+Slowenien;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;133,6;129,4;125,1;119,2;115;112,8;107,6;110,4;91,58;112;114,4;131,7;136,7;141,8
+Slowenien;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;96,78;94,15;91,27;86,84;83,74;81,6;77,67;80,1;62,54;80,53;84,01;99,13;104,3;109,5
+Slowenien;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;36,84;35,21;33,82;32,39;31,28;31,22;29,9;30,32;29,04;31,49;30,36;32,54;32,4;32,3
+Slowenien;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;-3,144;-3,323;-4,716;-3,523;-1,913;-4,61;2,602;-17,047;22,297;2,143;15,122;3,797;3,731
+Slowenien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-2,718;-3,059;-4,854;-3,57;-2,556;-4,816;3,129;-21,923;28,766;4,321;17,998;5,215;4,986
+Slowenien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-4,425;-3,948;-4,228;-3,427;-0,192;-4,228;1,405;-4,222;8,437;-3,588;7,181;-0,43;-0,309
+Slowenien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;64,93;62,7;60,5;57,56;55,45;54,33;51,77;53,12;44,05;53,89;55,04;63,4;65,89;68,41
+Slowenien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;47,03;45,63;44,15;41,93;40,37;39,3;37,38;38,53;30,08;38,74;40,43;47,73;50,28;52,83
+Slowenien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;17,9;17,07;16,36;15,64;15,08;15,03;14,39;14,59;13,97;15,15;14,61;15,67;15,61;15,58
+Slowenien;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,625;99,583;99,529;99,255;99,174;99,044;98,868;98,596;98,241
+Slowenien;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,375;0,417;0,471;0,745;0,826;0,956;1,132;1,404;1,759
+Slowenien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Slowenien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Slowenien;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;3,019;2,828;2,669;2,524;2,364;2,26;2,073;2,059;1,895;2,01;1,815;1,984;1,994;2,002
+Slowenien;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,485;0,454;0,435;0,412;0,389;0,374;0,346;0,352;0,27;0,333;0,319;0,376;0,395;0,413
+Slowenien;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;2,535;2,373;2,234;2,112;1,975;1,886;1,727;1,707;1,625;1,677;1,495;1,608;1,599;1,589
+Slowenien;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;-6,348;-5,62;-5,435;-6,339;-4,381;-8,268;-0,681;-7,96;6,054;-9,722;9,329;0,506;0,423
+Slowenien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-6,204;-4,296;-5,362;-5,603;-3,746;-7,417;1,582;-23,171;23,221;-4,084;17,719;5,084;4,631
+Slowenien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-6,375;-5,873;-5,449;-6,483;-4,506;-8,437;-1,135;-4,826;3,199;-10,842;7,536;-0,564;-0,617
+Slowenien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,467;1,371;1,291;1,218;1,14;1,088;0,998;0,991;0,912;0,967;0,873;0,955;0,961;0,966
+Slowenien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,235;0,22;0,21;0,199;0,187;0,18;0,167;0,169;0,13;0,16;0,154;0,181;0,19;0,199
+Slowenien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;1,232;1,15;1,08;1,02;0,952;0,908;0,831;0,821;0,782;0,807;0,719;0,774;0,77;0,766

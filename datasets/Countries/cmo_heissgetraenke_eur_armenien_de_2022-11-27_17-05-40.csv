@@ -1,0 +1,116 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Armenien;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;16,81;17,04;17,56;19,46;19,49;19,92;20,16;22,57;20,26;20,75;23,25;24,33;24,64;25,12
+Armenien;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;19,09;19,16;19,68;21,58;21,54;22,06;22,43;25,18;22,52;23,2;26,05;27,32;27,66;28,19
+Armenien;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;4,745;4,892;5,152;5,732;5,675;5,696;5,634;6,216;5,95;5,762;6,306;6,424;6,421;6,467
+Armenien;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;13,9;14,19;14,77;16,66;16,76;17;16,97;18,79;17,69;17,37;19,15;19,7;19,76;19,96
+Armenien;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;160,2;163,6;173,8;192,1;193,1;200,1;205;232;193,1;209,9;203,8;244,5;250;256,7
+Armenien;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;139,8;143,6;152,6;170;171,9;178,3;182,6;206,9;170,8;187;182,1;219,1;224,3;230,7
+Armenien;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;5,363;5,226;5,576;5,848;5,68;5,805;5,978;6,733;6,141;6,333;6,015;7,05;7,008;7,007
+Armenien;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;14,97;14,81;15,62;16,26;15,5;16,06;16,44;18,38;16,15;16,6;15,71;18,35;18,66;19,01
+Armenien;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;2,122;6,235;10,529;0,521;3,625;2,449;13,171;-16,767;8,7;-2,906;19,971;2,249;2,68
+Armenien;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;2,718;6,267;11,402;1,118;3,723;2,412;13,308;-17,448;9,485;-2,62;20,319;2,373;2,853
+Armenien;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;-2,555;6,697;4,878;-2,873;2,201;2,98;12,63;-8,793;3,127;-5,021;17,207;-0,596;-0,014
+Armenien;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;-1,069;5,469;4,097;-4,674;3,613;2,366;11,8;-12,133;2,786;-5,361;16,805;1,689;1,876
+Armenien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;55,54;56,46;59,67;65,66;65,76;67,96;69,45;78,45;65,16;70,71;68,58;82,18;84;86,23
+Armenien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;48,49;49,54;52,39;58,1;58,54;60,53;61,85;69,96;57,64;62,99;61,27;73,65;75,37;77,49
+Armenien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;1,859;1,804;1,915;1,999;1,935;1,971;2,025;2,277;2,072;2,134;2,024;2,37;2,354;2,354
+Armenien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;5,189;5,111;5,364;5,556;5,278;5,453;5,57;6,213;5,451;5,592;5,285;6,167;6,269;6,385
+Armenien;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,684;99,635;99,553;99,169;98,553;98,468;98,281;98,023;97,711
+Armenien;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,316;0,365;0,447;0,831;1,447;1,532;1,719;1,977;2,289
+Armenien;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Armenien;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Armenien;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;51,611;52,408;53,3;54,833;55,702;56,376;56,596;57,054;52,46;55,97;57,331;58,817;59,485;60,111
+Armenien;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;48,389;47,592;46,7;45,167;44,298;43,624;43,404;42,946;47,54;44,03;42,669;41,183;40,515;39,889
+Armenien;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;7,184;7,461;7,687;8,003;8,277;8,488;8,66;8,869;7,524;8,624;9,125;9,689;9,891;10,083
+Armenien;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;92,816;92,539;92,313;91,997;91,723;91,512;91,34;91,131;92,476;91,376;90,875;90,311;90,109;89,917
+Armenien;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;9,531;9,603;9,895;9,872;9,904;10,045;10,168;10,279;9,529;10,113;8,764;10,048;10,146;10,219
+Armenien;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;7,324;7,491;7,755;7,876;7,979;8,082;8,138;8,218;7,584;8,059;6,99;8,019;8,11;8,183
+Armenien;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;1,13;1,068;1,082;1,02;1,001;1,019;1,061;1,083;1,032;1,099;0,954;1,097;1,091;1,084
+Armenien;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;1,077;1,044;1,058;0,976;0,924;0,944;0,969;0,978;0,913;0,955;0,82;0,931;0,944;0,953
+Armenien;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;0,757;3,042;-0,236;0,322;1,428;1,218;1,098;-7,299;6,133;-13,339;14,642;0,979;0,722
+Armenien;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;2,282;3,53;1,553;1,303;1,293;0,694;0,986;-7,718;6,267;-13,262;14,715;1,141;0,898
+Armenien;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;-5,485;1,319;-5,74;-1,899;1,832;4,121;2,07;-4,717;6,49;-13,213;15,061;-0,566;-0,701
+Armenien;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;-3,062;1,308;-7,726;-5,274;2,165;2,565;0,972;-6,635;4,617;-14,127;13,53;1,404;0,856
+Armenien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;3,305;3,314;3,398;3,374;3,373;3,411;3,445;3,475;3,216;3,407;2,949;3,378;3,409;3,432
+Armenien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;2,539;2,585;2,663;2,692;2,717;2,744;2,757;2,778;2,559;2,715;2,352;2,696;2,725;2,749
+Armenien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,392;0,369;0,372;0,349;0,341;0,346;0,36;0,366;0,348;0,37;0,321;0,369;0,367;0,364
+Armenien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,373;0,36;0,363;0,334;0,315;0,321;0,328;0,331;0,308;0,322;0,276;0,313;0,317;0,32
+Armenien;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;19,34;19,19;19,72;22,27;22,46;22,77;22,97;25,59;22,69;23,28;25,98;27,12;27,51;28,11
+Armenien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;140,9;136,6;139,3;160,9;161,8;159,8;158;172,1;166;156,4;167,6;167,3;167,8;169,5
+Armenien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;10,38;10,38;10,57;11,43;11,32;11,53;11,61;12,93;12,67;12,18;13,27;13,48;13,44;13,5
+Armenien;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;27,14;27,58;29,57;34,34;35,68;36,98;38,83;44,26;36,61;40,04;38,88;46,86;48,39;50,16
+Armenien;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;13,58;13,71;14,85;18;19,03;19,67;20,72;23,67;17,51;20,7;20,66;25,64;26,9;28,32
+Armenien;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;13,56;13,87;14,72;16,35;16,65;17,32;18,11;20,59;19,1;19,34;18,23;21,23;21,49;21,84
+Armenien;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;1,621;7,215;16,131;3,902;3,643;5,003;13,984;-17,284;9,369;-2,897;20,525;3,265;3,658
+Armenien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;0,957;8,315;21,212;5,722;3,363;5,338;14,237;-26,025;18,218;-0,193;24,105;4,914;5,279
+Armenien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;2,286;6,128;11,073;1,835;4,024;4,561;13,694;-7,237;1,257;-5,739;16,456;1,225;1,629
+Armenien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;9,409;9,519;10,15;11,74;12,15;12,56;13,16;14,97;12,35;13,49;13,08;15,75;16,26;16,85
+Armenien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;4,708;4,731;5,099;6,151;6,482;6,679;7,021;8,004;5,907;6,975;6,951;8,618;9,037;9,513
+Armenien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;4,701;4,787;5,054;5,588;5,669;5,88;6,134;6,961;6,447;6,515;6,133;7,135;7,218;7,335
+Armenien;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,656;99,601;99,507;99,108;98,549;98,491;98,31;98,04;97,698
+Armenien;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,344;0,399;0,493;0,892;1,451;1,509;1,69;1,96;2,302
+Armenien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Armenien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Armenien;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;1,403;1,437;1,499;1,542;1,588;1,624;1,691;1,73;1,613;1,72;1,497;1,728;1,759;1,784
+Armenien;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,096;0,1;0,107;0,112;0,118;0,123;0,131;0,138;0,105;0,132;0,123;0,153;0,16;0,167
+Armenien;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;1,307;1,337;1,392;1,43;1,471;1,501;1,56;1,592;1,508;1,588;1,373;1,575;1,599;1,617
+Armenien;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;2,439;4,306;2,871;3,006;2,26;4,083;2,297;-6,725;6,627;-12,989;15,462;1,781;1,441
+Armenien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;4,139;6,199;4,899;5,198;4,589;6,601;4,901;-23,366;25,505;-6,879;24,336;4,634;4,241
+Armenien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;2,314;4,164;2,716;2,835;2,073;3,877;2,078;-5,287;5,307;-13,499;14,666;1,503;1,16
+Armenien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,486;0,496;0,515;0,527;0,541;0,552;0,573;0,585;0,544;0,58;0,504;0,581;0,591;0,599
+Armenien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,033;0,035;0,037;0,038;0,04;0,042;0,044;0,047;0,036;0,045;0,041;0,052;0,054;0,056
+Armenien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,453;0,461;0,478;0,489;0,501;0,51;0,528;0,538;0,509;0,535;0,462;0,529;0,537;0,543
+Armenien;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;19,04;19,16;19,66;21,41;21,32;21,88;22,29;25,07;22,48;23,18;26,07;27,38;27,7;28,21
+Armenien;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;116,9;116,5;118,5;127,9;125,1;126,9;126,4;139,7;136,4;130,3;141,7;143,7;144,1;145,6
+Armenien;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;8,881;8,743;8,757;9,288;9,119;9,155;9,292;10,33;10,13;9,741;10,65;10,83;10,8;10,85
+Armenien;Röstkaffee;Umsatz;Total;Millionen EUR (€);Statista;112,7;116;123;135,6;136,2;141,3;143,7;162,7;134,2;146,9;143,2;172,2;176;180,5
+Armenien;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Millionen EUR (€);Statista;65,07;68,17;73,68;82,82;84,07;88,55;90,48;103,3;79,65;92,06;91,59;112,6;116,1;120,1
+Armenien;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Millionen EUR (€);Statista;47,64;47,81;49,34;52,82;52,14;52,73;53,25;59,39;54,55;54,86;51,62;59,62;59,87;60,46
+Armenien;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;2,928;6,034;10,244;0,442;3,744;1,699;13,222;-17,517;9,463;-2,519;20,251;2,207;2,557
+Armenien;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;4,764;8,083;12,405;1,509;5,329;2,18;14,169;-22,894;15,581;-0,511;22,939;3,108;3,445
+Armenien;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;0,357;3,2;7,053;-1,287;1,132;0,986;11,531;-8,15;0,568;-5,906;15,498;0,419;0,985
+Armenien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;39,08;40,03;42,24;46,36;46,39;47,97;48,7;55;45,29;49,5;48,18;57,89;59,12;60,64
+Armenien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;22,56;23,53;25,3;28,31;28,63;30,07;30,65;34,92;26,88;31,01;30,82;37,85;39;40,33
+Armenien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;16,52;16,5;16,94;18,05;17,76;17,91;18,04;20,08;18,41;18,48;17,37;20,04;20,12;20,31
+Armenien;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,657;99,604;99,519;99,085;98,384;98,297;98,11;97,839;97,516
+Armenien;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,343;0,396;0,481;0,915;1,616;1,703;1,89;2,161;2,484
+Armenien;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Armenien;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Armenien;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;5,921;6,054;6,256;6,334;6,39;6,457;6,447;6,488;5,971;6,339;5,494;6,291;6,351;6,399
+Armenien;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;0,557;0,585;0,622;0,647;0,672;0,698;0,716;0,739;0,584;0,707;0,646;0,784;0,805;0,825
+Armenien;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;5,364;5,469;5,635;5,686;5,718;5,759;5,731;5,749;5,387;5,632;4,847;5,507;5,546;5,574
+Armenien;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;2,244;3,346;1,237;0,888;1,052;-0,158;0,643;-7,983;6,17;-13,336;14,511;0,965;0,747
+Armenien;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;5,085;6,275;4,131;3,762;3,886;2,565;3,281;-21,013;20,992;-8,545;21,259;2,806;2,406
+Armenien;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;1,95;3,032;0,918;0,561;0,719;-0,488;0,313;-6,307;4,563;-13,937;13,612;0,703;0,506
+Armenien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;2,053;2,089;2,148;2,165;2,176;2,193;2,184;2,194;2,015;2,136;1,848;2,115;2,134;2,149
+Armenien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,193;0,202;0,213;0,221;0,229;0,237;0,243;0,25;0,197;0,238;0,217;0,263;0,271;0,277
+Armenien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;1,86;1,887;1,935;1,944;1,948;1,956;1,942;1,944;1,818;1,898;1,631;1,851;1,863;1,872
+Armenien;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;19,09;19,16;19,68;21,58;21,54;22,06;22,43;25,18;22,52;23,2;26,05;27,32;27,66;28,19
+Armenien;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;19,34;19,19;19,72;22,27;22,46;22,77;22,97;25,59;22,69;23,28;25,98;27,12;27,51;28,11
+Armenien;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;19,04;19,16;19,66;21,41;21,32;21,88;22,29;25,07;22,48;23,18;26,07;27,38;27,7;28,21
+Armenien;Kaffee;Umsatz;Total;Millionen EUR (€);Statista;139,8;143,6;152,6;170;171,9;178,3;182,6;206,9;170,8;187;182,1;219,1;224,3;230,7
+Armenien;Kaffee;Umsatz;Instant-Kaffee;Millionen EUR (€);Statista;27,14;27,58;29,57;34,34;35,68;36,98;38,83;44,26;36,61;40,04;38,88;46,86;48,39;50,16
+Armenien;Kaffee;Umsatz;Röstkaffee;Millionen EUR (€);Statista;112,7;116;123;135,6;136,2;141,3;143,7;162,7;134,2;146,9;143,2;172,2;176;180,5
+Armenien;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;2,718;6,267;11,402;1,118;3,723;2,412;13,308;-17,448;9,485;-2,62;20,319;2,373;2,853
+Armenien;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;1,621;7,215;16,131;3,902;3,643;5,003;13,984;-17,284;9,369;-2,897;20,525;3,265;3,658
+Armenien;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;2,928;6,034;10,244;0,442;3,744;1,699;13,222;-17,517;9,463;-2,519;20,251;2,207;2,557
+Armenien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;48,49;49,54;52,39;58,1;58,54;60,53;61,85;69,96;57,64;62,99;61,27;73,65;75,37;77,49
+Armenien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;9,409;9,519;10,15;11,74;12,15;12,56;13,16;14,97;12,35;13,49;13,08;15,75;16,26;16,85
+Armenien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;39,08;40,03;42,24;46,36;46,39;47,97;48,7;55;45,29;49,5;48,18;57,89;59,12;60,64
+Armenien;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,657;99,603;99,516;99,09;98,42;98,338;98,153;97,883;97,555
+Armenien;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,343;0,397;0,484;0,91;1,58;1,662;1,847;2,117;2,445
+Armenien;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Armenien;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Armenien;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;56,241;57,033;58,018;59,311;59,981;60,707;60,912;61,35;56,88;60,312;61,643;63,099;63,736;64,325
+Armenien;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;43,759;42,967;41,982;40,689;40,019;39,293;39,088;38,65;43,12;39,688;38,357;36,901;36,264;35,675
+Armenien;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;8,918;9,15;9,392;9,64;9,894;10,158;10,408;10,67;9,09;10,409;11,007;11,682;11,908;12,122
+Armenien;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;91,082;90,85;90,608;90,36;90,106;89,842;89,592;89,33;90,91;89,591;88,993;88,318;88,092;87,878
+Armenien;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;7,324;7,491;7,755;7,876;7,979;8,082;8,138;8,218;7,584;8,059;6,99;8,019;8,11;8,183
+Armenien;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;1,403;1,437;1,499;1,542;1,588;1,624;1,691;1,73;1,613;1,72;1,497;1,728;1,759;1,784
+Armenien;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;5,921;6,054;6,256;6,334;6,39;6,457;6,447;6,488;5,971;6,339;5,494;6,291;6,351;6,399
+Armenien;Kaffee;Volumenveränderung;Total;Prozent;Statista;;2,282;3,53;1,553;1,303;1,293;0,694;0,986;-7,718;6,267;-13,262;14,715;1,141;0,898
+Armenien;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;2,439;4,306;2,871;3,006;2,26;4,083;2,297;-6,725;6,627;-12,989;15,462;1,781;1,441
+Armenien;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;2,244;3,346;1,237;0,888;1,052;-0,158;0,643;-7,983;6,17;-13,336;14,511;0,965;0,747
+Armenien;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;2,539;2,585;2,663;2,692;2,717;2,744;2,757;2,778;2,559;2,715;2,352;2,696;2,725;2,749
+Armenien;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,486;0,496;0,515;0,527;0,541;0,552;0,573;0,585;0,544;0,58;0,504;0,581;0,591;0,599
+Armenien;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;2,053;2,089;2,148;2,165;2,176;2,193;2,184;2,194;2,015;2,136;1,848;2,115;2,134;2,149

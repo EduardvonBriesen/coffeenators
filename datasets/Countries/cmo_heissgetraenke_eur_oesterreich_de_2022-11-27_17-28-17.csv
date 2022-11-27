@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Österreich;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;47,53;48,82;49,84;51;52,7;54,4;54,86;56,4;48,71;57,18;65,04;68,64;69,71;70,9
+Österreich;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;53,34;54,53;55,6;56,96;58,91;60,72;61,77;63,45;54,82;64,3;73,09;77,07;78,23;79,58
+Österreich;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;9,383;9,559;9,695;9,803;9,95;10,11;10,32;10,55;9,644;10,88;12,19;12,66;12,76;12,89
+Österreich;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;41,17;42,69;44,23;45,86;47,82;49,64;51,53;53,22;46,81;54,3;61,4;64,44;65,28;66,19
+Österreich;Heißgetränke;Umsatz pro Segment;Total;Milliarden EUR (€);Statista;2,832;3,158;3,422;3,595;3,746;3,909;3,937;4,135;3,444;4,233;4,394;5,082;5,256;5,415
+Österreich;Heißgetränke;Umsatz pro Segment;Kaffee;Milliarden EUR (€);Statista;2,639;2,944;3,18;3,329;3,458;3,601;3,605;3,78;3,132;3,854;4;4,626;4,779;4,916
+Österreich;Heißgetränke;Umsatz pro Segment;Kakao;Milliarden EUR (€);Statista;0,066;0,07;0,074;0,078;0,08;0,08;0,09;0,093;0,084;0,097;0,098;0,109;0,111;0,113
+Österreich;Heißgetränke;Umsatz pro Segment;Tee;Milliarden EUR (€);Statista;0,127;0,144;0,167;0,188;0,208;0,228;0,242;0,262;0,228;0,282;0,296;0,347;0,366;0,386
+Österreich;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;11,511;8,36;5,056;4,2;4,351;0,716;5,029;-16,711;22,909;3,803;15,658;3,424;3,025
+Österreich;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;11,557;8,016;4,686;3,875;4,135;0,111;4,854;-17,143;23,052;3,788;15,65;3,307;2,867
+Österreich;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;6,115;6,535;4,698;2,423;0,739;11,643;3,628;-9,913;15,212;0,9;12,091;1,647;1,62
+Österreich;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;13,03;15,972;12,455;10,916;9,313;6,324;8,137;-12,758;23,599;4,959;17,01;5,538;5,493
+Österreich;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;333,1;369,1;397,1;414,2;428,2;443,2;442,8;461,7;382,4;468,1;484,6;559,6;578,1;594,8
+Österreich;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;310,3;344,1;369,1;383,6;395,3;408,2;405,5;422,1;347,8;426,2;441,2;509,4;525,6;540
+Österreich;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;7,751;8,173;8,648;8,987;9,133;9,125;10,1;10,4;9,313;10,69;10,75;12,03;12,22;12,4
+Österreich;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;14,99;16,83;19,38;21,64;23,81;25,82;27,22;29,24;25,36;31,22;32,68;38,18;40,24;42,39
+Österreich;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,615;99,487;99,318;98,972;98,666;98,265;97,732;97,004;95,983
+Österreich;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,385;0,513;0,682;1,028;1,334;1,735;2,268;2,996;4,017
+Österreich;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,736;63,891;63,465;62,664;62,1;61,543;61,305;60,967;60,63
+Österreich;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,264;36,109;36,535;37,336;37,9;38,457;38,695;39,033;39,37
+Österreich;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;77,745;78,44;79,138;79,732;80,154;80,293;81,284;81,751;77,898;80,954;82,046;83,27;83,617;83,956
+Österreich;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;22,255;21,56;20,862;20,268;19,846;19,707;18,716;18,249;22,102;19,046;17,954;16,73;16,383;16,044
+Österreich;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;16,409;16,469;16,48;16,521;16,586;16,667;16,556;16,666;13,359;15,424;16,172;17,093;17,213;17,335
+Österreich;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;83,591;83,531;83,52;83,479;83,414;83,333;83,444;83,334;86,641;84,576;83,828;82,907;82,787;82,665
+Österreich;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;59,585;64,683;68,657;70,494;71,082;71,85;71,767;73,311;70,709;74,029;67,549;74,032;75,407;76,37
+Österreich;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;49,466;53,995;57,198;58,441;58,697;59,3;58,364;59,569;57,133;59,944;54,722;60,019;61,095;61,779
+Österreich;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;7,023;7,316;7,684;7,956;8,03;7,963;8,706;8,823;8,697;8,886;8,001;8,633;8,706;8,76
+Österreich;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;3,095;3,372;3,775;4,097;4,355;4,588;4,697;4,92;4,879;5,199;4,826;5,38;5,606;5,831
+Österreich;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;8,557;6,143;2,675;0,834;1,082;-0,116;2,151;-3,549;4,695;-8,753;9,597;1,857;1,277
+Österreich;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;9,155;5,932;2,174;0,437;1,028;-1,578;2,064;-4,089;4,919;-8,711;9,679;1,793;1,12
+Österreich;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;4,169;5,034;3,536;0,923;-0,83;9,334;1,337;-1,421;2,166;-9,954;7,892;0,849;0,617
+Österreich;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;8,958;11,933;8,523;6,316;5,335;2,386;4,74;-0,831;6,571;-7,19;11,493;4,188;4,021
+Österreich;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;7,008;7,56;7,969;8,123;8,126;8,146;8,072;8,187;7,851;8,186;7,45;8,152;8,293;8,388
+Österreich;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;5,818;6,311;6,639;6,734;6,71;6,723;6,564;6,652;6,344;6,629;6,036;6,609;6,719;6,786
+Österreich;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,826;0,855;0,892;0,917;0,918;0,903;0,979;0,985;0,966;0,983;0,882;0,951;0,957;0,962
+Österreich;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,364;0,394;0,438;0,472;0,498;0,52;0,528;0,549;0,542;0,575;0,532;0,592;0,617;0,64
+Österreich;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;48,79;50,07;51,22;52,53;54,5;56,4;57,71;59,31;51,63;60,15;68,21;71,77;72,79;73,97
+Österreich;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;231,1;238,4;245,2;252,2;261;268,4;276,5;283,9;291,6;307,9;338,4;342,8;347;351,8
+Österreich;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;14,03;13,82;13,59;13,5;13,67;14;13,45;13,44;13,45;13,85;14,91;14,74;14,58;14,45
+Österreich;Röstkaffee;Umsatz;Total;Milliarden EUR (€);Statista;1,661;1,905;2,101;2,211;2,329;2,472;2,552;2,688;2,26;2,756;2,858;3,306;3,424;3,523
+Österreich;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Milliarden EUR (€);Statista;1,26;1,465;1,634;1,735;1,841;1,96;2,058;2,182;1,752;2,221;2,336;2,745;2,858;2,956
+Österreich;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Milliarden EUR (€);Statista;0,401;0,441;0,467;0,475;0,488;0,511;0,495;0,506;0,508;0,535;0,522;0,561;0,566;0,567
+Österreich;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;14,69;10,289;5,236;5,337;6,14;3,236;5,329;-15,923;21,947;3,701;15,675;3,569;2,891
+Österreich;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;16,27;11,536;6,181;6,11;6,464;5;6,025;-19,707;26,769;5,178;17,509;4,117;3,429
+Österreich;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;9,898;5,921;1,821;2,566;4,902;-3,265;2,223;0,395;5,317;-2,431;7,512;0,856;0,194
+Österreich;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;195,4;222,7;243,9;254,7;266,2;280,3;287,1;300,1;250,9;304,8;315,2;364,1;376,5;387
+Österreich;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;148,2;171,2;189,7;199,9;210,5;222,3;231,4;243,6;194,5;245,6;257,7;302,3;314,3;324,7
+Österreich;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;47,17;51,52;54,19;54,78;55,74;57,99;55,65;56,48;56,38;59,13;57,55;61,77;62,23;62,27
+Österreich;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,615;99,487;99,318;98,962;98,656;98,255;97,722;96,998;95,983
+Österreich;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,385;0,513;0,682;1,038;1,344;1,745;2,278;3,002;4,017
+Österreich;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,736;63,891;63,465;62,664;62,1;61,543;61,305;60,967;60,63
+Österreich;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,264;36,109;36,535;37,336;37,9;38,457;38,695;39,033;39,37
+Österreich;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;34,047;38,051;41,018;42,083;42,733;43,826;44,227;45,311;43,761;45,82;41,9;46,066;47,032;47,628
+Österreich;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;5,454;6,144;6,663;6,879;7,055;7,304;7,441;7,684;6,008;7,214;6,903;8,008;8,235;8,403
+Österreich;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;28,594;31,907;34,354;35,204;35,679;36,523;36,786;37,627;37,754;38,606;34,997;38,057;38,796;39,225
+Österreich;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;11,759;7,797;2,598;1,545;2,558;0,914;2,452;-3,42;4,704;-8,556;9,942;2,097;1,267
+Österreich;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;12,657;8,451;3,237;2,554;3,531;1,873;3,267;-21,812;20,082;-4,313;16,011;2,834;2,032
+Österreich;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;11,587;7,671;2,474;1,348;2,365;0,722;2,287;0,335;2,257;-9,348;8,745;1,941;1,105
+Österreich;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;4,005;4,447;4,761;4,849;4,885;4,969;4,974;5,06;4,859;5,067;4,621;5,073;5,173;5,231
+Österreich;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,641;0,718;0,773;0,793;0,807;0,828;0,837;0,858;0,667;0,798;0,761;0,882;0,906;0,923
+Österreich;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;3,363;3,729;3,988;4,056;4,079;4,141;4,137;4,202;4,192;4,269;3,86;4,191;4,267;4,308
+Österreich;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;8,24;;;;
+Österreich;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;20,63;;;;
+Österreich;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;23,108;;;;
+Österreich;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;25,385;;;;
+Österreich;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;22,639;;;;
+Österreich;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;48,828;;;;
+Österreich;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;51,172;;;;
+Österreich;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;32,666;;;;
+Österreich;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;38,308;;;;
+Österreich;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;29,026;;;;
+Österreich;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;53,34;54,53;55,6;56,96;58,91;60,72;61,77;63,45;54,82;64,3;73,09;77,07;78,23;79,58
+Österreich;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;63,39;65,16;66,69;68,37;70,71;72,94;74,48;76,61;65,26;77,75;89,06;94,57;96,4;98,43
+Österreich;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;48,79;50,07;51,22;52,53;54,5;56,4;57,71;59,31;51,63;60,15;68,21;71,77;72,79;73,97
+Österreich;Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;2,639;2,944;3,18;3,329;3,458;3,601;3,605;3,78;3,132;3,854;4;4,626;4,779;4,916
+Österreich;Kaffee;Umsatz;Instant-Kaffee;Milliarden EUR (€);Statista;0,977;1,039;1,079;1,118;1,129;1,129;1,053;1,092;0,873;1,098;1,142;1,32;1,356;1,393
+Österreich;Kaffee;Umsatz;Röstkaffee;Milliarden EUR (€);Statista;1,661;1,905;2,101;2,211;2,329;2,472;2,552;2,688;2,26;2,756;2,858;3,306;3,424;3,523
+Österreich;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;11,557;8,016;4,686;3,875;4,135;0,111;4,854;-17,143;23,052;3,788;15,65;3,307;2,867
+Österreich;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;6,302;3,85;3,614;0,984;0;-6,732;3,704;-20,082;25,816;4,007;15,587;2,727;2,729
+Österreich;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;14,69;10,289;5,236;5,337;6,14;3,236;5,329;-15,923;21,947;3,701;15,675;3,569;2,891
+Österreich;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;310,3;344,1;369,1;383,6;395,3;408,2;405,5;422,1;347,8;426,2;441,2;509,4;525,6;540
+Österreich;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;115;121,4;125,3;128,9;129;128;118,4;122;96,9;121,4;125,9;145,3;149,1;153
+Österreich;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;195,4;222,7;243,9;254,7;266,2;280,3;287,1;300,1;250,9;304,8;315,2;364,1;376,5;387
+Österreich;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,615;99,487;99,318;98,973;98,668;98,267;97,733;97,005;95,983
+Österreich;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,385;0,513;0,682;1,027;1,332;1,733;2,267;2,995;4,017
+Österreich;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,736;63,891;63,465;62,664;62,1;61,543;61,305;60,967;60,63
+Österreich;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,264;36,109;36,535;37,336;37,9;38,457;38,695;39,033;39,37
+Österreich;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;78,532;79,222;79,954;80,587;81,024;81,152;82,302;82,79;79,115;82,072;83,122;84,313;84,67;85,024
+Österreich;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;21,468;20,778;20,046;19,413;18,976;18,848;17,698;17,21;20,885;17,928;16,878;15,687;15,33;14,976
+Österreich;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;18,11;18,105;18,109;18,181;18,27;18,341;18,369;18,486;14,863;17,124;17,939;18,941;19,072;19,216
+Österreich;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;81,89;81,895;81,891;81,819;81,73;81,659;81,631;81,514;85,137;82,876;82,061;81,059;80,928;80,784
+Österreich;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;49,466;53,995;57,198;58,441;58,697;59,3;58,364;59,569;57,133;59,944;54,722;60,019;61,095;61,779
+Österreich;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;15,419;15,944;16,18;16,358;15,963;15,474;14,137;14,258;13,372;14,124;12,822;13,953;14,064;14,152
+Österreich;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;34,047;38,051;41,018;42,083;42,733;43,826;44,227;45,311;43,761;45,82;41,9;46,066;47,032;47,628
+Österreich;Kaffee;Volumenveränderung;Total;Prozent;Statista;;9,155;5,932;2,174;0,437;1,028;-1,578;2,064;-4,089;4,919;-8,711;9,679;1,793;1,12
+Österreich;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;3,405;1,479;1,099;-2,411;-3,068;-8,636;0,852;-6,213;5,622;-9,214;8,819;0,792;0,627
+Österreich;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;11,759;7,797;2,598;1,545;2,558;0,914;2,452;-3,42;4,704;-8,556;9,942;2,097;1,267
+Österreich;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;5,818;6,311;6,639;6,734;6,71;6,723;6,564;6,652;6,344;6,629;6,036;6,609;6,719;6,786
+Österreich;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;1,814;1,863;1,878;1,885;1,825;1,754;1,59;1,592;1,485;1,562;1,414;1,536;1,547;1,554
+Österreich;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;4,005;4,447;4,761;4,849;4,885;4,969;4,974;5,06;4,859;5,067;4,621;5,073;5,173;5,231
+Österreich;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;63,39;65,16;66,69;68,37;70,71;72,94;74,48;76,61;65,26;77,75;89,06;94,57;96,4;98,43
+Österreich;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;231,7;239;245,9;252,9;261,7;269,2;277,3;284,7;292,4;308,8;339,3;343,7;348;352,8
+Österreich;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;13,88;13,88;13,66;13,55;13,71;14,04;13,2;13,24;13,44;14,11;15,47;15,54;15,67;15,85
+Österreich;Instant-Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;0,977;1,039;1,079;1,118;1,129;1,129;1,053;1,092;0,873;1,098;1,142;1,32;1,356;1,393
+Österreich;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Milliarden EUR (€);Statista;0,812;0,868;0,908;0,948;0,96;0,962;0,91;0,948;0,726;0,942;0,989;1,155;1,189;1,224
+Österreich;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Milliarden EUR (€);Statista;0,165;0,171;0,171;0,171;0,169;0,167;0,143;0,145;0,146;0,156;0,153;0,165;0,167;0,169
+Österreich;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;6,302;3,85;3,614;0,984;0;-6,732;3,704;-20,082;25,816;4,007;15,587;2,727;2,729
+Österreich;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;6,897;4,666;4,304;1,34;0,125;-5,398;4,178;-23,354;29,685;4,969;16,82;2,944;2,944
+Österreich;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;3,325;-0,176;0,176;-1,404;-0,831;-14,243;0,977;1,175;6,694;-1,857;7,436;1,336;1,438
+Österreich;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;115;121,4;125,3;128,9;129;128;118,4;122;96,9;121,4;125,9;145,3;149,1;153
+Österreich;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;95,51;101,4;105,5;109,2;109,8;109;102,3;105,8;80,64;104,2;109;127,2;130,7;134,4
+Österreich;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;19,45;19,97;19,8;19,69;19,27;18,95;16,11;16,16;16,25;17,28;16,91;18,13;18,35;18,59
+Österreich;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,615;99,487;99,318;99,002;98,698;98,297;97,76;97,023;95,983
+Österreich;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,385;0,513;0,682;0,998;1,302;1,703;2,24;2,977;4,017
+Österreich;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;65,736;63,891;63,465;62,664;62,1;61,543;61,305;60,967;60,63
+Österreich;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;34,264;36,109;36,535;37,336;37,9;38,457;38,695;39,033;39,37
+Österreich;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;15,419;15,944;16,18;16,358;15,963;15,474;14,137;14,258;13,372;14,124;12,822;13,953;14,064;14,152
+Österreich;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;3,505;3,631;3,694;3,746;3,669;3,572;3,28;3,328;2,484;3,051;2,913;3,36;3,416;3,469
+Österreich;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;11,914;12,313;12,485;12,611;12,294;11,901;10,857;10,93;10,888;11,073;9,909;10,594;10,647;10,683
+Österreich;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;3,405;1,479;1,099;-2,411;-3,068;-8,636;0,852;-6,213;5,622;-9,214;8,819;0,792;0,627
+Österreich;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;3,616;1,732;1,405;-2,055;-2,647;-8,169;1,45;-25,355;22,802;-4,493;15,31;1,693;1,525
+Österreich;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;3,343;1,404;1,008;-2,517;-3,193;-8,776;0,671;-0,384;1,703;-10,515;6,911;0,506;0,338
+Österreich;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,814;1,863;1,878;1,885;1,825;1,754;1,59;1,592;1,485;1,562;1,414;1,536;1,547;1,554
+Österreich;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,412;0,424;0,429;0,432;0,419;0,405;0,369;0,372;0,276;0,337;0,321;0,37;0,376;0,381
+Österreich;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;1,401;1,439;1,449;1,453;1,405;1,349;1,221;1,221;1,209;1,224;1,093;1,167;1,171;1,173

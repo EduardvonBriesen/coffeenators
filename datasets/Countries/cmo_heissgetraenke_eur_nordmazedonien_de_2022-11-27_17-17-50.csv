@@ -1,0 +1,116 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Nordmazedonien;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;16,21;16,98;17,41;17,88;18,24;18,57;18,78;19,11;18,11;19,79;21,94;22,46;22,47;22,52
+Nordmazedonien;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;23,38;24,16;24,38;24,76;25,12;25,31;25,75;26,18;24,13;26,79;29,77;30,59;30,64;30,74
+Nordmazedonien;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;4,817;5,14;5,376;5,579;5,672;5,69;5,708;5,785;5,745;6,087;6,673;6,74;6,715;6,703
+Nordmazedonien;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;14,72;15,52;15,96;16,56;16,95;17,21;17,36;17,64;17,23;18,5;20,41;20,8;20,76;20,76
+Nordmazedonien;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;51,9;53,25;53,07;54,65;55,21;55,23;55,5;55,96;47,42;54,98;55,02;61,39;61,57;61,79
+Nordmazedonien;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;24,35;25,32;25,69;26,19;26,66;26,99;27,45;28,01;22,99;27,46;27,79;31,36;31,59;31,83
+Nordmazedonien;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;2,063;2,213;2,267;2,359;2,396;2,273;2,329;2,353;2,133;2,409;2,382;2,637;2,626;2,619
+Nordmazedonien;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;25,48;25,72;25,11;26,1;26,15;25,96;25,72;25,61;22,29;25,12;24,85;27,4;27,36;27,34
+Nordmazedonien;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;2,601;-0,338;2,977;1,025;0,036;0,489;0,829;-15,261;15,943;0,073;11,578;0,293;0,357
+Nordmazedonien;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;3,984;1,461;1,946;1,795;1,238;1,704;2,04;-17,922;19,443;1,202;12,846;0,733;0,76
+Nordmazedonien;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;7,271;2,44;4,058;1,568;-5,134;2,464;1,03;-9,35;12,94;-1,121;10,705;-0,417;-0,267
+Nordmazedonien;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;0,942;-2,372;3,943;0,192;-0,727;-0,924;-0,428;-12,964;12,696;-1,075;10,262;-0,146;-0,073
+Nordmazedonien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;25,02;25,65;25,54;26,28;26,53;26,53;26,65;26,86;22,76;26,4;26,44;29,52;29,65;29,8
+Nordmazedonien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;11,74;12,2;12,37;12,6;12,81;12,96;13,18;13,44;11,04;13,18;13,35;15,08;15,21;15,35
+Nordmazedonien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;0,995;1,066;1,091;1,134;1,152;1,092;1,118;1,129;1,024;1,157;1,144;1,268;1,265;1,263
+Nordmazedonien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;12,28;12,39;12,09;12,55;12,57;12,47;12,35;12,29;10,7;12,06;11,94;13,18;13,17;13,18
+Nordmazedonien;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,779;99,76;99,737;99,574;99,481;99,422;99,271;99,129;98,957
+Nordmazedonien;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,221;0,24;0,263;0,426;0,519;0,578;0,729;0,871;1,043
+Nordmazedonien;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Nordmazedonien;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Nordmazedonien;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;47,49;47,356;47,427;46,815;46,509;46,986;46,956;47,133;42,809;45,518;46,338;47,259;47,571;47,872
+Nordmazedonien;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;52,51;52,644;52,573;53,185;53,491;53,014;53,044;52,867;57,191;54,482;53,662;52,741;52,429;52,128
+Nordmazedonien;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;6,232;6,293;6,381;6,347;6,364;6,43;6,419;6,442;5,462;6,05;6,25;6,479;6,482;6,486
+Nordmazedonien;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;93,768;93,707;93,619;93,653;93,636;93,57;93,581;93,558;94,538;93,95;93,75;93,521;93,518;93,514
+Nordmazedonien;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;3,201;3,136;3,048;3,057;3,027;2,975;2,955;2,928;2,618;2,778;2,508;2,733;2,74;2,743
+Nordmazedonien;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;1,041;1,048;1,054;1,058;1,062;1,066;1,066;1,07;0,953;1,025;0,934;1,025;1,031;1,035
+Nordmazedonien;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;0,428;0,431;0,422;0,423;0,422;0,399;0,408;0,407;0,371;0,396;0,357;0,391;0,391;0,391
+Nordmazedonien;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;1,731;1,657;1,573;1,576;1,543;1,509;1,481;1,452;1,293;1,358;1,217;1,317;1,318;1,317
+Nordmazedonien;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;-2,037;-2,784;0,294;-1,006;-1,715;-0,644;-0,931;-10,598;6,125;-9,73;9;0,235;0,127
+Nordmazedonien;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;0,645;0,527;0,413;0,327;0,451;-0,031;0,334;-10,9;7,524;-8,895;9,818;0,559;0,443
+Nordmazedonien;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;0,53;-2,064;0,267;-0,085;-5,453;2,152;-0,316;-8,706;6,583;-9,829;9,624;-0,037;-0,111
+Nordmazedonien;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;-4,286;-5,065;0,221;-2,149;-2,182;-1,818;-2,011;-10,905;4,963;-10,333;8,191;0,064;-0,049
+Nordmazedonien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,543;1,51;1,467;1,47;1,455;1,429;1,419;1,405;1,256;1,334;1,205;1,315;1,319;1,323
+Nordmazedonien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;0,502;0,505;0,507;0,509;0,51;0,512;0,512;0,513;0,457;0,492;0,449;0,493;0,496;0,499
+Nordmazedonien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,206;0,207;0,203;0,203;0,203;0,192;0,196;0,195;0,178;0,19;0,171;0,188;0,188;0,188
+Nordmazedonien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,835;0,798;0,757;0,758;0,741;0,725;0,711;0,697;0,621;0,652;0,585;0,633;0,635;0,635
+Nordmazedonien;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;25,46;26,38;26,78;27,19;27,49;28,13;28,51;29,09;26,5;29,7;33,01;33,92;33,89;33,9
+Nordmazedonien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;140,2;145,4;147,8;149,7;150,5;155;156,7;160,1;163,3;171,7;187,8;189,3;190,6;192,1
+Nordmazedonien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;10,02;10,37;10,53;10,74;11,01;11,17;11,42;11,68;11,86;12,47;13,61;13,7;13,62;13,58
+Nordmazedonien;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;5,079;5,306;5,455;5,633;5,809;6,029;6,315;6,548;5,355;6,486;6,594;7,495;7,576;7,654
+Nordmazedonien;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;3,318;3,467;3,565;3,671;3,758;3,917;4,083;4,228;3,189;4,056;4,178;4,817;4,879;4,937
+Nordmazedonien;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;1,762;1,839;1,89;1,963;2,051;2,112;2,232;2,32;2,166;2,43;2,416;2,678;2,697;2,717
+Nordmazedonien;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;4,469;2,808;3,263;3,124;3,787;4,744;3,69;-18,219;21,12;1,665;13,664;1,081;1,03
+Nordmazedonien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;4,491;2,827;2,973;2,37;4,231;4,238;3,551;-24,574;27,187;3,008;15,294;1,287;1,189
+Nordmazedonien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;4,37;2,773;3,862;4,483;2,974;5,682;3,943;-6,638;12,188;-0,576;10,844;0,709;0,742
+Nordmazedonien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;2,449;2,556;2,626;2,709;2,792;2,896;3,032;3,143;2,57;3,114;3,168;3,604;3,648;3,691
+Nordmazedonien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;1,599;1,67;1,716;1,765;1,806;1,882;1,96;2,029;1,531;1,948;2,008;2,317;2,349;2,381
+Nordmazedonien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;0,849;0,886;0,91;0,944;0,986;1,014;1,071;1,114;1,04;1,167;1,161;1,288;1,299;1,31
+Nordmazedonien;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,582;99,56;99,524;99,209;99,075;98,993;98,875;98,684;98,442
+Nordmazedonien;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,418;0,44;0,476;0,791;0,925;1,007;1,125;1,316;1,558
+Nordmazedonien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Nordmazedonien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Nordmazedonien;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;0,2;0,201;0,204;0,207;0,211;0,214;0,221;0,225;0,202;0,218;0,2;0,221;0,224;0,226
+Nordmazedonien;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,024;0,024;0,024;0,025;0,025;0,025;0,026;0,026;0,02;0,024;0,022;0,025;0,026;0,026
+Nordmazedonien;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;0,176;0,177;0,18;0,183;0,186;0,189;0,195;0,199;0,183;0,195;0,177;0,195;0,198;0,2
+Nordmazedonien;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;0,8;1,281;1,716;2,015;1,41;3,334;1,636;-10,223;8,086;-8,553;10,609;1,196;0,984
+Nordmazedonien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;0,735;1,196;1,606;1,873;1,229;3,099;1,345;-26,057;20,963;-5,835;14,392;0,597;0,398
+Nordmazedonien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;0,809;1,292;1,73;2,034;1,434;3,365;1,675;-8,118;6,709;-8,882;10,135;1,274;1,059
+Nordmazedonien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,096;0,097;0,098;0,1;0,102;0,103;0,106;0,108;0,097;0,105;0,096;0,106;0,108;0,109
+Nordmazedonien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,011;0,011;0,012;0,012;0,012;0,012;0,013;0,013;0,009;0,011;0,011;0,012;0,012;0,012
+Nordmazedonien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,085;0,085;0,086;0,088;0,09;0,091;0,094;0,095;0,088;0,094;0,085;0,094;0,095;0,096
+Nordmazedonien;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;23,38;24,16;24,38;24,76;25,12;25,31;25,75;26,18;24,13;26,79;29,77;30,59;30,64;30,74
+Nordmazedonien;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;25,46;26,38;26,78;27,19;27,49;28,13;28,51;29,09;26,5;29,7;33,01;33,92;33,89;33,9
+Nordmazedonien;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;22,89;23,63;23,81;24,16;24,53;24,6;25,02;25,41;23,49;26,01;28,89;29,67;29,74;29,86
+Nordmazedonien;Kaffee;Umsatz;Total;Millionen EUR (€);Statista;24,35;25,32;25,69;26,19;26,66;26,99;27,45;28,01;22,99;27,46;27,79;31,36;31,59;31,83
+Nordmazedonien;Kaffee;Umsatz;Instant-Kaffee;Millionen EUR (€);Statista;5,079;5,306;5,455;5,633;5,809;6,029;6,315;6,548;5,355;6,486;6,594;7,495;7,576;7,654
+Nordmazedonien;Kaffee;Umsatz;Röstkaffee;Millionen EUR (€);Statista;19,27;20,01;20,24;20,56;20,85;20,96;21,13;21,46;17,64;20,97;21,2;23,86;24,01;24,18
+Nordmazedonien;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;3,984;1,461;1,946;1,795;1,238;1,704;2,04;-17,922;19,443;1,202;12,846;0,733;0,76
+Nordmazedonien;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;4,469;2,808;3,263;3,124;3,787;4,744;3,69;-18,219;21,12;1,665;13,664;1,081;1,03
+Nordmazedonien;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;3,84;1,149;1,581;1,411;0,528;0,811;1,562;-17,801;18,878;1,097;12,547;0,629;0,708
+Nordmazedonien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;11,74;12,2;12,37;12,6;12,81;12,96;13,18;13,44;11,04;13,18;13,35;15,08;15,21;15,35
+Nordmazedonien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;2,449;2,556;2,626;2,709;2,792;2,896;3,032;3,143;2,57;3,114;3,168;3,604;3,648;3,691
+Nordmazedonien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;9,292;9,641;9,74;9,888;10,02;10,07;10,15;10,3;8,466;10,07;10,19;11,48;11,56;11,66
+Nordmazedonien;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,583;99,553;99,514;99,184;99,03;98,94;98,798;98,595;98,341
+Nordmazedonien;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,417;0,447;0,486;0,816;0,97;1,06;1,202;1,405;1,659
+Nordmazedonien;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Nordmazedonien;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Nordmazedonien;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;68,587;68,733;68,924;68,99;68,663;68,671;68,076;67,821;63,574;65,87;66,473;67,215;67,423;67,624
+Nordmazedonien;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;31,413;31,267;31,076;31,01;31,337;31,329;31,924;32,179;36,426;34,13;33,527;32,785;32,577;32,376
+Nordmazedonien;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;14,081;14,032;13,972;13,902;13,826;13,753;13,672;13,607;11,59;12,709;13,04;13,442;13,413;13,39
+Nordmazedonien;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;85,919;85,968;86,028;86,098;86,174;86,247;86,328;86,393;88,41;87,291;86,96;86,558;86,587;86,61
+Nordmazedonien;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;1,041;1,048;1,054;1,058;1,062;1,066;1,066;1,07;0,953;1,025;0,934;1,025;1,031;1,035
+Nordmazedonien;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;0,2;0,201;0,204;0,207;0,211;0,214;0,221;0,225;0,202;0,218;0,2;0,221;0,224;0,226
+Nordmazedonien;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;0,842;0,847;0,85;0,851;0,85;0,852;0,845;0,844;0,751;0,806;0,734;0,804;0,807;0,81
+Nordmazedonien;Kaffee;Volumenveränderung;Total;Prozent;Statista;;0,645;0,527;0,413;0,327;0,451;-0,031;0,334;-10,9;7,524;-8,895;9,818;0,559;0,443
+Nordmazedonien;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;0,8;1,281;1,716;2,015;1,41;3,334;1,636;-10,223;8,086;-8,553;10,609;1,196;0,984
+Nordmazedonien;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;0,608;0,348;0,1;-0,084;0,212;-0,877;-0,008;-11,081;7,373;-8,987;9,602;0,385;0,293
+Nordmazedonien;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,502;0,505;0,507;0,509;0,51;0,512;0,512;0,513;0,457;0,492;0,449;0,493;0,496;0,499
+Nordmazedonien;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,096;0,097;0,098;0,1;0,102;0,103;0,106;0,108;0,097;0,105;0,096;0,106;0,108;0,109
+Nordmazedonien;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;0,406;0,408;0,409;0,409;0,409;0,409;0,405;0,405;0,36;0,387;0,353;0,387;0,389;0,39
+Nordmazedonien;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;22,89;23,63;23,81;24,16;24,53;24,6;25,02;25,41;23,49;26,01;28,89;29,67;29,74;29,86
+Nordmazedonien;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;108,8;113,1;114,9;117,5;119,5;120,4;122;123,9;125,7;131,6;143,7;144,7;145,7;146,9
+Nordmazedonien;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;8,19;8,396;8,383;8,458;8,654;8,683;9,01;9,226;9,409;9,92;10,88;10,99;10,93;10,89
+Nordmazedonien;Röstkaffee;Umsatz;Total;Millionen EUR (€);Statista;19,27;20,01;20,24;20,56;20,85;20,96;21,13;21,46;17,64;20,97;21,2;23,86;24,01;24,18
+Nordmazedonien;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Millionen EUR (€);Statista;13,39;13,94;14,14;14,4;14,55;14,62;14,6;14,77;11,43;14,03;14,3;16,26;16,42;16,59
+Nordmazedonien;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Millionen EUR (€);Statista;5,889;6,078;6,094;6,16;6,304;6,344;6,531;6,692;6,21;6,941;6,902;7,603;7,592;7,589
+Nordmazedonien;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;3,84;1,149;1,581;1,411;0,528;0,811;1,562;-17,801;18,878;1,097;12,547;0,629;0,708
+Nordmazedonien;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;4,108;1,435;1,839;1,042;0,481;-0,137;1,164;-22,613;22,747;1,924;13,706;0,984;1,035
+Nordmazedonien;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;3,209;0,263;1,083;2,338;0,635;2,948;2,465;-7,203;11,771;-0,562;10,156;-0,145;-0,04
+Nordmazedonien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;9,292;9,641;9,74;9,888;10,02;10,07;10,15;10,3;8,466;10,07;10,19;11,48;11,56;11,66
+Nordmazedonien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;6,453;6,713;6,807;6,926;6,992;7,021;7,01;7,087;5,485;6,736;6,869;7,819;7,905;7,999
+Nordmazedonien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;2,839;2,928;2,933;2,963;3,03;3,047;3,135;3,212;2,981;3,333;3,316;3,656;3,656;3,659
+Nordmazedonien;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,583;99,55;99,511;99,176;99,016;98,924;98,773;98,568;98,309
+Nordmazedonien;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,417;0,45;0,489;0,824;0,984;1,076;1,227;1,432;1,691
+Nordmazedonien;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Nordmazedonien;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Nordmazedonien;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;0,842;0,847;0,85;0,851;0,85;0,852;0,845;0,844;0,751;0,806;0,734;0,804;0,807;0,81
+Nordmazedonien;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;0,123;0,123;0,123;0,123;0,122;0,121;0,12;0,119;0,091;0,107;0,099;0,112;0,113;0,113
+Nordmazedonien;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;0,719;0,724;0,727;0,728;0,728;0,731;0,725;0,725;0,66;0,7;0,634;0,692;0,695;0,697
+Nordmazedonien;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;0,608;0,348;0,1;-0,084;0,212;-0,877;-0,008;-11,081;7,373;-8,987;9,602;0,385;0,293
+Nordmazedonien;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;0,217;-0,115;-0,423;-0,643;-0,35;-1,396;-0,461;-23,674;17,246;-6,676;12,933;0,293;0,233
+Nordmazedonien;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;0,675;0,427;0,189;0,011;0,307;-0,791;0,067;-9,013;6,012;-9,339;9,08;0,399;0,303
+Nordmazedonien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,406;0,408;0,409;0,409;0,409;0,409;0,405;0,405;0,36;0,387;0,353;0,387;0,389;0,39
+Nordmazedonien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,059;0,059;0,059;0,059;0,059;0,058;0,057;0,057;0,044;0,051;0,048;0,054;0,054;0,054
+Nordmazedonien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;0,347;0,349;0,35;0,35;0,35;0,351;0,348;0,348;0,317;0,336;0,305;0,333;0,334;0,336

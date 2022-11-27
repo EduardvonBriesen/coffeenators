@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Serbien;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;15,33;16,19;16,54;16,49;16,48;17,11;18,11;18,77;18,15;19,93;22,07;22,71;22,93;23,25
+Serbien;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;16,77;17,75;18,22;18,29;18,45;19,35;20,69;21,6;20,91;23,15;25,78;26,63;26,96;27,35
+Serbien;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;5,203;5,571;5,899;5,995;6;6,176;6,468;6,661;6,78;7,17;7,831;7,912;7,921;7,948
+Serbien;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;14,48;15,51;16,11;16,51;16,84;17,63;18,71;19,37;19,54;20,93;23,01;23,44;23,49;23,58
+Serbien;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;355,8;376,1;380,8;376,9;377,6;398,1;430;458,5;422,1;491,7;496,5;561,5;573,8;586,4
+Serbien;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;324,7;343,6;347,2;342;340,3;356,1;382;405,8;369,7;431,8;436,1;494;505,8;518,4
+Serbien;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;13,76;15,47;17,52;19,3;21,09;23,69;26,9;29,72;30,02;34,5;35,1;39,42;40,2;40,53
+Serbien;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;17,4;17,03;16,06;15,58;16,18;18,25;21;23,02;22,41;25,36;25,3;28,05;27,73;27,49
+Serbien;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;5,705;1,25;-1,024;0,186;5,429;8,013;6,628;-7,939;16,489;0,976;13,092;2,191;2,196
+Serbien;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;5,821;1,048;-1,498;-0,497;4,643;7,273;6,23;-8,896;16,797;0,996;13,277;2,389;2,491
+Serbien;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;12,427;13,251;10,16;9,275;12,328;13,55;10,483;1,009;14,923;1,739;12,308;1,979;0,821
+Serbien;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;-2,126;-5,696;-2,989;3,851;12,794;15,068;9,619;-2,65;13,164;-0,237;10,87;-1,141;-0,865
+Serbien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;49,31;52,37;53,29;52,98;53,36;56,54;61,41;65,74;60,76;71,06;72,05;81,86;84,05;86,33
+Serbien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;44,99;47,84;48,59;48,08;48,1;50,59;54,57;58,18;53,22;62,4;63,29;72,02;74,1;76,32
+Serbien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;1,906;2,155;2,451;2,712;2,98;3,366;3,843;4,26;4,321;4,986;5,094;5,747;5,888;5,966
+Serbien;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;2,411;2,371;2,247;2,191;2,286;2,592;3;3,301;3,225;3,665;3,672;4,089;4,061;4,046
+Serbien;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,953;99,949;99,943;99,931;99,925;99,918;99,91;99,901;99,89
+Serbien;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,047;0,051;0,057;0,069;0,075;0,082;0,09;0,099;0,11
+Serbien;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;64,22;61,812;60,083;58,685;57,882;57,684;57,524;57,393;57,28
+Serbien;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;35,78;38,188;39,917;41,315;42,118;42,316;42,476;42,607;42,72
+Serbien;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;33,487;34,534;34,991;35,21;35,122;35,017;34,744;34,998;30,157;33,616;35,075;36,791;37,601;38,428
+Serbien;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;66,513;65,466;65,009;64,79;64,878;64,983;65,256;65,002;69,843;66,384;64,925;63,209;62,399;61,572
+Serbien;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;4,993;5,034;5,058;5,076;5,093;5,122;5,169;5,257;4,302;5,037;5,382;5,804;5,986;6,182
+Serbien;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;95,007;94,966;94,942;94,924;94,907;94,878;94,831;94,743;95,698;94,963;94,618;94,196;94,014;93,818
+Serbien;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;23,212;23,234;23,025;22,86;22,918;23,272;23,744;24,432;23,259;24,675;22,497;24,727;25,018;25,218
+Serbien;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;19,366;19,359;19,059;18,698;18,442;18,401;18,462;18,782;17,684;18,651;16,916;18,547;18,763;18,953
+Serbien;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;2,644;2,777;2,969;3,219;3,515;3,837;4,159;4,461;4,428;4,812;4,482;4,983;5,074;5,099
+Serbien;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;1,201;1,098;0,997;0,944;0,961;1,035;1,123;1,188;1,147;1,212;1,1;1,197;1,18;1,166
+Serbien;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;0,096;-0,899;-0,716;0,251;1,546;2,029;2,897;-4,803;6,092;-8,827;9,909;1,179;0,8
+Serbien;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;-0,038;-1,549;-1,895;-1,368;-0,224;0,336;1,733;-5,846;5,468;-9,304;9,645;1,164;1,012
+Serbien;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;5,036;6,903;8,412;9,197;9,146;8,409;7,264;-0,752;8,687;-6,871;11,177;1,843;0,488
+Serbien;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;-8,621;-9,177;-5,365;1,822;7,708;8,474;5,855;-3,512;5,697;-9,265;8,809;-1,344;-1,235
+Serbien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;3,216;3,235;3,222;3,213;3,239;3,306;3,392;3,503;3,348;3,566;3,265;3,605;3,665;3,712
+Serbien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;2,684;2,696;2,667;2,628;2,606;2,614;2,637;2,693;2,545;2,695;2,455;2,704;2,749;2,79
+Serbien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,366;0,387;0,415;0,452;0,497;0,545;0,594;0,64;0,637;0,695;0,65;0,726;0,743;0,751
+Serbien;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,166;0,153;0,14;0,133;0,136;0,147;0,16;0,17;0,165;0,175;0,16;0,174;0,173;0,172
+Serbien;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;12,574;;;;
+Serbien;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;22,894;;;;
+Serbien;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;25,504;;;;
+Serbien;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;22,894;;;;
+Serbien;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;16,133;;;;
+Serbien;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;48,28;;;;
+Serbien;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;51,72;;;;
+Serbien;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;31,309;;;;
+Serbien;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;30,74;;;;
+Serbien;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;37,951;;;;
+Serbien;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;16,77;17,75;18,22;18,29;18,45;19,35;20,69;21,6;20,91;23,15;25,78;26,63;26,96;27,35
+Serbien;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;17,24;18,2;18,61;18,66;18,8;19,68;21;21,9;21,2;23,45;26,11;26,99;27,35;27,78
+Serbien;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;15,39;16,32;16,87;16,93;17,09;18,01;19,38;20,32;19,63;21,82;24,28;25,02;25,19;25,4
+Serbien;Kaffee;Umsatz;Total;Millionen EUR (€);Statista;324,7;343,6;347,2;342;340,3;356,1;382;405,8;369,7;431,8;436,1;494;505,8;518,4
+Serbien;Kaffee;Umsatz;Instant-Kaffee;Millionen EUR (€);Statista;248,6;267,4;275;274,8;276,5;291,4;314,3;334,1;305,2;357,1;361,3;410,1;421;432,7
+Serbien;Kaffee;Umsatz;Röstkaffee;Millionen EUR (€);Statista;76,08;76,12;72,25;67,19;63,8;64,73;67,79;71,64;64,48;74,74;74,79;83,88;84,8;85,75
+Serbien;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;5,821;1,048;-1,498;-0,497;4,643;7,273;6,23;-8,896;16,797;0,996;13,277;2,389;2,491
+Serbien;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;7,562;2,842;-0,073;0,619;5,389;7,859;6,3;-8,65;17,005;1,176;13,507;2,658;2,779
+Serbien;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;0,053;-5,084;-7,003;-5,045;1,458;4,727;5,679;-9,994;15,912;0,067;12,154;1,097;1,12
+Serbien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;44,99;47,84;48,59;48,08;48,1;50,59;54,57;58,18;53,22;62,4;63,29;72,02;74,1;76,32
+Serbien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;34,45;37,24;38,48;38,63;39,08;41,39;44,89;47,91;43,94;51,6;52,43;59,79;61,68;63,7
+Serbien;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;10,54;10,6;10,11;9,445;9,016;9,194;9,683;10,27;9,281;10,8;10,85;12,23;12,42;12,62
+Serbien;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,953;99,949;99,943;99,931;99,925;99,918;99,91;99,901;99,89
+Serbien;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,047;0,051;0,057;0,069;0,075;0,082;0,09;0,099;0,11
+Serbien;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;64,22;61,812;60,083;58,685;57,882;57,684;57,524;57,393;57,28
+Serbien;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;35,78;38,188;39,917;41,315;42,118;42,316;42,476;42,607;42,72
+Serbien;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;35,676;36,781;37,348;37,73;37,809;37,86;37,704;38,061;33,065;36,762;38,36;40,196;41,048;41,894
+Serbien;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;64,324;63,219;62,652;62,27;62,191;62,14;62,296;61,939;66,935;63,238;61,64;59,804;58,952;58,106
+Serbien;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;5,784;5,84;5,901;5,979;6,076;6,194;6,33;6,495;5,356;6,308;6,774;7,327;7,568;7,811
+Serbien;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;94,216;94,16;94,099;94,021;93,924;93,806;93,67;93,505;94,644;93,692;93,226;92,673;92,432;92,189
+Serbien;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;19,366;19,359;19,059;18,698;18,442;18,401;18,462;18,782;17,684;18,651;16,916;18,547;18,763;18,953
+Serbien;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;14,423;14,694;14,775;14,729;14,709;14,806;14,964;15,258;14,399;15,225;13,835;15,194;15,397;15,577
+Serbien;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;4,943;4,665;4,284;3,969;3,733;3,595;3,498;3,525;3,285;3,426;3,081;3,353;3,366;3,377
+Serbien;Kaffee;Volumenveränderung;Total;Prozent;Statista;;-0,038;-1,549;-1,895;-1,368;-0,224;0,336;1,733;-5,846;5,468;-9,304;9,645;1,164;1,012
+Serbien;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;1,877;0,551;-0,309;-0,139;0,662;1,068;1,963;-5,626;5,736;-9,132;9,826;1,334;1,167
+Serbien;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;-5,626;-8,164;-7,366;-5,928;-3,714;-2,68;0,748;-6,801;4,29;-10,067;8,834;0,393;0,306
+Serbien;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;2,684;2,696;2,667;2,628;2,606;2,614;2,637;2,693;2,545;2,695;2,455;2,704;2,749;2,79
+Serbien;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;1,999;2,046;2,067;2,07;2,079;2,103;2,137;2,188;2,073;2,2;2,008;2,215;2,255;2,293
+Serbien;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;0,685;0,65;0,599;0,558;0,528;0,511;0,5;0,505;0,473;0,495;0,447;0,489;0,493;0,497
+Serbien;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;15,39;16,32;16,87;16,93;17,09;18,01;19,38;20,32;19,63;21,82;24,28;25,02;25,19;25,4
+Serbien;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;86,88;93,67;96,34;96,22;95,57;98,36;102,4;105,1;107,4;112;121;121;120,9;121,1
+Serbien;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;9,883;10,15;10,28;10,09;10,03;10,47;11,26;11,71;12,11;12,81;13,98;14,11;14,11;14,14
+Serbien;Röstkaffee;Umsatz;Total;Millionen EUR (€);Statista;76,08;76,12;72,25;67,19;63,8;64,73;67,79;71,64;64,48;74,74;74,79;83,88;84,8;85,75
+Serbien;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Millionen EUR (€);Statista;30,72;32,27;31,57;30,33;29,45;30,34;31,89;34,16;27,83;34,85;35,87;41,41;42,24;43,02
+Serbien;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Millionen EUR (€);Statista;45,36;43,85;40,68;36,87;34,34;34,39;35,9;37,48;36,65;39,9;38,92;42,47;42,56;42,73
+Serbien;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;0,053;-5,084;-7,003;-5,045;1,458;4,727;5,679;-9,994;15,912;0,067;12,154;1,097;1,12
+Serbien;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;5,046;-2,169;-3,928;-2,901;3,022;5,109;7,118;-18,53;25,225;2,927;15,445;2,004;1,847
+Serbien;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;-3,329;-7,229;-9,366;-6,862;0,146;4,391;4,401;-2,215;8,868;-2,456;9,121;0,212;0,399
+Serbien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;10,54;10,6;10,11;9,445;9,016;9,194;9,683;10,27;9,281;10,8;10,85;12,23;12,42;12,62
+Serbien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;4,257;4,494;4,418;4,263;4,162;4,309;4,555;4,897;4,006;5,036;5,206;6,037;6,188;6,333
+Serbien;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;6,285;6,106;5,692;5,182;4,854;4,885;5,127;5,373;5,275;5,766;5,649;6,192;6,235;6,29
+Serbien;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,953;99,949;99,943;99,931;99,925;99,918;99,91;99,901;99,89
+Serbien;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,047;0,051;0,057;0,069;0,075;0,082;0,09;0,099;0,11
+Serbien;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;64,22;61,812;60,083;58,685;57,882;57,684;57,524;57,393;57,28
+Serbien;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;35,78;38,188;39,917;41,315;42,118;42,316;42,476;42,607;42,72
+Serbien;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;4,943;4,665;4,284;3,969;3,733;3,595;3,498;3,525;3,285;3,426;3,081;3,353;3,366;3,377
+Serbien;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;0,354;0,345;0,328;0,315;0,308;0,308;0,311;0,325;0,259;0,311;0,296;0,342;0,349;0,355
+Serbien;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;4,59;4,321;3,956;3,653;3,425;3,286;3,187;3,2;3,026;3,115;2,784;3,011;3,017;3,021
+Serbien;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;-5,626;-8,164;-7,366;-5,928;-3,714;-2,68;0,748;-6,801;4,29;-10,067;8,834;0,393;0,306
+Serbien;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;-2,567;-4,878;-3,826;-2,219;0,068;0,999;4,294;-20,22;20,032;-4,725;15,51;2,06;1,662
+Serbien;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;-5,862;-8,426;-7,659;-6,248;-4,055;-3,025;0,402;-5,438;2,942;-10,601;8,123;0,203;0,149
+Serbien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,685;0,65;0,599;0,558;0,528;0,511;0,5;0,505;0,473;0,495;0,447;0,489;0,493;0,497
+Serbien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,049;0,048;0,046;0,044;0,044;0,044;0,044;0,047;0,037;0,045;0,043;0,05;0,051;0,052
+Serbien;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;0,636;0,602;0,554;0,514;0,484;0,467;0,455;0,459;0,436;0,45;0,404;0,439;0,442;0,445
+Serbien;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;17,24;18,2;18,61;18,66;18,8;19,68;21;21,9;21,2;23,45;26,11;26,99;27,35;27,78
+Serbien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;111;119,7;123,1;123;122,1;125,7;130,9;134,4;137,2;143,2;154,7;154,6;154,5;154,8
+Serbien;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;11,97;12,46;12,65;12,65;12,76;13,37;14,33;14,89;15,38;16,24;17,7;17,84;17,84;17,89
+Serbien;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;248,6;267,4;275;274,8;276,5;291,4;314,3;334,1;305,2;357,1;361,3;410,1;421;432,7
+Serbien;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;85,11;94,09;98,12;98,72;99,22;104,5;112,2;120,3;94,42;123,9;131,4;157,2;165,4;174,2
+Serbien;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;163,5;173,3;176,9;176,1;177,3;186,9;202,1;213,9;210,8;233,2;229,9;253;255,6;258,5
+Serbien;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;7,562;2,842;-0,073;0,619;5,389;7,859;6,3;-8,65;17,005;1,176;13,507;2,658;2,779
+Serbien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;10,551;4,283;0,611;0,506;5,322;7,368;7,219;-21,513;31,222;6,053;19,635;5,216;5,32
+Serbien;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;5,994;2,077;-0,452;0,681;5,415;8,133;5,839;-1,449;10,626;-1,415;10,048;1,028;1,135
+Serbien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;34,45;37,24;38,48;38,63;39,08;41,39;44,89;47,91;43,94;51,6;52,43;59,79;61,68;63,7
+Serbien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;11,79;13,1;13,73;13,88;14,02;14,84;16,02;17,24;13,59;17,91;19,07;22,91;24,23;25,64
+Serbien;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;22,65;24,14;24,75;24,76;25,06;26,55;28,87;30,66;30,35;33,7;33,36;36,88;37,45;38,06
+Serbien;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,953;99,949;99,943;99,931;99,924;99,918;99,91;99,901;99,89
+Serbien;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,047;0,051;0,057;0,069;0,076;0,082;0,09;0,099;0,11
+Serbien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;64,22;61,812;60,083;58,685;57,882;57,684;57,524;57,393;57,28
+Serbien;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;35,78;38,188;39,917;41,315;42,118;42,316;42,476;42,607;42,72
+Serbien;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;14,423;14,694;14,775;14,729;14,709;14,806;14,964;15,258;14,399;15,225;13,835;15,194;15,397;15,577
+Serbien;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,767;0,786;0,797;0,803;0,812;0,831;0,857;0,895;0,688;0,865;0,85;1,017;1,071;1,125
+Serbien;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;13,656;13,908;13,978;13,926;13,896;13,975;14,107;14,363;13,711;14,36;12,986;14,178;14,327;14,451
+Serbien;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;1,877;0,551;-0,309;-0,139;0,662;1,068;1,963;-5,626;5,736;-9,132;9,826;1,334;1,167
+Serbien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;2,536;1,387;0,745;1,191;2,326;3,109;4,427;-23,127;25,785;-1,842;19,676;5,298;5,11
+Serbien;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;1,84;0,504;-0,369;-0,216;0,565;0,947;1,813;-4,535;4,73;-9,571;9,181;1,049;0,872
+Serbien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,999;2,046;2,067;2,07;2,079;2,103;2,137;2,188;2,073;2,2;2,008;2,215;2,255;2,293
+Serbien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,106;0,109;0,112;0,113;0,115;0,118;0,122;0,128;0,099;0,125;0,123;0,148;0,157;0,166
+Serbien;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;1,892;1,937;1,956;1,958;1,964;1,985;2,015;2,059;1,974;2,075;1,885;2,067;2,099;2,127

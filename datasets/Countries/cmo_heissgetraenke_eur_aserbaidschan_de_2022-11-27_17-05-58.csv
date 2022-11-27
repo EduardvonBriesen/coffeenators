@@ -1,0 +1,116 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Aserbaidschan;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;14,41;14,54;14,67;12,77;9,475;9,833;9,747;10,5;9,892;9,911;10,72;10,84;11,03;11,24
+Aserbaidschan;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;23,09;22,65;22,5;19,21;14,13;14,49;14,41;15,53;13,79;14,33;15,62;15,95;16,14;16,37
+Aserbaidschan;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;5,668;5,804;5,982;5,201;3,862;3,959;3,919;4,208;4,098;4,029;4,324;4,332;4,429;4,534
+Aserbaidschan;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;16,45;16,64;16,88;14,77;11,05;11,41;11,32;12,18;11,67;11,62;12,56;12,7;12,95;13,23
+Aserbaidschan;Heißgetränke;Umsatz pro Segment;Total;Millionen EUR (€);Statista;139,4;146,6;154;140,3;109,8;125,6;132,4;146,8;139,3;146;137,7;160,6;169;177,6
+Aserbaidschan;Heißgetränke;Umsatz pro Segment;Kaffee;Millionen EUR (€);Statista;33;35,33;36,22;32,41;24,89;26,61;27,51;30,75;27,21;29,7;28,25;33,2;34,54;35,88
+Aserbaidschan;Heißgetränke;Umsatz pro Segment;Kakao;Millionen EUR (€);Statista;15,38;16,33;17,71;15,98;12,72;13,69;14,46;15,93;15,8;16,36;15,28;17,74;18,85;19,99
+Aserbaidschan;Heißgetränke;Umsatz pro Segment;Tee;Millionen EUR (€);Statista;91,01;94,9;100,1;91,89;72,23;85,27;90,48;100,1;96,31;99,93;94,16;109,6;115,6;121,7
+Aserbaidschan;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;5,165;5,048;-8,896;-21,739;14,39;5,414;10,876;-5,109;4,81;-5,685;16,63;5,23;5,089
+Aserbaidschan;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;7,061;2,519;-10,519;-23,203;6,91;3,382;11,778;-11,512;9,151;-4,882;17,522;4,036;3,88
+Aserbaidschan;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;6,177;8,451;-9,768;-20,401;7,626;5,625;10,166;-0,816;3,544;-6,601;16,099;6,257;6,048
+Aserbaidschan;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;4,274;5,479;-8,202;-21,395;18,053;6,11;10,632;-3,786;3,759;-5,774;16,398;5,474;5,277
+Aserbaidschan;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;15,05;15,62;16,2;14,58;11,28;12,75;13,31;14,61;13,74;14,28;13,37;15,48;16,19;16,92
+Aserbaidschan;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;3,562;3,765;3,81;3,368;2,557;2,703;2,765;3,061;2,684;2,905;2,743;3,201;3,31;3,418
+Aserbaidschan;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;1,66;1,74;1,863;1,661;1,306;1,39;1,453;1,586;1,559;1,6;1,484;1,711;1,806;1,904
+Aserbaidschan;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;9,823;10,11;10,53;9,549;7,419;8,661;9,094;9,965;9,498;9,775;9,142;10,57;11,07;11,6
+Aserbaidschan;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,828;99,801;99,757;99,613;99,449;99,401;99,325;99,208;99,067
+Aserbaidschan;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,172;0,199;0,243;0,387;0,551;0,599;0,675;0,792;0,933
+Aserbaidschan;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Aserbaidschan;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Aserbaidschan;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;27,631;27,013;26,511;26,647;25,803;24,914;24,052;24,097;19,702;22,264;23,041;23,917;23,421;22,96
+Aserbaidschan;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;72,369;72,987;73,489;73,353;74,197;75,086;75,948;75,903;80,298;77,736;76,959;76,083;76,579;77,04
+Aserbaidschan;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;2,285;2,296;2,255;2,224;2,175;2,105;2,048;2,013;1,53;1,741;1,788;1,849;1,812;1,777
+Aserbaidschan;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;97,715;97,704;97,745;97,776;97,825;97,895;97,952;97,987;98,47;98,259;98,212;98,151;98,188;98,223
+Aserbaidschan;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;9,676;10,078;10,5;10,982;11,592;12,77;13,589;13,985;14,084;14,73;12,843;14,81;15,317;15,801
+Aserbaidschan;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;1,429;1,56;1,61;1,687;1,762;1,836;1,909;1,98;1,974;2,072;1,809;2,082;2,139;2,192
+Aserbaidschan;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;2,713;2,814;2,961;3,072;3,293;3,458;3,689;3,786;3,856;4,059;3,534;4,096;4,255;4,409
+Aserbaidschan;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;5,533;5,704;5,929;6,223;6,538;7,476;7,99;8,218;8,255;8,598;7,5;8,633;8,922;9,201
+Aserbaidschan;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;4,161;4,182;4,592;5,555;10,161;6,411;2,914;0,713;4,583;-12,812;15,323;3,419;3,164
+Aserbaidschan;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;9,139;3,187;4,802;4,437;4,228;3,994;3,709;-0,335;4,992;-12,712;15,08;2,78;2,443
+Aserbaidschan;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;3,714;5,224;3,747;7,174;5,028;6,682;2,631;1,843;5,272;-12,944;15,913;3,882;3,601
+Aserbaidschan;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;3,094;3,94;4,957;5,06;14,345;6,879;2,855;0,444;4,164;-12,774;15,103;3,354;3,128
+Aserbaidschan;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,044;1,074;1,105;1,141;1,191;1,297;1,366;1,392;1,389;1,441;1,247;1,428;1,468;1,506
+Aserbaidschan;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;0,154;0,166;0,169;0,175;0,181;0,187;0,192;0,197;0,195;0,203;0,176;0,201;0,205;0,209
+Aserbaidschan;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,293;0,3;0,312;0,319;0,338;0,351;0,371;0,377;0,38;0,397;0,343;0,395;0,408;0,42
+Aserbaidschan;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,597;0,608;0,624;0,647;0,672;0,759;0,803;0,818;0,814;0,841;0,728;0,832;0,855;0,877
+Aserbaidschan;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;23,09;22,65;22,5;19,21;14,13;14,49;14,41;15,53;13,79;14,33;15,62;15,95;16,14;16,37
+Aserbaidschan;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;24,19;23,82;23,88;20,76;15,33;15,79;15,65;17,03;15,16;15,95;17,52;18,03;18,27;18,54
+Aserbaidschan;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;21,41;20,95;20,59;17,13;12,57;12,86;12,89;13,76;12,21;12,49;13,47;13,62;13,79;13,99
+Aserbaidschan;Kaffee;Umsatz;Total;Millionen EUR (€);Statista;33;35,33;36,22;32,41;24,89;26,61;27,51;30,75;27,21;29,7;28,25;33,2;34,54;35,88
+Aserbaidschan;Kaffee;Umsatz;Instant-Kaffee;Millionen EUR (€);Statista;20,93;22,01;22,3;20,06;15,27;16,16;16,41;18,25;16,02;17,59;16,81;19,83;20,55;21,26
+Aserbaidschan;Kaffee;Umsatz;Röstkaffee;Millionen EUR (€);Statista;12,07;13,32;13,91;12,34;9,621;10,45;11,1;12,51;11,2;12,11;11,44;13,36;13,99;14,62
+Aserbaidschan;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;7,061;2,519;-10,519;-23,203;6,91;3,382;11,778;-11,512;9,151;-4,882;17,522;4,036;3,88
+Aserbaidschan;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;5,16;1,318;-10,045;-23,878;5,828;1,547;11,213;-12,219;9,8;-4,434;17,965;3,631;3,455
+Aserbaidschan;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;10,356;4,429;-11,287;-22,034;8,617;6,22;12,703;-10,472;8,125;-5,533;16,783;4,716;4,503
+Aserbaidschan;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;3,562;3,765;3,81;3,368;2,557;2,703;2,765;3,061;2,684;2,905;2,743;3,201;3,31;3,418
+Aserbaidschan;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;2,259;2,345;2,346;2,085;1,568;1,641;1,649;1,816;1,58;1,72;1,632;1,913;1,97;2,025
+Aserbaidschan;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;1,303;1,419;1,463;1,283;0,988;1,061;1,116;1,245;1,104;1,185;1,111;1,289;1,34;1,393
+Aserbaidschan;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,465;99,365;99,236;98,667;98,158;98,05;97,826;97,469;97,027
+Aserbaidschan;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,535;0,635;0,764;1,333;1,842;1,95;2,174;2,531;2,973
+Aserbaidschan;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Aserbaidschan;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Aserbaidschan;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;51,946;51,665;51,74;52,414;51,795;51,264;50,188;49,952;43,098;46,956;48,07;49,368;48,733;48,121
+Aserbaidschan;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;48,054;48,335;48,26;47,586;48,205;48,736;49,812;50,048;56,902;53,044;51,93;50,632;51,267;51,879
+Aserbaidschan;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;7,145;7,086;7,019;6,939;6,852;6,759;6,659;6,554;4,998;5,722;5,889;6,112;6,007;5,906
+Aserbaidschan;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;92,855;92,914;92,981;93,061;93,148;93,241;93,341;93,446;95,002;94,278;94,111;93,888;93,993;94,094
+Aserbaidschan;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;1,429;1,56;1,61;1,687;1,762;1,836;1,909;1,98;1,974;2,072;1,809;2,082;2,139;2,192
+Aserbaidschan;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;0,865;0,924;0,934;0,966;0,996;1,023;1,048;1,071;1,056;1,102;0,959;1,1;1,125;1,147
+Aserbaidschan;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;0,564;0,636;0,675;0,721;0,765;0,813;0,861;0,909;0,917;0,97;0,849;0,981;1,014;1,045
+Aserbaidschan;Kaffee;Volumenveränderung;Total;Prozent;Statista;;9,139;3,187;4,802;4,437;4,228;3,994;3,709;-0,335;4,992;-12,712;15,08;2,78;2,443
+Aserbaidschan;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;6,769;1,094;3,441;3,125;2,72;2,412;2,221;-1,406;4,362;-12,986;14,698;2,246;1,922
+Aserbaidschan;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;12,777;6,228;6,684;6,195;6,192;5,987;5,52;0,928;5,718;-12,401;15,513;3,379;3,022
+Aserbaidschan;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,154;0,166;0,169;0,175;0,181;0,187;0,192;0,197;0,195;0,203;0,176;0,201;0,205;0,209
+Aserbaidschan;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,093;0,098;0,098;0,1;0,102;0,104;0,105;0,107;0,104;0,108;0,093;0,106;0,108;0,109
+Aserbaidschan;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;0,061;0,068;0,071;0,075;0,079;0,083;0,087;0,09;0,09;0,095;0,082;0,095;0,097;0,1
+Aserbaidschan;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;24,19;23,82;23,88;20,76;15,33;15,79;15,65;17,03;15,16;15,95;17,52;18,03;18,27;18,54
+Aserbaidschan;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;182,3;179;181,2;162,3;119,1;122,3;119,6;131,8;134,5;134,5;147,3;150;152,6;155,5
+Aserbaidschan;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;12,73;12,65;12,64;10,73;8,031;8,38;8,5;9,218;9,161;8,952;9,561;9,543;9,776;10,03
+Aserbaidschan;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;20,93;22,01;22,3;20,06;15,27;16,16;16,41;18,25;16,02;17,59;16,81;19,83;20,55;21,26
+Aserbaidschan;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;10,66;11,11;11,29;10,38;7,793;8,141;8,074;8,999;6,804;8,27;8,167;9,969;10,21;10,43
+Aserbaidschan;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;10,27;10,9;11,02;9,68;7,477;8,019;8,335;9,247;9,214;9,319;8,642;9,865;10,34;10,82
+Aserbaidschan;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;5,16;1,318;-10,045;-23,878;5,828;1,547;11,213;-12,219;9,8;-4,434;17,965;3,631;3,455
+Aserbaidschan;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;4,221;1,62;-8,06;-24,923;4,466;-0,823;11,457;-24,392;21,546;-1,245;22,064;2,417;2,155
+Aserbaidschan;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;6,134;1,101;-12,16;-22,758;7,249;3,941;10,942;-0,357;1,14;-7,265;14,152;4,815;4,642
+Aserbaidschan;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;2,259;2,345;2,346;2,085;1,568;1,641;1,649;1,816;1,58;1,72;1,632;1,913;1,97;2,025
+Aserbaidschan;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;1,151;1,184;1,188;1,079;0,8;0,827;0,811;0,896;0,671;0,809;0,793;0,961;0,978;0,994
+Aserbaidschan;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;1,108;1,161;1,159;1,006;0,768;0,815;0,838;0,92;0,909;0,912;0,839;0,951;0,991;1,031
+Aserbaidschan;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,465;99,363;99,231;98,655;98,177;98,075;97,86;97,513;97,082
+Aserbaidschan;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,535;0,637;0,769;1,345;1,823;1,925;2,14;2,487;2,918
+Aserbaidschan;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Aserbaidschan;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Aserbaidschan;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;0,865;0,924;0,934;0,966;0,996;1,023;1,048;1,071;1,056;1,102;0,959;1,1;1,125;1,147
+Aserbaidschan;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,058;0,062;0,062;0,064;0,065;0,067;0,068;0,068;0,051;0,061;0,055;0,066;0,067;0,067
+Aserbaidschan;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;0,807;0,862;0,872;0,902;0,931;0,957;0,981;1,003;1,006;1,041;0,904;1,034;1,058;1,08
+Aserbaidschan;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;6,769;1,094;3,441;3,125;2,72;2,412;2,221;-1,406;4,362;-12,986;14,698;2,246;1,922
+Aserbaidschan;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;6,104;0,399;2,659;2,269;1,784;1,392;1,111;-25,896;21,536;-9,788;19,849;0,665;0,267
+Aserbaidschan;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;6,818;1,144;3,497;3,186;2,785;2,483;2,297;0,26;3,498;-13,175;14,381;2,348;2,026
+Aserbaidschan;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,093;0,098;0,098;0,1;0,102;0,104;0,105;0,107;0,104;0,108;0,093;0,106;0,108;0,109
+Aserbaidschan;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,006;0,007;0,007;0,007;0,007;0,007;0,007;0,007;0,005;0,006;0,005;0,006;0,006;0,006
+Aserbaidschan;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,087;0,092;0,092;0,094;0,096;0,097;0,099;0,1;0,099;0,102;0,088;0,1;0,101;0,103
+Aserbaidschan;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;21,41;20,95;20,59;17,13;12,57;12,86;12,89;13,76;12,21;12,49;13,47;13,62;13,79;13,99
+Aserbaidschan;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;148,6;147,4;147,1;124,4;92,22;95,62;96,13;103,4;102,5;99,45;106;105,7;107,5;109,6
+Aserbaidschan;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;10,74;10,52;10,34;8,6;6,369;6,554;6,696;7,252;7,215;7,052;7,552;7,543;7,728;7,926
+Aserbaidschan;Röstkaffee;Umsatz;Total;Millionen EUR (€);Statista;12,07;13,32;13,91;12,34;9,621;10,45;11,1;12,51;11,2;12,11;11,44;13,36;13,99;14,62
+Aserbaidschan;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Millionen EUR (€);Statista;6,48;7,142;7,45;6,603;5,099;5,499;5,733;6,364;4,924;5,678;5,413;6,421;6,622;6,831
+Aserbaidschan;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Millionen EUR (€);Statista;5,589;6,177;6,461;5,741;4,522;4,949;5,368;6,145;6,271;6,436;6,029;6,944;7,364;7,789
+Aserbaidschan;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;10,356;4,429;-11,287;-22,034;8,617;6,22;12,703;-10,472;8,125;-5,533;16,783;4,716;4,503
+Aserbaidschan;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;10,216;4,313;-11,369;-22,778;7,845;4,255;11,006;-22,627;15,313;-4,667;18,622;3,13;3,156
+Aserbaidschan;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;10,521;4,598;-11,144;-21,233;9,443;8,466;14,475;2,05;2,631;-6,324;15,177;6,048;5,771
+Aserbaidschan;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;1,303;1,419;1,463;1,283;0,988;1,061;1,116;1,245;1,104;1,185;1,111;1,289;1,34;1,393
+Aserbaidschan;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;0,7;0,761;0,784;0,686;0,524;0,559;0,576;0,633;0,486;0,555;0,525;0,619;0,635;0,651
+Aserbaidschan;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;0,603;0,658;0,68;0,597;0,464;0,503;0,539;0,612;0,619;0,63;0,585;0,67;0,706;0,742
+Aserbaidschan;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,465;99,366;99,244;98,684;98,131;98,013;97,775;97,405;96,947
+Aserbaidschan;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,535;0,634;0,756;1,316;1,869;1,987;2,225;2,595;3,053
+Aserbaidschan;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;62,188;61,152;60,276;59,513;59,662;60,015;60,092;59,927;59,549
+Aserbaidschan;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;37,812;38,848;39,724;40,487;40,338;39,985;39,908;40,073;40,451
+Aserbaidschan;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;0,564;0,636;0,675;0,721;0,765;0,813;0,861;0,909;0,917;0,97;0,849;0,981;1,014;1,045
+Aserbaidschan;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;0,044;0,048;0,051;0,053;0,055;0,058;0,06;0,062;0,048;0,057;0,051;0,061;0,062;0,062
+Aserbaidschan;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;0,52;0,587;0,625;0,668;0,71;0,755;0,802;0,847;0,869;0,913;0,798;0,921;0,953;0,983
+Aserbaidschan;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;12,777;6,228;6,684;6,195;6,192;5,987;5,52;0,928;5,718;-12,401;15,513;3,379;3,022
+Aserbaidschan;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;11,125;4,51;4,796;4,159;4,015;3,699;3,162;-21,887;18,802;-10,58;19,019;1,376;1,209
+Aserbaidschan;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;12,915;6,37;6,837;6,357;6,361;6,161;5,696;2,584;4,995;-12,515;15,289;3,511;3,139
+Aserbaidschan;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,061;0,068;0,071;0,075;0,079;0,083;0,087;0,09;0,09;0,095;0,082;0,095;0,097;0,1
+Aserbaidschan;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,005;0,005;0,005;0,006;0,006;0,006;0,006;0,006;0,005;0,006;0,005;0,006;0,006;0,006
+Aserbaidschan;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;0,056;0,063;0,066;0,069;0,073;0,077;0,081;0,084;0,086;0,089;0,078;0,089;0,091;0,094

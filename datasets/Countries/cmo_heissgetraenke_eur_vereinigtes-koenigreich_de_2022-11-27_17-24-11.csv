@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Vereinigtes Königreich;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;40,17;40,39;44,63;51,85;47,41;45,11;46,69;49,08;42,12;50,59;58,31;62,33;63,84;65,77
+Vereinigtes Königreich;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;67,54;67,38;74,27;86,42;78,22;74,79;77,01;80,15;68,85;81,79;93,64;98,27;99,58;101,6
+Vereinigtes Königreich;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;12,68;13,07;12,57;14,68;13,52;12,42;12,57;12,83;11,67;12,97;14,47;14,84;14,93;15,11
+Vereinigtes Königreich;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;22,91;22,58;24,02;26,61;24,25;23,24;23,56;24,29;20,99;24,44;27,84;29,17;29,51;30,01
+Vereinigtes Königreich;Heißgetränke;Umsatz pro Segment;Total;Milliarden EUR (€);Statista;7,217;7,238;8,035;9,42;8,703;8,519;8,897;9,385;7,837;9,633;10,13;11,79;12,36;12,95
+Vereinigtes Königreich;Heißgetränke;Umsatz pro Segment;Kaffee;Milliarden EUR (€);Statista;4,975;5,065;5,772;6,939;6,439;6,288;6,653;7,124;5,916;7,414;7,881;9,298;9,842;10,39
+Vereinigtes Königreich;Heißgetränke;Umsatz pro Segment;Kakao;Milliarden EUR (€);Statista;0,232;0,242;0,214;0,267;0,24;0,234;0,24;0,252;0,226;0,248;0,263;0,276;0,284;0,286
+Vereinigtes Königreich;Heißgetränke;Umsatz pro Segment;Tee;Milliarden EUR (€);Statista;2,01;1,931;2,049;2,214;2,025;1,996;2,003;2,008;1,695;1,971;1,988;2,213;2,236;2,271
+Vereinigtes Königreich;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;0,291;11,011;17,237;-7,611;-2,114;4,437;5,485;-16,494;22,917;5,159;16,387;4,835;4,773
+Vereinigtes Königreich;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;1,809;13,959;20,218;-7,206;-2,345;5,805;7,08;-16,957;25,321;6,299;17,98;5,851;5,568
+Vereinigtes Königreich;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;4,359;-11,663;25;-10,262;-2,254;2,605;4,952;-10,309;9,593;6,172;4,977;2,823;0,528
+Vereinigtes Königreich;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;-3,93;6,111;8,053;-8,537;-1,432;0,351;0,25;-15,588;16,283;0,863;11,318;1,039;1,565
+Vereinigtes Königreich;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;111,9;111,4;122,8;143;131,3;127,7;132,5;139;115,4;141,2;147,9;171,4;179,1;186,9
+Vereinigtes Königreich;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;77,11;77,94;88,23;105,4;97,12;94,24;99,09;105,5;87,15;108,7;115;135,2;142,6;150
+Vereinigtes Königreich;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;3,591;3,721;3,266;4,054;3,614;3,51;3,579;3,734;3,332;3,634;3,843;4,018;4,116;4,122
+Vereinigtes Königreich;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;31,15;29,71;31,32;33,61;30,55;29,91;29,84;29,74;24,96;28,89;29,02;32,19;32,4;32,79
+Vereinigtes Königreich;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;95,082;94,094;92,976;90,431;89,118;87,737;86,292;84,795;83,257
+Vereinigtes Königreich;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;4,918;5,906;7,024;9,569;10,882;12,263;13,708;15,205;16,743
+Vereinigtes Königreich;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;54,893;52,428;49,871;46,906;43,322;39,325;36,168;34,062;31,89
+Vereinigtes Königreich;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;45,107;47,572;50,129;53,094;56,678;60,675;63,832;65,938;68,11
+Vereinigtes Königreich;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;72,032;72,02;73,666;73,693;75,246;77,391;77,529;78,043;72,954;76,804;78,028;79,449;79,645;79,853
+Vereinigtes Königreich;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;27,968;27,98;26,334;26,307;24,754;22,609;22,471;21,957;27,046;23,196;21,972;20,551;20,355;20,147
+Vereinigtes Königreich;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;17,364;17,634;18,221;18,473;18,805;19,062;19,309;19,635;15,56;18,345;19,315;20,664;20,829;21,024
+Vereinigtes Königreich;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;82,636;82,366;81,779;81,527;81,195;80,938;80,691;80,365;84,44;81,655;80,685;79,336;79,171;78,976
+Vereinigtes Königreich;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;179,671;179,202;180,044;181,666;183,565;188,826;190,538;191,222;186,069;190,397;173,748;189,123;193,627;196,832
+Vereinigtes Königreich;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;73,667;75,177;77,724;80,291;82,313;84,081;86,388;88,886;85,932;90,648;84,157;94,622;98,832;102,258
+Vereinigtes Königreich;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;18,278;18,504;16,992;18,184;17,729;18,855;19,111;19,662;19,389;19,115;18,19;18,626;19,025;18,893
+Vereinigtes Königreich;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;87,726;85,521;85,328;83,191;83,523;85,89;85,039;82,673;80,749;80,633;71,4;75,875;75,771;75,68
+Vereinigtes Königreich;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;-0,261;0,47;0,901;1,045;2,866;0,907;0,359;-2,695;2,326;-8,744;8,849;2,382;1,655
+Vereinigtes Königreich;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;2,05;3,388;3,303;2,518;2,147;2,744;2,892;-3,324;5,489;-7,161;12,435;4,449;3,467
+Vereinigtes Königreich;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;1,235;-8,172;7,018;-2,503;6,353;1,358;2,881;-1,39;-1,411;-4,838;2,395;2,142;-0,694
+Vereinigtes Königreich;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;-2,514;-0,226;-2,505;0,399;2,834;-0,991;-2,781;-2,328;-0,143;-11,451;6,267;-0,137;-0,119
+Vereinigtes Königreich;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;2,785;2,758;2,752;2,758;2,769;2,83;2,838;2,832;2,741;2,791;2,537;2,75;2,805;2,841
+Vereinigtes Königreich;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;1,142;1,157;1,188;1,219;1,242;1,26;1,287;1,316;1,266;1,329;1,229;1,376;1,432;1,476
+Vereinigtes Königreich;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,283;0,285;0,26;0,276;0,267;0,283;0,285;0,291;0,286;0,28;0,266;0,271;0,276;0,273
+Vereinigtes Königreich;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;1,36;1,316;1,304;1,263;1,26;1,287;1,267;1,224;1,189;1,182;1,042;1,103;1,098;1,092
+Vereinigtes Königreich;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;9,01;;;;
+Vereinigtes Königreich;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;20,534;;;;
+Vereinigtes Königreich;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;24,122;;;;
+Vereinigtes Königreich;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;24,122;;;;
+Vereinigtes Königreich;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;22,214;;;;
+Vereinigtes Königreich;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;49,771;;;;
+Vereinigtes Königreich;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;50,229;;;;
+Vereinigtes Königreich;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;33,534;;;;
+Vereinigtes Königreich;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;35,598;;;;
+Vereinigtes Königreich;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;30,868;;;;
+Vereinigtes Königreich;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;67,54;67,38;74,27;86,42;78,22;74,79;77,01;80,15;68,85;81,79;93,64;98,27;99,58;101,6
+Vereinigtes Königreich;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;57,42;56,02;59,89;67,71;62,25;56,18;57,58;59,51;50,24;59,87;68,29;71,65;72,45;73,61
+Vereinigtes Königreich;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;83,46;84,39;93,17;110;97,78;95,65;98,01;101,5;87,73;102,8;117,4;123;124,9;127,4
+Vereinigtes Königreich;Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;4,975;5,065;5,772;6,939;6,439;6,288;6,653;7,124;5,916;7,414;7,881;9,298;9,842;10,39
+Vereinigtes Königreich;Kaffee;Umsatz;Instant-Kaffee;Milliarden EUR (€);Statista;2,587;2,526;2,643;3,035;2,82;2,496;2,584;2,688;2,174;2,655;2,779;3,268;3,456;3,611
+Vereinigtes Königreich;Kaffee;Umsatz;Röstkaffee;Milliarden EUR (€);Statista;2,388;2,539;3,129;3,904;3,618;3,792;4,069;4,436;3,742;4,759;5,102;6,031;6,385;6,778
+Vereinigtes Königreich;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;1,809;13,959;20,218;-7,206;-2,345;5,805;7,08;-16,957;25,321;6,299;17,98;5,851;5,568
+Vereinigtes Königreich;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;-2,358;4,632;14,832;-7,084;-11,489;3,526;4,025;-19,122;22,125;4,67;17,596;5,753;4,485
+Vereinigtes Königreich;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;6,323;23,237;24,768;-7,326;4,809;7,305;9,019;-15,645;27,178;7,207;18,209;5,87;6,155
+Vereinigtes Königreich;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;77,11;77,94;88,23;105,4;97,12;94,24;99,09;105,5;87,15;108,7;115;135,2;142,6;150
+Vereinigtes Königreich;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;40,09;38,87;40,4;46,08;42,54;37,41;38,48;39,8;32,03;38,93;40,57;47,52;50,07;52,13
+Vereinigtes Königreich;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;37,01;39,07;47,83;59,28;54,58;56,83;60,6;65,69;55,13;69,77;74,48;87,7;92,51;97,85
+Vereinigtes Königreich;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;95,101;94,116;93,001;90,353;89,055;87,689;86,264;84,792;83,284
+Vereinigtes Königreich;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;4,899;5,884;6,999;9,647;10,945;12,311;13,736;15,208;16,716
+Vereinigtes Königreich;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;54,893;52,428;49,871;46,906;43,322;39,325;36,168;34,062;31,89
+Vereinigtes Königreich;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;45,107;47,572;50,129;53,094;56,678;60,675;63,832;65,938;68,11
+Vereinigtes Königreich;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;77,05;77,016;78,067;77,477;79,533;82,377;82,145;82,495;78,027;81,29;82,283;83,323;83,383;83,464
+Vereinigtes Königreich;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;22,95;22,984;21,933;22,523;20,467;17,623;17,855;17,505;21,973;18,71;17,717;16,677;16,617;16,536
+Vereinigtes Königreich;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;24,581;25,031;25,773;26,229;26,726;27,479;27,711;28,067;22,613;26,258;27,491;28,899;28,93;29,008
+Vereinigtes Königreich;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;75,419;74,969;74,227;73,771;73,274;72,521;72,289;71,933;77,387;73,742;72,509;71,101;71,07;70,992
+Vereinigtes Königreich;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;73,667;75,177;77,724;80,291;82,313;84,081;86,388;88,886;85,932;90,648;84,157;94,622;98,832;102,258
+Vereinigtes Königreich;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;45,051;45,092;44,139;44,813;45,311;44,432;44,87;45,166;43,273;44,35;40,695;45,603;47,705;49,061
+Vereinigtes Königreich;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;28,616;30,086;33,586;35,478;37,003;39,649;41,518;43,721;42,659;46,299;43,462;49,019;51,126;53,197
+Vereinigtes Königreich;Kaffee;Volumenveränderung;Total;Prozent;Statista;;2,05;3,388;3,303;2,518;2,147;2,744;2,892;-3,324;5,489;-7,161;12,435;4,449;3,467
+Vereinigtes Königreich;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;0,091;-2,113;1,529;1,11;-1,939;0,985;0,66;-4,191;2,489;-8,241;12,062;4,609;2,842
+Vereinigtes Königreich;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;5,136;11,634;5,634;4,297;7,151;4,715;5,305;-2,428;8,532;-6,126;12,785;4,299;4,05
+Vereinigtes Königreich;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;1,142;1,157;1,188;1,219;1,242;1,26;1,287;1,316;1,266;1,329;1,229;1,376;1,432;1,476
+Vereinigtes Königreich;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,698;0,694;0,675;0,68;0,683;0,666;0,668;0,669;0,637;0,65;0,594;0,663;0,691;0,708
+Vereinigtes Königreich;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;0,443;0,463;0,513;0,539;0,558;0,594;0,618;0,647;0,628;0,679;0,635;0,713;0,741;0,768
+Vereinigtes Königreich;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;83,46;84,39;93,17;110;97,78;95,65;98,01;101,5;87,73;102,8;117,4;123;124,9;127,4
+Vereinigtes Königreich;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;221,8;215,5;233,7;264,7;241,1;231,6;235,6;242,9;244,6;260,7;288,5;291,6;295,4;300,8
+Vereinigtes Königreich;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;21,3;22,71;23,94;30,35;20,63;19,16;19,88;20,48;20,61;21,96;24,32;24,62;24,98;25,49
+Vereinigtes Königreich;Röstkaffee;Umsatz;Total;Milliarden EUR (€);Statista;2,388;2,539;3,129;3,904;3,618;3,792;4,069;4,436;3,742;4,759;5,102;6,031;6,385;6,778
+Vereinigtes Königreich;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Milliarden EUR (€);Statista;1,968;2,074;2,59;3,194;3,122;3,306;3,542;3,867;3,127;4,086;4,417;5,269;5,58;5,925
+Vereinigtes Königreich;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Milliarden EUR (€);Statista;0,42;0,465;0,539;0,711;0,496;0,486;0,527;0,57;0,616;0,673;0,685;0,762;0,805;0,854
+Vereinigtes Königreich;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;6,323;23,237;24,768;-7,326;4,809;7,305;9,019;-15,645;27,178;7,207;18,209;5,87;6,155
+Vereinigtes Königreich;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;5,386;24,879;23,32;-2,254;5,894;7,139;9,176;-19,136;30,668;8,101;19,289;5,902;6,183
+Vereinigtes Königreich;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;10,488;15,971;31,904;-30,196;-1,996;8,309;8,147;8,112;9,242;1,784;11,291;5,683;6,036
+Vereinigtes Königreich;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;37,01;39,07;47,83;59,28;54,58;56,83;60,6;65,69;55,13;69,77;74,48;87,7;92,51;97,85
+Vereinigtes Königreich;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;30,5;31,92;39,59;48,49;47,09;49,55;52,76;57,26;46,06;59,91;64,49;76,62;80,85;85,52
+Vereinigtes Königreich;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;6,517;7,15;8,236;10,79;7,483;7,287;7,842;8,433;9,069;9,861;9,995;11,08;11,67;12,33
+Vereinigtes Königreich;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;95,38;94,413;93,31;90,717;89,412;88,037;86,599;85,108;83,569
+Vereinigtes Königreich;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;4,62;5,587;6,69;9,283;10,588;11,963;13,401;14,892;16,431
+Vereinigtes Königreich;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;54,893;52,428;49,871;46,906;43,322;39,325;36,168;34,062;31,89
+Vereinigtes Königreich;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;45,107;47,572;50,129;53,094;56,678;60,675;63,832;65,938;68,11
+Vereinigtes Königreich;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;28,616;30,086;33,586;35,478;37,003;39,649;41,518;43,721;42,659;46,299;43,462;49,019;51,126;53,197
+Vereinigtes Königreich;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;8,871;9,627;11,083;12,063;12,951;14,273;15,034;15,917;12,784;15,677;15,313;18,068;18,89;19,696
+Vereinigtes Königreich;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;19,745;20,458;22,502;23,415;24,052;25,375;26,484;27,803;29,875;30,622;28,149;30,951;32,236;33,501
+Vereinigtes Königreich;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;5,136;11,634;5,634;4,297;7,151;4,715;5,305;-2,428;8,532;-6,126;12,785;4,299;4,05
+Vereinigtes Königreich;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;8,528;15,122;8,835;7,365;10,212;5,33;5,875;-19,687;22,629;-2,317;17,989;4,549;4,265
+Vereinigtes Königreich;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;3,612;9,992;4,058;2,717;5,502;4,369;4,982;7,452;2,5;-8,076;9,954;4,153;3,923
+Vereinigtes Königreich;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,443;0,463;0,513;0,539;0,558;0,594;0,618;0,647;0,628;0,679;0,635;0,713;0,741;0,768
+Vereinigtes Königreich;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,137;0,148;0,169;0,183;0,195;0,214;0,224;0,236;0,188;0,23;0,224;0,263;0,274;0,284
+Vereinigtes Königreich;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;0,306;0,315;0,344;0,356;0,363;0,38;0,394;0,412;0,44;0,449;0,411;0,45;0,467;0,484
+Vereinigtes Königreich;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;57,42;56,02;59,89;67,71;62,25;56,18;57,58;59,51;50,24;59,87;68,29;71,65;72,45;73,61
+Vereinigtes Königreich;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;202;198,8;214,1;242,6;220,9;212,2;215,9;222,6;224,1;238,8;264,3;267,2;270,7;275,6
+Vereinigtes Königreich;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;20,14;19,48;20,67;23,79;22,66;17,47;18,39;18,75;18,69;19,73;21,65;21,72;21,84;22,1
+Vereinigtes Königreich;Instant-Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;2,587;2,526;2,643;3,035;2,82;2,496;2,584;2,688;2,174;2,655;2,779;3,268;3,456;3,611
+Vereinigtes Königreich;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Milliarden EUR (€);Statista;1,866;1,827;1,916;2,182;1,999;1,874;1,922;2,01;1,49;1,941;2,067;2,479;2,626;2,747
+Vereinigtes Königreich;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Milliarden EUR (€);Statista;0,721;0,7;0,727;0,852;0,822;0,622;0,661;0,678;0,684;0,715;0,712;0,789;0,83;0,864
+Vereinigtes Königreich;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;-2,358;4,632;14,832;-7,084;-11,489;3,526;4,025;-19,122;22,125;4,67;17,596;5,753;4,485
+Vereinigtes Königreich;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-2,09;4,871;13,883;-8,387;-6,253;2,561;4,579;-25,871;30,268;6,491;19,932;5,93;4,608
+Vereinigtes Königreich;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-3,022;3,974;17,159;-3,568;-24,303;6,318;2,465;0,989;4,428;-0,42;10,849;5,248;4,095
+Vereinigtes Königreich;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;40,09;38,87;40,4;46,08;42,54;37,41;38,48;39,8;32,03;38,93;40,57;47,52;50,07;52,13
+Vereinigtes Königreich;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;28,91;28,11;29,29;33,14;30,15;28,09;28,63;29,77;21,94;28,45;30,18;36,05;38,05;39,66
+Vereinigtes Königreich;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;11,18;10,76;11,12;12,94;12,39;9,321;9,849;10,03;10,08;10,48;10,39;11,47;12,03;12,47
+Vereinigtes Königreich;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;94,677;93,648;92,49;89,726;88,414;87,051;85,646;84,208;82,747
+Vereinigtes Königreich;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;5,323;6,352;7,51;10,274;11,586;12,949;14,354;15,792;17,253
+Vereinigtes Königreich;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;54,893;52,428;49,871;46,906;43,322;39,325;36,168;34,062;31,89
+Vereinigtes Königreich;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;45,107;47,572;50,129;53,094;56,678;60,675;63,832;65,938;68,11
+Vereinigtes Königreich;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;45,051;45,092;44,139;44,813;45,311;44,432;44,87;45,166;43,273;44,35;40,695;45,603;47,705;49,061
+Vereinigtes Königreich;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;9,237;9,19;8,948;8,997;9,048;8,831;8,905;9,03;6,648;8,126;7,822;9,277;9,702;9,967
+Vereinigtes Königreich;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;35,813;35,901;35,19;35,817;36,262;35,601;35,965;36,135;36,625;36,224;32,873;36,326;38,004;39,094
+Vereinigtes Königreich;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;0,091;-2,113;1,529;1,11;-1,939;0,985;0,66;-4,191;2,489;-8,241;12,062;4,609;2,842
+Vereinigtes Königreich;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-0,507;-2,636;0,543;0,574;-2,405;0,836;1,413;-26,384;22,236;-3,742;18,603;4,576;2,738
+Vereinigtes Königreich;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;0,245;-1,98;1,779;1,244;-1,822;1,022;0,474;1,355;-1,096;-9,25;10,506;4,618;2,869
+Vereinigtes Königreich;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,698;0,694;0,675;0,68;0,683;0,666;0,668;0,669;0,637;0,65;0,594;0,663;0,691;0,708
+Vereinigtes Königreich;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,143;0,141;0,137;0,137;0,136;0,132;0,133;0,134;0,098;0,119;0,114;0,135;0,141;0,144
+Vereinigtes Königreich;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,555;0,552;0,538;0,544;0,547;0,534;0,536;0,535;0,54;0,531;0,48;0,528;0,551;0,564

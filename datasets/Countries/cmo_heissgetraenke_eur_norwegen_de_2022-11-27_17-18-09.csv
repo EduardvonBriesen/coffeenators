@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Norwegen;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;82,56;82,53;80,18;78,8;80,17;84,29;84,63;84,83;66,76;81,35;90,99;95,33;95,58;95,98
+Norwegen;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;87,9;87,9;85,49;84,1;85,61;89,95;90,55;91,14;72,23;88,22;98,87;103,7;104,3;105,1
+Norwegen;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;20,16;20,15;19,58;18,98;18,89;19,36;19,19;19,19;16,14;18,71;20,6;21,2;21,15;21,16
+Norwegen;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;68,11;68,22;65,91;64,82;66,21;69,92;71,22;72,38;59,06;70,48;78,27;81,35;81,11;81,1
+Norwegen;Heißgetränke;Umsatz pro Segment;Total;Milliarden EUR (€);Statista;3,588;3,579;3,444;3,361;3,431;3,679;3,679;3,714;2,769;3,514;3,532;4,001;4,041;4,084
+Norwegen;Heißgetränke;Umsatz pro Segment;Kaffee;Milliarden EUR (€);Statista;3,421;3,409;3,276;3,192;3,256;3,492;3,484;3,508;2,594;3,299;3,314;3,755;3,788;3,823
+Norwegen;Heißgetränke;Umsatz pro Segment;Kakao;Milliarden EUR (€);Statista;0,06;0,06;0,058;0,056;0,056;0,058;0,059;0,064;0,058;0,07;0,07;0,078;0,081;0,085
+Norwegen;Heißgetränke;Umsatz pro Segment;Tee;Milliarden EUR (€);Statista;0,107;0,11;0,11;0,112;0,118;0,129;0,136;0,142;0,118;0,145;0,148;0,168;0,172;0,177
+Norwegen;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;-0,251;-3,772;-2,41;2,083;7,228;0;0,951;-25,444;26,905;0,512;13,279;1;1,064
+Norwegen;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;-0,351;-3,901;-2,564;2,005;7,248;-0,229;0,689;-26,055;27,178;0,455;13,307;0,879;0,924
+Norwegen;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;-0,05;-2,813;-3,101;-0,427;2,964;2,878;7,736;-9,731;21,508;0,257;11,054;3,971;4,423
+Norwegen;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;2,799;0,091;1,723;5,526;9,206;4,795;4,723;-16,772;23,201;1,443;13,821;2,5;2,671
+Norwegen;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;715,6;704,5;669,7;646,3;653,3;694,6;689,3;690,4;510,8;643;640,8;719,9;721;722,8
+Norwegen;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;682,3;671,1;637;613,9;620,1;659,3;652,8;652,2;478,4;603,5;601,3;675,6;675,8;676,5
+Norwegen;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;11,92;11,76;11,29;10,82;10,67;10,89;11,11;11,88;10,64;12,83;12,75;14,04;14,48;15
+Norwegen;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;21,39;21,7;21,45;21,57;22,55;24,41;25,39;26,38;21,78;26,63;26,77;30,22;30,73;31,29
+Norwegen;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,059;98,712;98,245;97,244;96,416;95,402;94,184;92,755;91,107
+Norwegen;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,941;1,288;1,755;2,756;3,584;4,598;5,816;7,245;8,893
+Norwegen;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;67,005;65,193;63,385;61,58;60,002;59,322;58,895;58,574;58,253
+Norwegen;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;32,995;34,807;36,615;38,42;39,998;40,678;41,105;41,426;41,747
+Norwegen;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;86,23;86,432;86,787;87,222;87,939;88,339;88,669;88,724;85,731;87,773;88,411;89,112;89,22;89,305
+Norwegen;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;13,77;13,568;13,213;12,778;12,061;11,661;11,331;11,276;14,269;12,227;11,589;10,888;10,78;10,695
+Norwegen;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;21,415;21,785;22,303;23,042;23,806;24,385;24,612;24,68;20,015;22,992;24,09;25,42;25,515;25,569
+Norwegen;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;78,585;78,215;77,697;76,958;76,194;75,615;75,388;75,32;79,985;77,008;75,91;74,58;74,485;74,431
+Norwegen;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;43,456;43,359;42,953;42,65;42,79;43,648;43,474;43,779;41,485;43,2;38,813;41,97;42,277;42,557
+Norwegen;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;38,918;38,779;38,315;37,956;38,037;38,82;38,48;38,488;35,909;37,388;33,515;36,224;36,317;36,372
+Norwegen;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;2,964;2,964;2,964;2,964;2,965;2,979;3,091;3,331;3,576;3,747;3,412;3,681;3,837;4,005
+Norwegen;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;1,574;1,616;1,674;1,73;1,788;1,849;1,903;1,96;2;2,065;1,885;2,065;2,124;2,18
+Norwegen;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;-0,224;-0,936;-0,706;0,329;2,005;-0,4;0,702;-5,24;4,135;-10,157;8,134;0,733;0,661
+Norwegen;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;-0,357;-1,196;-0,938;0,216;2,057;-0,876;0,021;-6,699;4,119;-10,36;8,082;0,258;0,151
+Norwegen;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;0;0;0;0,007;0,486;3,758;7,755;7,353;4,791;-8,93;7,885;4,217;4,387
+Norwegen;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;2,644;3,585;3,364;3,365;3,414;2,892;3,022;2,005;3,263;-8,697;9,515;2,847;2,656
+Norwegen;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;8,668;8,536;8,353;8,202;8,149;8,241;8,144;8,139;7,652;7,904;7,042;7,551;7,543;7,531
+Norwegen;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;7,762;7,634;7,451;7,299;7,244;7,33;7,209;7,155;6,624;6,841;6,081;6,517;6,48;6,436
+Norwegen;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,591;0,584;0,576;0,57;0,565;0,562;0,579;0,619;0,66;0,686;0,619;0,662;0,685;0,709
+Norwegen;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;0,314;0,318;0,325;0,333;0,341;0,349;0,356;0,364;0,369;0,378;0,342;0,371;0,379;0,386
+Norwegen;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;85,6;85,75;83,55;82,37;83,96;88,37;88,95;89,51;71,04;86,71;97,12;101,7;102,2;102,9
+Norwegen;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;315,2;310,9;296,5;283,6;281,7;290,8;290;289,7;271,8;294,9;316,9;316,8;316,6;317,2
+Norwegen;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;13,09;12,91;12,21;11,61;11,06;11,3;10,93;10,86;10,14;10,97;11,75;11,72;11,64;11,59
+Norwegen;Röstkaffee;Umsatz;Total;Milliarden EUR (€);Statista;3,164;3,162;3,045;2,973;3,036;3,265;3,254;3,271;2,418;3,076;3,09;3,499;3,526;3,556
+Norwegen;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Milliarden EUR (€);Statista;2,796;2,803;2,712;2,663;2,744;2,962;2,966;2,986;2,153;2,791;2,821;3,215;3,244;3,275
+Norwegen;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Milliarden EUR (€);Statista;0,368;0,36;0,333;0,31;0,292;0,302;0,288;0,285;0,265;0,285;0,269;0,284;0,282;0,281
+Norwegen;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;-0,063;-3,7;-2,365;2,119;7,543;-0,337;0,522;-26,078;27,213;0,455;13,236;0,772;0,851
+Norwegen;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;0,25;-3,247;-1,807;3,042;7,945;0,135;0,674;-27,897;29,633;1,075;13,967;0,902;0,956
+Norwegen;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;-2,176;-7,314;-6,991;-5,742;3,525;-4,793;-1,076;-7,02;7,701;-5,608;5,607;-0,809;-0,532
+Norwegen;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;631,1;622,5;592,1;571,8;578,2;616,4;609,6;608,1;446;562,9;560,7;629,5;629,2;629,2
+Norwegen;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;557,8;551,8;527,3;512,1;522,6;559,3;555,7;555,2;397,1;510,7;511,8;578,4;578,8;579,6
+Norwegen;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;73,32;70,79;64,81;59,61;55,64;57,11;53,95;52,96;48,86;52,2;48,87;51,16;50,34;49,66
+Norwegen;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,059;98,712;98,245;97,237;96,409;95,394;94,178;92,751;91,107
+Norwegen;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,941;1,288;1,755;2,763;3,591;4,606;5,822;7,249;8,893
+Norwegen;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;67,005;65,193;63,385;61,58;60,002;59,322;58,895;58,574;58,253
+Norwegen;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;32,995;34,807;36,615;38,42;39,998;40,678;41,105;41,426;41,747
+Norwegen;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;36,962;36,875;36,443;36,095;36,16;36,946;36,583;36,546;34,033;35,479;31,818;34,401;34,49;34,542
+Norwegen;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;8,871;9,014;9,147;9,39;9,739;10,187;10,227;10,309;7,92;9,463;8,901;10,147;10,248;10,325
+Norwegen;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;28,091;27,861;27,296;26,705;26,421;26,759;26,356;26,237;26,113;26,015;22,917;24,254;24,242;24,216
+Norwegen;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;-0,237;-1,172;-0,953;0,179;2,173;-0,983;-0,101;-6,876;4,249;-10,319;8,119;0,258;0,151
+Norwegen;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;1,611;1,473;2,659;3,717;4,601;0,392;0,798;-23,175;19,494;-5,948;14;0,999;0,755
+Norwegen;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;-0,82;-2,028;-2,164;-1,065;1,278;-1,507;-0,45;-0,472;-0,375;-11,91;5,835;-0,052;-0,105
+Norwegen;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;7,372;7,26;7,087;6,942;6,886;6,976;6,853;6,794;6,278;6,491;5,773;6,189;6,154;6,112
+Norwegen;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;1,769;1,775;1,779;1,806;1,855;1,923;1,916;1,917;1,461;1,731;1,615;1,826;1,828;1,827
+Norwegen;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;5,603;5,485;5,308;5,136;5,032;5,052;4,937;4,878;4,817;4,76;4,158;4,364;4,325;4,285
+Norwegen;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;8,43;;;;
+Norwegen;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;20,71;;;;
+Norwegen;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;22,929;;;;
+Norwegen;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;25,888;;;;
+Norwegen;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;22,041;;;;
+Norwegen;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;48,373;;;;
+Norwegen;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;51,627;;;;
+Norwegen;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;34,259;;;;
+Norwegen;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;34,815;;;;
+Norwegen;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;30,926;;;;
+Norwegen;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;87,9;87,9;85,49;84,1;85,61;89,95;90,55;91,14;72,23;88,22;98,87;103,7;104,3;105,1
+Norwegen;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;131,3;129,4;123,2;117,8;117,3;121,2;121,4;121,9;93,71;116,3;131,8;140,4;142,9;145,9
+Norwegen;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;85,6;85,75;83,55;82,37;83,96;88,37;88,95;89,51;71,04;86,71;97,12;101,7;102,2;102,9
+Norwegen;Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;3,421;3,409;3,276;3,192;3,256;3,492;3,484;3,508;2,594;3,299;3,314;3,755;3,788;3,823
+Norwegen;Kaffee;Umsatz;Instant-Kaffee;Milliarden EUR (€);Statista;0,257;0,246;0,231;0,219;0,22;0,227;0,23;0,237;0,176;0,222;0,224;0,256;0,261;0,267
+Norwegen;Kaffee;Umsatz;Röstkaffee;Milliarden EUR (€);Statista;3,164;3,162;3,045;2,973;3,036;3,265;3,254;3,271;2,418;3,076;3,09;3,499;3,526;3,556
+Norwegen;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;-0,351;-3,901;-2,564;2,005;7,248;-0,229;0,689;-26,055;27,178;0,455;13,307;0,879;0,924
+Norwegen;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;-4,05;-6,372;-5,028;0,456;3,226;1,364;2,822;-25,718;26,265;0,675;14,49;2,031;2,221
+Norwegen;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;-0,063;-3,7;-2,365;2,119;7,543;-0,337;0,522;-26,078;27,213;0,455;13,236;0,772;0,851
+Norwegen;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;682,3;671,1;637;613,9;620,1;659,3;652,8;652,2;478,4;603,5;601,3;675,6;675,8;676,5
+Norwegen;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;51,22;48,51;44,86;42,15;41,92;42,89;43,15;44,03;32,44;40,64;40,58;46,05;46,61;47,24
+Norwegen;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;631,1;622,5;592,1;571,8;578,2;616,4;609,6;608,1;446;562,9;560,7;629,5;629,2;629,2
+Norwegen;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,059;98,712;98,245;97,235;96,407;95,392;94,176;92,75;91,107
+Norwegen;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,941;1,288;1,755;2,765;3,593;4,608;5,824;7,25;8,893
+Norwegen;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;67,005;65,193;63,385;61,58;60,002;59,322;58,895;58,574;58,253
+Norwegen;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;32,995;34,807;36,615;38,42;39,998;40,678;41,105;41,426;41,747
+Norwegen;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;87,673;87,936;88,362;88,869;89,626;89,994;90,369;90,488;88,02;89,846;90,457;91,103;91,25;91,379
+Norwegen;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;12,327;12,064;11,638;11,131;10,374;10,006;9,631;9,512;11,98;10,154;9,543;8,897;8,75;8,621
+Norwegen;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;23,451;23,886;24,512;25,381;26,251;26,876;27,228;27,454;22,584;25,933;27,218;28,725;28,951;29,139
+Norwegen;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;76,549;76,114;75,488;74,619;73,749;73,124;72,772;72,546;77,416;74,067;72,782;71,275;71,049;70,861
+Norwegen;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;38,918;38,779;38,315;37,956;38,037;38,82;38,48;38,488;35,909;37,388;33,515;36,224;36,317;36,372
+Norwegen;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;1,955;1,904;1,872;1,86;1,877;1,874;1,897;1,942;1,877;1,91;1,697;1,823;1,827;1,83
+Norwegen;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;36,962;36,875;36,443;36,095;36,16;36,946;36,583;36,546;34,033;35,479;31,818;34,401;34,49;34,542
+Norwegen;Kaffee;Volumenveränderung;Total;Prozent;Statista;;-0,357;-1,196;-0,938;0,216;2,057;-0,876;0,021;-6,699;4,119;-10,36;8,082;0,258;0,151
+Norwegen;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;-2,634;-1,654;-0,65;0,923;-0,178;1,239;2,365;-3,37;1,759;-11,117;7,392;0,258;0,151
+Norwegen;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;-0,237;-1,172;-0,953;0,179;2,173;-0,983;-0,101;-6,876;4,249;-10,319;8,119;0,258;0,151
+Norwegen;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;7,762;7,634;7,451;7,299;7,244;7,33;7,209;7,155;6,624;6,841;6,081;6,517;6,48;6,436
+Norwegen;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,39;0,375;0,364;0,358;0,358;0,354;0,355;0,361;0,346;0,349;0,308;0,328;0,326;0,324
+Norwegen;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;7,372;7,26;7,087;6,942;6,886;6,976;6,853;6,794;6,278;6,491;5,773;6,189;6,154;6,112
+Norwegen;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;131,3;129,4;123,2;117,8;117,3;121,2;121,4;121,9;93,71;116,3;131,8;140,4;142,9;145,9
+Norwegen;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;793,5;782,6;746,2;713,9;709,2;732;730;729,2;684,3;742,4;797,7;797,5;796,9;798,4
+Norwegen;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;31,81;31,2;29,46;28,04;27,97;28,83;28,91;28,98;27,16;29,58;31,78;31,79;31,55;31,42
+Norwegen;Instant-Kaffee;Umsatz;Total;Millionen EUR (€);Statista;256,8;246,4;230,7;219,1;220,1;227,2;230,3;236,8;175,9;222,1;223,6;256;261,2;267
+Norwegen;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Millionen EUR (€);Statista;202,7;194,8;182,7;173,8;174,5;180,2;182,7;188;130;172,5;176,8;206,2;212;218,1
+Norwegen;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Millionen EUR (€);Statista;54,06;51,63;47,95;45,34;45,62;46,93;47,61;48,81;45,8;49,61;46,89;49,72;49,27;48,92
+Norwegen;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;-4,05;-6,372;-5,028;0,456;3,226;1,364;2,822;-25,718;26,265;0,675;14,49;2,031;2,221
+Norwegen;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-3,897;-6,211;-4,871;0,403;3,266;1,387;2,901;-30,851;32,692;2,493;16,629;2,813;2,877
+Norwegen;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-4,495;-7,128;-5,443;0,618;2,872;1,449;2,52;-6,167;8,319;-5,483;6,035;-0,905;-0,71
+Norwegen;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;51,22;48,51;44,86;42,15;41,92;42,89;43,15;44,03;32,44;40,64;40,58;46,05;46,61;47,24
+Norwegen;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;40,44;38,34;35,53;33,43;33,23;34,03;34,23;34,95;23,99;31,56;32,07;37,11;37,82;38,59
+Norwegen;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;10,78;10,16;9,324;8,719;8,688;8,861;8,919;9,075;8,449;9,078;8,508;8,945;8,79;8,657
+Norwegen;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,059;98,712;98,245;97,212;96,382;95,368;94,155;92,736;91,107
+Norwegen;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,941;1,288;1,755;2,788;3,618;4,632;5,845;7,264;8,893
+Norwegen;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;67,005;65,193;63,385;61,58;60,002;59,322;58,895;58,574;58,253
+Norwegen;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;32,995;34,807;36,615;38,42;39,998;40,678;41,105;41,426;41,747
+Norwegen;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;1,955;1,904;1,872;1,86;1,877;1,874;1,897;1,942;1,877;1,91;1,697;1,823;1,827;1,83
+Norwegen;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;0,256;0,249;0,245;0,243;0,246;0,246;0,25;0,258;0,19;0,232;0,222;0,259;0,266;0,273
+Norwegen;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;1,7;1,655;1,627;1,617;1,631;1,628;1,647;1,684;1,686;1,677;1,476;1,564;1,561;1,557
+Norwegen;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;-2,634;-1,654;-0,65;0,923;-0,178;1,239;2,365;-3,37;1,759;-11,117;7,392;0,258;0,151
+Norwegen;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;-2,606;-1,605;-0,566;1,067;0,062;1,641;3,018;-26,284;22,263;-4,646;16,719;2,85;2,678
+Norwegen;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;-2,638;-1,661;-0,662;0,901;-0,215;1,178;2,265;0,137;-0,552;-12,014;5,992;-0,17;-0,28
+Norwegen;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,39;0,375;0,364;0,358;0,358;0,354;0,355;0,361;0,346;0,349;0,308;0,328;0,326;0,324
+Norwegen;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,051;0,049;0,048;0,047;0,047;0,046;0,047;0,048;0,035;0,043;0,04;0,047;0,047;0,048
+Norwegen;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,339;0,326;0,316;0,311;0,311;0,307;0,309;0,313;0,311;0,307;0,268;0,281;0,279;0,276

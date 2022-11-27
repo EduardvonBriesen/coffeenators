@@ -1,0 +1,126 @@
+﻿Region;Markt;Diagram;Name;Einheit;Quelle;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021;2022;2023;2024;2025
+Russland;Heißgetränke;Preis pro Einheit;Average;EUR (€);Statista;17,03;18,12;16,11;13,64;13,85;16,64;15,66;17,18;15,44;16,9;18,67;19,2;19,16;19,17
+Russland;Heißgetränke;Preis pro Einheit;Kaffee;EUR (€);Statista;25,51;26,24;22,85;18,82;19;22,32;21,03;22,99;20,06;22,25;24,68;25,51;25,62;25,8
+Russland;Heißgetränke;Preis pro Einheit;Kakao;EUR (€);Statista;5,863;6,412;5,861;4,985;5,018;5,992;5,55;6,056;5,641;6,061;6,662;6,799;6,751;6,729
+Russland;Heißgetränke;Preis pro Einheit;Tee;EUR (€);Statista;16,01;17,4;15,67;13,47;13,78;16,69;15,63;17,11;15,74;17,06;18,81;19,3;19,16;19,1
+Russland;Heißgetränke;Umsatz pro Segment;Total;Milliarden EUR (€);Statista;5,787;6,229;5,675;4,911;5,139;6,288;6,1;6,768;5,624;6,567;5,158;6,259;6,327;6,387
+Russland;Heißgetränke;Umsatz pro Segment;Kaffee;Milliarden EUR (€);Statista;2,644;2,803;2,515;2,131;2,223;2,715;2,718;3,051;2,461;2,923;2,3;2,806;2,859;2,908
+Russland;Heißgetränke;Umsatz pro Segment;Kakao;Milliarden EUR (€);Statista;0,368;0,407;0,379;0,32;0,336;0,394;0,378;0,412;0,358;0,411;0,322;0,389;0,393;0,399
+Russland;Heißgetränke;Umsatz pro Segment;Tee;Milliarden EUR (€);Statista;2,775;3,019;2,78;2,46;2,58;3,179;3,004;3,306;2,805;3,233;2,536;3,065;3,075;3,08
+Russland;Heißgetränke;Umsatzveränderung pro Segment;Total;Prozent;Statista;;7,638;-8,894;-13,463;4,643;22,358;-2,99;10,951;-16,903;16,767;-21,456;21,345;1,086;0,948
+Russland;Heißgetränke;Umsatzveränderung pro Segment;Kaffee;Prozent;Statista;;6,014;-10,275;-15,268;4,317;22,132;0,11;12,252;-19,338;18,773;-21,314;22;1,889;1,714
+Russland;Heißgetränke;Umsatzveränderung pro Segment;Kakao;Prozent;Statista;;10,712;-6,901;-15,695;5,131;17,173;-3,988;8,915;-13,043;14,804;-21,727;20,765;1,21;1,399
+Russland;Heißgetränke;Umsatzveränderung pro Segment;Tee;Prozent;Statista;;8,793;-7,917;-11,511;4,878;23,217;-5,505;10,053;-15,154;15,258;-21,559;20,86;0,326;0,163
+Russland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;40,19;43,16;39,23;33,87;35,38;43,21;41,85;46,4;38,54;45,01;35,38;42,98;43,51;44,01
+Russland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kaffee;EUR (€);Statista;18,37;19,42;17,39;14,7;15,3;18,66;18,65;20,91;16,87;20,03;15,78;19,26;19,66;20,04
+Russland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Kakao;EUR (€);Statista;2,555;2,822;2,62;2,204;2,313;2,705;2,594;2,823;2,453;2,817;2,206;2,668;2,704;2,747
+Russland;Heißgetränke;Durchschnittlicher Umsatz pro Kopf;Tee;EUR (€);Statista;19,27;20,92;19,22;16,97;17,76;21,84;20,61;22,66;19,22;22,16;17,39;21,04;21,15;21,22
+Russland;Heißgetränke;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,967;99,963;99,959;99,95;99,946;99,941;99,936;99,93;99,922
+Russland;Heißgetränke;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,033;0,037;0,041;0,05;0,054;0,059;0,064;0,07;0,078
+Russland;Heißgetränke;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;67,619;65,772;63,928;62,089;60,231;58,622;57,021;56,981;56,95
+Russland;Heißgetränke;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;32,381;34,228;36,072;37,911;39,769;41,378;42,979;43,019;43,05
+Russland;Heißgetränke;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;26,915;26,348;27,115;27,789;27,572;27,82;27,913;28,063;23,976;26,114;26,713;27,467;27,955;28,382
+Russland;Heißgetränke;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;73,085;73,652;72,885;72,211;72,428;72,18;72,087;71,937;76,024;73,886;73,287;72,533;72,045;71,618
+Russland;Heißgetränke;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;2,528;2,602;2,676;2,767;2,851;2,972;3,088;3,187;2,692;3,101;3,294;3,52;3,609;3,686
+Russland;Heißgetränke;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;97,472;97,398;97,324;97,233;97,149;97,028;96,912;96,813;97,308;96,899;96,706;96,48;96,391;96,314
+Russland;Heißgetränke;Volumen pro Segment;Total;Millionen Kilogramm;Statista;339,74;343,8;352,218;360,034;371,178;377,783;389,465;393,869;364,344;388,669;276,325;325,918;330,261;333,229
+Russland;Heißgetränke;Volumen pro Segment;Kaffee;Millionen Kilogramm;Statista;103,677;106,805;110,07;113,223;116,968;121,647;129,218;132,685;122,709;131,334;93,206;109,97;111,574;112,721
+Russland;Heißgetränke;Volumen pro Segment;Kakao;Millionen Kilogramm;Statista;62,74;63,515;64,676;64,107;66,952;65,696;68,099;67,989;63,453;67,815;48,286;57,148;58,242;59,259
+Russland;Heißgetränke;Volumen pro Segment;Tee;Millionen Kilogramm;Statista;173,324;173,481;177,473;182,703;187,258;190,44;192,148;193,196;178,183;189,52;134,833;158,799;160,445;161,249
+Russland;Heißgetränke;Volumenveränderung pro Segment;Total;Prozent;Statista;;1,195;2,449;2,219;3,095;1,78;3,092;1,131;-7,496;6,676;-28,905;17,947;1,333;0,899
+Russland;Heißgetränke;Volumenveränderung pro Segment;Kaffee;Prozent;Statista;;3,017;3,057;2,865;3,307;4,001;6,224;2,683;-7,519;7,029;-29,031;17,986;1,459;1,028
+Russland;Heißgetränke;Volumenveränderung pro Segment;Kakao;Prozent;Statista;;1,235;1,828;-0,88;4,438;-1,876;3,659;-0,163;-6,671;6,874;-28,798;18,355;1,913;1,747
+Russland;Heißgetränke;Volumenveränderung pro Segment;Tee;Prozent;Statista;;0,091;2,301;2,947;2,493;1,699;0,897;0,545;-7,771;6,363;-28,856;17,775;1,036;0,501
+Russland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;2,359;2,382;2,435;2,483;2,555;2,596;2,672;2,7;2,497;2,664;1,895;2,238;2,271;2,296
+Russland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kaffee;Kilogramm;Statista;0,72;0,74;0,761;0,781;0,805;0,836;0,887;0,91;0,841;0,9;0,639;0,755;0,767;0,777
+Russland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Kakao;Kilogramm;Statista;0,436;0,44;0,447;0,442;0,461;0,451;0,467;0,466;0,435;0,465;0,331;0,392;0,401;0,408
+Russland;Heißgetränke;Durchschnittliches Volumen pro Kopf;Tee;Kilogramm;Statista;1,204;1,202;1,227;1,26;1,289;1,309;1,318;1,324;1,221;1,299;0,925;1,09;1,103;1,111
+Russland;Röstkaffee;Preis pro Einheit;Average;EUR (€);Statista;36,14;35,64;29,92;23,73;24,27;27,24;26,06;28,29;24,22;26,51;28,89;29,33;29,14;29,05
+Russland;Röstkaffee;Preis pro Einheit;Röstkaffee, außer Haus;EUR (€);Statista;198,3;200,3;178;149,1;145,6;168,9;153,4;163,9;148,9;154,1;164,1;162,4;161;160,2
+Russland;Röstkaffee;Preis pro Einheit;Röstkaffee, zu Hause;EUR (€);Statista;24,88;23,72;18,62;13,6;13,92;14,57;14,24;15,35;14,11;14,78;15,92;15,96;15,84;15,79
+Russland;Röstkaffee;Umsatz;Total;Milliarden EUR (€);Statista;0,872;0,925;0,819;0,682;0,736;0,884;0,9;1,006;0,794;0,925;0,718;0,859;0,866;0,871
+Russland;Röstkaffee;Umsatz;Röstkaffee, außer Haus;Milliarden EUR (€);Statista;0,311;0,351;0,346;0,32;0,347;0,45;0,45;0,508;0,366;0,453;0,357;0,434;0,438;0,441
+Russland;Röstkaffee;Umsatz;Röstkaffee, zu Hause;Milliarden EUR (€);Statista;0,561;0,574;0,474;0,362;0,389;0,434;0,45;0,498;0,428;0,473;0,361;0,425;0,427;0,43
+Russland;Röstkaffee;Umsatzveränderung;Total;Prozent;Statista;;6,161;-11,445;-16,805;7,995;20,049;1,81;11,803;-21,034;16,49;-22,434;19,699;0,745;0,647
+Russland;Röstkaffee;Umsatzveränderung;Röstkaffee, außer Haus;Prozent;Statista;;13,071;-1,595;-7,378;8,404;29,625;0,022;12,914;-27,894;23,615;-21,201;21,721;0,875;0,73
+Russland;Röstkaffee;Umsatzveränderung;Röstkaffee, zu Hause;Prozent;Statista;;2,335;-17,471;-23,681;7,633;11,536;3,64;10,802;-14,122;10,395;-23,614;17,701;0,588;0,585
+Russland;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;6,053;6,411;5,664;4,702;5,068;6,073;6,174;6,9;5,444;6,342;4,923;5,9;5,953;6,003
+Russland;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, außer Haus;EUR (€);Statista;2,157;2,433;2,389;2,208;2,389;3,09;3,087;3,482;2,51;3,103;2,447;2,983;3,013;3,041
+Russland;Röstkaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee, zu Hause;EUR (€);Statista;3,896;3,978;3,275;2,494;2,679;2,983;3,087;3,417;2,934;3,239;2,476;2,918;2,94;2,962
+Russland;Röstkaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,967;99,963;99,959;99,946;99,943;99,938;99,934;99,929;99,922
+Russland;Röstkaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,033;0,037;0,041;0,054;0,057;0,062;0,066;0,071;0,078
+Russland;Röstkaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;67,619;65,772;63,928;62,089;60,231;58,622;57,021;56,981;56,95
+Russland;Röstkaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;32,381;34,228;36,072;37,911;39,769;41,378;42,979;43,019;43,05
+Russland;Röstkaffee;Volumen;Total;Millionen Kilogramm;Statista;24,116;25,959;27,387;28,729;30,335;32,444;34,531;35,577;32,804;34,91;24,842;29,297;29,704;29,99
+Russland;Röstkaffee;Volumen;Röstkaffee, außer Haus;Millionen Kilogramm;Statista;1,566;1,753;1,942;2,147;2,384;2,662;2,932;3,1;2,46;2,938;2,175;2,674;2,722;2,755
+Russland;Röstkaffee;Volumen;Röstkaffee, zu Hause;Millionen Kilogramm;Statista;22,55;24,206;25,445;26,582;27,951;29,782;31,599;32,477;30,344;31,972;22,667;26,624;26,982;27,235
+Russland;Röstkaffee;Volumenveränderung;Total;Prozent;Statista;;7,641;5,5;4,902;5,589;6,953;6,433;3,03;-7,795;6,419;-28,838;17,933;1,388;0,963
+Russland;Röstkaffee;Volumenveränderung;Röstkaffee, außer Haus;Prozent;Statista;;11,938;10,762;10,57;11,026;11,676;10,151;5,716;-20,635;19,412;-25,97;22,937;1,797;1,234
+Russland;Röstkaffee;Volumenveränderung;Röstkaffee, zu Hause;Prozent;Statista;;7,342;5,119;4,469;5,15;6,55;6,1;2,78;-6,569;5,366;-29,102;17,452;1,347;0,935
+Russland;Röstkaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,167;0,18;0,189;0,198;0,209;0,223;0,237;0,244;0,225;0,239;0,17;0,201;0,204;0,207
+Russland;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, außer Haus;Kilogramm;Statista;0,011;0,012;0,013;0,015;0,016;0,018;0,02;0,021;0,017;0,02;0,015;0,018;0,019;0,019
+Russland;Röstkaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee, zu Hause;Kilogramm;Statista;0,157;0,168;0,176;0,183;0,192;0,205;0,217;0,223;0,208;0,219;0,155;0,183;0,186;0,188
+Russland;Kaffee;Nutzer nach Alter;18-24 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;8,6;;;;
+Russland;Kaffee;Nutzer nach Alter;25-34 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;24,515;;;;
+Russland;Kaffee;Nutzer nach Alter;35-44 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;27,878;;;;
+Russland;Kaffee;Nutzer nach Alter;45-54 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;21,151;;;;
+Russland;Kaffee;Nutzer nach Alter;55-64 Jahre;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;17,853;;;;
+Russland;Kaffee;Nutzer nach Geschlecht;männlich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;45,019;;;;
+Russland;Kaffee;Nutzer nach Geschlecht;weiblich;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;54,981;;;;
+Russland;Kaffee;Nutzer nach Einkommen;hohes Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;34,579;;;;
+Russland;Kaffee;Nutzer nach Einkommen;mittleres Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;36,682;;;;
+Russland;Kaffee;Nutzer nach Einkommen;niedriges Einkommen;Prozent;Statista|Statista Global Consumer Survey;;;;;;;;;;28,738;;;;
+Russland;Kaffee;Preis pro Einheit;Average;EUR (€);Statista;25,51;26,24;22,85;18,82;19;22,32;21,03;22,99;20,06;22,25;24,68;25,51;25,62;25,8
+Russland;Kaffee;Preis pro Einheit;Instant-Kaffee;EUR (€);Statista;22,28;23,23;20,51;17,15;17,16;20,53;19,2;21,05;18,54;20,71;23,15;24,13;24,35;24,62
+Russland;Kaffee;Preis pro Einheit;Röstkaffee;EUR (€);Statista;36,14;35,64;29,92;23,73;24,27;27,24;26,06;28,29;24,22;26,51;28,89;29,33;29,14;29,05
+Russland;Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;2,644;2,803;2,515;2,131;2,223;2,715;2,718;3,051;2,461;2,923;2,3;2,806;2,859;2,908
+Russland;Kaffee;Umsatz;Instant-Kaffee;Milliarden EUR (€);Statista;1,773;1,878;1,696;1,449;1,486;1,831;1,818;2,044;1,667;1,997;1,583;1,946;1,993;2,037
+Russland;Kaffee;Umsatz;Röstkaffee;Milliarden EUR (€);Statista;0,872;0,925;0,819;0,682;0,736;0,884;0,9;1,006;0,794;0,925;0,718;0,859;0,866;0,871
+Russland;Kaffee;Umsatzveränderung;Total;Prozent;Statista;;6,014;-10,275;-15,268;4,317;22,132;0,11;12,252;-19,338;18,773;-21,314;22;1,889;1,714
+Russland;Kaffee;Umsatzveränderung;Instant-Kaffee;Prozent;Statista;;5,922;-9,691;-14,564;2,553;23,217;-0,71;12,431;-18,444;19,796;-20,731;22,931;2,415;2,208
+Russland;Kaffee;Umsatzveränderung;Röstkaffee;Prozent;Statista;;6,161;-11,445;-16,805;7,995;20,049;1,81;11,803;-21,034;16,49;-22,434;19,699;0,745;0,647
+Russland;Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;18,37;19,42;17,39;14,7;15,3;18,66;18,65;20,91;16,87;20,03;15,78;19,26;19,66;20,04
+Russland;Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee;EUR (€);Statista;12,31;13,01;11,72;9,996;10,23;12,58;12,48;14,01;11,42;13,69;10,85;13,36;13,71;14,03
+Russland;Kaffee;Durchschnittlicher Umsatz pro Kopf;Röstkaffee;EUR (€);Statista;6,053;6,411;5,664;4,702;5,068;6,073;6,174;6,9;5,444;6,342;4,923;5,9;5,953;6,003
+Russland;Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,967;99,963;99,959;99,948;99,944;99,939;99,935;99,929;99,922
+Russland;Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,033;0,037;0,041;0,052;0,056;0,061;0,065;0,071;0,078
+Russland;Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;67,619;65,772;63,928;62,089;60,231;58,622;57,021;56,981;56,95
+Russland;Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;32,381;34,228;36,072;37,911;39,769;41,378;42,979;43,019;43,05
+Russland;Kaffee;Außer-Haus-Umsatzanteil;Außer Haus, Umsatzanteil;Prozent;Statista;39,504;39,419;40,984;42,566;42,111;42,607;41,859;41,766;36,6;39,56;40,686;42,04;42,866;43,585
+Russland;Kaffee;Außer-Haus-Umsatzanteil;Zu Hause, Umsatzanteil;Prozent;Statista;60,496;60,581;59,016;57,434;57,889;57,393;58,141;58,234;63,4;60,44;59,314;57,96;57,134;56,415
+Russland;Kaffee;Außer-Haus-Volumenanteil;Außer Haus, Mengenanteil;Prozent;Statista;5,427;5,505;5,6;5,711;5,832;5,962;6,075;6,202;5,215;6,049;6,488;7,007;7,249;7,465
+Russland;Kaffee;Außer-Haus-Volumenanteil;Zu Hause, Mengenanteil;Prozent;Statista;94,573;94,495;94,4;94,289;94,168;94,038;93,925;93,798;94,785;93,951;93,512;92,993;92,751;92,535
+Russland;Kaffee;Volumen;Total;Millionen Kilogramm;Statista;103,677;106,805;110,07;113,223;116,968;121,647;129,218;132,685;122,709;131,334;93,206;109,97;111,574;112,721
+Russland;Kaffee;Volumen;Instant-Kaffee;Millionen Kilogramm;Statista;79,561;80,846;82,683;84,494;86,633;89,203;94,687;97,108;89,905;96,424;68,364;80,673;81,87;82,731
+Russland;Kaffee;Volumen;Röstkaffee;Millionen Kilogramm;Statista;24,116;25,959;27,387;28,729;30,335;32,444;34,531;35,577;32,804;34,91;24,842;29,297;29,704;29,99
+Russland;Kaffee;Volumenveränderung;Total;Prozent;Statista;;3,017;3,057;2,865;3,307;4,001;6,224;2,683;-7,519;7,029;-29,031;17,986;1,459;1,028
+Russland;Kaffee;Volumenveränderung;Instant-Kaffee;Prozent;Statista;;1,615;2,272;2,191;2,531;2,967;6,148;2,556;-7,417;7,252;-29,101;18,006;1,484;1,052
+Russland;Kaffee;Volumenveränderung;Röstkaffee;Prozent;Statista;;7,641;5,5;4,902;5,589;6,953;6,433;3,03;-7,795;6,419;-28,838;17,933;1,388;0,963
+Russland;Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,72;0,74;0,761;0,781;0,805;0,836;0,887;0,91;0,841;0,9;0,639;0,755;0,767;0,777
+Russland;Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee;Kilogramm;Statista;0,553;0,56;0,572;0,583;0,596;0,613;0,65;0,666;0,616;0,661;0,469;0,554;0,563;0,57
+Russland;Kaffee;Durchschnittliches Volumen pro Kopf;Röstkaffee;Kilogramm;Statista;0,167;0,18;0,189;0,198;0,209;0,223;0,237;0,244;0,225;0,239;0,17;0,201;0,204;0,207
+Russland;Instant-Kaffee;Preis pro Einheit;Average;EUR (€);Statista;22,28;23,23;20,51;17,15;17,16;20,53;19,2;21,05;18,54;20,71;23,15;24,13;24,35;24,62
+Russland;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, außer Haus;EUR (€);Statista;180,8;182,6;162,3;135,9;132,7;154;139,8;149,4;135,7;140,5;149,6;148,1;146,7;146
+Russland;Instant-Kaffee;Preis pro Einheit;Instant-Kaffee, zu Hause;EUR (€);Statista;13,76;14,65;12,88;10,75;10,92;13,29;12,59;13,9;13,17;14,15;15,56;15,88;15,76;15,71
+Russland;Instant-Kaffee;Umsatz;Total;Milliarden EUR (€);Statista;1,773;1,878;1,696;1,449;1,486;1,831;1,818;2,044;1,667;1,997;1,583;1,946;1,993;2,037
+Russland;Instant-Kaffee;Umsatz;Instant-Kaffee, außer Haus;Milliarden EUR (€);Statista;0,734;0,754;0,685;0,587;0,589;0,707;0,688;0,766;0,534;0,703;0,579;0,745;0,787;0,826
+Russland;Instant-Kaffee;Umsatz;Instant-Kaffee, zu Hause;Milliarden EUR (€);Statista;1,039;1,124;1,011;0,862;0,897;1,124;1,13;1,278;1,132;1,294;1,003;1,201;1,206;1,211
+Russland;Instant-Kaffee;Umsatzveränderung;Total;Prozent;Statista;;5,922;-9,691;-14,564;2,553;23,217;-0,71;12,431;-18,444;19,796;-20,731;22,931;2,415;2,208
+Russland;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;2,67;-9,088;-14,332;0,341;20,034;-2,716;11,399;-30,24;31,6;-17,671;28,665;5,677;4,928
+Russland;Instant-Kaffee;Umsatzveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;8,181;-10,053;-14,708;4,082;25,237;0,534;13,097;-11,424;14,311;-22,488;19,741;0,416;0,415
+Russland;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Total;EUR (€);Statista;12,31;13,01;11,72;9,996;10,23;12,58;12,48;14,01;11,42;13,69;10,85;13,36;13,71;14,03
+Russland;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, außer Haus;EUR (€);Statista;5,098;5,222;4,736;4,048;4,054;4,858;4,72;5,252;3,663;4,821;3,972;5,116;5,415;5,693
+Russland;Instant-Kaffee;Durchschnittlicher Umsatz pro Kopf;Instant-Kaffee, zu Hause;EUR (€);Statista;7,214;7,788;6,986;5,947;6,178;7,725;7,755;8,762;7,759;8,867;6,882;8,248;8,294;8,342
+Russland;Instant-Kaffee;Online-Umsatzanteil;Offline;Prozent;Statista;;;;;;99,967;99,963;99,959;99,948;99,944;99,94;99,935;99,929;99,922
+Russland;Instant-Kaffee;Online-Umsatzanteil;Online;Prozent;Statista;;;;;;0,033;0,037;0,041;0,052;0,056;0,06;0,065;0,071;0,078
+Russland;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Desktop;Prozent;Statista;;;;;;67,619;65,772;63,928;62,089;60,231;58,622;57,021;56,981;56,95
+Russland;Instant-Kaffee;Mobil- vs. Desktop-Anteil;Mobile;Prozent;Statista;;;;;;32,381;34,228;36,072;37,911;39,769;41,378;42,979;43,019;43,05
+Russland;Instant-Kaffee;Volumen;Total;Millionen Kilogramm;Statista;79,561;80,846;82,683;84,494;86,633;89,203;94,687;97,108;89,905;96,424;68,364;80,673;81,87;82,731
+Russland;Instant-Kaffee;Volumen;Instant-Kaffee, außer Haus;Millionen Kilogramm;Statista;4,061;4,127;4,222;4,319;4,438;4,591;4,918;5,129;3,939;5,007;3,872;5,031;5,366;5,659
+Russland;Instant-Kaffee;Volumen;Instant-Kaffee, zu Hause;Millionen Kilogramm;Statista;75,5;76,719;78,461;80,175;82,195;84,612;89,769;91,979;85,966;91,418;64,492;75,642;76,505;77,072
+Russland;Instant-Kaffee;Volumenveränderung;Total;Prozent;Statista;;1,615;2,272;2,191;2,531;2,967;6,148;2,556;-7,417;7,252;-29,101;18,006;1,484;1,052
+Russland;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, außer Haus;Prozent;Statista;;1,633;2,316;2,291;2,755;3,444;7,128;4,286;-23,205;27,112;-22,659;29,937;6,645;5,467
+Russland;Instant-Kaffee;Volumenveränderung;Instant-Kaffee, zu Hause;Prozent;Statista;;1,614;2,27;2,185;2,519;2,941;6,094;2,462;-6,537;6,342;-29,454;17,289;1,141;0,742
+Russland;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Total;Kilogramm;Statista;0,553;0,56;0,572;0,583;0,596;0,613;0,65;0,666;0,616;0,661;0,469;0,554;0,563;0,57
+Russland;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, außer Haus;Kilogramm;Statista;0,028;0,029;0,029;0,03;0,031;0,032;0,034;0,035;0,027;0,034;0,027;0,035;0,037;0,039
+Russland;Instant-Kaffee;Durchschnittliches Volumen pro Kopf;Instant-Kaffee, zu Hause;Kilogramm;Statista;0,524;0,532;0,542;0,553;0,566;0,581;0,616;0,631;0,589;0,627;0,442;0,519;0,526;0,531
