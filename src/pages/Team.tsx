@@ -5,6 +5,7 @@ const TeamContainer = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: end;
+  align-items: flex-start; // I don't know why this doesn't work
   background-color: ${(props) => props.theme.colors.background.dark};
   width: 100vw;
   height: 100vh;
@@ -34,7 +35,11 @@ function Team() {
   return (
     <TeamContainer id="team">
       <Headline>We Are</Headline>
-      <TeamMemberContainer>
+      <TeamMemberContainer
+        style={{
+          alignItems: "flex-start",
+        }}
+      >
         <TeamMember
           name="Elisabeth"
           text="Faucibus etiam rhoncus velit lectus. Urna tellus viverra metus est. Amet varius auctor libero purus."
@@ -57,8 +62,8 @@ function Team() {
         />
         <TeamMember
           name="Eduard"
-          text="Faucibus etiam rhoncus velit lectus. Urna tellus viverra metus est. Amet varius auctor libero purus."
-          image={"../assets/team2.png"}
+          text="I am a Human Computer Interaction student at LMU. When I'm not studying, I'm making coffee. I'm a weird coffee person."
+          image={"../assets/eduard.png"}
         />
       </TeamMemberContainer>
     </TeamContainer>

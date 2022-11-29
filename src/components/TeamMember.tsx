@@ -12,11 +12,11 @@ const TeamMemberContainer = styled.div`
   justify-content: center;
   align-items: center;
   box-sizing: border-box;
-  max-width: 240px;
+  width: 15rem;
 `;
 
 const Image = styled.img`
-  width: 90%;
+  width: 10rem;
   border-radius: 50%;
   background-color: ${(props) => props.theme.colors.background.main};
 `;
