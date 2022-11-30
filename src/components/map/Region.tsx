@@ -32,8 +32,6 @@ export default function Region({ path, tooltipData, data }: Props) {
 
   const value = dataPoint ? dataPoint[year] : undefined;
 
-  console.log(value);
-
   //each path defines the shape of a region in the map
   return (
     <RegionContainer

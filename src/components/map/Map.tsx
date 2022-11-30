@@ -14,6 +14,7 @@ export default function Map() {
   // step 1: load geoJSON and create tooltip
   const { mapData } = useMapTools();
 
+  const regionNamesInGerman = new Intl.DisplayNames(["de"], { type: "region" }); // needed cause the data is german
 
   // render map only when map data is fully loaded
   if (!mapData.loading) {
@@ -22,7 +23,7 @@ export default function Map() {
     const path = d3.geoPath().projection(setMapProjection(mapData.data));
     // for each geoJSON coordinate, compute and pass in the equivalent svg path
     const countries = mapData.data.features.map((data: any) => {
-      const region_name = data.properties["NAME"];
+      const region_name = regionNamesInGerman.of(data.properties.ISO2);
       const region_data = coffeeData.filter((d) => d.Region === region_name);
       return (
         <Region
