@@ -18,27 +18,17 @@ const RegionContainer = styled.path`
 interface Props {
   path: string;
   tooltipData: string;
-  data?: any;
+  value?: number;
 }
 
-export default function Region({ path, tooltipData, data }: Props) {
-  const year = 2019;
-  const dataType = "Durchschnittliches Volumen pro Kopf";
-  const dataName = "Kaffee";
-
-  const dataPoint = data.filter(
-    (d: any) => d.Diagram === dataType && d.Name === dataName
-  )[0];
-
-  const value = dataPoint ? dataPoint[year] : undefined;
-
+export default function Region({ path, tooltipData, value }: Props) {
   //each path defines the shape of a region in the map
   return (
     <RegionContainer
       d={path}
-      opacity={value ? 1 : 0.5}
+      style={{ opacity: value }}
       onMouseOver={() => {
-        handleMouseOver(value);
+        handleMouseOver(tooltipData);
       }}
       onMouseOut={handleMouseOut}
       onMouseMove={(event) => {
