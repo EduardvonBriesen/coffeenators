@@ -55,7 +55,7 @@ export default function Map() {
           key={data.properties.ISO2}
           path={path(data) || ""}
           tooltipData={region_name + ", " + region_value}
-          value={getFloat(region_value) / getFloat(max)}
+          value={getFloat(region_value) / getFloat(max) + 0.2}
         />
       );
     });
