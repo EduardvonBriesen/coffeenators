@@ -47,8 +47,8 @@ function Team() {
         />
         <TeamMember
           name="Yousri"
-          text="Faucibus etiam rhoncus velit lectus. Urna tellus viverra metus est. Amet varius auctor libero purus."
-          image={"../assets/team2.png"}
+          text="I am a Media Informatics student at LMU. When I'm not studying, I'm either designing or taking portraits. I don’t drink coffee, I eat it."
+          image={"../assets/yousri.png"}
         />
         <TeamMember
           name="Peiwen"
