@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import Map from '../components/map/Map';
+import DataSelection from '../components/DataSelection';
 
 const MapContainer = styled.div`
   display: flex;
@@ -17,6 +18,7 @@ function MapPage() {
   return (
     <MapContainer id="map">
       <Map />
+      <DataSelection />
     </MapContainer>
   );
 }
