@@ -22,14 +22,15 @@ export default function Map() {
 
   const [extrema, setExtrema] = useState({ min: 0, max: 0 });
   const [filteredData, setFilteredData] = useState<any[]>([]);
-  const years = [
-    2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023,
-    2024, 2025,
-  ];
 
   const regionNamesInGerman = new Intl.DisplayNames(["de"], { type: "region" }); // needed cause the data is german
- 
+
   useEffect(() => {
+    const years = [
+      2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023,
+      2024, 2025,
+    ];
+
     const filteredData = coffeeData.filter(
       (d: any) => d.Markt === market && d.Diagram === diagram && d.Name === name
     );

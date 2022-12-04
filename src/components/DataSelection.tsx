@@ -61,7 +61,7 @@ function DataSelection() {
   }, [market, diagram]);
 
   useEffect(() => {
-    market && diagram && name && setUnit(getUnit(market, diagram, names[0]));
+    market && diagram && name && setUnit(getUnit(market, diagram, name));
   }, [market, diagram, name]);
 
   return (
