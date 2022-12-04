@@ -1,0 +1,48 @@
+.horizontal-slider {
+    width: 100%;
+    max-width: 750px;
+    height: 1vh;
+    margin: auto;
+}
+.example-thumb {
+    cursor: pointer;
+    position: absolute;
+    z-index: 500;
+    background: #ffffff;
+    border: 5px solid #c02419;
+    border-radius: 100%;
+    display: block;
+    box-shadow: 0 0 2px 0 rgb(0 0 0 / 44%);
+}
+.example-thumb.active {
+background-color: grey;
+  }
+.example-track {
+ position: relative;
+ background: #ddd;
+}
+.example-track.example-track-0 {
+   background: #cc1616;
+}
+.horizontal-slider .example-track {
+ top: 20px;
+ height: 4px;
+ }
+.horizontal-slider .example-thumb {
+    top: 12px;
+    width: 10px;
+    outline: none;
+    height: 10px;
+    line-height: 38px;
+}
+.example-mark {
+    width: 1.5px;
+    height: 10px;
+    top: 16px;
+    background-color: rgb(59, 59, 59);
+    cursor: pointer;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin: 0px calc(19px);
+    bottom: calc(50% - 6px);
+}
