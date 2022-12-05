@@ -20,9 +20,6 @@ function MapPage() {
     <MapContainer id="map">
       <Map />
       <DataSelection />
-      {/*
-      <Slider />
-      */}
     </MapContainer>
   );
 }
