@@ -1,8 +1,9 @@
 import './Slider.css';
 import { useState, useEffect } from "react";
 import styled from 'styled-components';
-import { useSelector, useDispatch } from "react-redux";
 import { RootState } from "../../store";
+import { useSelector, useDispatch } from "react-redux";
+import coffeeData from "../../data/combined_data.json";
 
 {/*
 to do: import store and use useDispatch to get year
@@ -69,20 +70,35 @@ background-color: transparent;
 
 function Slider() {
     const [CurrentDate, setCurrentDate] = useState(2018);
+    const [averageNum, setAverageNum] = useState(0);
     const dispatcher = useDispatch();
+    const { region, market, diagram, name, year } = useSelector(
+      (state) => state.dataSelection
+    );
     
+    const filteredData = coffeeData.filter(
+      (d) => d.Region === "Europa" && d.Markt === "Kaffee" && d.Diagram === "Durchschnittliches Volumen pro Kopf" && d.Name === "Total"
+    );
 
     function changeDate(event) {
       setCurrentDate(event.target.value);
-      dispatcher(dataSelectionActions.setYear(e.target.value);
+      setAverageNum(filteredData.map((i) => i[CurrentDate]));
+    
      {/* 
      CurrentDate = document.getElementById("sliderDate").value;
       document.getElementById("output").value = CurrentDate + " average is: " + AverageOfYear;
      
      const dispatcher = useDispatch();
       dispatcher(dataSelectionActions.setYear(CurrentDate));
+
+      console.log(filteredData.map(d => {return d.Diagram}))
+      Markt;Diagram;Name;Einheit;
+      Kaffee;Durchschnittliches Volumen pro Kopf;Total
       */}
-      console.log(CurrentDate);
+     
+      console.log(filteredData.map((i) => i[CurrentDate]))
+        
+      
     }
     
 
@@ -97,7 +113,7 @@ function Slider() {
           <Label for="EndDate">2022</Label>
 
           </div>
-          <Text id="result">Average consumption in Europe in {CurrentDate}</Text>
+          <Text id="result">Average consumption of coffee in Europe in the year {CurrentDate}: {averageNum} kg per head</Text>
 
 
           <datalist id="steplist">
