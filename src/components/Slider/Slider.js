@@ -69,10 +69,12 @@ background-color: transparent;
 
 function Slider() {
     const [CurrentDate, setCurrentDate] = useState(2018);
+    const dispatcher = useDispatch();
+    
 
     function changeDate(event) {
-      setCurrentDate(event.target.value)
-      
+      setCurrentDate(event.target.value);
+      dispatcher(dataSelectionActions.setYear(e.target.value);
      {/* 
      CurrentDate = document.getElementById("sliderDate").value;
       document.getElementById("output").value = CurrentDate + " average is: " + AverageOfYear;
