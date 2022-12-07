@@ -94,6 +94,8 @@ function Slider() {
       console.log(filteredData.map(d => {return d.Diagram}))
       Markt;Diagram;Name;Einheit;
       Kaffee;Durchschnittliches Volumen pro Kopf;Total
+
+      MAYBE MORE INTERESTING: Europa;Kaffee;Umsatz;Total;Milliarden EUR (€);
       */}
      
       console.log(filteredData.map((i) => i[CurrentDate]))
