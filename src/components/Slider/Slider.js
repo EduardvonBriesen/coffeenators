@@ -1,12 +1,25 @@
 import './Slider.css';
+import { useState, useEffect } from "react";
 import styled from 'styled-components';
+import { useSelector, useDispatch } from "react-redux";
+import { RootState } from "../../store";
 
-var CurrentDate = 2018;
+{/*
+to do: import store and use useDispatch to get year
 
-function changeDate() {
-  CurrentDate = document.getElementById("sliderDate").value;
-  document.getElementById("output").value = CurrentDate;
-}
+function DataSelection() {
+  const dispatcher = useDispatch();
+  const { market, diagram, name } = useSelector(
+    (state: RootState) => state.dataSelection
+  );
+
+*/}
+
+
+var AverageOfYear = 0;
+
+
+
 
 const Text = styled.p`
   column-count: 1;
@@ -55,7 +68,23 @@ background-color: transparent;
 
 
 function Slider() {
-  
+    const [CurrentDate, setCurrentDate] = useState(2018);
+
+    function changeDate(event) {
+      setCurrentDate(event.target.value)
+      
+     {/* 
+     CurrentDate = document.getElementById("sliderDate").value;
+      document.getElementById("output").value = CurrentDate + " average is: " + AverageOfYear;
+     
+     const dispatcher = useDispatch();
+      dispatcher(dataSelectionActions.setYear(CurrentDate));
+      */}
+      console.log(CurrentDate);
+    }
+    
+
+
     return (<>
 
 
@@ -66,7 +95,7 @@ function Slider() {
           <Label for="EndDate">2022</Label>
 
           </div>
-          <Text id="result">Average consumption in Europe in <output id="output" value="2018"/></Text>
+          <Text id="result">Average consumption in Europe in {CurrentDate}</Text>
 
 
           <datalist id="steplist">
