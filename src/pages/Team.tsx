@@ -41,24 +41,25 @@ function Team() {
         }}
       >
         <TeamMember
-          name="Elisabeth"
-          text="Faucibus etiam rhoncus velit lectus. Urna tellus viverra metus est. Amet varius auctor libero purus."
-          image={"../assets/team1.png"}
+          name="Lizzy"
+          text="Currently, a student at the LMU Munich, studying Human Computer Interaction. Vibrating so fast you leave the visible spectrum is an acceptable side effect of having a very normal amount of coffee.
+          "
+          image={"../assets/lizzy.png"}
         />
         <TeamMember
           name="Yousri"
-          text="I am a Media Informatics student at LMU. When I'm not studying, I'm either designing or taking portraits. I don’t drink coffee, I eat it."
+          text="I am a Media Informatics student at LMU. When I'm not studying, I'm either designing or taking portraits. I don't drink coffee, I eat it."
           image={"../assets/yousri.png"}
         />
         <TeamMember
           name="Peiwen"
-          text="Faucibus etiam rhoncus velit lectus. Urna tellus viverra metus est. Amet varius auctor libero purus."
-          image={"../assets/team1.png"}
+          text="I am an Informatics student at LMU. I like to drink coffee in the morning and don't forget to add sugar."
+          image={"../assets/peiwen.png"}
         />
         <TeamMember
           name="Ronny"
-          text="Faucibus etiam rhoncus velit lectus. Urna tellus viverra metus est. Amet varius auctor libero purus."
-          image={"../assets/team2.png"}
+          text="I am a computer science student at LMU Munich. My inner peace is as strong as my resistance to coffee - I drink espresso before sleep."
+          image={"../assets/ronny.png"}
         />
         <TeamMember
           name="Eduard"
