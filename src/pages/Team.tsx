@@ -5,6 +5,7 @@ const TeamContainer = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: end;
+  align-items: flex-start; // I don't know why this doesn't work
   background-color: ${(props) => props.theme.colors.background.dark};
   width: 100vw;
   height: 100vh;
@@ -34,31 +35,36 @@ function Team() {
   return (
     <TeamContainer id="team">
       <Headline>We Are</Headline>
-      <TeamMemberContainer>
+      <TeamMemberContainer
+        style={{
+          alignItems: "flex-start",
+        }}
+      >
         <TeamMember
-          name="Elisabeth"
-          text="Faucibus etiam rhoncus velit lectus. Urna tellus viverra metus est. Amet varius auctor libero purus."
-          image={"../assets/team1.png"}
+          name="Lizzy"
+          text="Currently, a student at the LMU Munich, studying Human Computer Interaction. Vibrating so fast you leave the visible spectrum is an acceptable side effect of having a very normal amount of coffee.
+          "
+          image={"../assets/lizzy.png"}
         />
         <TeamMember
           name="Yousri"
-          text="Faucibus etiam rhoncus velit lectus. Urna tellus viverra metus est. Amet varius auctor libero purus."
-          image={"../assets/team2.png"}
+          text="I am a Media Informatics student at LMU. When I'm not studying, I'm either designing or taking portraits. I don't drink coffee, I eat it."
+          image={"../assets/yousri.png"}
         />
         <TeamMember
           name="Peiwen"
-          text="Faucibus etiam rhoncus velit lectus. Urna tellus viverra metus est. Amet varius auctor libero purus."
-          image={"../assets/team1.png"}
+          text="I am an Informatics student at LMU. I like to drink coffee in the morning and don't forget to add sugar."
+          image={"../assets/peiwen.png"}
         />
         <TeamMember
           name="Ronny"
-          text="Faucibus etiam rhoncus velit lectus. Urna tellus viverra metus est. Amet varius auctor libero purus."
-          image={"../assets/team2.png"}
+          text="I am a computer science student at LMU Munich. My inner peace is as strong as my resistance to coffee - I drink espresso before sleep."
+          image={"../assets/ronny.png"}
         />
         <TeamMember
           name="Eduard"
-          text="Faucibus etiam rhoncus velit lectus. Urna tellus viverra metus est. Amet varius auctor libero purus."
-          image={"../assets/team2.png"}
+          text="I am a Human Computer Interaction student at LMU. When I'm not studying, I'm making coffee. I'm a weird coffee person."
+          image={"../assets/eduard.png"}
         />
       </TeamMemberContainer>
     </TeamContainer>
