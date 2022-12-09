@@ -2,6 +2,7 @@ import styled from 'styled-components';
 import Map from '../components/map/Map';
 import DataSelection from '../components/DataSelection';
 import Legend from '../components/map/Legend';
+import Slider from "../components/Slider/Slider";
 
 const MapContainer = styled.div`
   display: flex;
@@ -21,6 +22,7 @@ function MapPage() {
       <Map />
       <Legend/>
       <DataSelection />
+      <Slider />
     </MapContainer>
   );
 }
