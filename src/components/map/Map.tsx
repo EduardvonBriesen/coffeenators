@@ -76,7 +76,7 @@ export default function Map() {
 
     return (
       <MapContainer>
-        <svg viewBox="130 -20 700 700">{countries}</svg>
+        <svg viewBox="130 -20 700 600">{countries}</svg>
       </MapContainer>
     );
   } else {
