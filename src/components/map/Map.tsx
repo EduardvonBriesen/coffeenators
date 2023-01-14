@@ -5,20 +5,22 @@ import { useMapTools } from "../../hooks/useMapTools";
 import { useSelector } from "react-redux";
 import { RootState } from "../../store";
 import Region from "./Region";
-import styled from "styled-components";
 import coffeeData from "../../data/combined_data.json";
+import styled from "styled-components";
 
-const MapContainer = styled.svg`
-  height: 50rem;
-  width: 50rem;
+const MapContainer = styled.div`
+  width: 100%;
+  height: 80%;
+  position: relative;
 `;
 
 export default function Map() {
-  // step 1: load geoJSON and create tooltip
   const { mapData } = useMapTools();
   const { market, diagram, name, year } = useSelector(
     (state: RootState) => state.dataSelection
   );
+
+  console.log(market, diagram, name, year);
 
   const [extrema, setExtrema] = useState({ min: 0, max: 0 });
   const [filteredData, setFilteredData] = useState<any[]>([]);
@@ -26,10 +28,7 @@ export default function Map() {
   const regionNamesInGerman = new Intl.DisplayNames(["de"], { type: "region" }); // needed cause the data is german
 
   useEffect(() => {
-    const years = [
-      2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023,
-      2024, 2025,
-    ];
+    const years = [2017, 2018, 2019, 2020, 2021, 2022];
 
     const filteredData = coffeeData.filter(
       (d: any) => d.Markt === market && d.Diagram === diagram && d.Name === name
@@ -77,7 +76,7 @@ export default function Map() {
 
     return (
       <MapContainer>
-        <g>{countries}</g>
+        <svg viewBox="130 -20 700 700">{countries}</svg>
       </MapContainer>
     );
   } else {

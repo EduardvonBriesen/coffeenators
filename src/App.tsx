@@ -10,8 +10,6 @@ const AppContainer = styled.div`
   font-family: "Work Sans";
   font-style: normal;
   font-weight: 500;
-  font-size: 36px;
-  line-height: 42px;
   color: ${(props) => props.theme.colors.dark};
   overflow: hidden;
 `;

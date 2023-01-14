@@ -8,9 +8,10 @@ interface DataSelectionState {
 }
 
 const initialState = {
-  market: undefined,
-  diagram: undefined,
-  name: undefined,
+  market: 'Kaffee',
+  diagram: 'Umsatzveränderung',
+  name: 'Total',
+  year: 2017
 } as DataSelectionState;
 
 const { actions, reducer } = createSlice({
