@@ -4,12 +4,12 @@ import TeamMember from "../components/TeamMember";
 const TeamContainer = styled.div`
   display: flex;
   flex-direction: column;
-  justify-content: end;
+  justify-content: center;
   align-items: flex-start; // I don't know why this doesn't work
   background-color: ${(props) => props.theme.colors.background.dark};
   width: 100vw;
   min-height: 100vh;
-  padding: 10%;
+  padding: 0 10%;
   box-sizing: border-box;
 `;
 
