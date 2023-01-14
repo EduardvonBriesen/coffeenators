@@ -10,10 +10,11 @@ const HeaderContainer = styled.nav`
   align-items: center;
   justify-content: space-between;
   width: 80%;
-  height: 100px;
+  height: 10vh;
   padding: 0 10%;
   backdrop-filter: blur(15px);
   /* box-shadow: 0 0 88px rgba(0,0,0,0.75) inset; */
+  font-size: 2rem;
 `;
 
 const Logo = styled.div`
@@ -22,8 +23,8 @@ const Logo = styled.div`
 `;
 
 const Icon = styled(CupIcon)`
-  height: 42px;
-  margin-right: 20px;
+  height: 2rem;
+  margin-right: 2rem;
 `;
 
 const LinkList = styled.ul`
@@ -39,7 +40,7 @@ const StyledLink = styled(Link)`
   cursor: default;
   color: ${(props) => props.theme.colors.dark};
   text-decoration: none;
-  margin: 0 10px;
+  margin: 0 1rem;
 
   &::after {
     position: absolute;

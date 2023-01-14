@@ -13,8 +13,8 @@ const AboutContainer = styled.div`
 
 const Headline = styled.h1`
   font-weight: 800;
-  font-size: 200px;
-  line-height: 200px;
+  font-size: 20vh;
+  line-height: 20vh;
   margin: 0;
 `;
 
@@ -23,8 +23,8 @@ const Text = styled.p`
   text-align: justify;
   max-width: 750px;
   font-weight: 400;
-  font-size: 24px;
-  line-height: 28px;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
 `;
 
 function About() {

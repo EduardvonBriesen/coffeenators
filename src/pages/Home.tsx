@@ -14,8 +14,8 @@ const HomeContainer = styled.div`
 
 const Headline = styled.h1`
   font-weight: 800;
-  font-size: 200px;
-  line-height: 200px;
+  font-size: 20vh;
+  line-height: 20vh;
   margin: 0;
 `;
 

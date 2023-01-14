@@ -8,15 +8,15 @@ const TeamContainer = styled.div`
   align-items: flex-start; // I don't know why this doesn't work
   background-color: ${(props) => props.theme.colors.background.dark};
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   padding: 10%;
   box-sizing: border-box;
 `;
 
 const Headline = styled.h1`
   font-weight: 800;
-  font-size: 200px;
-  line-height: 200px;
+  font-size: 20vh;
+  line-height: 20vh;
   margin: 0;
   color: ${(props) => props.theme.colors.primary};
 `;

@@ -13,18 +13,19 @@ const TeamMemberContainer = styled.div`
   align-items: center;
   box-sizing: border-box;
   width: 15rem;
+  padding: 1rem;
 `;
 
 const Image = styled.img`
-  width: 10rem;
+  width: 12vw;
   border-radius: 50%;
   background-color: ${(props) => props.theme.colors.background.main};
 `;
 
 const Name = styled.h2`
   font-weight: 600;
-  font-size: 32px;
-  line-height: 38px;
+  font-size: 2rem;
+  line-height: 2rem;
   text-align: center;
   color: ${(props) => props.theme.colors.primary};
   margin-bottom: 0;
@@ -32,8 +33,8 @@ const Name = styled.h2`
 
 const Text = styled.p`
   font-weight: 400;
-  font-size: 22px;
-  line-height: 26px;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
   text-align: center;
 `;
 
