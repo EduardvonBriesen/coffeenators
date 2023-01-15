@@ -8,20 +8,29 @@ import Bars from "./Bars";
 import coffeeData from "../../data/combined_data.json";
 
 const BarChartContainer = styled.div`
+  width: 100%;
+  height: 60%;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
-  width: 90%;
-  height: 30%;
+  justify-content: center;
+`;
+
+const SvgContainer = styled.div`
+  width: 100%;
+  height: 100%;
 
   svg {
-    background-color: #fff;
+    .tick,
+    .domain {
+      opacity: 0.5;
+      color: #72777b;
+    }
   }
 `;
 
 function BarChart() {
-  const { market, diagram, name } = useSelector(
+  const { market, diagram, name, title } = useSelector(
     (state: RootState) => state.dataSelection
   );
   const [data, setData] = useState<any[]>([]);
@@ -29,7 +38,7 @@ function BarChart() {
   const [height, setHeight] = useState(0);
   const [width, setWidth] = useState(0);
 
-  const margin = { top: 10, right: 0, bottom: 20, left: 30 };
+  const margin = { top: 10, right: 15, bottom: 20, left: 15 };
   const ref = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -71,17 +80,20 @@ function BarChart() {
     .nice();
 
   return (
-    <BarChartContainer ref={ref}>
-      <svg
-        width={width + margin.left + margin.right}
-        height={height + margin.top + margin.bottom}
-      >
-        <g transform={`translate(${margin.left}, ${margin.top})`}>
-          <AxisBottom scale={scaleX} transform={`translate(0, ${height})`} />
-          <AxisLeft scale={scaleY} width={width} />
-          <Bars data={data} height={height} scaleX={scaleX} scaleY={scaleY} />
-        </g>
-      </svg>
+    <BarChartContainer>
+      {title} in Europe
+      <SvgContainer ref={ref}>
+        <svg
+          width={width + margin.left + margin.right}
+          height={height + margin.top + margin.bottom}
+        >
+          <g transform={`translate(${margin.left}, ${margin.top})`}>
+            <AxisBottom scale={scaleX} transform={`translate(0, ${height})`} />
+            <AxisLeft scale={scaleY} width={width} />
+            <Bars data={data} height={height} scaleX={scaleX} scaleY={scaleY} />
+          </g>
+        </svg>
+      </SvgContainer>
     </BarChartContainer>
   );
 }

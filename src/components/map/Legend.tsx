@@ -35,7 +35,6 @@ const LegendItemContainer = styled.div`
 `;
 
 const Unit = styled.span`
-  font-size: 1.5vh;
   padding-bottom: 0.5vh;
 `;
 

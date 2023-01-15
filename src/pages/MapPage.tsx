@@ -30,9 +30,15 @@ const Accent = styled.span`
 `;
 
 const InfoContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5%;
+
   grid-column: 1;
   grid-row: 2 / 3;
-  background-color: white;
+  background-color: #FFFDF9;
   border-radius: 10px;
 `;
 
@@ -43,7 +49,7 @@ const MapContainer = styled.div`
 
   grid-column: 2 / 3;
   grid-row: 1 / 3;
-  background-color: white;
+  background-color: #FFFDF9;
   border-radius: 10px;
 `;
 
