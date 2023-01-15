@@ -24,8 +24,8 @@ const Image = styled.img`
 
 const Name = styled.h2`
   font-weight: 600;
-  font-size: 2rem;
-  line-height: 2rem;
+  font-size: 4vh;
+  line-height: 4vh;
   text-align: center;
   color: ${(props) => props.theme.colors.primary};
   margin-bottom: 0;
@@ -33,8 +33,8 @@ const Name = styled.h2`
 
 const Text = styled.p`
   font-weight: 400;
-  font-size: 1.2rem;
-  line-height: 1.5rem;
+  font-size: 2vh;
+  line-height: 2vh;
   text-align: center;
 `;
 

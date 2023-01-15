@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 import styled from "styled-components";
 import {
   handleMouseOver,
@@ -6,10 +7,11 @@ import {
 } from "../../helpers/handleTooltip";
 import { getColor } from "../../helpers/getColor";
 
-const RegionContainer = styled.path`
-  fill: ${(props) => props.theme.colors.secondary};
+const RegionContainer = styled("path")<{ fill: string }>`
   stroke: ${(props) => props.theme.colors.background.main};
   stroke-width: 1px;
+  fill: ${(props) => props.fill};
+  transition: fill 0.2s ease-in-out;
   &:hover {
     cursor: pointer;
     fill: ${(props) => props.theme.colors.primary};
@@ -27,12 +29,16 @@ interface Props {
 export default function Region({ path, tooltipData, value, min, max }: Props) {
   //each path defines the shape of a region in the map
 
-  const fill = String(getColor(value, min, max));
+  const [fill, setFill] = useState("white");
+
+  useEffect(() => {
+    setFill(String(getColor(value, min, max)));
+  }, [value, min, max]);
 
   return (
     <RegionContainer
       d={path}
-      style={{ fill: fill }}
+      fill={fill}
       onMouseOver={() => {
         handleMouseOver(tooltipData);
       }}
