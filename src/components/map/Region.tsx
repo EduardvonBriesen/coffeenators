@@ -1,11 +1,7 @@
 import { useState, useEffect } from "react";
 import styled from "styled-components";
-import {
-  handleMouseOver,
-  handleMouseOut,
-  handleMouseMove,
-} from "../../helpers/handleTooltip";
 import { getColor } from "../../helpers/getColor";
+import Tooltip from "@mui/material/Tooltip";
 
 const RegionContainer = styled("path")<{ fill: string }>`
   stroke: ${(props) => props.theme.colors.background.main};
@@ -36,16 +32,8 @@ export default function Region({ path, tooltipData, value, min, max }: Props) {
   }, [value, min, max]);
 
   return (
-    <RegionContainer
-      d={path}
-      fill={fill}
-      onMouseOver={() => {
-        handleMouseOver(tooltipData);
-      }}
-      onMouseOut={handleMouseOut}
-      onMouseMove={(event) => {
-        handleMouseMove(event);
-      }}
-    />
+    <Tooltip title={tooltipData} placement="top" followCursor>
+      <RegionContainer d={path} fill={fill} />
+    </Tooltip>
   );
 }
