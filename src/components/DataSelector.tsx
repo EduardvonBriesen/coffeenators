@@ -1,5 +1,6 @@
- import { useDispatch } from "react-redux";
+import { useDispatch } from "react-redux";
 import { dataSelectionActions } from "../store/data-selection-slice";
+import styled from "styled-components";
 
 const changeOfSales = {
   market: "Kaffee",
@@ -13,26 +14,45 @@ const sales = {
   name: "Total",
 };
 
+const SelectContainer = styled.div`
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  padding: 1rem;
+  box-sizing: border-box;
+`;
+
+const Select = styled.select`
+  width: 100%;
+  border: none;
+  background-color: ${(props) => props.theme.colors.background.main};
+  font-size: 2vh;
+  padding: 1vh;
+  border-radius: 1vh;
+  outline: none;
+`;
+
 function DataSelector() {
   const dispatcher = useDispatch();
 
   return (
-    <>
-      <div>
-        <select
-          onChange={(e) => {
-            if (e.target.value === "changeOfSales")
-              dispatcher(dataSelectionActions.setSelection(changeOfSales));
-            else if (e.target.value === "sales")
-              dispatcher(dataSelectionActions.setSelection(sales));
-            else dispatcher(dataSelectionActions.setSelection({}));
-          }}
-        >
-          <option value="changeOfSales">Change of Sales</option>
-          <option value="sales">Average Sales per Person</option>
-        </select>
-      </div>
-    </>
+    <SelectContainer>
+      <Select
+        onChange={(e) => {
+          if (e.target.value === "changeOfSales")
+            dispatcher(dataSelectionActions.setSelection(changeOfSales));
+          else if (e.target.value === "sales")
+            dispatcher(dataSelectionActions.setSelection(sales));
+          else dispatcher(dataSelectionActions.setSelection({}));
+        }}
+      >
+        <option value="changeOfSales">Change of Sales</option>
+        <option value="sales">Average Sales per Person</option>
+      </Select>
+    </SelectContainer>
   );
 }
 
