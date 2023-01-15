@@ -20,7 +20,6 @@ const SelectContainer = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: top;
-  padding: 1rem;
   box-sizing: border-box;
 `;
 
