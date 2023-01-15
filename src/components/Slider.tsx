@@ -1,10 +1,10 @@
 import styled from "styled-components";
 import { useSelector, useDispatch } from "react-redux";
-import { RootState } from "../../store";
-import { dataSelectionActions } from "../../store/data-selection-slice";
+import { RootState } from "../store";
+import { dataSelectionActions } from "../store/data-selection-slice";
 import { Slider as MuiSlider } from "@mui/material";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
-import { theme } from "../../theme";
+import { theme } from "../theme";
 
 const muiTheme = createTheme({
   palette: {

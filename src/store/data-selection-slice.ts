@@ -17,10 +17,8 @@ const getExtrema = (market: string, diagram: string, name: string) => {
     )
     .flat();
 
-  const min = d3.min(data) || 0;
-  const max = d3.max(data) || 0;
-
-  console.log({ min, max });
+  const min = Math.floor(d3.min(data) || 0);
+  const max = Math.ceil(d3.max(data) || 0);
 
   return { min, max };
 };

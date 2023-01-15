@@ -1,7 +1,8 @@
 import styled from "styled-components";
 import Map from "../components/map/Map";
-import Slider from "../components/Slider/Slider";
+import Slider from "../components/Slider";
 import DataSelector from "../components/DataSelector";
+import BarChart from "../components/barChart/BarChart";
 
 const MapPageContainer = styled.div`
   display: grid;
@@ -55,6 +56,7 @@ function MapPage() {
       </Headline>
       <InfoContainer>
         <DataSelector />
+        <BarChart />
       </InfoContainer>
       <MapContainer>
         <Map />
