@@ -2,69 +2,24 @@ import styled from "styled-components";
 import { useSelector, useDispatch } from "react-redux";
 import { RootState } from "../../store";
 import { dataSelectionActions } from "../../store/data-selection-slice";
+import { Slider as MuiSlider } from "@mui/material";
+import { createTheme, ThemeProvider } from "@mui/material/styles";
+import { theme } from "../../theme";
 
-const SlderContainer = styled.div`
+const muiTheme = createTheme({
+  palette: {
+    primary: {
+      main: theme.colors.primary,
+    },
+  },
+});
+
+const SliderContainer = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   width: 100%;
-
-  /*********** Baseline, reset styles ***********/
-  & input[type="range"] {
-    -webkit-appearance: none;
-    appearance: none;
-    background: transparent;
-    cursor: pointer;
-    width: 90%;
-  }
-
-  /* Removes default focus */
-  & input[type="range"]:focus {
-    outline: none;
-  }
-
-  /******** Chrome, Safari, Opera and Edge Chromium styles ********/
-  /* slider track */
-  & input[type="range"]::-webkit-slider-runnable-track {
-    background-color: #ededed;
-    border-radius: 0.5rem;
-    height: 0.5rem;
-  }
-
-  /* slider thumb */
-  & input[type="range"]::-webkit-slider-thumb {
-    -webkit-appearance: none; /* Override default look */
-    appearance: none;
-    margin-top: -4px; /* Centers thumb on the track */
-    background-color: ${(props) => props.theme.colors.primary};
-    border-radius: 0.5rem;
-    height: 1rem;
-    width: 1rem;
-  }
-  /*********** Firefox styles ***********/
-  /* slider track */
-  & input[type="range"]::-moz-range-track {
-    background-color: #ededed;
-    border-radius: 0.5rem;
-    height: 0.5rem;
-  }
-
-  /* slider thumb */
-  & input[type="range"]::-moz-range-thumb {
-    background-color: ${(props) => props.theme.colors.primary};
-    border: none; /*Removes extra border that FF applies*/
-    border-radius: 0.5rem;
-    height: 1rem;
-    width: 1rem;
-  }
-
-  & datalist {
-    display: flex;
-    width: 94%;
-    justify-content: space-between;
-    padding-top: 0px;
-  }
 `;
 
 export default function Slider() {
@@ -72,25 +27,31 @@ export default function Slider() {
   const { year } = useSelector((state: RootState) => state.dataSelection);
 
   return (
-    <SlderContainer>
-      <input
-        type="range"
-        min="2017"
-        max="2022"
-        list="steplist"
-        value={year}
-        onChange={(e) => {
-          dispatcher(dataSelectionActions.setYear(e.target.value));
-        }}
-      />
-      <datalist id="steplist">
-        <option>2017</option>
-        <option>2018</option>
-        <option>2019</option>
-        <option>2020</option>
-        <option>2021</option>
-        <option>2022</option>
-      </datalist>
-    </SlderContainer>
+    <SliderContainer>
+      <ThemeProvider theme={muiTheme}>
+        <MuiSlider
+          value={year}
+          onChange={(e, value) => {
+            dispatcher(dataSelectionActions.setYear(value as number));
+          }}
+          min={2017}
+          max={2022}
+          step={1}
+          aria-label="Year"
+          marks={
+            [
+              { value: 2017, label: "2017" },
+              { value: 2018, label: "2018" },
+              { value: 2019, label: "2019" },
+              { value: 2020, label: "2020" },
+              { value: 2021, label: "2021" },
+              { value: 2022, label: "2022" },
+            ] as any
+          }
+          color="primary"
+          sx={{ width: "90%" }}
+        />
+      </ThemeProvider>
+    </SliderContainer>
   );
 }
