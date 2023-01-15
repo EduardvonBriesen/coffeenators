@@ -1,8 +1,11 @@
 import { useRef, useEffect, useState } from "react";
 import { scaleBand, scaleLinear } from "d3";
+import { useSelector } from "react-redux";
+import { RootState } from "../../store";
 import styled from "styled-components";
 import { AxisBottom, AxisLeft } from "./Axes";
 import Bars from "./Bars";
+import coffeeData from "../../data/combined_data.json";
 
 const BarChartContainer = styled.div`
   display: flex;
@@ -10,7 +13,7 @@ const BarChartContainer = styled.div`
   justify-content: center;
   align-items: center;
   width: 90%;
-  height: 60%;
+  height: 30%;
 
   svg {
     background-color: #fff;
@@ -18,12 +21,10 @@ const BarChartContainer = styled.div`
 `;
 
 function BarChart() {
-  const data = [
-    { label: "Apples", value: 100 },
-    { label: "Bananas", value: 200 },
-    { label: "Oranges", value: 50 },
-    { label: "Kiwis", value: 150 },
-  ];
+  const { market, diagram, name } = useSelector(
+    (state: RootState) => state.dataSelection
+  );
+  const [data, setData] = useState<any[]>([]);
 
   const [height, setHeight] = useState(0);
   const [width, setWidth] = useState(0);
@@ -36,12 +37,36 @@ function BarChart() {
     setWidth((ref.current?.clientWidth || 0) - margin.left - margin.right);
   }, []);
 
+  useEffect(() => {
+    const years = ["2017", "2018", "2019", "2020", "2021", "2022"];
+    const filteredData = coffeeData.filter(
+      (d: any) =>
+        d.Markt === market &&
+        d.Diagram === diagram &&
+        d.Name === name &&
+        d.Region === "Europa"
+    )[0] as any;
+
+    const data = years.map((year: string) => {
+      return {
+        label: year,
+        value: parseFloat(String(filteredData[year]).replace(",", ".")),
+      };
+    });
+    setData(data);
+  }, [market, diagram, name]);
+
   const scaleX = scaleBand()
     .domain(data.map(({ label }) => label))
     .range([0, width])
     .padding(0.5);
   const scaleY = scaleLinear()
-    .domain([0, Math.max(...data.map(({ value }) => value))])
+    .domain([
+      Math.min(...data.map(({ value }) => value)) < 0
+        ? Math.min(...data.map(({ value }) => value))
+        : 0,
+      Math.max(...data.map(({ value }) => value)),
+    ])
     .range([height, 0]);
 
   return (

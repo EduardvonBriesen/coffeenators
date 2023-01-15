@@ -21,8 +21,6 @@ export default function Map() {
     (state: RootState) => state.dataSelection
   );
 
-  console.log(market, diagram, name, year);
-
   const [filteredData, setFilteredData] = useState<any[]>([]);
 
   const regionNamesInGerman = new Intl.DisplayNames(["de"], { type: "region" }); // needed cause the data is german
