@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import { getColor } from "../../helpers/getColor";
-import coffeeData from "../../data/combined_data.json";
 
 interface Props {
   min: number;
