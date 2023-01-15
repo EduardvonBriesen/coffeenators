@@ -37,8 +37,8 @@ function Home() {
         Visualizing <Accent>Coffee Data</Accent>
       </Headline>
       <SubHeadline>
-        Mauris massa mollis volutpat ornare platea commodo blandit. Euismod
-        interdum pretium neque tellus bibendum amet.
+        Uncover the hidden effects of the COVID-19 pandemic on the European
+        coffee market with our interactive map visualization.
       </SubHeadline>
     </HomeContainer>
   );

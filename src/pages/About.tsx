@@ -7,7 +7,7 @@ const AboutContainer = styled.div`
   background-color: ${(props) => props.theme.colors.background.main};
   width: 100vw;
   height: 100vh;
-  padding: 10%;
+  padding: 10% 10% 5% 10%;
   box-sizing: border-box;
 `;
 
@@ -21,7 +21,7 @@ const Headline = styled.h1`
 const Text = styled.p`
   column-count: 2;
   text-align: justify;
-  max-width: 750px;
+  max-width: 50vw;
   font-weight: 400;
   font-size: 1.2rem;
   line-height: 1.5rem;
@@ -32,16 +32,18 @@ function About() {
     <AboutContainer id="about">
       <Headline>The Project </Headline>
       <Text>
-        Orci semper nec ut neque donec urna. Iaculis facilisis purus ut
-        tristique nisi scelerisque lectus. Lacus ultrices ipsum sagittis
-        consequat sed vehicula pretium. Facilisi amet quis pharetra urna.
-        Gravida massa egestas aenean fringilla facilisi est. Quisque fusce
-        varius venenatis enim. Ullamcorper urna ut sit hac pellentesque quis.
-        Quam ultrices egestas ac morbi mi viverra. Elementum eget diam nec
-        tincidunt velit. Arcu sagittis dolor mauris posuere urna nam. Congue
-        hendrerit libero nec viverra a at. Dolor nisl aliquet lobortis malesuada
-        duis amet. Mauris faucibus eu maecenas egestas sed. Amet quis elit
-        euismod sed. Odio suspendisse bibendum pharetra facilisis erat.
+        Our project aims to visualize the effects of the COVID-19 pandemic on
+        the coffee market in Europe through a map of Europe. The map allows
+        users to explore and compare the coffee consumption and revenue of
+        various European countries between 2018 and 2022 using data from
+        Statista. The main research question is whether the pandemic has had an
+        effect on the European coffee industry. We may also investigate which
+        countries were most affected. The coffee market is an important aspect
+        of the European economy, and the pandemic has greatly impacted it. The
+        decline in sales in cafes and restaurants has resulted in a decrease in
+        revenue for the coffee industry. With this visualization, we hope to
+        provide a clear picture of the pandemic's impact on the European coffee
+        market.
       </Text>
     </AboutContainer>
   );

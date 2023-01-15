@@ -10,7 +10,7 @@ const MapPageContainer = styled.div`
   background-color: ${(props) => props.theme.colors.background.main};
   width: 100vw;
   height: 100vh;
-  padding: 10% 10% 5% 10%;
+  padding: 12vh 10% 5% 10%;
   box-sizing: border-box;
 `;
 

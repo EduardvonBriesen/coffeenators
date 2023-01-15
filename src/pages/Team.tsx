@@ -9,7 +9,7 @@ const TeamContainer = styled.div`
   background-color: ${(props) => props.theme.colors.background.dark};
   width: 100vw;
   min-height: 100vh;
-  padding: 10% 10% 5% 10%;
+  padding: 12vh 10% 5% 10%;
   box-sizing: border-box;
 `;
 
