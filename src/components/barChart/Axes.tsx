@@ -1,11 +1,5 @@
 import { useEffect, useRef } from "react";
-import {
-  axisBottom,
-  axisLeft,
-  ScaleBand,
-  ScaleLinear,
-  select,
-} from "d3";
+import { axisBottom, axisLeft, ScaleBand, ScaleLinear, select } from "d3";
 
 interface AxisBottomProps {
   scale: ScaleBand<string>;
@@ -14,6 +8,7 @@ interface AxisBottomProps {
 
 interface AxisLeftProps {
   scale: ScaleLinear<number, number, never>;
+  width: number;
 }
 
 function AxisBottom({ scale, transform }: AxisBottomProps) {
@@ -28,14 +23,16 @@ function AxisBottom({ scale, transform }: AxisBottomProps) {
   return <g ref={ref} transform={transform} />;
 }
 
-function AxisLeft({ scale }: AxisLeftProps) {
+function AxisLeft({ scale, width }: AxisLeftProps) {
   const ref = useRef<SVGGElement>(null);
 
   useEffect(() => {
     if (ref.current) {
-      select(ref.current).call(axisLeft(scale));
+      select(ref.current)
+        .transition()
+        .call(axisLeft(scale).tickSize(-width).ticks(5));
     }
-  }, [scale]);
+  }, [scale, width]);
 
   return <g ref={ref} />;
 }

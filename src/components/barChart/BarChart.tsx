@@ -67,7 +67,8 @@ function BarChart() {
         : 0,
       Math.max(...data.map(({ value }) => value)),
     ])
-    .range([height, 0]);
+    .range([height, 0])
+    .nice();
 
   return (
     <BarChartContainer ref={ref}>
@@ -77,7 +78,7 @@ function BarChart() {
       >
         <g transform={`translate(${margin.left}, ${margin.top})`}>
           <AxisBottom scale={scaleX} transform={`translate(0, ${height})`} />
-          <AxisLeft scale={scaleY} />
+          <AxisLeft scale={scaleY} width={width} />
           <Bars data={data} height={height} scaleX={scaleX} scaleY={scaleY} />
         </g>
       </svg>

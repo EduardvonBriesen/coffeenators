@@ -27,7 +27,6 @@ const getUnit = (market: string, diagram: string) => {
   const filteredData = coffeeData.filter(
     (d: any) => d.Markt === market && d.Diagram === diagram
   );
-  console.log(filteredData[0].Einheit);
   return filteredData[0].Einheit;
 };
 
