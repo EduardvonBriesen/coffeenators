@@ -38,7 +38,7 @@ interface DataSelectionState {
   diagram: string;
   name: string;
   year: number;
-  unit: string;
+  title: string;
   extrema: {
     min: number;
     max: number;
@@ -50,27 +50,21 @@ const initialState = {
   diagram: "Umsatzveränderung",
   name: "Total",
   year: 2017,
-  unit: getUnit("Kaffee", "Umsatzveränderung"),
-  extrema: { min: -40, max: 40 }, //getExtrema("Kaffee", "Umsatzveränderung", "Total"),
+  title: `Umsatzveränderung in ${getUnit("Kaffee", "Umsatzveränderung")}`,
+  extrema: getExtrema("Kaffee", "Umsatzveränderung", "Total"),
 } as DataSelectionState;
 
 const { actions, reducer } = createSlice({
   name: "dataSelection",
   initialState,
   reducers: {
-    setMarket(state, action) {
-      state.market = action.payload;
-      state.extrema = getExtrema(action.payload, state.diagram, state.name);
-      state.unit = getUnit(action.payload, state.diagram);
-    },
-    setDiagram(state, action) {
-      state.diagram = action.payload;
-      state.extrema = getExtrema(state.market, action.payload, state.name);
-      state.unit = getUnit(state.market, action.payload);
-    },
-    setName(state, action) {
-      state.name = action.payload;
-      state.extrema = getExtrema(state.market, state.diagram, action.payload);
+    setSelection(state, action) {
+      const { market, diagram, name } = action.payload;
+      state.market = market;
+      state.diagram = diagram;
+      state.name = name;
+      state.title = `${diagram} in ${getUnit(market, diagram)}`;
+      state.extrema = getExtrema(market, diagram, name);
     },
     setYear(state, action) {
       state.year = action.payload;

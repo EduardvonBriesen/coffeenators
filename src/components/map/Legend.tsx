@@ -1,5 +1,7 @@
 import styled from "styled-components";
 import { getColor } from "../../helpers/getColor";
+import { useSelector } from "react-redux";
+import { RootState } from "../../store"; 
 
 interface Props {
   min: number;
@@ -59,14 +61,28 @@ function Legend({ min, max }: Props) {
     );
   };
 
+  const title = useSelector((state: RootState) => state.dataSelection.title);
+
+  const positiveLegend = [
+    <LegendItem value={max} min={min} max={max} />,
+    <LegendItem value={max * 0.75} min={min} max={max} />,
+    <LegendItem value={max * 0.5} min={min} max={max} />,
+    <LegendItem value={max * 0.25} min={min} max={max} />,
+    <LegendItem value={0} min={min} max={max} />,
+  ];
+
+  const negativeLegend = [
+    <LegendItem value={max} min={min} max={max} />,
+    <LegendItem value={max / 2} min={min} max={max} />,
+    <LegendItem value={0} min={min} max={max} />,
+    <LegendItem value={min / 2} min={min} max={max} />,
+    <LegendItem value={min} min={min} max={max} />,
+  ];
+
   return (
     <LegendContainer>
-      <Unit>% of Change in sales</Unit>
-      <LegendItem value={max} min={min} max={max} />
-      <LegendItem value={max / 2} min={min} max={max} />
-      <LegendItem value={0} min={min} max={max} />
-      <LegendItem value={min / 2} min={min} max={max} />
-      <LegendItem value={min} min={min} max={max} />
+      <Unit>{title}</Unit>
+      {min >= 0 ? positiveLegend : negativeLegend}
     </LegendContainer>
   );
 }
