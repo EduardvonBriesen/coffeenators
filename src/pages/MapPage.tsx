@@ -36,6 +36,10 @@ const InfoContainer = styled.div`
 `;
 
 const MapContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
   grid-column: 2 / 3;
   grid-row: 1 / 3;
   background-color: white;
@@ -54,7 +58,7 @@ function MapPage() {
       <MapContainer>
         <Map />
         <Slider />
-        <Legend />
+        {/* <Legend /> */}
       </MapContainer>
     </MapPageContainer>
   );

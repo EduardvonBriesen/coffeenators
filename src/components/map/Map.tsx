@@ -16,34 +16,21 @@ const MapContainer = styled.div`
 
 export default function Map() {
   const { mapData } = useMapTools();
-  const { market, diagram, name, year } = useSelector(
+  const { market, diagram, name, year, extrema } = useSelector(
     (state: RootState) => state.dataSelection
   );
 
   console.log(market, diagram, name, year);
 
-  const [extrema, setExtrema] = useState({ min: 0, max: 0 });
   const [filteredData, setFilteredData] = useState<any[]>([]);
 
   const regionNamesInGerman = new Intl.DisplayNames(["de"], { type: "region" }); // needed cause the data is german
 
   useEffect(() => {
-    const years = [2017, 2018, 2019, 2020, 2021, 2022];
-
     const filteredData = coffeeData.filter(
       (d: any) => d.Markt === market && d.Diagram === diagram && d.Name === name
     );
     setFilteredData(filteredData);
-
-    // find min and max values for the color scale over all years
-    const min = d3.min(
-      years.map((year) => d3.min(filteredData, (d: any) => d[year]))
-    );
-    const max =
-      d3.max(years.map((year) => d3.max(filteredData, (d: any) => d[year]))) ||
-      "1";
-
-    setExtrema({ min, max });
   }, [market, diagram, name]);
 
   function getFloat(value: string | number) {
@@ -69,7 +56,9 @@ export default function Map() {
           key={data.properties.ISO2}
           path={path(data) || ""}
           tooltipData={region_name + ", " + region_value}
-          value={getFloat(region_value) / getFloat(extrema.max) + 0.2}
+          value={getFloat(region_value)}
+          min={extrema.min}
+          max={extrema.max}
         />
       );
     });

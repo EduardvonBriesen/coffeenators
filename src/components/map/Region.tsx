@@ -4,6 +4,7 @@ import {
   handleMouseOut,
   handleMouseMove,
 } from "../../helpers/handleTooltip";
+import { getColor } from "../../helpers/getColor";
 
 const RegionContainer = styled.path`
   fill: ${(props) => props.theme.colors.secondary};
@@ -18,15 +19,20 @@ const RegionContainer = styled.path`
 interface Props {
   path: string;
   tooltipData: string;
-  value?: number;
+  value: number;
+  min: number;
+  max: number;
 }
 
-export default function Region({ path, tooltipData, value }: Props) {
+export default function Region({ path, tooltipData, value, min, max }: Props) {
   //each path defines the shape of a region in the map
+
+  const fill = getColor(value, min, max);
+
   return (
     <RegionContainer
       d={path}
-      style={{ opacity: value }}
+      style={{ fill: fill }}
       onMouseOver={() => {
         handleMouseOver(tooltipData);
       }}
