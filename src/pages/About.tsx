@@ -23,8 +23,8 @@ const Text = styled.p`
   text-align: justify;
   max-width: 50vw;
   font-weight: 400;
-  font-size: 1.2rem;
-  line-height: 1.5rem;
+  font-size: 2vh;
+  line-height: 2.5vh;
 `;
 
 function About() {

@@ -26,7 +26,9 @@ export default function Map() {
   const [filteredData, setFilteredData] = useState<any[]>([]);
 
   const regionNamesInGerman = new Intl.DisplayNames(["de"], { type: "region" }); // needed cause the data is german
-  const regionNamesInEnglish = new Intl.DisplayNames(["en"], { type: "region" }); 
+  const regionNamesInEnglish = new Intl.DisplayNames(["en"], {
+    type: "region",
+  });
 
   useEffect(() => {
     const filteredData = coffeeData.filter(
@@ -50,9 +52,11 @@ export default function Map() {
     // for each geoJSON coordinate, compute and pass in the equivalent svg path
     const countries = mapData.data.features.map((data: any) => {
       const region_name = regionNamesInGerman.of(data.properties.ISO2) || "";
-      const region_name_en = regionNamesInEnglish.of(data.properties.ISO2) || "";
+      const region_name_en =
+        regionNamesInEnglish.of(data.properties.ISO2) || "";
       const region_values = filteredData.find((d) => d.Region === region_name);
-      const region_value = region_values ? region_values[year + ""] + "" : "0";
+      if (!region_values) return null;
+      const region_value = region_values[year + ""] + "";
 
       return (
         <Region

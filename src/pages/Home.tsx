@@ -24,10 +24,10 @@ const Accent = styled.span`
 `;
 
 const SubHeadline = styled.h2`
-  max-width: 750px;
+  max-width: 70%;
   font-weight: 400;
-  font-size: 24px;
-  line-height: 28px;
+  font-size: 3vh;
+  line-height: 3vh;
 `;
 
 function Home() {
