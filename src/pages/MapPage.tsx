@@ -1,6 +1,5 @@
 import styled from "styled-components";
 import Map from "../components/map/Map";
-import Legend from "../components/map/Legend";
 import Slider from "../components/Slider/Slider";
 
 const MapPageContainer = styled.div`
