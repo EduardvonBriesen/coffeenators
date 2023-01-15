@@ -5,6 +5,7 @@ import { useMapTools } from "../../hooks/useMapTools";
 import { useSelector } from "react-redux";
 import { RootState } from "../../store";
 import Region from "./Region";
+import Legend from "./Legend";
 import coffeeData from "../../data/combined_data.json";
 import styled from "styled-components";
 
@@ -65,6 +66,7 @@ export default function Map() {
 
     return (
       <MapContainer>
+        <Legend min={extrema.min} max={extrema.max} />
         <svg viewBox="130 -20 700 600">{countries}</svg>
       </MapContainer>
     );

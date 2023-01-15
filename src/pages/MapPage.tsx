@@ -57,7 +57,6 @@ function MapPage() {
       <MapContainer>
         <Map />
         <Slider />
-        {/* <Legend /> */}
       </MapContainer>
     </MapPageContainer>
   );
