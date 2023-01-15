@@ -51,7 +51,7 @@ const initialState = {
   name: "Total",
   year: 2017,
   unit: getUnit("Kaffee", "Umsatzveränderung"),
-  extrema: { min: -40, max: 30 }, //getExtrema("Kaffee", "Umsatzveränderung", "Total"),
+  extrema: { min: -40, max: 40 }, //getExtrema("Kaffee", "Umsatzveränderung", "Total"),
 } as DataSelectionState;
 
 const { actions, reducer } = createSlice({
