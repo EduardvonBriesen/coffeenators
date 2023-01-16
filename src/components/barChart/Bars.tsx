@@ -1,4 +1,5 @@
 import { ScaleBand, ScaleLinear } from "d3";
+import Tooltip from "@mui/material/Tooltip";
 
 interface BarsProps {
   data: { label: string; value: number }[];
@@ -40,7 +41,15 @@ function Bars({ data, height, scaleX, scaleY }: BarsProps) {
     }
   };
 
-  return <>{data.map(({ value, label }) => Bar(value, label))}</>;
+  return (
+    <>
+      {data.map(({ value, label }) => (
+        <Tooltip title={value} placement="top">
+          {Bar(value, label)}
+        </Tooltip>
+      ))}
+    </>
+  );
 }
 
 export default Bars;
