@@ -48,6 +48,7 @@ interface DataSelectionState {
 }
 
 const initialState = {
+  unit: getUnit(selectionConfig[0].selector.market, selectionConfig[0].selector.diagram),
   ...selectionConfig[0],
   year: 2017,
 } as DataSelectionState;
@@ -61,7 +62,7 @@ const { actions, reducer } = createSlice({
       const config = selectionConfig[index];
       state.selector = config.selector;
       state.title = config.title;
-      state.unit = config.unit;
+      state.unit = config.unit || getUnit(config.selector.market, config.selector.diagram);
       state.facts = config.facts;
       state.extrema =
         config.extrema ||

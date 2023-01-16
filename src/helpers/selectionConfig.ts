@@ -5,7 +5,7 @@ export interface ISelectionConfig {
     name: string;
   };
   title: string;
-  unit: string;
+  unit?: string;
   extrema?: {
     min: number;
     max: number;
@@ -39,7 +39,7 @@ export const selectionConfig: ISelectionConfig[] = [
       name: "Total",
     },
     title: "Average Sales per Head",
-    unit: "%",
+    unit: "€",
     extrema: {
       min: 0,
       max: 800,

@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { getColor } from "../../helpers/getColor";
 import { useSelector } from "react-redux";
-import { RootState } from "../../store"; 
+import { RootState } from "../../store";
 
 interface Props {
   min: number;
@@ -60,7 +60,9 @@ function Legend({ min, max }: Props) {
     );
   };
 
-  const title = useSelector((state: RootState) => state.dataSelection.title);
+  const { title, unit } = useSelector(
+    (state: RootState) => state.dataSelection
+  );
 
   const positiveLegend = [
     <LegendItem value={max} min={min} max={max} />,
@@ -80,7 +82,7 @@ function Legend({ min, max }: Props) {
 
   return (
     <LegendContainer>
-      <Unit>{title}</Unit>
+      <Unit>{title} in {unit}</Unit>
       {min >= 0 ? positiveLegend : negativeLegend}
     </LegendContainer>
   );
