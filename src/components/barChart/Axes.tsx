@@ -16,7 +16,7 @@ function AxisBottom({ scale, transform }: AxisBottomProps) {
 
   useEffect(() => {
     if (ref.current) {
-      select(ref.current).call(axisBottom(scale));
+      select(ref.current).call(axisBottom(scale).tickSize(0));
     }
   }, [scale]);
 
