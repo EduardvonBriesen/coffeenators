@@ -4,7 +4,7 @@ const AboutContainer = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: end;
-  background-color: ${(props) => props.theme.colors.background.dark};
+  background-color: ${(props) => props.theme.colors.background.main};
   width: 100vw;
   height: 100vh;
   padding: 10% 10% 5% 10%;
@@ -16,7 +16,6 @@ const Headline = styled.h1`
   font-size: 20vh;
   line-height: 20vh;
   margin: 0;
-  color: ${(props) => props.theme.colors.primary};
 `;
 
 const Text = styled.p`
