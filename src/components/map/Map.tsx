@@ -29,6 +29,7 @@ export default function Map() {
     type: "region",
   });
 
+
   useEffect(() => {
     const filteredData = coffeeData.filter(
       (d: any) => d.Markt === market && d.Diagram === diagram && d.Name === name

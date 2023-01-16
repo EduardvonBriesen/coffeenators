@@ -3,7 +3,7 @@ import Map from "../components/map/Map";
 import Slider from "../components/Slider";
 import DataSelector from "../components/DataSelector";
 import BarChart from "../components/barChart/BarChart";
-import FunFacts from "../components/FunFacts";
+import Facts from "../components/Stats";
 
 const MapPageContainer = styled.div`
   display: grid;
@@ -39,7 +39,7 @@ const InfoContainer = styled.div`
 
   grid-column: 1;
   grid-row: 2 / 3;
-  background-color: #FFFDF9;
+  background-color: #fffdf9;
   border-radius: 10px;
 `;
 
@@ -50,7 +50,7 @@ const MapContainer = styled.div`
 
   grid-column: 2 / 3;
   grid-row: 1 / 3;
-  background-color: #FFFDF9;
+  background-color: #fffdf9;
   border-radius: 10px;
 `;
 
@@ -63,7 +63,7 @@ function MapPage() {
       </Headline>
       <InfoContainer>
         <DataSelector />
-        <FunFacts />
+        <Facts />
         <BarChart />
       </InfoContainer>
       <MapContainer>

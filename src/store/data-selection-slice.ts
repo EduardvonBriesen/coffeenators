@@ -2,6 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 import coffeeData from "../data/combined_data.json";
 import { selectionConfig } from "../helpers/selectionConfig";
 import * as d3 from "d3";
+import { translateCountryG2E } from "../helpers/translateCountryG2E";
 
 const getExtrema = (market: string, diagram: string, name: string) => {
   const years = [2017, 2018, 2019, 2020, 2021, 2022];
@@ -31,6 +32,39 @@ const getUnit = (market: string, diagram: string) => {
   return filteredData[0].Einheit;
 };
 
+const getStats = (
+  market: string,
+  diagram: string,
+  name: string,
+  year: number
+) => {
+  const data = coffeeData
+    .filter(
+      (d: any) => d.Markt === market && d.Diagram === diagram && d.Name === name
+    )
+    .map((d: any) => {
+      return {
+        name: translateCountryG2E(d.Region),
+        value: parseFloat(String(d[year]).replace(",", ".")),
+      };
+    });
+
+  const topCountry = data.reduce((prev, current) =>
+    prev.value > current.value ? prev : current
+  );
+  const bottomCountry = data.reduce((prev, current) =>
+    prev.value < current.value ? prev : current
+  );
+
+  const average = (d3.mean(data.map((d) => d.value)) || 0);
+
+  return {
+    topCountry,
+    bottomCountry,
+    average,
+  };
+};
+
 interface DataSelectionState {
   selector: {
     market: string;
@@ -44,19 +78,38 @@ interface DataSelectionState {
     min: number;
     max: number;
   };
-  facts?: string[];
+  stats: {
+    topCountry: {
+      name: string;
+      value: number;
+    };
+    bottomCountry: {
+      name: string;
+      value: number;
+    };
+    average: number;
+  };
 }
 
 const initialState = {
-  unit: getUnit(selectionConfig[0].selector.market, selectionConfig[0].selector.diagram),
+  unit: getUnit(
+    selectionConfig[0].selector.market,
+    selectionConfig[0].selector.diagram
+  ),
   extrema: getExtrema(
     selectionConfig[0].selector.market,
     selectionConfig[0].selector.diagram,
     selectionConfig[0].selector.name
   ),
+  stats: getStats(
+    selectionConfig[0].selector.market,
+    selectionConfig[0].selector.diagram,
+    selectionConfig[0].selector.name,
+    2017
+  ),
   ...selectionConfig[0],
   year: 2017,
-} as DataSelectionState;
+} as unknown as DataSelectionState;
 
 const { actions, reducer } = createSlice({
   name: "dataSelection",
@@ -67,8 +120,8 @@ const { actions, reducer } = createSlice({
       const config = selectionConfig[index];
       state.selector = config.selector;
       state.title = config.title;
-      state.unit = config.unit || getUnit(config.selector.market, config.selector.diagram);
-      state.facts = config.facts;
+      state.unit =
+        config.unit || getUnit(config.selector.market, config.selector.diagram);
       state.extrema =
         config.extrema ||
         getExtrema(
@@ -76,9 +129,21 @@ const { actions, reducer } = createSlice({
           config.selector.diagram,
           config.selector.name
         );
+      state.stats = getStats(
+        config.selector.market,
+        config.selector.diagram,
+        config.selector.name,
+        state.year
+      ) as unknown as typeof state.stats;
     },
     setYear(state, action) {
       state.year = action.payload;
+      state.stats = getStats(
+        state.selector.market,
+        state.selector.diagram,
+        state.selector.name,
+        action.payload
+      ) as unknown as typeof state.stats;
     },
   },
 });
