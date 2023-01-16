@@ -38,7 +38,7 @@ function BarChart() {
   // const [height, setHeight] = useState(0);
   // const [width, setWidth] = useState(0);
 
-  const margin = { top: 10, right: 15, bottom: 20, left: 15 };
+  const margin = { top: 30, right: 20, bottom: 30, left: 20 };
   const ref = useRef<HTMLDivElement>(null);
 
   const height = (ref.current?.clientHeight || 0) - margin.top - margin.bottom;
