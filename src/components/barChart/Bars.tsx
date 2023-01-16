@@ -24,7 +24,7 @@ function Bars({ data, height, scaleX, scaleY }: BarsProps) {
           height={
             value < 0
               ? scaleY(value) - scaleY(0)
-              : height - scaleY(value) - scaleY(0)
+              : scaleY(0) - scaleY(value)
           }
           fill={value < 0 ? "#1A6079" : "#A81F0D"}
           style={{ transition: "all 0.5s ease" }}

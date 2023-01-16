@@ -89,6 +89,7 @@ interface DataSelectionState {
     };
     average: number;
   };
+  country: string;
 }
 
 const initialState = {
@@ -109,6 +110,7 @@ const initialState = {
   ),
   ...selectionConfig[0],
   year: 2017,
+  country: "Europa",
 } as unknown as DataSelectionState;
 
 const { actions, reducer } = createSlice({
@@ -145,6 +147,10 @@ const { actions, reducer } = createSlice({
         action.payload
       ) as unknown as typeof state.stats;
     },
+    setCountry(state, action) {
+      console.log(action.payload);
+      state.country = action.payload;
+    }
   },
 });
 

@@ -62,6 +62,7 @@ export default function Map() {
         <Region
           key={data.properties.ISO2}
           path={path(data) || ""}
+          country={region_name}
           tooltipData={region_name_en + ", " + region_value}
           value={getFloat(region_value)}
           min={extrema.min}

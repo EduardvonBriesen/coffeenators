@@ -6,14 +6,16 @@ import styled from "styled-components";
 import { AxisBottom, AxisLeft } from "./Axes";
 import Bars from "./Bars";
 import coffeeData from "../../data/combined_data.json";
+import { translateCountryG2E } from "../../helpers/translateCountryG2E";
 
 const BarChartContainer = styled.div`
   width: 100%;
-  height: 60%;
+  height: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  font-size: 2vh;
 `;
 
 const SvgContainer = styled.div`
@@ -30,7 +32,7 @@ const SvgContainer = styled.div`
 `;
 
 function BarChart() {
-  const { selector, title } = useSelector(
+  const { selector, title, country } = useSelector(
     (state: RootState) => state.dataSelection
   );
   const { market, diagram, name } = selector;
@@ -45,7 +47,7 @@ function BarChart() {
   useEffect(() => {
     setHeight((ref.current?.clientHeight || 0) - margin.top - margin.bottom);
     setWidth((ref.current?.clientWidth || 0) - margin.left - margin.right);
-  }, [margin.bottom, margin.left, margin.right, margin.top])
+  }, [margin.bottom, margin.left, margin.right, margin.top]);
 
   useEffect(() => {
     const years = ["2017", "2018", "2019", "2020", "2021", "2022"];
@@ -54,7 +56,7 @@ function BarChart() {
         d.Markt === market &&
         d.Diagram === diagram &&
         d.Name === name &&
-        d.Region === "Europa"
+        d.Region === country
     )[0] as any;
 
     const data = years.map((year: string) => {
@@ -64,7 +66,7 @@ function BarChart() {
       };
     });
     setData(data);
-  }, [market, diagram, name]);
+  }, [market, diagram, name, country]);
 
   const scaleX = scaleBand()
     .domain(data.map(({ label }) => label))
@@ -82,7 +84,6 @@ function BarChart() {
 
   return (
     <BarChartContainer>
-      {title} in Europe
       <SvgContainer ref={ref}>
         <svg
           width={width + margin.left + margin.right}
@@ -95,6 +96,7 @@ function BarChart() {
           </g>
         </svg>
       </SvgContainer>
+      {title} in {translateCountryG2E(country)}
     </BarChartContainer>
   );
 }
