@@ -36,14 +36,19 @@ function BarChart() {
   const { market, diagram, name } = selector;
   const [data, setData] = useState<any[]>([]);
 
-  // const [height, setHeight] = useState(0);
-  // const [width, setWidth] = useState(0);
+  const [height, setHeight] = useState(0);
+  const [width, setWidth] = useState(0);
 
   const margin = { top: 30, right: 20, bottom: 30, left: 20 };
   const ref = useRef<HTMLDivElement>(null);
 
-  const height = (ref.current?.clientHeight || 0) - margin.top - margin.bottom;
-  const width = (ref.current?.clientWidth || 0) - margin.left - margin.right;
+  // const height = (ref.current?.clientHeight || 0) - margin.top - margin.bottom;
+  // const width = (ref.current?.clientWidth || 0) - margin.left - margin.right;
+
+  useEffect(() => {
+    setHeight((ref.current?.clientHeight || 0) - margin.top - margin.bottom);
+    setWidth((ref.current?.clientWidth || 0) - margin.left - margin.right);
+  }, [margin.bottom, margin.left, margin.right, margin.top])
 
   useEffect(() => {
     const years = ["2017", "2018", "2019", "2020", "2021", "2022"];
