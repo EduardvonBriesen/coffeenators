@@ -2,10 +2,11 @@ import * as d3 from "d3";
 import { useState, useEffect } from "react";
 import { setMapProjection } from "../../helpers/setMapProjection";
 import { useMapTools } from "../../hooks/useMapTools";
-import { useSelector } from "react-redux";
+import { useSelector, useDispatch } from "react-redux";
 import { RootState } from "../../store";
 import Region from "./Region";
 import Legend from "./Legend";
+import { dataSelectionActions } from "../../store/data-selection-slice";
 import coffeeData from "../../data/combined_data.json";
 import styled from "styled-components";
 
@@ -16,6 +17,7 @@ const MapContainer = styled.div`
 `;
 
 export default function Map() {
+  const dispatcher = useDispatch();
   const { mapData } = useMapTools();
   const { selector, year, extrema } = useSelector(
     (state: RootState) => state.dataSelection
@@ -28,7 +30,6 @@ export default function Map() {
   const regionNamesInEnglish = new Intl.DisplayNames(["en"], {
     type: "region",
   });
-
 
   useEffect(() => {
     const filteredData = coffeeData.filter(
@@ -72,7 +73,11 @@ export default function Map() {
     });
 
     return (
-      <MapContainer>
+      <MapContainer
+        onClick={() => {
+          dispatcher(dataSelectionActions.setCountry("Europa"));
+        }}
+      >
         <Legend min={extrema.min} max={extrema.max} />
         <svg viewBox="130 -20 700 600">{countries}</svg>
       </MapContainer>

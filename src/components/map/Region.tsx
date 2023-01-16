@@ -11,6 +11,7 @@ const RegionContainer = styled("path")<{ fill: string }>`
   stroke-width: 1px;
   fill: ${(props) => props.fill};
   transition: fill 0.3s ease-in-out;
+  z-index: 1;
   &:hover {
     cursor: pointer;
     fill: ${(props) => props.theme.colors.primary};
@@ -49,7 +50,8 @@ export default function Region({
       title={`${tooltipData} ${unit}`}
       placement="top"
       followCursor
-      onClick={() => {
+      onClick={(e) => {
+        e.stopPropagation();
         dispatcher(dataSelectionActions.setCountry(country));
       }}
     >
