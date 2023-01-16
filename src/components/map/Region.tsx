@@ -11,7 +11,6 @@ const RegionContainer = styled("path")<{ fill: string }>`
   fill: ${(props) => props.fill};
   transition: fill 0.3s ease-in-out;
   &:hover {
-    cursor: pointer;
     fill: ${(props) => props.theme.colors.primary};
   }
 `;
