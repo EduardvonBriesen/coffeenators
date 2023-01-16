@@ -49,6 +49,11 @@ interface DataSelectionState {
 
 const initialState = {
   unit: getUnit(selectionConfig[0].selector.market, selectionConfig[0].selector.diagram),
+  extrema: getExtrema(
+    selectionConfig[0].selector.market,
+    selectionConfig[0].selector.diagram,
+    selectionConfig[0].selector.name
+  ),
   ...selectionConfig[0],
   year: 2017,
 } as DataSelectionState;
