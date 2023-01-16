@@ -4,7 +4,7 @@ import styled from "styled-components";
 
 const FactContainer = styled.div`
   width: 90%;
-  height: 100%;
+  height: 50vh;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -32,7 +32,7 @@ function Facts() {
         In the Year <b>{year}</b>,
       </p>
       <p>
-        🚀 The highest {title.toLowerCase()} has <b>{topCountry.name}</b> with a value of{" "}
+        🚀 On top is <b>{topCountry.name}</b> with a value of{" "}
         <b>
           {topCountry.value.toFixed(2)}
           {unit}
@@ -40,7 +40,7 @@ function Facts() {
         .
       </p>
       <p>
-        📉 The lowest {title.toLowerCase()} has <b>{bottomCountry.name}</b> with a value of{" "}
+        📉 <b>{bottomCountry.name}</b> the lowest value with{" "}
         <b>
           {bottomCountry.value.toFixed(2)}
           {unit}
