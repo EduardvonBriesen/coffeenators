@@ -100,4 +100,22 @@ export const selectionConfig: ISelectionConfig[] = [
       "⚖️ The average consumption value is <b>3 kg</b> per head.",
     ],
   },
+  {
+    selector: {
+      market: "Kaffee",
+      diagram: "Volumen",
+      name: "Total",
+    },
+    title: "Total Volume",
+    unit: "Mio. kg",
+    extrema: {
+      min: 0,
+      max: 500,
+    },
+    facts: [
+      "🚀 The highest consuming country is <b>Finnland</b> with a value of <b>5 kg</b> per head.",
+      "📉 The lowest consuming country is <b>Spain</b> with a value of <b>2 kg</b> per head.",
+      "⚖️ The average consumption value is <b>3 kg</b> per head.",
+    ],
+  },
 ];
