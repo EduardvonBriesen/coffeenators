@@ -21,13 +21,11 @@ const FactContainer = styled.div`
 `;
 
 function FunFacts() {
-  const { facts } = useSelector(
-    (state: RootState) => state.dataSelection
-  );
+  const { facts } = useSelector((state: RootState) => state.dataSelection);
 
   return (
     <FactContainer>
-      {facts.map((fact) => (
+      {facts && facts.map((fact) => (
         <p dangerouslySetInnerHTML={{ __html: fact }} />
       ))}
     </FactContainer>

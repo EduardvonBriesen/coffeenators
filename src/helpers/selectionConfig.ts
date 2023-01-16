@@ -10,7 +10,7 @@ export interface ISelectionConfig {
     min: number;
     max: number;
   };
-  facts: string[];
+  facts?: string[];
 }
 
 export const selectionConfig: ISelectionConfig[] = [
@@ -26,11 +26,7 @@ export const selectionConfig: ISelectionConfig[] = [
       min: -40,
       max: 40,
     },
-    facts: [
-      "🚀 The highest consuming country is <b>Finnland</b> with a value of <b>5 kg</b> per head.",
-      "📉 The lowest consuming country is <b>Spain</b> with a value of <b>2 kg</b> per head.",
-      "⚖️ The average consumption value is <b>3 kg</b> per head.",
-    ],
+    facts: []
   },
   {
     selector: {

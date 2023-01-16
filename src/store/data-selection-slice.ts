@@ -44,7 +44,7 @@ interface DataSelectionState {
     min: number;
     max: number;
   };
-  facts: string[];
+  facts?: string[];
 }
 
 const initialState = {
