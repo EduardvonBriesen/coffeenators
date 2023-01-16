@@ -2,6 +2,8 @@ import { useState, useEffect } from "react";
 import styled from "styled-components";
 import { getColor } from "../../helpers/getColor";
 import Tooltip from "@mui/material/Tooltip";
+import { useSelector } from "react-redux";
+import { RootState } from "../../store";
 
 const RegionContainer = styled("path")<{ fill: string }>`
   stroke: ${(props) => props.theme.colors.background.main};
@@ -24,6 +26,7 @@ interface Props {
 
 export default function Region({ path, tooltipData, value, min, max }: Props) {
   //each path defines the shape of a region in the map
+  const { unit } = useSelector((state: RootState) => state.dataSelection);
 
   const [fill, setFill] = useState("white");
 
@@ -32,7 +35,7 @@ export default function Region({ path, tooltipData, value, min, max }: Props) {
   }, [value, min, max]);
 
   return (
-    <Tooltip title={tooltipData} placement="top" followCursor>
+    <Tooltip title={`${tooltipData} ${unit}`} placement="top" followCursor>
       <RegionContainer d={path} fill={fill} />
     </Tooltip>
   );

@@ -1,5 +1,7 @@
 import { ScaleBand, ScaleLinear } from "d3";
 import Tooltip from "@mui/material/Tooltip";
+import { useSelector } from "react-redux";
+import { RootState } from "../../store";
 
 interface BarsProps {
   data: { label: string; value: number }[];
@@ -9,6 +11,8 @@ interface BarsProps {
 }
 
 function Bars({ data, height, scaleX, scaleY }: BarsProps) {
+  const { unit } = useSelector((state: RootState) => state.dataSelection);
+
   const Bar = (value: number, label: string) => {
     if (scaleY.domain()[0] < 0) {
       return (
@@ -44,7 +48,7 @@ function Bars({ data, height, scaleX, scaleY }: BarsProps) {
   return (
     <>
       {data.map(({ value, label }) => (
-        <Tooltip title={value} placement="top">
+        <Tooltip title={`${value} ${unit}`} placement="top">
           {Bar(value, label)}
         </Tooltip>
       ))}
