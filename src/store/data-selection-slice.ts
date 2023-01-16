@@ -1,5 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 import coffeeData from "../data/combined_data.json";
+import { selectionConfig } from "../helpers/selectionConfig";
 import * as d3 from "d3";
 
 const getExtrema = (market: string, diagram: string, name: string) => {
@@ -31,24 +32,24 @@ const getUnit = (market: string, diagram: string) => {
 };
 
 interface DataSelectionState {
-  market: string;
-  diagram: string;
-  name: string;
+  selector: {
+    market: string;
+    diagram: string;
+    name: string;
+  };
   year: number;
   title: string;
+  unit: string;
   extrema: {
     min: number;
     max: number;
   };
+  facts: string[];
 }
 
 const initialState = {
-  market: "Kaffee",
-  diagram: "Umsatzveränderung",
-  name: "Total",
+  ...selectionConfig[0],
   year: 2017,
-  title: `Umsatzveränderung in ${getUnit("Kaffee", "Umsatzveränderung")}`,
-  extrema: getExtrema("Kaffee", "Umsatzveränderung", "Total"),
 } as DataSelectionState;
 
 const { actions, reducer } = createSlice({
@@ -56,12 +57,19 @@ const { actions, reducer } = createSlice({
   initialState,
   reducers: {
     setSelection(state, action) {
-      const { market, diagram, name } = action.payload;
-      state.market = market;
-      state.diagram = diagram;
-      state.name = name;
-      state.title = `${diagram} in ${getUnit(market, diagram)}`;
-      state.extrema = getExtrema(market, diagram, name);
+      const index = action.payload;
+      const config = selectionConfig[index];
+      state.selector = config.selector;
+      state.title = config.title;
+      state.unit = config.unit;
+      state.facts = config.facts;
+      state.extrema =
+        config.extrema ||
+        getExtrema(
+          config.selector.market,
+          config.selector.diagram,
+          config.selector.name
+        );
     },
     setYear(state, action) {
       state.year = action.payload;

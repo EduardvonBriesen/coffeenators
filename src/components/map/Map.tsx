@@ -17,9 +17,10 @@ const MapContainer = styled.div`
 
 export default function Map() {
   const { mapData } = useMapTools();
-  const { market, diagram, name, year, extrema } = useSelector(
+  const { selector, year, extrema } = useSelector(
     (state: RootState) => state.dataSelection
   );
+  const { market, diagram, name } = selector;
 
   const [filteredData, setFilteredData] = useState<any[]>([]);
 

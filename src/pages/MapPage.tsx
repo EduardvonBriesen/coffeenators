@@ -3,6 +3,7 @@ import Map from "../components/map/Map";
 import Slider from "../components/Slider";
 import DataSelector from "../components/DataSelector";
 import BarChart from "../components/barChart/BarChart";
+import FunFacts from "../components/FunFacts";
 
 const MapPageContainer = styled.div`
   display: grid;
@@ -62,6 +63,7 @@ function MapPage() {
       </Headline>
       <InfoContainer>
         <DataSelector />
+        <FunFacts />
         <BarChart />
       </InfoContainer>
       <MapContainer>

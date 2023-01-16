@@ -30,9 +30,10 @@ const SvgContainer = styled.div`
 `;
 
 function BarChart() {
-  const { market, diagram, name, title } = useSelector(
+  const { selector, title } = useSelector(
     (state: RootState) => state.dataSelection
   );
+  const { market, diagram, name } = selector;
   const [data, setData] = useState<any[]>([]);
 
   // const [height, setHeight] = useState(0);
