@@ -8,3 +8,6 @@ Uncover the hidden effects of the COVID-19 pandemic on the European coffee marke
 - Dynamic Facts 
 - Dynamic Barchart 
     - Countries can be clicked to see their data here
+
+# Planned Features
+- Compare two Dataset on Map and Barchart
