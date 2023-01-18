@@ -5,6 +5,7 @@ import Tooltip from "@mui/material/Tooltip";
 import { useSelector, useDispatch } from "react-redux";
 import { dataSelectionActions } from "../../store/data-selection-slice";
 import { RootState } from "../../store";
+import { theme } from "../../theme";
 
 const RegionContainer = styled("path")<{ fill: string }>`
   stroke: ${(props) => props.theme.colors.background.main};
@@ -36,14 +37,17 @@ export default function Region({
   max,
 }: Props) {
   //each path defines the shape of a region in the map
-  const { unit } = useSelector((state: RootState) => state.dataSelection);
+  const { unit, currentCountry } = useSelector(
+    (state: RootState) => state.dataSelection
+  );
   const dispatcher = useDispatch();
 
   const [fill, setFill] = useState("white");
 
   useEffect(() => {
-    setFill(String(getColor(value, min, max)));
-  }, [value, min, max]);
+    if (currentCountry === country) setFill(theme.colors.primary);
+    else setFill(String(getColor(value, min, max)));
+  }, [value, min, max, currentCountry, country]);
 
   return (
     <Tooltip

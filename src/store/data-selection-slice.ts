@@ -56,7 +56,7 @@ const getStats = (
     prev.value < current.value ? prev : current
   );
 
-  const average = (d3.mean(data.map((d) => d.value)) || 0);
+  const average = d3.mean(data.map((d) => d.value)) || 0;
 
   return {
     topCountry,
@@ -89,7 +89,7 @@ interface DataSelectionState {
     };
     average: number;
   };
-  country: string;
+  currentCountry: string;
 }
 
 const initialState = {
@@ -110,7 +110,7 @@ const initialState = {
   ),
   ...selectionConfig[0],
   year: 2017,
-  country: "Europa",
+  currentCountry: "Europa",
 } as unknown as DataSelectionState;
 
 const { actions, reducer } = createSlice({
@@ -149,8 +149,8 @@ const { actions, reducer } = createSlice({
     },
     setCountry(state, action) {
       console.log(action.payload);
-      state.country = action.payload;
-    }
+      state.currentCountry = action.payload;
+    },
   },
 });
 

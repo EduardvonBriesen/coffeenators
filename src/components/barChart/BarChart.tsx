@@ -32,7 +32,7 @@ const SvgContainer = styled.div`
 `;
 
 function BarChart() {
-  const { selector, title, country } = useSelector(
+  const { selector, title, currentCountry } = useSelector(
     (state: RootState) => state.dataSelection
   );
   const { market, diagram, name } = selector;
@@ -56,7 +56,7 @@ function BarChart() {
         d.Markt === market &&
         d.Diagram === diagram &&
         d.Name === name &&
-        d.Region === country
+        d.Region === currentCountry
     )[0] as any;
 
     const data = years.map((year: string) => {
@@ -66,7 +66,7 @@ function BarChart() {
       };
     });
     setData(data);
-  }, [market, diagram, name, country]);
+  }, [market, diagram, name, currentCountry]);
 
   const scaleX = scaleBand()
     .domain(data.map(({ label }) => label))
@@ -96,7 +96,7 @@ function BarChart() {
           </g>
         </svg>
       </SvgContainer>
-      {title} in {translateCountryG2E(country)}
+      {title} in {translateCountryG2E(currentCountry)}
     </BarChartContainer>
   );
 }
