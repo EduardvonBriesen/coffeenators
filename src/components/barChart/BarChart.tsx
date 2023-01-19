@@ -16,6 +16,13 @@ const BarChartContainer = styled.div`
   align-items: center;
   justify-content: center;
   font-size: 2vh;
+  cursor: pointer;
+
+  p {
+    margin: 0;
+    text-align: center;
+    font-size: 1.5vh;
+  }
 `;
 
 const SvgContainer = styled.div`
@@ -40,6 +47,8 @@ function BarChart() {
 
   const [height, setHeight] = useState(0);
   const [width, setWidth] = useState(0);
+
+  const [zoomed, setZoomed] = useState(false);
 
   const margin = { top: 20, right: 20, bottom: 20, left: 20 };
   const ref = useRef<HTMLDivElement>(null);
@@ -74,8 +83,8 @@ function BarChart() {
     .padding(0.5);
   const scaleY = scaleLinear()
     .domain([
-      Math.min(...data.map(({ value }) => value)) < 0
-        ? Math.min(...data.map(({ value }) => value))
+      Math.min(...data.map(({ value }) => value)) < 0 || zoomed
+        ? Math.min(...data.map(({ value }) => value)) - 0.5
         : 0,
       Math.max(...data.map(({ value }) => value)),
     ])
@@ -84,7 +93,7 @@ function BarChart() {
 
   return (
     <BarChartContainer>
-      <SvgContainer ref={ref}>
+      <SvgContainer ref={ref} onClick={() => setZoomed(!zoomed)}>
         <svg
           width={width + margin.left + margin.right}
           height={height + margin.top + margin.bottom}
@@ -96,7 +105,9 @@ function BarChart() {
           </g>
         </svg>
       </SvgContainer>
-      {title} in {translateCountryG2E(currentCountry)}
+      <p>
+        {title} in {translateCountryG2E(currentCountry)}
+      </p>
     </BarChartContainer>
   );
 }
