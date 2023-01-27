@@ -74,7 +74,7 @@ export const selectionConfig: ISelectionConfig[] = [
     title: "Out of House Sales Share",
     unit: "%",
     extrema: {
-      min: 0,
+      min: 25,
       max: 100,
     }
   },

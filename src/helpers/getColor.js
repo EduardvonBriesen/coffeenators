@@ -15,7 +15,7 @@ export const getColor = (value, min, max) => {
   } else {
     linearScale = d3
       .scaleLinear()
-      .domain([0, max / 2])
+      .domain([min, max / 2 + min])
       .range([theme.colors.scale.zero, theme.colors.scale.max]);
   }
   return linearScale(value);

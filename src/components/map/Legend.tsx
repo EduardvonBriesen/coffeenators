@@ -66,10 +66,10 @@ function Legend({ min, max }: Props) {
 
   const positiveLegend = [
     <LegendItem value={max} min={min} max={max} />,
-    <LegendItem value={max * 0.75} min={min} max={max} />,
-    <LegendItem value={max * 0.5} min={min} max={max} />,
-    <LegendItem value={max * 0.25} min={min} max={max} />,
-    <LegendItem value={0} min={min} max={max} />,
+    <LegendItem value={(max - min) * 0.75 + min} min={min} max={max} />,
+    <LegendItem value={(max - min) * 0.5 + min} min={min} max={max} />,
+    <LegendItem value={(max - min) * 0.25 + min} min={min} max={max} />,
+    <LegendItem value={min} min={min} max={max} />,
   ];
 
   const negativeLegend = [
@@ -82,7 +82,9 @@ function Legend({ min, max }: Props) {
 
   return (
     <LegendContainer>
-      <Unit>{title} in {unit}</Unit>
+      <Unit>
+        {title} in {unit}
+      </Unit>
       {min >= 0 ? positiveLegend : negativeLegend}
     </LegendContainer>
   );
