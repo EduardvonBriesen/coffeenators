@@ -79,7 +79,29 @@ export default function Map() {
         }}
       >
         <Legend min={extrema.min} max={extrema.max} />
-        <svg viewBox="130 -20 700 600">{countries}</svg>
+        <svg viewBox="130 -20 700 600">
+          <defs>
+            <pattern
+              id="stripe"
+              width="5"
+              height="10"
+              patternUnits="userSpaceOnUse"
+              patternTransform="rotate(45)"
+            >
+              <rect width="4" height="10" fill="white" />
+            </pattern>
+            <mask id="mask">
+              <rect
+                height="1000"
+                width="1000"
+                style={{
+                  fill: "url(#stripe)",
+                }}
+              />
+            </mask>
+          </defs>
+          {countries}
+        </svg>
       </MapContainer>
     );
   } else {
