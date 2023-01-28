@@ -116,7 +116,7 @@ function Header() {
     <HeaderContainer>
       <Logo>
         <Icon />
-        Caffeinators
+        Coffeenators
       </Logo>
       <LinkList>
         {location.pathname === "/quiz" ? quizLinks : mainLinks}
