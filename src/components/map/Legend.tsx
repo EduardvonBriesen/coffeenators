@@ -37,6 +37,8 @@ const Unit = styled.span`
 
 const Selector = styled.div`
   display: flex;
+  flex-direction: row;
+  align-items: center;
   padding-top: 0.5vh;
 
   label {

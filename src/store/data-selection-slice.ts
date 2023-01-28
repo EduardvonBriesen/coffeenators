@@ -99,6 +99,7 @@ interface DataSelectionState {
     min: number;
     max: number;
   };
+  filterSelection: string[];
 }
 
 const initialState = {
@@ -122,6 +123,7 @@ const initialState = {
   currentCountry: "Europa",
   legendFixed: true,
   fixedExtrema: selectionConfig[0].extrema,
+  filterSelection: [selectionConfig[0].selector.name],
 } as unknown as DataSelectionState;
 
 const { actions, reducer } = createSlice({
@@ -175,6 +177,12 @@ const { actions, reducer } = createSlice({
         action.payload,
         state.year
       ) as unknown as typeof state.stats;
+      state.filterSelection =
+        state.filterSelection.length === 1
+          ? [action.payload]
+          : state.filterSelection.includes(action.payload)
+          ? state.filterSelection
+          : [...state.filterSelection, action.payload];
     },
     setYear(state, action) {
       state.year = action.payload;
@@ -199,6 +207,9 @@ const { actions, reducer } = createSlice({
               state.selector.name
             );
     },
+    setFilterSelection(state, action) {
+      state.filterSelection = action.payload;
+    }
   },
 });
 
