@@ -13,8 +13,6 @@ export const getColor = (
     theme.colors.scale.max,
   ];
 
-  console.log(category);
-
   switch (category) {
     case "Kaffee":
       colorScale = [

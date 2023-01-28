@@ -1,7 +1,8 @@
 import styled from "styled-components";
 import { getColor } from "../../helpers/getColor";
-import { useSelector } from "react-redux";
+import { useSelector, useDispatch } from "react-redux";
 import { RootState } from "../../store";
+import { dataSelectionActions } from "../../store/data-selection-slice";
 
 const LegendContainer = styled.div`
   position: absolute;
@@ -34,7 +35,28 @@ const Unit = styled.span`
   padding-bottom: 0.5vh;
 `;
 
+const Selector = styled.div`
+  display: flex;
+  padding-top: 0.5vh;
+
+  label {
+    font-size: 1.5vh;
+  }
+
+  input {
+    accent-color: ${(props) => props.theme.colors.primary};
+  }
+`;
+
 function Legend() {
+  const dispatcher = useDispatch();
+
+  const { title, unit, extrema, selector, legendFixed } = useSelector(
+    (state: RootState) => state.dataSelection
+  );
+  const { min, max } = extrema;
+  const category = selector.name;
+
   const LegendItem = ({ value }: { value: number }) => {
     return (
       <LegendItemContainer>
@@ -47,12 +69,6 @@ function Legend() {
       </LegendItemContainer>
     );
   };
-
-  const { title, unit, extrema, selector } = useSelector(
-    (state: RootState) => state.dataSelection
-  );
-  const { min, max } = extrema;
-  const category = selector.name;
 
   const positiveLegend = [
     <LegendItem value={max} />,
@@ -76,6 +92,16 @@ function Legend() {
         {title} in {unit}
       </Unit>
       {min >= 0 ? positiveLegend : negativeLegend}
+      <Selector>
+        <label htmlFor="legend">Fix legend</label>
+        <input
+          checked={legendFixed}
+          type="checkbox"
+          onChange={(e) =>
+            dispatcher(dataSelectionActions.setLegendFixed(e.target.checked))
+          }
+        />
+      </Selector>
     </LegendContainer>
   );
 }

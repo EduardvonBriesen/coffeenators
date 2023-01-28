@@ -94,12 +94,22 @@ interface DataSelectionState {
     average: number;
   };
   currentCountry: string;
+  legendFixed: boolean;
+  fixedExtrema?: {
+    min: number;
+    max: number;
+  };
 }
 
 const initialState = {
   unit: getUnit(
     selectionConfig[0].selector.market,
     selectionConfig[0].selector.diagram
+  ),
+  extrema: getExtrema(
+    selectionConfig[0].selector.market,
+    selectionConfig[0].selector.diagram,
+    selectionConfig[0].selector.name
   ),
   stats: getStats(
     selectionConfig[0].selector.market,
@@ -108,13 +118,10 @@ const initialState = {
     2017
   ),
   ...selectionConfig[0],
-  extrema: getExtrema(
-    selectionConfig[0].selector.market,
-    selectionConfig[0].selector.diagram,
-    selectionConfig[0].selector.name
-  ),
   year: 2017,
   currentCountry: "Europa",
+  legendFixed: true,
+  fixedExtrema: selectionConfig[0].extrema,
 } as unknown as DataSelectionState;
 
 const { actions, reducer } = createSlice({
@@ -138,12 +145,14 @@ const { actions, reducer } = createSlice({
       state.unit =
         config.unit || getUnit(config.selector.market, config.selector.diagram);
       state.extrema =
-        // config.extrema ||
-        getExtrema(
-          config.selector.market,
-          config.selector.diagram,
-          state.selector.name
-        );
+        state.legendFixed && config.extrema
+          ? config.extrema
+          : getExtrema(
+              config.selector.market,
+              config.selector.diagram,
+              state.selector.name
+            );
+      state.fixedExtrema = config.extrema;
       state.stats = getStats(
         config.selector.market,
         config.selector.diagram,
@@ -153,13 +162,13 @@ const { actions, reducer } = createSlice({
     },
     setCategory(state, action) {
       state.selector.name = action.payload;
-      state.extrema =
-        // config.extrema ||
-        getExtrema(
-          state.selector.market,
-          state.selector.diagram,
-          action.payload
-        );
+      state.extrema = state.legendFixed
+        ? state.fixedExtrema || state.extrema
+        : getExtrema(
+            state.selector.market,
+            state.selector.diagram,
+            action.payload
+          );
       state.stats = getStats(
         state.selector.market,
         state.selector.diagram,
@@ -177,8 +186,18 @@ const { actions, reducer } = createSlice({
       ) as unknown as typeof state.stats;
     },
     setCountry(state, action) {
-      console.log(action.payload);
       state.currentCountry = action.payload;
+    },
+    setLegendFixed(state, action) {
+      state.legendFixed = action.payload;
+      state.extrema =
+        action.payload && state.extrema
+          ? state.fixedExtrema || state.extrema
+          : getExtrema(
+              state.selector.market,
+              state.selector.diagram,
+              state.selector.name
+            );
     },
   },
 });
