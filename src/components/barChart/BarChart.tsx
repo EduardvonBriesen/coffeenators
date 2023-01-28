@@ -5,6 +5,7 @@ import { RootState } from "../../store";
 import styled from "styled-components";
 import { AxisBottom, AxisLeft } from "./Axes";
 import Bars from "./Bars";
+import Filter from "./Filter";
 import coffeeData from "../../data/combined_data.json";
 import { translateCountryG2E } from "../../helpers/translateCountryG2E";
 
@@ -16,18 +17,18 @@ const BarChartContainer = styled.div`
   align-items: center;
   justify-content: center;
   font-size: 2vh;
-  cursor: pointer;
-
+  
   p {
     margin: 0;
     text-align: center;
     font-size: 1.5vh;
   }
-`;
+  `;
 
 const SvgContainer = styled.div`
   width: 100%;
   height: 100%;
+  cursor: pointer;
 
   svg {
     .tick,
@@ -107,6 +108,9 @@ function BarChart() {
 
   return (
     <BarChartContainer>
+      <p>
+        {title} in {translateCountryG2E(currentCountry)}
+      </p>
       <SvgContainer ref={ref} onClick={() => setZoomed(!zoomed)}>
         <svg
           width={width + margin.left + margin.right}
@@ -119,9 +123,7 @@ function BarChart() {
           </g>
         </svg>
       </SvgContainer>
-      <p>
-        {title} in {translateCountryG2E(currentCountry)}
-      </p>
+      <Filter/>
     </BarChartContainer>
   );
 }
