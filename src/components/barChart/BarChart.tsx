@@ -43,7 +43,9 @@ function BarChart() {
     (state: RootState) => state.dataSelection
   );
   const { market, diagram, name } = selector;
-  const [data, setData] = useState<{ label: string; values: number[] }[]>([]);
+  const [data, setData] = useState<
+    { label: string; values: { category: string; value: number }[] }[]
+  >([]);
 
   const [height, setHeight] = useState(0);
   const [width, setWidth] = useState(0);
@@ -78,8 +80,10 @@ function BarChart() {
       return {
         label: year,
         values: categoryData.flat().map((d: any) => {
-          console.log(d[2012]);
-          return parseFloat(String(d[year]).replace(",", "."));
+          return {
+            category: d.Name,
+            value: parseFloat(String(d[year]).replace(",", ".")),
+          };
         }),
       };
     });
@@ -93,10 +97,10 @@ function BarChart() {
     .padding(0.5);
   const scaleY = scaleLinear()
     .domain([
-      Math.min(...data.map(({ values }) => Math.min(...values))) < 0 || zoomed
-        ? Math.min(...data.map(({ values }) => Math.min(...values))) - 0.5
+      Math.min(...data.map(({ values }) => Math.min(...values.map(v => v.value)))) < 0 || zoomed
+        ? Math.min(...data.map(({ values }) => Math.min(...values.map(v => v.value)))) - 0.5
         : 0,
-      Math.max(...data.map(({ values }) => Math.max(...values))),
+      Math.max(...data.map(({ values }) => Math.max(...values.map(v => v.value)))),
     ])
     .range([height, 0])
     .nice();
