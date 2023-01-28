@@ -51,7 +51,11 @@ function DataSelector() {
         ))}
       </MainSelect>
       {categories && (
-        <SecondSelect>
+        <SecondSelect
+          onChange={(e) => {
+            dispatcher(dataSelectionActions.setCategory(e.target.value));
+          }}
+        >
           {categories.map((category) => (
             <option value={category.selector}>{category.name}</option>
           ))}
