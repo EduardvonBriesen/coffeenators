@@ -24,29 +24,23 @@ interface Props {
   country: string;
   tooltipData: string;
   value: number;
-  min: number;
-  max: number;
 }
 
-export default function Region({
-  path,
-  country,
-  tooltipData,
-  value,
-  min,
-  max,
-}: Props) {
+export default function Region({ path, country, tooltipData, value }: Props) {
   //each path defines the shape of a region in the map
-  const { unit, currentCountry } = useSelector(
+  const { unit, currentCountry, selector, extrema } = useSelector(
     (state: RootState) => state.dataSelection
   );
   const dispatcher = useDispatch();
 
+  const { min, max } = extrema;
+  const category = selector.name;
+
   const [fill, setFill] = useState("white");
 
   useEffect(() => {
-    setFill(String(getColor(value, min, max)));
-  }, [value, min, max]);
+    setFill(String(getColor(value, min, max, category)));
+  }, [value, min, max, category]);
 
   return (
     <>
