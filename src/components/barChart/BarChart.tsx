@@ -11,7 +11,7 @@ import { translateCountryG2E } from "../../helpers/translateCountryG2E";
 
 const BarChartContainer = styled.div`
   width: 100%;
-  height: 40vh;
+  height: 45vh;
   display: flex;
   flex-direction: column;
   align-items: center;
