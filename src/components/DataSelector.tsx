@@ -6,19 +6,31 @@ import styled from "styled-components";
 const SelectContainer = styled.div`
   width: 100%;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: top;
   box-sizing: border-box;
 `;
 
-const Select = styled.select`
+const MainSelect = styled.select`
   width: 100%;
   border: none;
   background-color: ${(props) => props.theme.colors.background.main};
   font-size: 2vh;
   padding: 1vh;
   border-radius: 1vh;
+  margin: 0 1vh 0 0;
+  box-sizing: border-box;
+  outline: none;
+`;
+
+const SecondSelect = styled.select`
+  border: none;
+  background-color: ${(props) => props.theme.colors.background.main};
+  font-size: 2vh;
+  padding: 1vh;
+  border-radius: 1vh;
+  box-sizing: border-box;
   outline: none;
 `;
 
@@ -27,7 +39,7 @@ function DataSelector() {
 
   return (
     <SelectContainer>
-      <Select
+      <MainSelect
         onChange={(e) => {
           dispatcher(dataSelectionActions.setSelection(e.target.value));
         }}
@@ -35,7 +47,12 @@ function DataSelector() {
         {selectionConfig.map((selection, index) => (
           <option value={index}>{selection.title}</option>
         ))}
-      </Select>
+      </MainSelect>
+      <SecondSelect>
+        <option>Coffee</option>
+        <option>Tea</option>
+        <option>Kakao</option>
+      </SecondSelect>
     </SelectContainer>
   );
 }
