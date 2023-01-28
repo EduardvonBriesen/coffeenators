@@ -17,13 +17,13 @@ const BarChartContainer = styled.div`
   align-items: center;
   justify-content: center;
   font-size: 2vh;
-  
+
   p {
     margin: 0;
     text-align: center;
     font-size: 1.5vh;
   }
-  `;
+`;
 
 const SvgContainer = styled.div`
   width: 100%;
@@ -40,9 +40,8 @@ const SvgContainer = styled.div`
 `;
 
 function BarChart() {
-  const { selector, title, currentCountry, categories } = useSelector(
-    (state: RootState) => state.dataSelection
-  );
+  const { selector, title, currentCountry, categories, filterSelection } =
+    useSelector((state: RootState) => state.dataSelection);
   const { market, diagram, name } = selector;
   const [data, setData] = useState<
     { label: string; values: { category: string; value: number }[] }[]
@@ -72,7 +71,7 @@ function BarChart() {
 
     const categoryData =
       categories !== undefined
-        ? categories.map(({ name, selector }) =>
+        ? filterSelection.map((selector) =>
             filteredData.filter((d: any) => d.Name === selector)
           )
         : [filteredData[0]];
@@ -90,7 +89,7 @@ function BarChart() {
     });
     console.log(data);
     setData(data);
-  }, [market, diagram, name, currentCountry, categories]);
+  }, [market, diagram, name, currentCountry, categories, filterSelection]);
 
   const scaleX = scaleBand()
     .domain(data.map(({ label }) => label))
@@ -98,10 +97,16 @@ function BarChart() {
     .padding(0.5);
   const scaleY = scaleLinear()
     .domain([
-      Math.min(...data.map(({ values }) => Math.min(...values.map(v => v.value)))) < 0 || zoomed
-        ? Math.min(...data.map(({ values }) => Math.min(...values.map(v => v.value)))) - 0.5
+      Math.min(
+        ...data.map(({ values }) => Math.min(...values.map((v) => v.value)))
+      ) < 0 || zoomed
+        ? Math.min(
+            ...data.map(({ values }) => Math.min(...values.map((v) => v.value)))
+          ) - 0.5
         : 0,
-      Math.max(...data.map(({ values }) => Math.max(...values.map(v => v.value)))),
+      Math.max(
+        ...data.map(({ values }) => Math.max(...values.map((v) => v.value)))
+      ),
     ])
     .range([height, 0])
     .nice();
@@ -123,7 +128,7 @@ function BarChart() {
           </g>
         </svg>
       </SvgContainer>
-      <Filter/>
+      <Filter />
     </BarChartContainer>
   );
 }

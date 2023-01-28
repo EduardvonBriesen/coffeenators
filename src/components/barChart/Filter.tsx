@@ -23,6 +23,7 @@ const Checkbox = styled("div")<{ color: string }>`
 
   input {
     accent-color: ${(props) => props.color};
+    cursor: pointer;
   }
 `;
 
@@ -38,8 +39,9 @@ function Filter() {
     <FilterContainer>
       {categories.map(({ name, selector }) => (
         <Checkbox color={getColor(1, 0, 2, selector) as any}>
-          <label>{name}</label>
+          <label htmlFor={selector}>{name}</label>
           <input
+            id={selector}
             type="checkbox"
             checked={filterSelection.includes(selector)}
             onChange={() => {
@@ -58,6 +60,9 @@ function Filter() {
                 );
               }
             }}
+            disabled={
+              filterSelection.length === 1 && filterSelection.includes(selector)
+            }
           />
         </Checkbox>
       ))}
