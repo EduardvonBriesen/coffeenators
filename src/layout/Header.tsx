@@ -1,4 +1,5 @@
-import { Link } from "react-scroll";
+import { useLocation, Link as RouterLink } from "react-router-dom";
+import { Link as ScrollLink } from "react-scroll";
 import styled from "styled-components";
 import CupIcon from "../assets/CupIcon";
 
@@ -34,7 +35,36 @@ const LinkList = styled.ul`
   list-style-type: none;
 `;
 
-const StyledLink = styled(Link)`
+const StyledLink = styled(ScrollLink)`
+  position: relative;
+  display: block;
+  cursor: default;
+  color: ${(props) => props.theme.colors.dark};
+  text-decoration: none;
+  margin: 0 1rem;
+
+  &::after {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 3px;
+    top: 100%;
+    left: 0;
+    background: ${(props) => props.theme.colors.primary};
+    transition: transform 0.5s;
+    transform: scaleX(0);
+    transform-origin: right;
+  }
+
+  &.active::after,
+  &:hover::after {
+    transform: scaleX(1);
+    transform-origin: left;
+  }
+`;
+
+// Sorry, not pretty
+const StyledRouterLink = styled(RouterLink)`
   position: relative;
   display: block;
   cursor: default;
@@ -63,25 +93,33 @@ const StyledLink = styled(Link)`
 `;
 
 function Header() {
+  const location = useLocation();
+
+  const mainLinks = [
+    <StyledLink to="home" spy={true} smooth={true}>
+      Home
+    </StyledLink>,
+    <StyledLink to="team" spy={true} smooth={true}>
+      Team
+    </StyledLink>,
+    <StyledLink to="about" spy={true} smooth={true}>
+      About
+    </StyledLink>,
+    <StyledLink to="map" spy={true} smooth={true}>
+      Map
+    </StyledLink>,
+  ];
+
+  const quizLinks = [<StyledRouterLink to="/">Home</StyledRouterLink>];
+
   return (
     <HeaderContainer>
       <Logo>
         <Icon />
-        Caffeinators
+        Coffeenators
       </Logo>
       <LinkList>
-        <StyledLink to="home" spy={true} smooth={true}>
-          Home
-        </StyledLink>
-        <StyledLink to="team" spy={true} smooth={true}>
-          Team
-        </StyledLink>
-        <StyledLink to="about" spy={true} smooth={true}>
-          About
-        </StyledLink>
-        <StyledLink to="map" spy={true} smooth={true}>
-          Map
-        </StyledLink>
+        {location.pathname === "/quiz" ? quizLinks : mainLinks}
       </LinkList>
     </HeaderContainer>
   );

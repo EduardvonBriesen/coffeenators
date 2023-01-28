@@ -5,6 +5,7 @@ import Layout from "./layout/Layout";
 import Team from "./pages/Team";
 import MapPage from "./pages/MapPage";
 import About from "./pages/About";
+import Quiz from "./pages/Quiz";
 
 const AppContainer = styled.div`
   font-family: "Work Sans";
@@ -31,6 +32,7 @@ function App() {
                 </>
               }
             />
+            <Route path="/quiz" element={<Quiz />} />
           </Routes>
         </Layout>
       </AppContainer>
