@@ -101,11 +101,6 @@ const initialState = {
     selectionConfig[0].selector.market,
     selectionConfig[0].selector.diagram
   ),
-  extrema: getExtrema(
-    selectionConfig[0].selector.market,
-    selectionConfig[0].selector.diagram,
-    selectionConfig[0].selector.name
-  ),
   stats: getStats(
     selectionConfig[0].selector.market,
     selectionConfig[0].selector.diagram,
@@ -113,6 +108,11 @@ const initialState = {
     2017
   ),
   ...selectionConfig[0],
+  extrema: getExtrema(
+    selectionConfig[0].selector.market,
+    selectionConfig[0].selector.diagram,
+    selectionConfig[0].selector.name
+  ),
   year: 2017,
   currentCountry: "Europa",
 } as unknown as DataSelectionState;
