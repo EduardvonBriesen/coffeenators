@@ -4,6 +4,10 @@ export interface ISelectionConfig {
     diagram: string;
     name: string;
   };
+  categories?: {
+    selector: string;
+    name: string;
+  }[];
   title: string;
   unit?: string;
   extrema?: {
@@ -12,58 +16,85 @@ export interface ISelectionConfig {
   };
 }
 
+const hotDrinkCategories = [
+  { selector: "Kaffee", name: "Coffee" },
+  { selector: "Tee", name: "Tea" },
+  { selector: "Kakao", name: "Cocoa" },
+];
+
 export const selectionConfig: ISelectionConfig[] = [
   {
     selector: {
-      market: "Kaffee",
-      diagram: "Umsatzveränderung",
-      name: "Total",
+      market: "Heißgetränke",
+      diagram: "Umsatzveränderung pro Segment",
+      name: "Kaffee",
     },
+    categories: [...hotDrinkCategories, { selector: "Total", name: "Total" }],
     title: "Change of Sales",
     unit: "%",
     extrema: {
       min: -40,
       max: 40,
-    }
+    },
   },
   {
     selector: {
-      market: "Kaffee",
+      market: "Heißgetränke",
       diagram: "Durchschnittlicher Umsatz pro Kopf",
-      name: "Total",
+      name: "Kaffee",
     },
+    categories: [...hotDrinkCategories, { selector: "Total", name: "Total" }],
     title: "Average Sales per Head",
     unit: "€",
     extrema: {
       min: 0,
       max: 800,
-    }
+    },
   },
   {
     selector: {
-      market: "Kaffee",
-      diagram: "Umsatz",
-      name: "Total",
+      market: "Heißgetränke",
+      diagram: "Umsatz pro Segment",
+      name: "Kaffee",
     },
-    title:  "Total Sales",
+    categories: [...hotDrinkCategories, { selector: "Total", name: "Total" }],
+    title: "Sales per Segment",
     unit: "Mio. €",
     extrema: {
       min: 0,
       max: 800,
-    }
+    },
   },
   {
     selector: {
-      market: "Kaffee",
+      market: "Heißgetränke",
       diagram: "Preis pro Einheit",
-      name: "Average",
+      name: "Kaffee",
     },
-    title:  "Average Price per Unit",
+    categories: [
+      ...hotDrinkCategories,
+      { selector: "Average", name: "Average" },
+    ],
+    title: "Average Price per Unit",
     unit: "€",
     extrema: {
       min: 0,
       max: 160,
-    }
+    },
+  },
+  {
+    selector: {
+      market: "Heißgetränke",
+      diagram: "Volumen pro Segment",
+      name: "Kaffee",
+    },
+    categories: [...hotDrinkCategories, { selector: "Total", name: "Total" }],
+    title: "Total Volume",
+    unit: "Mio. kg",
+    extrema: {
+      min: 0,
+      max: 500,
+    },
   },
   {
     selector: {
@@ -76,19 +107,6 @@ export const selectionConfig: ISelectionConfig[] = [
     extrema: {
       min: 0,
       max: 100,
-    }
-  },
-  {
-    selector: {
-      market: "Kaffee",
-      diagram: "Volumen",
-      name: "Total",
     },
-    title: "Total Volume",
-    unit: "Mio. kg",
-    extrema: {
-      min: 0,
-      max: 500,
-    }
   },
 ];

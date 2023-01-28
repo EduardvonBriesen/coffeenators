@@ -1,4 +1,5 @@
-import { useDispatch } from "react-redux";
+import { useSelector, useDispatch } from "react-redux";
+import { RootState } from "../store";
 import { dataSelectionActions } from "../store/data-selection-slice";
 import { selectionConfig } from "../helpers/selectionConfig";
 import styled from "styled-components";
@@ -19,7 +20,6 @@ const MainSelect = styled.select`
   font-size: 2vh;
   padding: 1vh;
   border-radius: 1vh;
-  margin: 0 1vh 0 0;
   box-sizing: border-box;
   outline: none;
 `;
@@ -30,12 +30,14 @@ const SecondSelect = styled.select`
   font-size: 2vh;
   padding: 1vh;
   border-radius: 1vh;
+  margin: 0 0 0 1vh;
   box-sizing: border-box;
   outline: none;
 `;
 
 function DataSelector() {
   const dispatcher = useDispatch();
+  const { categories } = useSelector((state: RootState) => state.dataSelection);
 
   return (
     <SelectContainer>
@@ -48,11 +50,13 @@ function DataSelector() {
           <option value={index}>{selection.title}</option>
         ))}
       </MainSelect>
-      <SecondSelect>
-        <option>Coffee</option>
-        <option>Tea</option>
-        <option>Kakao</option>
-      </SecondSelect>
+      {categories && (
+        <SecondSelect>
+          {categories.map((category) => (
+            <option value={category.selector}>{category.name}</option>
+          ))}
+        </SecondSelect>
+      )}
     </SelectContainer>
   );
 }

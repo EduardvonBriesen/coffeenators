@@ -71,6 +71,10 @@ interface DataSelectionState {
     diagram: string;
     name: string;
   };
+  categories?: {
+    selector: string;
+    name: string;
+  }[];
   year: number;
   title: string;
   unit: string;
@@ -121,6 +125,7 @@ const { actions, reducer } = createSlice({
       const index = action.payload;
       const config = selectionConfig[index];
       state.selector = config.selector;
+      state.categories = config.categories;
       state.title = config.title;
       state.unit =
         config.unit || getUnit(config.selector.market, config.selector.diagram);
