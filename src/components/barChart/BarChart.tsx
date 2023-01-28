@@ -39,11 +39,11 @@ const SvgContainer = styled.div`
 `;
 
 function BarChart() {
-  const { selector, title, currentCountry } = useSelector(
+  const { selector, title, currentCountry, categories } = useSelector(
     (state: RootState) => state.dataSelection
   );
   const { market, diagram, name } = selector;
-  const [data, setData] = useState<any[]>([]);
+  const [data, setData] = useState<{ label: string; values: number[] }[]>([]);
 
   const [height, setHeight] = useState(0);
   const [width, setWidth] = useState(0);
@@ -64,18 +64,28 @@ function BarChart() {
       (d: any) =>
         d.Markt === market &&
         d.Diagram === diagram &&
-        d.Name === name &&
         d.Region === currentCountry
-    )[0] as any;
+    ) as any;
+
+    const categoryData =
+      categories !== undefined
+        ? categories.map(({ name, selector }) =>
+            filteredData.filter((d: any) => d.Name === selector)
+          )
+        : [filteredData[0]];
 
     const data = years.map((year: string) => {
       return {
         label: year,
-        value: parseFloat(String(filteredData[year]).replace(",", ".")),
+        values: categoryData.flat().map((d: any) => {
+          console.log(d[2012]);
+          return parseFloat(String(d[year]).replace(",", "."));
+        }),
       };
     });
+    console.log(data);
     setData(data);
-  }, [market, diagram, name, currentCountry]);
+  }, [market, diagram, name, currentCountry, categories]);
 
   const scaleX = scaleBand()
     .domain(data.map(({ label }) => label))
@@ -83,10 +93,10 @@ function BarChart() {
     .padding(0.5);
   const scaleY = scaleLinear()
     .domain([
-      Math.min(...data.map(({ value }) => value)) < 0 || zoomed
-        ? Math.min(...data.map(({ value }) => value)) - 0.5
+      Math.min(...data.map(({ values }) => Math.min(...values))) < 0 || zoomed
+        ? Math.min(...data.map(({ values }) => Math.min(...values))) - 0.5
         : 0,
-      Math.max(...data.map(({ value }) => value)),
+      Math.max(...data.map(({ values }) => Math.max(...values))),
     ])
     .range([height, 0])
     .nice();
