@@ -19,7 +19,7 @@ const MapContainer = styled.div`
 export default function Map() {
   const dispatcher = useDispatch();
   const { mapData } = useMapTools();
-  const { selector, year, extrema } = useSelector(
+  const { selector, year } = useSelector(
     (state: RootState) => state.dataSelection
   );
   const { market, diagram, name } = selector;
