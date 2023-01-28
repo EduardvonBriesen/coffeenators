@@ -124,7 +124,10 @@ const { actions, reducer } = createSlice({
     setSelection(state, action) {
       const index = action.payload;
       const config = selectionConfig[index];
-      if (config.categories !== undefined && config.categories.find((d) => d.selector === state.selector.name)) {
+      if (
+        config.categories !== undefined &&
+        config.categories.find((d) => d.selector === state.selector.name)
+      ) {
         state.selector.market = config.selector.market;
         state.selector.diagram = config.selector.diagram;
       } else {
@@ -135,11 +138,11 @@ const { actions, reducer } = createSlice({
       state.unit =
         config.unit || getUnit(config.selector.market, config.selector.diagram);
       state.extrema =
-        config.extrema ||
+        // config.extrema ||
         getExtrema(
           config.selector.market,
           config.selector.diagram,
-          config.selector.name
+          state.selector.name
         );
       state.stats = getStats(
         config.selector.market,
@@ -150,13 +153,13 @@ const { actions, reducer } = createSlice({
     },
     setCategory(state, action) {
       state.selector.name = action.payload;
-      // state.extrema =
-      //   config.extrema ||
-      //   getExtrema(
-      //     config.selector.market,
-      //     config.selector.diagram,
-      //     config.selector.name
-      //   );
+      state.extrema =
+        // config.extrema ||
+        getExtrema(
+          state.selector.market,
+          state.selector.diagram,
+          action.payload
+        );
       state.stats = getStats(
         state.selector.market,
         state.selector.diagram,

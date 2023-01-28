@@ -10,6 +10,21 @@ export const theme = {
       min: "#1A6079",
       zero: "#e5e5e5",
       max: "#A81F0D",
+      coffee: {
+        min: "#2F435A",
+        zero: "#e5e5e5",
+        max: "#A47551",
+      },
+      tea: {
+        min: "#1A6079",
+        zero: "#e5e5e5",
+        max: "#478C5C",
+      },
+      cocoa: {
+        min: "#2F435A",
+        zero: "#e5e5e5",
+        max: "#AB6B51",
+      },
     },
   },
 };

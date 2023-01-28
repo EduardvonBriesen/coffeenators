@@ -66,8 +66,6 @@ export default function Map() {
           country={region_name}
           tooltipData={region_name_en + ", " + region_value}
           value={getFloat(region_value)}
-          min={extrema.min}
-          max={extrema.max}
         />
       );
     });
@@ -78,7 +76,7 @@ export default function Map() {
           dispatcher(dataSelectionActions.setCountry("Europa"));
         }}
       >
-        <Legend min={extrema.min} max={extrema.max} />
+        <Legend />
         <svg viewBox="130 -20 700 600">
           <defs>
             <pattern
