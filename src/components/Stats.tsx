@@ -40,7 +40,7 @@ function Facts() {
         .
       </p>
       <p>
-        📉 <b>{bottomCountry.name}</b> the lowest value with{" "}
+        📉 <b>{bottomCountry.name}</b> has the lowest value with{" "}
         <b>
           {bottomCountry.value.toFixed(2)}
           {unit}

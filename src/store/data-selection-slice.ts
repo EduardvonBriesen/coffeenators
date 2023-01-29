@@ -13,11 +13,7 @@ const getExtrema = (market: string, diagram: string, name: string) => {
   );
 
   const data = years
-    .map((year) =>
-      filteredData.map((d: any) =>
-        getFloat(String(d[year]))
-      )
-    )
+    .map((year) => filteredData.map((d: any) => getFloat(String(d[year]))))
     .flat();
 
   const min = Math.floor(d3.min(data) || 0);
@@ -41,7 +37,11 @@ const getStats = (
 ) => {
   const data = coffeeData
     .filter(
-      (d: any) => d.Markt === market && d.Diagram === diagram && d.Name === name
+      (d: any) =>
+        d.Markt === market &&
+        d.Diagram === diagram &&
+        d.Name === name &&
+        d.Region !== "Europa"
     )
     .map((d: any) => {
       return {
@@ -210,7 +210,7 @@ const { actions, reducer } = createSlice({
     },
     setFilterSelection(state, action) {
       state.filterSelection = action.payload;
-    }
+    },
   },
 });
 
