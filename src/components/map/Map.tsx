@@ -10,17 +10,43 @@ import { dataSelectionActions } from "../../store/data-selection-slice";
 import coffeeData from "../../data/combined_data.json";
 import styled from "styled-components";
 import { getFloat } from "../../helpers/getFloat";
+import { translateCountryG2E } from "../../helpers/translateCountryG2E";
+import CloseIcon from "@mui/icons-material/Close";
 
 const MapContainer = styled.div`
   width: 100%;
-  height: 80%;
+  height: 85%;
   position: relative;
+`;
+
+const Chip = styled.div`
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 1rem;
+  color: ${(props) => props.theme.colors.primary};
+  background-color: ${(props) => props.theme.colors.background.main};
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  z-index: 100;
+
+  svg {
+    margin-left: 0.5rem;
+    color: black;
+    cursor: pointer;
+
+    &:hover {
+      color: ${(props) => props.theme.colors.primary};
+    }
+  }
 `;
 
 export default function Map() {
   const dispatcher = useDispatch();
   const { mapData } = useMapTools();
-  const { selector, year } = useSelector(
+  const { selector, year, currentCountry } = useSelector(
     (state: RootState) => state.dataSelection
   );
   const { market, diagram, name } = selector;
@@ -65,11 +91,19 @@ export default function Map() {
     });
 
     return (
-      <MapContainer
-        onClick={() => {
-          dispatcher(dataSelectionActions.setCountry("Europa"));
-        }}
-      >
+      <MapContainer>
+        {currentCountry !== "Europa" && (
+          <Chip>
+            <label htmlFor="chip">{translateCountryG2E(currentCountry)}</label>
+            <CloseIcon
+              id="chip"
+              fontSize="small"
+              onClick={() => {
+                dispatcher(dataSelectionActions.setCountry("Europa"));
+              }}
+            />
+          </Chip>
+        )}
         <Legend />
         <svg viewBox="130 -20 700 600">
           <defs>
