@@ -161,11 +161,6 @@ const { actions, reducer } = createSlice({
         config.selector.name,
         state.year
       ) as unknown as typeof state.stats;
-      state.filterSelection = state.filterSelection.filter((d) =>
-        config.categories
-          ? config.categories.find((c) => c.selector === d)
-          : d === config.selector.name
-      );
     },
     setCategory(state, action) {
       state.selector.name = action.payload;
