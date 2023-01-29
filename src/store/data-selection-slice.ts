@@ -3,6 +3,7 @@ import coffeeData from "../data/combined_data.json";
 import { selectionConfig } from "../helpers/selectionConfig";
 import * as d3 from "d3";
 import { translateCountryG2E } from "../helpers/translateCountryG2E";
+import { getFloat } from "../helpers/getFloat";
 
 const getExtrema = (market: string, diagram: string, name: string) => {
   const years = [2017, 2018, 2019, 2020, 2021, 2022];
@@ -14,7 +15,7 @@ const getExtrema = (market: string, diagram: string, name: string) => {
   const data = years
     .map((year) =>
       filteredData.map((d: any) =>
-        parseFloat(String(d[year]).replace(",", "."))
+        getFloat(String(d[year]))
       )
     )
     .flat();
@@ -45,7 +46,7 @@ const getStats = (
     .map((d: any) => {
       return {
         name: translateCountryG2E(d.Region),
-        value: parseFloat(String(d[year]).replace(",", ".")),
+        value: getFloat(String(d[year])),
       };
     });
 

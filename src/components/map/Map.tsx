@@ -9,6 +9,7 @@ import Legend from "./Legend";
 import { dataSelectionActions } from "../../store/data-selection-slice";
 import coffeeData from "../../data/combined_data.json";
 import styled from "styled-components";
+import { getFloat } from "../../helpers/getFloat";
 
 const MapContainer = styled.div`
   width: 100%;
@@ -37,13 +38,6 @@ export default function Map() {
     );
     setFilteredData(filteredData);
   }, [market, diagram, name]);
-
-  function getFloat(value: string | number) {
-    if (typeof value === "string") {
-      return parseFloat(value.replace(",", "."));
-    }
-    return value;
-  }
 
   // render map only when map data is fully loaded
   if (!mapData.loading) {

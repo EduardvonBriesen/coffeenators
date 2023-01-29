@@ -8,6 +8,7 @@ import Bars from "./Bars";
 import Filter from "./Filter";
 import coffeeData from "../../data/combined_data.json";
 import { translateCountryG2E } from "../../helpers/translateCountryG2E";
+import { getFloat } from "../../helpers/getFloat";
 
 const BarChartContainer = styled.div`
   width: 100%;
@@ -52,7 +53,7 @@ function BarChart() {
 
   const [zoomed, setZoomed] = useState(false);
 
-  const margin = { top: 20, right: 20, bottom: 20, left: 20 };
+  const margin = { top: 20, right: 20, bottom: 20, left: 30 };
   const ref = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -82,7 +83,7 @@ function BarChart() {
         values: categoryData.flat().map((d: any) => {
           return {
             category: d.Name,
-            value: parseFloat(String(d[year]).replace(",", ".")),
+            value: getFloat(String(d[year])),
           };
         }),
       };
