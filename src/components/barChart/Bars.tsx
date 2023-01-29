@@ -39,7 +39,7 @@ function Bars({ data, height, scaleX, scaleY }: BarsProps) {
         width={barWidth - 1}
         height={trueHeight}
         fill={getColor(1, 0, 2, category) as any}
-        style={{ transition: "all 0.5s ease" }}
+        style={{ transition: "all 0.5s ease", cursor: "default" }}
       />
     );
   };

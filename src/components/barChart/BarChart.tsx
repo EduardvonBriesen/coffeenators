@@ -26,10 +26,11 @@ const BarChartContainer = styled.div`
   }
 `;
 
-const SvgContainer = styled.div`
+const SvgContainer = styled("div")<{ zoomed: boolean; zoomable: boolean }>`
   width: 100%;
   height: 100%;
-  cursor: pointer;
+  cursor: ${(props) =>
+    props.zoomable ? (props.zoomed ? "zoom-out" : "zoom-in") : "default"};
 
   svg {
     .tick,
@@ -52,6 +53,7 @@ function BarChart() {
   const [width, setWidth] = useState(0);
 
   const [zoomed, setZoomed] = useState(false);
+  const [zoomable, setZoomable] = useState(false);
 
   const margin = { top: 20, right: 20, bottom: 20, left: 30 };
   const ref = useRef<HTMLDivElement>(null);
@@ -60,6 +62,17 @@ function BarChart() {
     setHeight((ref.current?.clientHeight || 0) - margin.top - margin.bottom);
     setWidth((ref.current?.clientWidth || 0) - margin.left - margin.right);
   }, [margin.bottom, margin.left, margin.right, margin.top]);
+
+  useEffect(() => {
+    const max = Math.max(
+      ...data.map(({ values }) => Math.max(...values.map((v) => v.value)))
+    );
+    const min = Math.min(
+      ...data.map(({ values }) => Math.min(...values.map((v) => v.value)))
+    );
+
+    setZoomable(min - max / 20 > 0);
+  }, [data]);
 
   useEffect(() => {
     const years = ["2017", "2018", "2019", "2020", "2021", "2022"];
@@ -74,9 +87,7 @@ function BarChart() {
       categories !== undefined
         ? categories
             .filter((c) => filterSelection.includes(c.selector))
-            .map((c) =>
-              filteredData.filter((d: any) => d.Name === c.selector)
-            )
+            .map((c) => filteredData.filter((d: any) => d.Name === c.selector))
         : [filteredData[0]];
 
     const data = years.map((year: string) => {
@@ -113,12 +124,21 @@ function BarChart() {
     .range([height, 0])
     .nice();
 
+  console.log(zoomed, zoomable);
+
   return (
     <BarChartContainer>
       <p>
         {title} in {translateCountryG2E(currentCountry)}
       </p>
-      <SvgContainer ref={ref} onClick={() => setZoomed(!zoomed)}>
+      <SvgContainer
+        ref={ref}
+        onClick={() => {
+          zoomable && setZoomed(!zoomed);
+        }}
+        zoomed={zoomed}
+        zoomable={zoomable}
+      >
         <svg
           width={width + margin.left + margin.right}
           height={height + margin.top + margin.bottom}
