@@ -9,7 +9,11 @@ const getExtrema = (market: string, diagram: string, name: string) => {
   const years = [2017, 2018, 2019, 2020, 2021, 2022];
 
   const filteredData = coffeeData.filter(
-    (d: any) => d.Markt === market && d.Diagram === diagram && d.Name === name
+    (d: any) =>
+      d.Markt === market &&
+      d.Diagram === diagram &&
+      d.Name === name &&
+      d.Region !== "Europa"
   );
 
   const data = years
