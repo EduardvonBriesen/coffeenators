@@ -8,7 +8,7 @@ import Facts from "../components/Stats";
 const MapPageContainer = styled.div`
   display: grid;
   grid-template-columns: 30% 65%;
-  grid-template-rows: 15% 80%;
+  grid-template-rows: 10% 85%;
   grid-gap: 5%;
   background-color: ${(props) => props.theme.colors.background.main};
   width: 100vw;
