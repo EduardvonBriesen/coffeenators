@@ -72,9 +72,11 @@ function BarChart() {
 
     const categoryData =
       categories !== undefined
-        ? filterSelection.map((selector) =>
-            filteredData.filter((d: any) => d.Name === selector)
-          )
+        ? categories
+            .filter((c) => filterSelection.includes(c.selector))
+            .map((c) =>
+              filteredData.filter((d: any) => d.Name === c.selector)
+            )
         : [filteredData[0]];
 
     const data = years.map((year: string) => {
@@ -88,7 +90,6 @@ function BarChart() {
         }),
       };
     });
-    console.log(data);
     setData(data);
   }, [market, diagram, name, currentCountry, categories, filterSelection]);
 
