@@ -14,6 +14,11 @@ const FactContainer = styled.div`
     font-size: 2vh;
     margin: 1vh 0;
 
+    h1 {
+      font-size: 3vh;
+      display: inline;
+    }
+
     b {
       font-weight: 600;
     }
@@ -32,7 +37,7 @@ function Facts() {
         In the Year <b>{year}</b>,
       </p>
       <p>
-        🚀 On top is <b>{topCountry.name}</b> with a value of{" "}
+        <h1>🚀</h1> On top is <b>{topCountry.name}</b> with a value of{" "}
         <b>
           {topCountry.value.toFixed(2)}
           {unit}
@@ -40,7 +45,7 @@ function Facts() {
         .
       </p>
       <p>
-        📉 <b>{bottomCountry.name}</b> has the lowest value with{" "}
+        <h1>📉</h1> <b>{bottomCountry.name}</b> has the lowest value with{" "}
         <b>
           {bottomCountry.value.toFixed(2)}
           {unit}
@@ -48,7 +53,8 @@ function Facts() {
         .
       </p>
       <p>
-        ⚖️ The average value for {title.toLowerCase()} in <b>Europe</b> is{"  "}
+        <h1>⚖️</h1> The average value for {title.toLowerCase()} in <b>Europe</b>{" "}
+        is{"  "}
         <b>
           {average.toFixed(2)}
           {unit}
