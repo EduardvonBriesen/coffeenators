@@ -115,7 +115,7 @@ function BarChart() {
       ) < 0 || zoomed
         ? Math.min(
             ...data.map(({ values }) => Math.min(...values.map((v) => v.value)))
-          ) - 0.5
+          )
         : 0,
       Math.max(
         ...data.map(({ values }) => Math.max(...values.map((v) => v.value)))
