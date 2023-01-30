@@ -9,17 +9,44 @@ import Legend from "./Legend";
 import { dataSelectionActions } from "../../store/data-selection-slice";
 import coffeeData from "../../data/combined_data.json";
 import styled from "styled-components";
+import { getFloat } from "../../helpers/getFloat";
+import { translateCountryG2E } from "../../helpers/translateCountryG2E";
+import CloseIcon from "@mui/icons-material/Close";
 
 const MapContainer = styled.div`
   width: 100%;
-  height: 80%;
+  height: 85%;
   position: relative;
+`;
+
+const Chip = styled.div`
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 1rem;
+  color: ${(props) => props.theme.colors.primary};
+  background-color: ${(props) => props.theme.colors.background.main};
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  z-index: 100;
+
+  svg {
+    margin-left: 0.5rem;
+    color: black;
+    cursor: pointer;
+
+    &:hover {
+      color: ${(props) => props.theme.colors.primary};
+    }
+  }
 `;
 
 export default function Map() {
   const dispatcher = useDispatch();
   const { mapData } = useMapTools();
-  const { selector, year, extrema } = useSelector(
+  const { selector, year, currentCountry } = useSelector(
     (state: RootState) => state.dataSelection
   );
   const { market, diagram, name } = selector;
@@ -37,13 +64,6 @@ export default function Map() {
     );
     setFilteredData(filteredData);
   }, [market, diagram, name]);
-
-  function getFloat(value: string | number) {
-    if (typeof value === "string") {
-      return parseFloat(value.replace(",", "."));
-    }
-    return value;
-  }
 
   // render map only when map data is fully loaded
   if (!mapData.loading) {
@@ -66,20 +86,48 @@ export default function Map() {
           country={region_name}
           tooltipData={region_name_en + ", " + region_value}
           value={getFloat(region_value)}
-          min={extrema.min}
-          max={extrema.max}
         />
       );
     });
 
     return (
-      <MapContainer
-        onClick={() => {
-          dispatcher(dataSelectionActions.setCountry("Europa"));
-        }}
-      >
-        <Legend min={extrema.min} max={extrema.max} />
-        <svg viewBox="130 -20 700 600">{countries}</svg>
+      <MapContainer>
+        {currentCountry !== "Europa" && (
+          <Chip>
+            <label htmlFor="chip">{translateCountryG2E(currentCountry)}</label>
+            <CloseIcon
+              id="chip"
+              fontSize="small"
+              onClick={() => {
+                dispatcher(dataSelectionActions.setCountry("Europa"));
+              }}
+            />
+          </Chip>
+        )}
+        <Legend />
+        <svg viewBox="130 -20 700 600">
+          <defs>
+            <pattern
+              id="stripe"
+              width="5"
+              height="10"
+              patternUnits="userSpaceOnUse"
+              patternTransform="rotate(45)"
+            >
+              <rect width="4" height="10" fill="white" />
+            </pattern>
+            <mask id="mask">
+              <rect
+                height="1000"
+                width="1000"
+                style={{
+                  fill: "url(#stripe)",
+                }}
+              />
+            </mask>
+          </defs>
+          {countries}
+        </svg>
       </MapContainer>
     );
   } else {

@@ -5,8 +5,10 @@ import { RootState } from "../../store";
 import styled from "styled-components";
 import { AxisBottom, AxisLeft } from "./Axes";
 import Bars from "./Bars";
+import Filter from "./Filter";
 import coffeeData from "../../data/combined_data.json";
 import { translateCountryG2E } from "../../helpers/translateCountryG2E";
+import { getFloat } from "../../helpers/getFloat";
 
 const BarChartContainer = styled.div`
   width: 100%;
@@ -16,7 +18,6 @@ const BarChartContainer = styled.div`
   align-items: center;
   justify-content: center;
   font-size: 2vh;
-  cursor: pointer;
 
   p {
     margin: 0;
@@ -25,9 +26,11 @@ const BarChartContainer = styled.div`
   }
 `;
 
-const SvgContainer = styled.div`
+const SvgContainer = styled("div")<{ zoomed: boolean; zoomable: boolean }>`
   width: 100%;
   height: 100%;
+  cursor: ${(props) =>
+    props.zoomable ? (props.zoomed ? "zoom-out" : "zoom-in") : "default"};
 
   svg {
     .tick,
@@ -39,18 +42,20 @@ const SvgContainer = styled.div`
 `;
 
 function BarChart() {
-  const { selector, title, currentCountry } = useSelector(
-    (state: RootState) => state.dataSelection
-  );
+  const { selector, title, currentCountry, categories, filterSelection } =
+    useSelector((state: RootState) => state.dataSelection);
   const { market, diagram, name } = selector;
-  const [data, setData] = useState<any[]>([]);
+  const [data, setData] = useState<
+    { label: string; values: { category: string; value: number }[] }[]
+  >([]);
 
   const [height, setHeight] = useState(0);
   const [width, setWidth] = useState(0);
 
   const [zoomed, setZoomed] = useState(false);
+  const [zoomable, setZoomable] = useState(false);
 
-  const margin = { top: 20, right: 20, bottom: 20, left: 20 };
+  const margin = { top: 20, right: 20, bottom: 20, left: 30 };
   const ref = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -59,23 +64,45 @@ function BarChart() {
   }, [margin.bottom, margin.left, margin.right, margin.top]);
 
   useEffect(() => {
+    const max = Math.max(
+      ...data.map(({ values }) => Math.max(...values.map((v) => v.value)))
+    );
+    const min = Math.min(
+      ...data.map(({ values }) => Math.min(...values.map((v) => v.value)))
+    );
+
+    setZoomable(min - max / 20 > 0);
+  }, [data]);
+
+  useEffect(() => {
     const years = ["2017", "2018", "2019", "2020", "2021", "2022"];
     const filteredData = coffeeData.filter(
       (d: any) =>
         d.Markt === market &&
         d.Diagram === diagram &&
-        d.Name === name &&
         d.Region === currentCountry
-    )[0] as any;
+    ) as any;
+
+    const categoryData =
+      categories !== undefined
+        ? categories
+            .filter((c) => filterSelection.includes(c.selector))
+            .map((c) => filteredData.filter((d: any) => d.Name === c.selector))
+        : [filteredData[0]];
 
     const data = years.map((year: string) => {
       return {
         label: year,
-        value: parseFloat(String(filteredData[year]).replace(",", ".")),
+        values: categoryData.flat().map((d: any) => {
+          return {
+            category: d.Name,
+            value: getFloat(String(d[year])),
+          };
+        }),
       };
     });
     setData(data);
-  }, [market, diagram, name, currentCountry]);
+  }, [market, diagram, name, currentCountry, categories, filterSelection]);
 
   const scaleX = scaleBand()
     .domain(data.map(({ label }) => label))
@@ -83,17 +110,35 @@ function BarChart() {
     .padding(0.5);
   const scaleY = scaleLinear()
     .domain([
-      Math.min(...data.map(({ value }) => value)) < 0 || zoomed
-        ? Math.min(...data.map(({ value }) => value)) - 0.5
+      Math.min(
+        ...data.map(({ values }) => Math.min(...values.map((v) => v.value)))
+      ) < 0 || zoomed
+        ? Math.min(
+            ...data.map(({ values }) => Math.min(...values.map((v) => v.value)))
+          )
         : 0,
-      Math.max(...data.map(({ value }) => value)),
+      Math.max(
+        ...data.map(({ values }) => Math.max(...values.map((v) => v.value)))
+      ),
     ])
     .range([height, 0])
     .nice();
 
+  console.log(zoomed, zoomable);
+
   return (
     <BarChartContainer>
-      <SvgContainer ref={ref} onClick={() => setZoomed(!zoomed)}>
+      <p>
+        {title} in {translateCountryG2E(currentCountry)}
+      </p>
+      <SvgContainer
+        ref={ref}
+        onClick={() => {
+          zoomable && setZoomed(!zoomed);
+        }}
+        zoomed={zoomed}
+        zoomable={zoomable}
+      >
         <svg
           width={width + margin.left + margin.right}
           height={height + margin.top + margin.bottom}
@@ -105,9 +150,7 @@ function BarChart() {
           </g>
         </svg>
       </SvgContainer>
-      <p>
-        {title} in {translateCountryG2E(currentCountry)}
-      </p>
+      <Filter />
     </BarChartContainer>
   );
 }

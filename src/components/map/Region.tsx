@@ -5,17 +5,17 @@ import Tooltip from "@mui/material/Tooltip";
 import { useSelector, useDispatch } from "react-redux";
 import { dataSelectionActions } from "../../store/data-selection-slice";
 import { RootState } from "../../store";
-import { theme } from "../../theme";
 
-const RegionContainer = styled("path")<{ fill: string }>`
+const RegionContainer = styled("path")<{ fill: string; active: boolean }>`
   stroke: ${(props) => props.theme.colors.background.main};
   stroke-width: 1px;
   fill: ${(props) => props.fill};
   transition: fill 0.3s ease-in-out;
   z-index: 1;
+  mask: ${(props) => (props.active ? "url(#mask)" : "none")};
   &:hover {
     cursor: pointer;
-    fill: ${(props) => props.theme.colors.primary};
+    mask: url(#mask);
   }
 `;
 
@@ -24,42 +24,41 @@ interface Props {
   country: string;
   tooltipData: string;
   value: number;
-  min: number;
-  max: number;
 }
 
-export default function Region({
-  path,
-  country,
-  tooltipData,
-  value,
-  min,
-  max,
-}: Props) {
+export default function Region({ path, country, tooltipData, value }: Props) {
   //each path defines the shape of a region in the map
-  const { unit, currentCountry } = useSelector(
+  const { unit, currentCountry, selector, extrema } = useSelector(
     (state: RootState) => state.dataSelection
   );
   const dispatcher = useDispatch();
 
+  const { min, max } = extrema;
+  const category = selector.name;
+
   const [fill, setFill] = useState("white");
 
   useEffect(() => {
-    if (currentCountry === country) setFill(theme.colors.primary);
-    else setFill(String(getColor(value, min, max)));
-  }, [value, min, max, currentCountry, country]);
+    setFill(String(getColor(value, min, max, category)));
+  }, [value, min, max, category]);
 
   return (
-    <Tooltip
-      title={`${tooltipData} ${unit}`}
-      placement="top"
-      followCursor
-      onClick={(e) => {
-        e.stopPropagation();
-        dispatcher(dataSelectionActions.setCountry(country));
-      }}
-    >
-      <RegionContainer d={path} fill={fill} />
-    </Tooltip>
+    <>
+      <Tooltip
+        title={`${tooltipData} ${unit}`}
+        placement="top"
+        followCursor
+        onClick={(e) => {
+          e.stopPropagation();
+          dispatcher(dataSelectionActions.setCountry(country));
+        }}
+      >
+        <RegionContainer
+          d={path}
+          fill={fill}
+          active={currentCountry === country}
+        />
+      </Tooltip>
+    </>
   );
 }
