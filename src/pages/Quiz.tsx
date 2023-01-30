@@ -43,7 +43,7 @@ function Quiz() {
     setCurrentQuestion(id);
   }
 
-  function answerHandler(value: string, id: number) {
+  function answerHandler(value: string[], id: number) {
     console.log(value);
     scrollIntoView(id + 1);
     setCurrentQuestion(id + 1);
@@ -55,8 +55,7 @@ function Quiz() {
       {quizConfig.map((question, index) => (
         <Question
           id={index}
-          question={question.question}
-          options={question.options}
+          question={question}
           onAnswer={(value) => answerHandler(value, index)}
         />
       ))}
