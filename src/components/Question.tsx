@@ -8,6 +8,7 @@ const QuestionContainer = styled.div`
 
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   width: 100vw;
   height: 100vh;
   padding: 20% 10% 5% 10%;
@@ -15,6 +16,7 @@ const QuestionContainer = styled.div`
 `;
 
 const QuestionText = styled.h1`
+  width: 100%;
   font-weight: 400;
   font-size: 5vh;
   line-height: 8vh;
@@ -58,8 +60,7 @@ const Option = styled("button")<{ selected: boolean }>`
 `;
 
 const Submit = styled.div`
-  position: fixed;
-  bottom: 1rem;
+  position: relative;
   left: 50%;
 
   display: flex;
@@ -88,7 +89,7 @@ const Submit = styled.div`
   }
 
   svg {
-    margin-left: .5rem;
+    margin-left: 0.5rem;
     font-size: 3vh;
   }
 `;
@@ -117,8 +118,8 @@ function Question({ id, question, onAnswer }: QuestionProps) {
 
   return (
     <QuestionContainer id={`question-${id}`}>
-      <QuestionText>{question.question}</QuestionText>
       <OptionContainer>
+        <QuestionText>{question.question}</QuestionText>
         {question.options.map((option) => (
           <Option
             onClick={() => {
