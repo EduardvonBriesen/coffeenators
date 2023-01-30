@@ -1,7 +1,7 @@
 import { useSelector, useDispatch } from "react-redux";
 import { RootState } from "../store";
 import { dataSelectionActions } from "../store/data-selection-slice";
-import { selectionConfig } from "../helpers/selectionConfig";
+import { selectionConfig } from "../config/selectionConfig";
 import styled from "styled-components";
 
 const SelectContainer = styled.div`

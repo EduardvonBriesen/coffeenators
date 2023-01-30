@@ -1,6 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 import coffeeData from "../data/combined_data.json";
-import { selectionConfig } from "../helpers/selectionConfig";
+import { selectionConfig } from "../config/selectionConfig";
 import * as d3 from "d3";
 import { translateCountryG2E } from "../helpers/translateCountryG2E";
 import { getFloat } from "../helpers/getFloat";
