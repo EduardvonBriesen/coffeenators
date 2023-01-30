@@ -1,16 +1,13 @@
-import styled from "styled-components";
+import styled, { createGlobalStyle } from "styled-components";
+
+const GlobalStyle = createGlobalStyle`
+  body {
+    overflow: hidden;
+  }
+`;
 
 const QuizContainer = styled.div`
   background-color: ${(props) => props.theme.colors.background.main};
-  overflow: hidden;
-  /* position: fixed; */
-
-  &::-webkit-scrollbar {
-    display: none; /* for Chrome, Safari, and Opera */
-  }
-
-  -ms-overflow-style: none; /* for Internet Explorer, Edge */
-  scrollbar-width: none; /* for Firefox */
 `;
 
 const QuestionContainer = styled.div`
@@ -68,6 +65,7 @@ function Quiz() {
 
   return (
     <QuizContainer>
+      <GlobalStyle />
       <QuestionContainer id="question-1">
         <Question>How much Coffee do you Drink per Day?</Question>
         <OptionContainer>
