@@ -1,9 +1,23 @@
 import styled from "styled-components";
 
 const QuizContainer = styled.div`
+  background-color: ${(props) => props.theme.colors.background.main};
+  overflow: hidden;
+  /* position: fixed; */
+
+  &::-webkit-scrollbar {
+    display: none; /* for Chrome, Safari, and Opera */
+  }
+
+  -ms-overflow-style: none; /* for Internet Explorer, Edge */
+  scrollbar-width: none; /* for Firefox */
+`;
+
+const QuestionContainer = styled.div`
+  overflow: hidden;
+
   display: flex;
   flex-direction: column;
-  background-color: ${(props) => props.theme.colors.background.main};
   width: 100vw;
   height: 100vh;
   padding: 20% 10% 5% 10%;
@@ -21,7 +35,7 @@ const OptionContainer = styled.div`
   display: flex;
   flex-direction: row;
   width: 100%;
-  box-sizing: border-box; 
+  box-sizing: border-box;
   padding-top: 1rem;
 `;
 
@@ -45,19 +59,38 @@ const Option = styled.button`
   }
 `;
 
-
 function Quiz() {
+  function scrollIntoView(id: number) {
+    const element = document.getElementById(`question-${id}`);
+    console.log(element);
+    element?.scrollIntoView({ behavior: "smooth" });
+  }
+
   return (
     <QuizContainer>
-      <Question>How much Coffee do you Drink per Day?</Question>
-      <OptionContainer>
-        <Option>I don't</Option>
-        <Option>1 Cup</Option>
-        <Option>2 Cups</Option>
-        <Option>3 Cups</Option>
-        <Option>4 Cups</Option>
-        <Option>5 or more Cups</Option>
-      </OptionContainer>
+      <QuestionContainer id="question-1">
+        <Question>How much Coffee do you Drink per Day?</Question>
+        <OptionContainer>
+          <Option onClick={() => scrollIntoView(2)}>I don't</Option>
+          <Option>1 Cup</Option>
+          <Option>2 Cups</Option>
+          <Option>3 Cups</Option>
+          <Option>4 Cups</Option>
+          <Option>5 or more Cups</Option>
+        </OptionContainer>
+      </QuestionContainer>
+
+      <QuestionContainer id="question-2">
+        <Question>How much Coffee do you Drink per Day?</Question>
+        <OptionContainer>
+          <Option>I don't</Option>
+          <Option>1 Cup</Option>
+          <Option>2 Cups</Option>
+          <Option>3 Cups</Option>
+          <Option>4 Cups</Option>
+          <Option>5 or more Cups</Option>
+        </OptionContainer>
+      </QuestionContainer>
     </QuizContainer>
   );
 }
