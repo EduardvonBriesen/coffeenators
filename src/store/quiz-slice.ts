@@ -1,11 +1,14 @@
 import { createSlice } from "@reduxjs/toolkit";
 
 interface QuizSliceState {
-  answers: { [key: string]: string | string[] };
+  answers: {
+    question: string;
+    answer: string[];
+  }[];
 }
 
 const initialState: QuizSliceState = {
-  answers: {},
+  answers: [],
 };
 
 const { actions, reducer } = createSlice({
@@ -13,9 +16,15 @@ const { actions, reducer } = createSlice({
   initialState,
   reducers: {
     answerQuestion(state, action) {
-      state.answers[action.payload.question] = action.payload.answer;
-      console.log(state.answers);
-    }
+      const { question, answer } = action.payload;
+      if (state.answers.some((a) => a.question === question)) {
+        state.answers = state.answers.map((a) =>
+          a.question === question ? { question, answer } : a
+        );
+      } else {
+        state.answers.push({ question, answer });
+      }
+    },
   },
 });
 

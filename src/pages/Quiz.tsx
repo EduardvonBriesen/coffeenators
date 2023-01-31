@@ -1,6 +1,7 @@
 import { useState } from "react";
 import styled, { createGlobalStyle } from "styled-components";
-import Question from "../components/Question";
+import Question from "../components/quiz/Question";
+import Results from "../components/quiz/Results";
 import { quizConfig } from "../config/quizConfig";
 
 const GlobalStyle = createGlobalStyle`
@@ -29,7 +30,7 @@ const NavigationItem = styled.div<{ active: string }>`
   width: 1rem;
   height: 1rem;
   border-radius: 50%;
-  background-color: ${(props) =>props.theme.colors.primary};
+  background-color: ${(props) => props.theme.colors.primary};
   opacity: ${(props) => (props.active === "true" ? 1 : 0.5)};
   margin: 0.5rem;
 `;
@@ -41,12 +42,22 @@ function Quiz() {
     const element = document.getElementById(`question-${id}`);
     element?.scrollIntoView({ behavior: "smooth" });
     setCurrentQuestion(id);
+    console.log(id);
   }
 
-  function answerHandler(value: string[], id: number) {
-    console.log(value);
-    scrollIntoView(id + 1);
-    setCurrentQuestion(id + 1);
+  function answerHandler(id: number) {
+    if (id === quizConfig.length - 1) {
+      showResults();
+    } else {
+      scrollIntoView(id + 1);
+      setCurrentQuestion(id + 1);
+    }
+  }
+
+  function showResults() {
+    const element = document.getElementById(`results`);
+    element?.scrollIntoView({ behavior: "smooth" });
+    setCurrentQuestion(quizConfig.length);
   }
 
   return (
@@ -56,9 +67,10 @@ function Quiz() {
         <Question
           id={index}
           question={question}
-          onAnswer={(value) => answerHandler(value, index)}
+          onAnswer={() => answerHandler(index)}
         />
       ))}
+      <Results />
       <Navigation>
         {quizConfig.map((question, index) => (
           <NavigationItem
@@ -66,6 +78,11 @@ function Quiz() {
             active={currentQuestion === index ? "true" : "false"}
           />
         ))}
+
+        <NavigationItem
+          onClick={() => showResults}
+          active={currentQuestion === quizConfig.length ? "true" : "false"}
+        />
       </Navigation>
     </QuizContainer>
   );

@@ -1,8 +1,8 @@
 import { useState } from "react";
 import styled from "styled-components";
-import { IQuestion } from "../config/quizConfig";
-import {  useDispatch } from "react-redux";
-import { quizActions } from "../store/quiz-slice";
+import { IQuestion } from "../../config/quizConfig";
+import { useDispatch } from "react-redux";
+import { quizActions } from "../../store/quiz-slice";
 import CheckIcon from "@mui/icons-material/Check";
 
 const QuestionContainer = styled.div`
@@ -92,7 +92,7 @@ const Submit = styled.div`
 interface QuestionProps {
   id: number;
   question: IQuestion;
-  onAnswer: (value: string[]) => void;
+  onAnswer: () => void;
 }
 
 function Question({ id, question, onAnswer }: QuestionProps) {
@@ -102,7 +102,13 @@ function Question({ id, question, onAnswer }: QuestionProps) {
   function toggleOption(option: string) {
     if (!question.isMulti) {
       setSelectedOptions([option]);
-      dispatcher(quizActions.answerQuestion({ question, answer: option }));
+      dispatcher(
+        quizActions.answerQuestion({
+          question: question.question,
+          answer: [option],
+        })
+      );
+      onAnswer();
       return;
     }
     if (selectedOptions.includes(option)) {
@@ -130,7 +136,13 @@ function Question({ id, question, onAnswer }: QuestionProps) {
       {selectedOptions.length > 0 && question.isMulti && (
         <Submit
           onClick={() => {
-            onAnswer(selectedOptions);
+            dispatcher(
+              quizActions.answerQuestion({
+                question: question.question,
+                answer: selectedOptions,
+              })
+            );
+            onAnswer();
           }}
         >
           Ok
