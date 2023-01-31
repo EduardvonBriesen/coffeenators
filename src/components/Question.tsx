@@ -1,11 +1,12 @@
 import { useState } from "react";
 import styled from "styled-components";
 import { IQuestion } from "../config/quizConfig";
+import {  useDispatch } from "react-redux";
+import { quizActions } from "../store/quiz-slice";
 import CheckIcon from "@mui/icons-material/Check";
 
 const QuestionContainer = styled.div`
   overflow: hidden;
-
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -62,23 +63,17 @@ const Option = styled("button")<{ selected: boolean }>`
 const Submit = styled.div`
   position: relative;
   left: 50%;
-
   display: flex;
   align-items: center;
   justify-content: center;
-
   margin-left: -5vw;
   width: 5vw;
-
   margin-bottom: 1rem;
-
   padding: 0 1rem;
   border-radius: 5px;
-
   cursor: pointer;
   font-size: 3vh;
   line-height: 5vh;
-
   background-color: transparent;
   color: ${(props) => props.theme.colors.primary};
   border: 3px solid ${(props) => props.theme.colors.primary};
@@ -101,12 +96,13 @@ interface QuestionProps {
 }
 
 function Question({ id, question, onAnswer }: QuestionProps) {
+  const dispatcher = useDispatch();
   const [selectedOptions, setSelectedOptions] = useState<string[]>([]);
 
   function toggleOption(option: string) {
     if (!question.isMulti) {
       setSelectedOptions([option]);
-      onAnswer([option]);
+      dispatcher(quizActions.answerQuestion({ question, answer: option }));
       return;
     }
     if (selectedOptions.includes(option)) {

@@ -1,20 +1,21 @@
 import { createSlice } from "@reduxjs/toolkit";
 
 interface QuizSliceState {
-  currentQuestion: number;
+  answers: { [key: string]: string | string[] };
 }
 
 const initialState: QuizSliceState = {
-  currentQuestion: 0,
+  answers: {},
 };
 
 const { actions, reducer } = createSlice({
   name: "quiz",
   initialState,
   reducers: {
-    nextQuestion(state) {
-      state.currentQuestion++;
-    },
+    answerQuestion(state, action) {
+      state.answers[action.payload.question] = action.payload.answer;
+      console.log(state.answers);
+    }
   },
 });
 
