@@ -12,10 +12,10 @@ const LayoutContainer = styled.div`
 
 function Layout({ children }: Props) {
   return (
-      <LayoutContainer>
-        <Header />
-        {children}
-      </LayoutContainer>
+    <LayoutContainer>
+      <Header />
+      <section>{children}</section>
+    </LayoutContainer>
   );
 }
 

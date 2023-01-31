@@ -1,63 +1,89 @@
-import styled from "styled-components";
+import { useState } from "react";
+import styled, { createGlobalStyle } from "styled-components";
+import Question from "../components/quiz/Question";
+import Results from "../components/quiz/Results";
+import { quizConfig } from "../config/quizConfig";
 
-const QuizContainer = styled.div`
-  display: flex;
-  flex-direction: column;
-  background-color: ${(props) => props.theme.colors.background.main};
-  width: 100vw;
-  height: 100vh;
-  padding: 20% 10% 5% 10%;
-  box-sizing: border-box;
-`;
-
-const Question = styled.h1`
-  font-weight: 400;
-  font-size: 5vh;
-  line-height: 8vh;
-  margin: 0;
-`;
-
-const OptionContainer = styled.div`
-  display: flex;
-  flex-direction: row;
-  width: 100%;
-  box-sizing: border-box; 
-  padding-top: 1rem;
-`;
-
-const Option = styled.button`
-  font-weight: 400;
-  font-size: 3vh;
-  line-height: 5vh;
-  color: ${(props) => props.theme.colors.primary};
-  cursor: pointer;
-
-  margin: 0 1vw 0 0;
-  padding: 1vh 2vh;
-  min-width: 5vw;
-  border-radius: 4vh;
-  background-color: transparent;
-  border: 3px solid ${(props) => props.theme.colors.primary};
-
-  :hover {
-    background-color: ${(props) => props.theme.colors.primary};
-    color: ${(props) => props.theme.colors.background.main};
+const GlobalStyle = createGlobalStyle`
+  body {
+    overflow: hidden;
   }
 `;
 
+const QuizContainer = styled.div`
+  background-color: ${(props) => props.theme.colors.background.main};
+`;
+
+const Navigation = styled.div`
+  position: fixed;
+  right: 1rem;
+  top: 1rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+`;
+
+const NavigationItem = styled.div<{ active: string }>`
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background-color: ${(props) => props.theme.colors.primary};
+  opacity: ${(props) => (props.active === "true" ? 1 : 0.5)};
+  margin: 0.5rem;
+`;
 
 function Quiz() {
+  const [currentQuestion, setCurrentQuestion] = useState(0);
+
+  function scrollIntoView(id: number) {
+    const element = document.getElementById(`question-${id}`);
+    element?.scrollIntoView({ behavior: "smooth" });
+    setCurrentQuestion(id);
+    console.log(id);
+  }
+
+  function answerHandler(id: number) {
+    if (id === quizConfig.length - 1) {
+      showResults();
+    } else {
+      scrollIntoView(id + 1);
+      setCurrentQuestion(id + 1);
+    }
+  }
+
+  function showResults() {
+    const element = document.getElementById(`results`);
+    element?.scrollIntoView({ behavior: "smooth" });
+    setCurrentQuestion(quizConfig.length);
+  }
+
   return (
     <QuizContainer>
-      <Question>How much Coffee do you Drink per Day?</Question>
-      <OptionContainer>
-        <Option>I don't</Option>
-        <Option>1 Cup</Option>
-        <Option>2 Cups</Option>
-        <Option>3 Cups</Option>
-        <Option>4 Cups</Option>
-        <Option>5 or more Cups</Option>
-      </OptionContainer>
+      <GlobalStyle />
+      {quizConfig.map((question, index) => (
+        <Question
+          id={index}
+          question={question}
+          onAnswer={() => answerHandler(index)}
+        />
+      ))}
+      <Results />
+      <Navigation>
+        {quizConfig.map((question, index) => (
+          <NavigationItem
+            onClick={() => scrollIntoView(index)}
+            active={currentQuestion === index ? "true" : "false"}
+          />
+        ))}
+
+        <NavigationItem
+          onClick={() => showResults}
+          active={currentQuestion === quizConfig.length ? "true" : "false"}
+        />
+      </Navigation>
     </QuizContainer>
   );
 }

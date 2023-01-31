@@ -124,8 +124,6 @@ function BarChart() {
     .range([height, 0])
     .nice();
 
-  console.log(zoomed, zoomable);
-
   return (
     <BarChartContainer>
       <p>
