@@ -51,20 +51,20 @@ export const selectionConfig: ISelectionConfig[] = [
       max: 800,
     },
   },
-  {
-    selector: {
-      market: "Heißgetränke",
-      diagram: "Umsatz pro Segment",
-      name: "Kaffee",
-    },
-    categories: [...hotDrinkCategories, { selector: "Total", name: "Total" }],
-    title: "Sales per Segment",
-    unit: "Mio. €",
-    extrema: {
-      min: 0,
-      max: 800,
-    },
-  },
+  // {
+  //   selector: {
+  //     market: "Heißgetränke",
+  //     diagram: "Umsatz pro Segment",
+  //     name: "Kaffee",
+  //   },
+  //   categories: [...hotDrinkCategories, { selector: "Total", name: "Total" }],
+  //   title: "Sales per Segment",
+  //   unit: "Mio. €",
+  //   extrema: {
+  //     min: 0,
+  //     max: 800,
+  //   },
+  // },
   {
     selector: {
       market: "Heißgetränke",
