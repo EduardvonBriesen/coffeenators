@@ -91,7 +91,11 @@ export default function Map() {
     });
 
     return (
-      <MapContainer>
+      <MapContainer
+        onClick={() => {
+          dispatcher(dataSelectionActions.setCountry("Europa"));
+        }}
+      >
         {currentCountry !== "Europa" && (
           <Chip>
             <label htmlFor="chip">{translateCountryG2E(currentCountry)}</label>

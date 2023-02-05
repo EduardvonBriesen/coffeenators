@@ -50,7 +50,9 @@ export default function Region({ path, country, tooltipData, value }: Props) {
         followCursor
         onClick={(e) => {
           e.stopPropagation();
-          dispatcher(dataSelectionActions.setCountry(country));
+          currentCountry === country
+            ? dispatcher(dataSelectionActions.setCountry("Europa"))
+            : dispatcher(dataSelectionActions.setCountry(country));
         }}
       >
         <RegionContainer
