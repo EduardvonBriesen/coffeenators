@@ -22,6 +22,7 @@ const MainSelect = styled.select`
   border-radius: 1vh;
   box-sizing: border-box;
   outline: none;
+  cursor: pointer;
 `;
 
 const SecondSelect = styled.select`
@@ -33,6 +34,7 @@ const SecondSelect = styled.select`
   margin: 0 0 0 1vh;
   box-sizing: border-box;
   outline: none;
+  cursor: pointer;
 `;
 
 function DataSelector() {

@@ -47,6 +47,7 @@ const Selector = styled.div`
 
   input {
     accent-color: ${(props) => props.theme.colors.primary};
+    cursor: pointer;
   }
 `;
 
