@@ -25,6 +25,11 @@ const Text = styled.p`
   font-weight: 400;
   font-size: 2vh;
   line-height: 2.5vh;
+
+  a {
+    color: ${(props) => props.theme.colors.primary};
+    text-decoration: none;
+  }
 `;
 
 function About() {
@@ -35,15 +40,15 @@ function About() {
         Our project aims to visualize the effects of the COVID-19 pandemic on
         the coffee market in Europe through a map of Europe. The map allows
         users to explore and compare the coffee consumption and revenue of
-        various European countries between 2018 and 2022 using data from
-        Statista. The main research question is whether the pandemic has had an
-        effect on the European coffee industry. We may also investigate which
-        countries were most affected. The coffee market is an important aspect
-        of the European economy, and the pandemic has greatly impacted it. The
-        decline in sales in cafes and restaurants has resulted in a decrease in
-        revenue for the coffee industry. With this visualization, we hope to
-        provide a clear picture of the pandemic's impact on the European coffee
-        market.
+        various European countries between 2018 and 2022 using data from{" "}
+        <a href="https://de-statista-com.emedien.ub.uni-muenchen.de/outlook/cmo/heissgetraenke/europa">Statista</a>. The main research question is whether the pandemic has
+        had an effect on the European coffee industry. We may also investigate
+        which countries were most affected. The coffee market is an important
+        aspect of the European economy, and the pandemic has greatly impacted
+        it. The decline in sales in cafes and restaurants has resulted in a
+        decrease in revenue for the coffee industry. With this visualization, we
+        hope to provide a clear picture of the pandemic's impact on the European
+        coffee market.
       </Text>
     </AboutContainer>
   );
