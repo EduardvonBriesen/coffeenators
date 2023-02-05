@@ -55,7 +55,7 @@ function BarChart() {
   const [zoomed, setZoomed] = useState(false);
   const [zoomable, setZoomable] = useState(false);
 
-  const margin = { top: 20, right: 20, bottom: 20, left: 30 };
+  const margin = { top: 10, right: 10, bottom: 20, left: 20 };
   const ref = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
