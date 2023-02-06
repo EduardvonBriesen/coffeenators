@@ -96,7 +96,7 @@ function Legend() {
       </Unit>
       {min >= 0 ? positiveLegend : negativeLegend}
       <Selector>
-        <label htmlFor="legend">Fix legend</label>
+        <label htmlFor="legend">Fixed scale</label>
         <input
           checked={legendFixed}
           type="checkbox"
