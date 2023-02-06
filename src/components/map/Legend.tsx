@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import { getColor } from "../../helpers/getColor";
+import Tooltip from "@mui/material/Tooltip";
 import { useSelector, useDispatch } from "react-redux";
 import { RootState } from "../../store";
 import { dataSelectionActions } from "../../store/data-selection-slice";
@@ -95,16 +96,22 @@ function Legend() {
         {title} in {unit}
       </Unit>
       {min >= 0 ? positiveLegend : negativeLegend}
-      <Selector>
-        <label htmlFor="legend">Fixed scale</label>
-        <input
-          checked={legendFixed}
-          type="checkbox"
-          onChange={(e) =>
-            dispatcher(dataSelectionActions.setLegendFixed(e.target.checked))
-          }
-        />
-      </Selector>
+      <Tooltip
+        title={`Fixes the scaling to the maximum value 
+        of the respective data set for better differentiability.`}
+        placement="bottom"
+      >
+        <Selector>
+          <label htmlFor="legend">Fixed scale</label>
+          <input
+            checked={legendFixed}
+            type="checkbox"
+            onChange={(e) =>
+              dispatcher(dataSelectionActions.setLegendFixed(e.target.checked))
+            }
+          />
+        </Selector>
+      </Tooltip>
     </LegendContainer>
   );
 }
