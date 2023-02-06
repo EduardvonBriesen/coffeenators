@@ -12,6 +12,7 @@ import styled from "styled-components";
 import { getFloat } from "../../helpers/getFloat";
 import { translateCountryG2E } from "../../helpers/translateCountryG2E";
 import CloseIcon from "@mui/icons-material/Close";
+import InfoButton from "../Info";
 
 const MapContainer = styled.div`
   width: 100%;
@@ -96,6 +97,7 @@ export default function Map() {
           dispatcher(dataSelectionActions.setCountry("Europa"));
         }}
       >
+        <InfoButton />
         {currentCountry !== "Europa" && (
           <Chip>
             <label htmlFor="chip">{translateCountryG2E(currentCountry)}</label>
