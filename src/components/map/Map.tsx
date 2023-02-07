@@ -12,6 +12,7 @@ import styled from "styled-components";
 import { getFloat } from "../../helpers/getFloat";
 import { translateCountryG2E } from "../../helpers/translateCountryG2E";
 import CloseIcon from "@mui/icons-material/Close";
+import InfoButton from "../Info";
 
 const MapContainer = styled.div`
   width: 100%;
@@ -24,13 +25,13 @@ const Chip = styled.div`
   align-items: center;
   position: absolute;
   top: 0;
-  left: 1rem;
+  left: 3rem;
   color: ${(props) => props.theme.colors.primary};
   background-color: ${(props) => props.theme.colors.background.main};
   padding: 0.5rem;
   border-radius: 0.5rem;
   font-size: 1rem;
-  z-index: 100;
+  z-index: 50;
 
   svg {
     margin-left: 0.5rem;
@@ -96,6 +97,7 @@ export default function Map() {
           dispatcher(dataSelectionActions.setCountry("Europa"));
         }}
       >
+        <InfoButton />
         {currentCountry !== "Europa" && (
           <Chip>
             <label htmlFor="chip">{translateCountryG2E(currentCountry)}</label>
