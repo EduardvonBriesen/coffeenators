@@ -8,7 +8,6 @@ const InfoButtonContainer = styled.div`
   position: relative;
   display: flex;
   cursor: pointer;
-  margin: 0.5rem 1rem 
 `;
 
 const InfoIcon = styled.div`

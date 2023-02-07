@@ -20,6 +20,13 @@ const MapContainer = styled.div`
   position: relative;
 `;
 
+const InfoContainer = styled.div`
+  position: absolute;
+  top: .5rem;
+  left: 1rem;
+  z-index: 100;
+`;
+
 const Chip = styled.div`
   display: flex;
   align-items: center;
@@ -97,7 +104,9 @@ export default function Map() {
           dispatcher(dataSelectionActions.setCountry("Europa"));
         }}
       >
-        <InfoButton />
+        <InfoContainer>
+          <InfoButton />
+        </InfoContainer>
         {currentCountry !== "Europa" && (
           <Chip>
             <label htmlFor="chip">{translateCountryG2E(currentCountry)}</label>
