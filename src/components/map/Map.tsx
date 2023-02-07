@@ -25,13 +25,13 @@ const Chip = styled.div`
   align-items: center;
   position: absolute;
   top: 0;
-  left: 1rem;
+  left: 3rem;
   color: ${(props) => props.theme.colors.primary};
   background-color: ${(props) => props.theme.colors.background.main};
   padding: 0.5rem;
   border-radius: 0.5rem;
   font-size: 1rem;
-  z-index: 100;
+  z-index: 50;
 
   svg {
     margin-left: 0.5rem;

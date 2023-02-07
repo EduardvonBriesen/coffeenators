@@ -8,18 +8,18 @@ const InfoButtonContainer = styled.div`
   position: relative;
   display: flex;
   cursor: pointer;
-  margin-left: 17px;
+  margin: 0.5rem 1rem 
 `;
 
 const InfoIcon = styled.div`
-  width: 22px;
-  height: 22px;
-  border-radius: 25px;
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
   border: 2px solid ${(props) => props.theme.colors.secondary};
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 18px;
+  font-size: .8rem;
   color: ${(props) => props.theme.colors.secondary};
 `;
 
@@ -34,6 +34,7 @@ const ImagePopup = styled.div`
   justify-content: center;
   align-items: center;
   transition: opacity 0.3s;
+  z-index: 100;
 `;
 
 const Image = styled.img`
@@ -45,7 +46,8 @@ const Image = styled.img`
 const InfoButton: React.FC = () => {
   const [isVisible, setIsVisible] = useState(false);
 
-  const handleClick = () => {
+  const handleClick = (e: any) => {
+    e.stopPropagation();
     setIsVisible(!isVisible);
   };
 
