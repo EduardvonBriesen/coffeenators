@@ -22,17 +22,20 @@ const MapContainer = styled.div`
 
 const InfoContainer = styled.div`
   position: absolute;
-  top: .5rem;
+  height: 2rem;
   left: 1rem;
   z-index: 100;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: .5rem;
 `;
 
 const Chip = styled.div`
   display: flex;
   align-items: center;
-  position: absolute;
-  top: 0;
-  left: 3rem;
   color: ${(props) => props.theme.colors.primary};
   background-color: ${(props) => props.theme.colors.background.main};
   padding: 0.5rem;
@@ -106,19 +109,22 @@ export default function Map() {
       >
         <InfoContainer>
           <InfoButton />
+          {currentCountry !== "Europa" && (
+            <Chip>
+              <label htmlFor="chip">
+                {translateCountryG2E(currentCountry)}
+              </label>
+              <CloseIcon
+                id="chip"
+                fontSize="small"
+                onClick={() => {
+                  dispatcher(dataSelectionActions.setCountry("Europa"));
+                }}
+              />
+            </Chip>
+          )}
         </InfoContainer>
-        {currentCountry !== "Europa" && (
-          <Chip>
-            <label htmlFor="chip">{translateCountryG2E(currentCountry)}</label>
-            <CloseIcon
-              id="chip"
-              fontSize="small"
-              onClick={() => {
-                dispatcher(dataSelectionActions.setCountry("Europa"));
-              }}
-            />
-          </Chip>
-        )}
+
         <Legend />
         <svg viewBox="130 -20 700 600">
           <defs>
